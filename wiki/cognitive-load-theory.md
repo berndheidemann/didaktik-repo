@@ -11,6 +11,12 @@ related:
   - "[[ki-native-lernumgebungen]]"
   - "[[wissensretention-programmierung]]"
   - "[[effektstaerken-unterricht]]"
+  - "[[expertise-entwicklung]]"
+  - "[[ki-gestuetztes-tutoring]]"
+  - "[[learning-engineering]]"
+  - "[[peer-instruction]]"
+  - "[[retrieval-practice]]"
+  - "[[threshold-concepts]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

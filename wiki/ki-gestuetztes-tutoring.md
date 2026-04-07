@@ -11,6 +11,8 @@ related:
   - "[[cognitive-load-theory]]"
   - "[[ki-native-lernumgebungen]]"
   - "[[cognitive-apprenticeship]]"
+  - "[[affektive-dimensionen]]"
+  - "[[debugging-als-kompetenz]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]

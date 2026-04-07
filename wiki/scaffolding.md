@@ -14,6 +14,16 @@ related:
   - "[[lerntagebuch]]"
   - "[[effektstaerken-unterricht]]"
   - "[[cognitive-apprenticeship]]"
+  - "[[affektive-dimensionen]]"
+  - "[[code-review-unterricht]]"
+  - "[[debugging-als-kompetenz]]"
+  - "[[expertise-entwicklung]]"
+  - "[[immersive-simulationen]]"
+  - "[[ki-native-lernumgebungen]]"
+  - "[[learning-engineering]]"
+  - "[[lernsituationen-gestalten]]"
+  - "[[productive-failure]]"
+  - "[[threshold-concepts]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07

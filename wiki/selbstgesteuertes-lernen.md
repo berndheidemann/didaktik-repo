@@ -11,6 +11,11 @@ related:
   - "[[lerntagebuch]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[affektive-dimensionen]]"
+  - "[[community-of-practice]]"
+  - "[[flipped-classroom]]"
+  - "[[handlungsorientierter-unterricht]]"
+  - "[[productive-failure]]"
+  - "[[retrieval-practice]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

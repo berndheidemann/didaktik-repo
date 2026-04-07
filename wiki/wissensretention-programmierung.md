@@ -9,6 +9,7 @@ related:
   - "[[threshold-concepts]]"
   - "[[learning-engineering]]"
   - "[[affektive-dimensionen]]"
+  - "[[cognitive-load-theory]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]

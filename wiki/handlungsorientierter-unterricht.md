@@ -9,6 +9,10 @@ related:
   - "[[pair-programming-unterricht]]"
   - "[[lernsituationen-gestalten]]"
   - "[[gamification-it-unterricht]]"
+  - "[[community-of-practice]]"
+  - "[[flipped-classroom]]"
+  - "[[immersive-simulationen]]"
+  - "[[kompetenzfeststellung-programmierung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

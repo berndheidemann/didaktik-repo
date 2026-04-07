@@ -9,6 +9,10 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[handlungsorientierter-unterricht]]"
   - "[[formatives-assessment]]"
+  - "[[code-review-unterricht]]"
+  - "[[gamification-it-unterricht]]"
+  - "[[kompetenzfeststellung-programmierung]]"
+  - "[[lernsituationen-gestalten]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07

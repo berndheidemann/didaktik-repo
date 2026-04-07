@@ -10,6 +10,10 @@ related:
   - "[[worked-examples]]"
   - "[[lerntagebuch]]"
   - "[[lernsituationen-gestalten]]"
+  - "[[affektive-dimensionen]]"
+  - "[[community-of-practice]]"
+  - "[[debugging-als-kompetenz]]"
+  - "[[formatives-assessment]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

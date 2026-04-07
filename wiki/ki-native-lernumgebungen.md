@@ -9,6 +9,10 @@ related:
   - "[[cognitive-load-theory]]"
   - "[[pair-programming-unterricht]]"
   - "[[productive-failure]]"
+  - "[[kompetenzfeststellung-programmierung]]"
+  - "[[learning-engineering]]"
+  - "[[meta-analysen-cs-education]]"
+  - "[[threshold-concepts]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

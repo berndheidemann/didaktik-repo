@@ -10,6 +10,7 @@ related:
   - "[[formatives-assessment]]"
   - "[[meta-analysen-cs-education]]"
   - "[[affektive-dimensionen]]"
+  - "[[immersive-simulationen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

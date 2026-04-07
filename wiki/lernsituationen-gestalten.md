@@ -8,6 +8,7 @@ related:
   - "[[blooms-taxonomie]]"
   - "[[scaffolding]]"
   - "[[formatives-assessment]]"
+  - "[[cognitive-apprenticeship]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

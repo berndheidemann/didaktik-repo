@@ -8,6 +8,10 @@ related:
   - "[[scaffolding]]"
   - "[[constructive-alignment]]"
   - "[[blooms-taxonomie]]"
+  - "[[cognitive-apprenticeship]]"
+  - "[[community-of-practice]]"
+  - "[[kompetenzfeststellung-programmierung]]"
+  - "[[peer-instruction]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [partner, gruppe]

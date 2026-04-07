@@ -10,6 +10,8 @@ related:
   - "[[selbstgesteuertes-lernen]]"
   - "[[learning-engineering]]"
   - "[[wissensretention-programmierung]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[peer-instruction]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden]
 sozialform: [einzelarbeit]

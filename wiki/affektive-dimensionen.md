@@ -10,6 +10,8 @@ related:
   - "[[pair-programming-unterricht]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[cognitive-apprenticeship]]"
+  - "[[community-of-practice]]"
+  - "[[wissensretention-programmierung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

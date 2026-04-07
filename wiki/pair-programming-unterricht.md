@@ -12,6 +12,10 @@ related:
   - "[[code-review-unterricht]]"
   - "[[meta-analysen-cs-education]]"
   - "[[affektive-dimensionen]]"
+  - "[[cognitive-apprenticeship]]"
+  - "[[community-of-practice]]"
+  - "[[flipped-classroom]]"
+  - "[[ki-native-lernumgebungen]]"
 audience: [FIAE]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [partner]

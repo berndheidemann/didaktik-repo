@@ -22,7 +22,7 @@ Zielgruppe: Fachinformatiker (FIAE/FIDP) in der Berufsschule.
 1. Template aus `templates/` wählen (passend zum `type`: theorie, methode, evidenz, praxis)
 2. Dateiname: `kebab-case.md` in `wiki/`
 3. Alle Pflichtfelder im Frontmatter ausfüllen: `title`, `type`, `tags`, `created`, `updated`, `summary`
-4. Empfohlene Felder setzen: `related` (Wikilinks zu verwandten Artikeln), `audience`, `taxonomiestufe`
+4. Empfohlene Felder setzen: `related` (Wikilinks zu verwandten Artikeln, **bidirektional** — siehe Konventionen), `audience`, `taxonomiestufe`
 5. Im Body Inline-Wikilinks `[[dateiname]]` setzen wo verwandte Konzepte erwähnt werden
 6. `INDEX.md` aktualisieren — alle drei Navigationspfade prüfen (Typ, Lernfeld, Problem)
 7. Bestehende Artikel prüfen: Sollten sie auf den neuen Artikel verweisen? Wenn ja, `related`-Feld und Body ergänzen
@@ -31,6 +31,7 @@ Zielgruppe: Fachinformatiker (FIAE/FIDP) in der Berufsschule.
 
 - Artikel max. ~8.000 Zeichen — darüber in mehrere Artikel aufteilen
 - Wikilinks ohne .md-Endung: `[[constructive-alignment]]` nicht `[[constructive-alignment.md]]`
+- `related` ist **bidirektional**: Wenn Artikel A im `related`-Feld auf B verweist, muss B auch auf A verweisen. Beim Anlegen oder Erweitern eines Artikels stets auch die Gegenrichtung in den verlinkten Artikeln nachtragen.
 - Jeder Abschnitt muss auch isoliert verständlich sein (Progressive Disclosure)
 - "Bezug zur IT-Ausbildung" und "Praktische Anwendung" sind die wertvollsten Abschnitte — hier steckt der Mehrwert gegenüber generischem Didaktik-Wissen
 - Quellenangaben im APA-Stil

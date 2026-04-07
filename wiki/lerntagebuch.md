@@ -7,6 +7,8 @@ related:
   - "[[formatives-assessment]]"
   - "[[scaffolding]]"
   - "[[blooms-taxonomie]]"
+  - "[[cognitive-apprenticeship]]"
+  - "[[debugging-als-kompetenz]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit]

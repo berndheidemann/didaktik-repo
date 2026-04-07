@@ -15,6 +15,16 @@ related:
   - "[[retrieval-practice]]"
   - "[[productive-failure]]"
   - "[[cognitive-apprenticeship]]"
+  - "[[debugging-als-kompetenz]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[flipped-classroom]]"
+  - "[[gamification-it-unterricht]]"
+  - "[[kompetenzfeststellung-programmierung]]"
+  - "[[learning-engineering]]"
+  - "[[lernsituationen-gestalten]]"
+  - "[[peer-instruction]]"
+  - "[[threshold-concepts]]"
+  - "[[worked-examples]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 sozialform: [einzelarbeit, partner, gruppe, plenum]

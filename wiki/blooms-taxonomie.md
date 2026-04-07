@@ -9,6 +9,16 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[cognitive-load-theory]]"
   - "[[handlungsorientierter-unterricht]]"
+  - "[[code-review-unterricht]]"
+  - "[[expertise-entwicklung]]"
+  - "[[flipped-classroom]]"
+  - "[[formatives-assessment]]"
+  - "[[gamification-it-unterricht]]"
+  - "[[kompetenzfeststellung-programmierung]]"
+  - "[[lernsituationen-gestalten]]"
+  - "[[lerntagebuch]]"
+  - "[[scaffolding]]"
+  - "[[worked-examples]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

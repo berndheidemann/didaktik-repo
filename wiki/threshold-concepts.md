@@ -11,6 +11,8 @@ related:
   - "[[ki-native-lernumgebungen]]"
   - "[[expertise-entwicklung]]"
   - "[[wissensretention-programmierung]]"
+  - "[[debugging-als-kompetenz]]"
+  - "[[peer-instruction]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 created: 2026-04-07

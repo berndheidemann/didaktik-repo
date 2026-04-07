@@ -13,6 +13,10 @@ related:
   - "[[meta-analysen-cs-education]]"
   - "[[effektstaerken-unterricht]]"
   - "[[cognitive-apprenticeship]]"
+  - "[[debugging-als-kompetenz]]"
+  - "[[expertise-entwicklung]]"
+  - "[[ki-gestuetztes-tutoring]]"
+  - "[[threshold-concepts]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 sozialform: [einzelarbeit, partner]

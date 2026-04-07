@@ -16,6 +16,7 @@ related:
   - "[[ki-native-lernumgebungen]]"
   - "[[immersive-simulationen]]"
   - "[[learning-engineering]]"
+  - "[[productive-failure]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

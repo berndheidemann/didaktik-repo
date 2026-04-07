@@ -10,6 +10,12 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[selbstgesteuertes-lernen]]"
   - "[[wissensretention-programmierung]]"
+  - "[[affektive-dimensionen]]"
+  - "[[expertise-entwicklung]]"
+  - "[[immersive-simulationen]]"
+  - "[[ki-native-lernumgebungen]]"
+  - "[[retrieval-practice]]"
+  - "[[threshold-concepts]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

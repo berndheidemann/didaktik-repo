@@ -9,6 +9,7 @@ related:
   - "[[formatives-assessment]]"
   - "[[pair-programming-unterricht]]"
   - "[[meta-analysen-cs-education]]"
+  - "[[peer-instruction]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

@@ -9,6 +9,9 @@ related:
   - "[[cognitive-load-theory]]"
   - "[[ki-native-lernumgebungen]]"
   - "[[retrieval-practice]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[expertise-entwicklung]]"
+  - "[[wissensretention-programmierung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

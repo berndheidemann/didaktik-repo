@@ -9,6 +9,7 @@ related:
   - "[[cognitive-load-theory]]"
   - "[[retrieval-practice]]"
   - "[[learning-engineering]]"
+  - "[[meta-analysen-cs-education]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]
