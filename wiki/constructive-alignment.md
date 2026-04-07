@@ -5,6 +5,8 @@ tags: [lernziele, assessment, unterrichtsplanung, kompetenzorientierung]
 related:
   - "[[blooms-taxonomie]]"
   - "[[pair-programming-unterricht]]"
+  - "[[selbstgesteuertes-lernen]]"
+  - "[[interaktive-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07
@@ -55,6 +57,8 @@ Ein Agent kann Constructive Alignment nutzen, um Lernsituationen zu validieren u
 
 - [[blooms-taxonomie]] — liefert die Verben zur Formulierung von Lernzielen und ermöglicht den Abgleich der Kompetenzstufen
 - [[pair-programming-unterricht]] — Beispiel für eine aligned TLA bei Programmier-Lernzielen
+- [[selbstgesteuertes-lernen]] — SGL erfordert explizites Alignment: Lernziele müssen Selbstregulation einschließen
+- [[interaktive-lernumgebungen]] — Interaktionsform und Feedbackdesign müssen zum Lernziel aligned sein
 
 ## Quellen
 

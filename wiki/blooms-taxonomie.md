@@ -5,6 +5,8 @@ tags: [lernziele, kompetenzorientierung, taxonomie, kognitive-prozesse]
 related:
   - "[[constructive-alignment]]"
   - "[[pair-programming-unterricht]]"
+  - "[[selbstgesteuertes-lernen]]"
+  - "[[interaktive-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07
@@ -79,6 +81,8 @@ Ein Agent kann Blooms Taxonomie operationalisieren:
 
 - [[constructive-alignment]] — nutzt Bloom-Verben zur Formulierung von Intended Learning Outcomes
 - [[pair-programming-unterricht]] — Methode, die typischerweise auf Stufe "anwenden" und "analysieren" operiert
+- [[selbstgesteuertes-lernen]] — Metakognitives Wissen (vierte Wissensdimension) ist die theoretische Basis für Selbstregulation
+- [[interaktive-lernumgebungen]] — Taxonomiestufen bestimmen die passende Interaktionstiefe in Lernumgebungen
 
 ## Quellen
 

@@ -5,6 +5,7 @@ tags: [kooperatives-lernen, programmierung, softwareentwicklung, peer-learning]
 related:
   - "[[constructive-alignment]]"
   - "[[blooms-taxonomie]]"
+  - "[[interaktive-lernumgebungen]]"
 audience: [FIAE]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [partner]
@@ -73,6 +74,7 @@ Konkret: Der Agent kann Pair-Programming-Aufgaben generieren, die die Ping-Pong-
 
 - [[constructive-alignment]] — Pair Programming als TLA muss zum Lernziel passen
 - [[blooms-taxonomie]] — Taxonomiestufen "anwenden" und "analysieren" beschreiben das Kompetenzniveau von Pair Programming
+- [[interaktive-lernumgebungen]] — Pair Programming als kooperative Interaktionsform in interaktiven Lernumgebungen
 
 ## Quellen
 
