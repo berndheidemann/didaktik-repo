@@ -7,6 +7,8 @@ related:
   - "[[blooms-taxonomie]]"
   - "[[selbstgesteuertes-lernen]]"
   - "[[pair-programming-unterricht]]"
+  - "[[lernsituationen-gestalten]]"
+  - "[[gamification-it-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

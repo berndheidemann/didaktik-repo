@@ -8,6 +8,8 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[scaffolding]]"
   - "[[formatives-assessment]]"
+  - "[[lerntagebuch]]"
+  - "[[ki-gestuetztes-tutoring]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

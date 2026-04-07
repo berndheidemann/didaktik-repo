@@ -9,6 +9,9 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[scaffolding]]"
   - "[[pair-programming-unterricht]]"
+  - "[[code-review-unterricht]]"
+  - "[[ki-gestuetztes-tutoring]]"
+  - "[[lerntagebuch]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 sozialform: [einzelarbeit, partner, gruppe, plenum]

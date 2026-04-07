@@ -9,6 +9,7 @@ related:
   - "[[handlungsorientierter-unterricht]]"
   - "[[formatives-assessment]]"
   - "[[scaffolding]]"
+  - "[[code-review-unterricht]]"
 audience: [FIAE]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [partner]

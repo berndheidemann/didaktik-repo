@@ -11,6 +11,8 @@ related:
   - "[[worked-examples]]"
   - "[[formatives-assessment]]"
   - "[[pair-programming-unterricht]]"
+  - "[[ki-gestuetztes-tutoring]]"
+  - "[[gamification-it-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

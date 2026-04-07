@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 11 | **Letzte Aktualisierung:** 2026-04-07
+**Artikel:** 16 | **Letzte Aktualisierung:** 2026-04-07
 
 ---
 
@@ -18,8 +18,12 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[selbstgesteuertes-lernen]] — Lernende planen, überwachen und reflektieren ihren Lernprozess nach Zimmerman (1989)
 
 ### Methoden & Formate
+- [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
 - [[flipped-classroom]] — Theorie vor dem Unterricht, aktives Lernen im Unterricht nach Bergmann & Sams (2012)
 - [[formatives-assessment]] — Assessment FOR Learning mit Effektstärken von d = 0,4-0,7 nach Black & Wiliam (1998)
+- [[gamification-it-unterricht]] — Spielelemente (Escape Rooms, Hackathons, Coding Challenges) im IT-Unterricht
+- [[lerntagebuch]] — Schriftliche Reflexion des Lernprozesses mit Prompts nach Zimmermans Phasenmodell
+- [[lernsituationen-gestalten]] — Methodik zur Entwicklung von Lernsituationen aus Lernfeldern des Rahmenlehrplans
 - [[pair-programming-unterricht]] — Kooperatives Programmieren als Lernmethode mit Driver/Navigator-Rollen
 - [[worked-examples]] — Ausgearbeitete Lösungsbeispiele mit Fading als Scaffolding-Strategie
 
@@ -27,7 +31,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 *(noch keine Artikel)*
 
 ### Praxis & Erfahrung
-*(noch keine Artikel)*
+- [[ki-gestuetztes-tutoring]] — Erfahrungsberichte zu LLM-basierten Tutoring-Systemen im Programmierunterricht
 
 ---
 
@@ -37,35 +41,50 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[flipped-classroom]] — Protokolltheorie per Video, Netzwerkkonfiguration im Unterricht
 - [[worked-examples]] — Dokumentierte Subnetting-Berechnungen Schritt für Schritt
 
+### LF4: Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen
+- [[gamification-it-unterricht]] — Escape Room IT-Security für Schutzbedarfsanalyse
+
 ### LF5: Software zur Verwaltung von Daten anpassen
 - [[pair-programming-unterricht]]
 - [[interaktive-lernumgebungen]] — Interaktive SQL-Übungsumgebungen für Datenbankaufgaben
 - [[worked-examples]] — Schrittweise Query-Entwicklung mit Zwischenergebnissen
 - [[cognitive-load-theory]] — Isolated Elements: SQL-Klauseln einzeln, dann kombinieren
+- [[gamification-it-unterricht]] — SQL Murder Mystery zum spielerischen SQL-Üben
+- [[code-review-unterricht]] — Peer Review von SQL-Queries und Datenbankschemas
+- [[lerntagebuch]] — Debugging-Journal für SQL- und Programmierfehler
 
 ### LF6: Serviceanfragen bearbeiten
 - [[constructive-alignment]] — Beispiel für Alignment in LF6
 - [[interaktive-lernumgebungen]] — Simuliertes Ticketsystem mit Feedback zum Lösungsweg
 - [[worked-examples]] — Annotierte Debugging-Walkthroughs
 - [[formatives-assessment]] — Checklisten-basierte Selbstbewertung der Ticketbearbeitung
+- [[lerntagebuch]] — Reflexion über Troubleshooting-Strategien
 
 ### LF8: Daten systemübergreifend bereitstellen
 - [[pair-programming-unterricht]]
 - [[interaktive-lernumgebungen]] — API-Sandbox zum Entwickeln und Testen von REST-Endpoints
 - [[flipped-classroom]] — REST-Grundlagen per Tutorial, API-Entwicklung im Unterricht
+- [[code-review-unterricht]] — Peer Review von REST-API-Endpoints
 
 ### LF10-12: Projekte planen, durchführen und auswerten
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Projektstruktur
+- [[lernsituationen-gestalten]] — Umfassende Lernsituationen für projektbasiertes Arbeiten
 - [[selbstgesteuertes-lernen]] — Projekte mit offenem Format erfordern Selbstregulation
 - [[interaktive-lernumgebungen]] — Projektumgebung mit integriertem KI-Tutor
 - [[formatives-assessment]] — Sprint-Reviews und Retrospektiven als strukturiertes Feedback
+- [[gamification-it-unterricht]] — Mini-Hackathons als Projektformat
+- [[ki-gestuetztes-tutoring]] — KI als professionelles Werkzeug in Projekten (Phase 3)
+- [[lerntagebuch]] — Sprint-Retrospektiven als Projekt-Lerntagebuch
+- [[code-review-unterricht]] — Code Reviews als fester Bestandteil des Projektworkflows
 
 ### Lernfeldübergreifend
 - [[blooms-taxonomie]] — Lernzielformulierung für alle Lernfelder
 - [[handlungsorientierter-unterricht]] — Leitprinzip des gesamten Rahmenlehrplans
+- [[lernsituationen-gestalten]] — Methodik zur LS-Entwicklung für jedes Lernfeld
 - [[selbstgesteuertes-lernen]] — Schlüsselkompetenz für alle projektbasierten Lernfelder
 - [[cognitive-load-theory]] — Lernmaterial-Gestaltung für alle Inhalte
 - [[scaffolding]] — Differenzierte Unterstützung über alle Lernfelder
+- [[ki-gestuetztes-tutoring]] — Stufenmodell für KI-Einsatz über die Ausbildungsjahre
 
 ---
 
@@ -75,6 +94,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[constructive-alignment]] — Sicherstellen, dass Ziele, Aktivitäten und Prüfung zusammenpassen
 - [[blooms-taxonomie]] — Operatoren zur präzisen Formulierung von Kompetenzstufen
 - [[handlungsorientierter-unterricht]] — Handlungskompetenz (Fach-, Selbst-, Sozialkompetenz) als Ziel
+- [[lernsituationen-gestalten]] — Kompetenzen in authentische Lernsituationen übersetzen
 
 ### Heterogenität / Differenzierung
 - [[pair-programming-unterricht]] — Heterogene Paare für Wissenstransfer
@@ -82,27 +102,44 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[scaffolding]] — Abgestufte Unterstützung je nach Lernstand mit Fading
 - [[cognitive-load-theory]] — Expertise Reversal: Hilfen für Novizen anpassen, für Experten reduzieren
 - [[worked-examples]] — Fading von vollständigen Beispielen zu offenen Aufgaben
+- [[ki-gestuetztes-tutoring]] — Personalisierte Erklärungen auf verschiedenen Abstraktionsniveaus
 
 ### Aktivierung / Handlungsorientierung
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Unterrichtsprinzip
 - [[pair-programming-unterricht]] — Lernende programmieren aktiv statt nur zuzuschauen
 - [[interaktive-lernumgebungen]] — Lernende interagieren aktiv mit Aufgaben und erhalten sofortiges Feedback
 - [[flipped-classroom]] — Präsenzzeit für aktives Lernen statt Vortrag nutzen
+- [[gamification-it-unterricht]] — Hackathons, Escape Rooms und Coding Challenges für aktives Lernen
 
 ### Aufgaben- und Materialdesign
 - [[cognitive-load-theory]] — Extrinsische Belastung minimieren, lernförderliche maximieren
 - [[worked-examples]] — Ausgearbeitete Lösungen für Novizen, Fading für Fortgeschrittene
 - [[scaffolding]] — Von maximaler Unterstützung zu Selbstständigkeit
+- [[lernsituationen-gestalten]] — Systematische Entwicklung von Lernsituationen
 
 ### Feedback und Lernstandsdiagnostik
 - [[formatives-assessment]] — Fünf Schlüsselstrategien für Assessment FOR Learning
 - [[interaktive-lernumgebungen]] — Sofortiges Feedback durch automatisierte Tests und KI
+- [[code-review-unterricht]] — Peer Code Reviews als strukturiertes Feedback
+- [[ki-gestuetztes-tutoring]] — KI-gestütztes individuelles Feedback im Programmierunterricht
 
 ### Selbstständiges Lernen fördern
 - [[selbstgesteuertes-lernen]] — Drei-Phasen-Modell zur Förderung eigenständiger Lernkompetenz
 - [[interaktive-lernumgebungen]] — Scaffolding und Reflexionsprompts unterstützen Selbstregulation
 - [[flipped-classroom]] — Pre-Class-Phase erfordert und fördert Selbstregulation
+- [[lerntagebuch]] — Schriftliche Reflexion fördert Metakognition und Selbstregulation
+
+### Motivation und Engagement
+- [[gamification-it-unterricht]] — Spielelemente für Motivation und Engagement
+- [[pair-programming-unterricht]] — Kooperatives Arbeiten gegen Isolation beim Programmieren
+
+### KI im Unterricht
+- [[ki-gestuetztes-tutoring]] — Stufenmodell für den Einsatz von KI-Tutoring-Systemen
 
 ### Lernzielformulierung
 - [[blooms-taxonomie]] — Sechs Kompetenzstufen mit Operatoren für Lernziele
 - [[constructive-alignment]] — Abstimmung von Lernzielen mit Aktivitäten und Prüfung
+
+### Unterrichtsplanung
+- [[lernsituationen-gestalten]] — Methodik und Quellen für die Lernsituationsentwicklung
+- [[constructive-alignment]] — Alignment-Check für Lernziele, Aktivitäten und Prüfung
