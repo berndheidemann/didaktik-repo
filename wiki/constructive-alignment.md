@@ -4,6 +4,7 @@ type: theorie
 tags: [lernziele, assessment, unterrichtsplanung, kompetenzorientierung]
 related:
   - "[[blooms-taxonomie]]"
+  - "[[pair-programming-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07
@@ -53,6 +54,7 @@ Ein Agent kann Constructive Alignment nutzen, um Lernsituationen zu validieren u
 ## Verwandte Konzepte
 
 - [[blooms-taxonomie]] — liefert die Verben zur Formulierung von Lernzielen und ermöglicht den Abgleich der Kompetenzstufen
+- [[pair-programming-unterricht]] — Beispiel für eine aligned TLA bei Programmier-Lernzielen
 
 ## Quellen
 
