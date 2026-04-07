@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 26 | **Letzte Aktualisierung:** 2026-04-07
+**Artikel:** 29 | **Letzte Aktualisierung:** 2026-04-07
 
 ---
 
@@ -38,7 +38,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[peer-instruction]] — ConcepTest-Zyklen mit 61% weniger Durchfallern in CS-Kursen (Porter et al.)
 
 ### Evidenz & Forschung
-*(noch keine Artikel)*
+- [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
+- [[meta-analysen-cs-education]] — Was die Forschung tatsächlich über Active Learning, Peer Instruction, Pair Programming sagt
+- [[wissensretention-programmierung]] — Skill Decay, Transfer und Spacing — wie dauerhaftes Können entsteht
 
 ### Praxis & Erfahrung
 - [[ki-gestuetztes-tutoring]] — Erfahrungsberichte zu LLM-basierten Tutoring-Systemen im Programmierunterricht
