@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 32 | **Letzte Aktualisierung:** 2026-04-07
+**Artikel:** 40 | **Letzte Aktualisierung:** 2026-04-07
 
 ---
 
@@ -24,6 +24,12 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[cognitive-apprenticeship]] — Expertenwissen sichtbar machen durch Modeling, Coaching, Articulation und Reflection
 - [[expertise-entwicklung]] — Dreyfus-Modell und Subskill-Progression (Tracing → Explaining → Writing → Designing)
 - [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset und Zugehörigkeit als Dropout-Prävention
+- [[low-floor-high-ceiling]] — Aufgaben mit niedrigem Einstieg und offener Decke (Papert/Resnick/NRICH) für heterogene Gruppen
+- [[flow-theorie]] — Csíkszentmihályis Modell optimalen Engagements in der Challenge-Skill-Balance
+- [[self-determination-theory]] — Ryan & Deci: Autonomie, Kompetenz, Verbundenheit als Basis intrinsischer Motivation
+- [[intrinsic-integration]] — Habgood & Ainsworth: Lerninhalt als Kernmechanik statt Gamification-Aufsatz
+- [[computational-action]] — Tissenbaum/Sheldon/Abelson: Von Computational Thinking zu Werkzeugen mit echtem Nutzen
+- [[engagement-theory]] — Kearsley & Shneidermans Relate-Create-Donate als Designcheckliste
 
 ### Methoden & Formate
 - [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
@@ -38,6 +44,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[retrieval-practice]] — Spaced Repetition, Code-Katas und Interleaving für nachhaltiges Behalten
 - [[peer-instruction]] — ConcepTest-Zyklen mit 61% weniger Durchfallern in CS-Kursen (Porter et al.)
 - [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz mit systematischen Strategien
+- [[primm-methode]] — Predict-Run-Investigate-Modify-Make als 5-Phasen-Struktur für Programmieraufgaben (Sentance)
+- [[use-modify-create]] — Drei-Stufen-Progression für Computational Thinking (Lee et al. 2011) mit eingebauter Differenzierung
 
 ### Evidenz & Forschung
 - [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
@@ -69,6 +77,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[gamification-it-unterricht]] — SQL Murder Mystery zum spielerischen SQL-Üben
 - [[code-review-unterricht]] — Peer Review von SQL-Queries und Datenbankschemas
 - [[lerntagebuch]] — Debugging-Journal für SQL- und Programmierfehler
+- [[primm-methode]] — PRIMM-Zyklen für CRUD-Operationen und ORM-Mapper
+- [[use-modify-create]] — Fertige Query nutzen, modifizieren, dann eigene entwickeln
 
 ### LF6: Serviceanfragen bearbeiten
 - [[constructive-alignment]] — Beispiel für Alignment in LF6
@@ -82,6 +92,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[interaktive-lernumgebungen]] — API-Sandbox zum Entwickeln und Testen von REST-Endpoints
 - [[flipped-classroom]] — REST-Grundlagen per Tutorial, API-Entwicklung im Unterricht
 - [[code-review-unterricht]] — Peer Review von REST-API-Endpoints
+- [[primm-methode]] — PRIMM-Zyklen für REST-Clients: vorhandenen Client lesen, modifizieren, eigenen bauen
+- [[use-modify-create]] — API-Progression: Fremd-API nutzen → Wrapper modifizieren → eigenen Endpoint erschaffen
 
 ### LF10-12: Projekte planen, durchführen und auswerten
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Projektstruktur
@@ -93,6 +105,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[ki-gestuetztes-tutoring]] — KI als professionelles Werkzeug in Projekten (Phase 3)
 - [[lerntagebuch]] — Sprint-Retrospektiven als Projekt-Lerntagebuch
 - [[code-review-unterricht]] — Code Reviews als fester Bestandteil des Projektworkflows
+- [[computational-action]] — Projekte mit echten Adressaten aus dem Ausbildungsbetrieb
+- [[engagement-theory]] — Relate-Create-Donate als Projektdesign-Checkliste
+- [[use-modify-create]] — Projektprogression von Fremd-Artefakt zu eigenem Produkt
 
 ### Lernfeldübergreifend
 - [[blooms-taxonomie]] — Lernzielformulierung für alle Lernfelder
@@ -106,6 +121,10 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[retrieval-practice]] — Spaced Review Queue für alle bisherigen Inhalte
 - [[ki-native-lernumgebungen]] — Multi-Agent-Tutoring und adaptive Aufgabengenerierung
 - [[learning-engineering]] — Knowledge Graph der Lernfelder mit Mastery-Tracking
+- [[low-floor-high-ceiling]] — Universelles Aufgabendesignprinzip für heterogene Klassen
+- [[flow-theorie]] — Challenge-Skill-Balance als Justierkriterium für jede Übung
+- [[self-determination-theory]] — Autonomie, Kompetenz, Verbundenheit als Grundlage jeder Lernsituation
+- [[intrinsic-integration]] — Lerninhalt muss in die Kernmechanik der Aufgabe eingewebt sein
 
 ---
 
@@ -121,6 +140,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset, Zugehörigkeit als stärkste Prädiktoren
 - [[scaffolding]] — Frustrationskontrolle als Scaffolding-Funktion
 - [[productive-failure]] — Nur wirksam in Growth-Mindset-Kultur
+- [[self-determination-theory]] — Erfüllung der drei Basic Needs als Dropout-Schutz
+- [[computational-action]] — Identitätsarbeit und Empowerment für bislang nicht engagierte Lernende
 
 ### Heterogenität / Differenzierung
 - [[pair-programming-unterricht]] — Heterogene Paare für Wissenstransfer
@@ -131,17 +152,23 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[ki-gestuetztes-tutoring]] — Personalisierte Erklärungen auf verschiedenen Abstraktionsniveaus
 - [[expertise-entwicklung]] — Dreyfus-Stufen bestimmen den passenden Instruktionsansatz
 - [[threshold-concepts]] — Gezielte Intervention bei nicht-überschrittenen Schwellenkonzepten
+- [[low-floor-high-ceiling]] — Schwache und starke Lernende in derselben Aufgabe mitnehmen
+- [[use-modify-create]] — Strukturelle Differenzierung durch drei Anspruchsstufen
+- [[primm-methode]] — Phasenstruktur, in der Lernende auf unterschiedlichen Tiefen verweilen
 
 ### Kooperatives Lernen / Soziale Dimension
 - [[community-of-practice]] — Lernen durch Teilhabe an Praxisgemeinschaften
 - [[pair-programming-unterricht]] — Kooperatives Programmieren im Pair
 - [[code-review-unterricht]] — Peer-Feedback auf Code
 - [[peer-instruction]] — Strukturierte Peer-Diskussion über Konzepte
+- [[engagement-theory]] — Relate-Create-Donate als Kerntriade kollaborativen Lernens
 
 ### Expertenwissen vermitteln
 - [[cognitive-apprenticeship]] — Modeling, Coaching, Scaffolding, Articulation, Reflection, Exploration
 - [[threshold-concepts]] — Gezielte Intervention bei transformativen Schwellenkonzepten
 - [[expertise-entwicklung]] — Subskill-Zerlegung für adaptive Lernpfade
+- [[primm-methode]] — Explizites Code-Tracing als Einstieg in Expertendenken
+- [[use-modify-create]] — Progression vom Benutzen fremder Artefakte zum Erschaffen eigener
 
 ### Aktivierung / Handlungsorientierung
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Unterrichtsprinzip
@@ -150,12 +177,17 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[interaktive-lernumgebungen]] — Lernende interagieren aktiv mit Aufgaben und erhalten sofortiges Feedback
 - [[flipped-classroom]] — Präsenzzeit für aktives Lernen statt Vortrag nutzen
 - [[gamification-it-unterricht]] — Hackathons, Escape Rooms und Coding Challenges für aktives Lernen
+- [[computational-action]] — Lernende bauen Werkzeuge mit echtem Nutzen in ihrer Community
+- [[engagement-theory]] — Relate-Create-Donate erzwingt aktives Handeln mit echtem Adressaten
 
 ### Aufgaben- und Materialdesign
 - [[cognitive-load-theory]] — Extrinsische Belastung minimieren, lernförderliche maximieren
 - [[worked-examples]] — Ausgearbeitete Lösungen für Novizen, Fading für Fortgeschrittene
 - [[scaffolding]] — Von maximaler Unterstützung zu Selbstständigkeit
 - [[lernsituationen-gestalten]] — Systematische Entwicklung von Lernsituationen
+- [[low-floor-high-ceiling]] — Einstieg niedrig, Decke offen, Wide Walls für diverse Produktformen
+- [[intrinsic-integration]] — Lernziel als Kernmechanik verankern, nicht als Reward ankleben
+- [[flow-theorie]] — Aufgaben in individueller Challenge-Skill-Balance halten
 
 ### Debugging und Fehlerkultur
 - [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz
@@ -173,14 +205,23 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[interaktive-lernumgebungen]] — Scaffolding und Reflexionsprompts unterstützen Selbstregulation
 - [[flipped-classroom]] — Pre-Class-Phase erfordert und fördert Selbstregulation
 - [[lerntagebuch]] — Schriftliche Reflexion fördert Metakognition und Selbstregulation
+- [[self-determination-theory]] — Autonomie als Basis für Selbststeuerung
 
 ### Motivation und Engagement
 - [[gamification-it-unterricht]] — Spielelemente für Motivation und Engagement
 - [[pair-programming-unterricht]] — Kooperatives Arbeiten gegen Isolation beim Programmieren
+- [[self-determination-theory]] — Stärkste empirische Basis für intrinsische Motivation
+- [[flow-theorie]] — Optimales Engagement durch Challenge-Skill-Balance
+- [[intrinsic-integration]] — Warum manche Gamification wirkt und andere nicht
+- [[computational-action]] — Identität und Empowerment als Motivationsquellen
+- [[engagement-theory]] — Relate-Create-Donate als Designcheckliste
+- [[low-floor-high-ceiling]] — Schwache und starke Lernende gleichermaßen begeistern
 
 ### KI im Unterricht
 - [[ki-gestuetztes-tutoring]] — Stufenmodell für den Einsatz von KI-Tutoring-Systemen
 - [[ki-native-lernumgebungen]] — Frontier: Multi-Agent-Tutoring, Copilot-First, Prompt Engineering als Pädagogik
+- [[use-modify-create]] — Natürlicher Lernpfad in einer KI-Welt: KI-Output nutzen, modifizieren, eigenes bauen
+- [[computational-action]] — LLMs machen echte Produkte für Schüler erst zugänglich
 
 ### Wissensretention / Nachhaltiges Lernen
 - [[retrieval-practice]] — Testing Effect, Spaced Repetition und Interleaving für langfristiges Behalten
@@ -190,6 +231,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[learning-engineering]] — Prinzipien für den Aufbau datengetriebener Lernsysteme
 - [[immersive-simulationen]] — Authentische IT-Simulationsumgebungen mit consequential Feedback
 - [[ki-native-lernumgebungen]] — Architektur KI-nativer Lernumgebungen
+- [[intrinsic-integration]] — Designkriterium für interaktive Systeme: Lernziel = Kernmechanik
+- [[flow-theorie]] — Technische Anforderungen für Flow: Microgoals, Instant Feedback, adaptive Progression
 
 ### Lernzielformulierung
 - [[blooms-taxonomie]] — Sechs Kompetenzstufen mit Operatoren für Lernziele
