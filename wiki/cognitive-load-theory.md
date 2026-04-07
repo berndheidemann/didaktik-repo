@@ -12,9 +12,9 @@ taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07
 updated: 2026-04-07
 summary: >
-  Swellers Theorie (1988) zur begrenzten Kapazität des Arbeitsgedächtnisses.
-  Unterscheidet intrinsische, extrinsische und lernförderliche kognitive Belastung
-  als Grundlage für die Gestaltung von Lernmaterialien.
+  Swellers Theorie (1988) zur begrenzten Arbeitsgedächtniskapazität, die
+  intrinsische, extrinsische und lernförderliche kognitive Belastung
+  unterscheidet und daraus Gestaltungsprinzipien für Lernmaterialien ableitet.
 ---
 
 # Cognitive Load Theory

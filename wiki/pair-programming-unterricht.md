@@ -16,8 +16,8 @@ created: 2026-04-07
 updated: 2026-04-07
 summary: >
   Pair Programming als Lernmethode: Zwei Lernende arbeiten an einem
-  Rechner — einer programmiert (Driver), einer denkt mit (Navigator).
-  Fördert Wissenstransfer, Code-Qualität und Problemlösekompetenz.
+  Rechner mit verteilten Rollen (Driver/Navigator), was Wissenstransfer,
+  Code-Qualität und Problemlösekompetenz fördert.
 ---
 
 # Pair Programming im Unterricht
@@ -55,6 +55,14 @@ Die zwei Rollen:
 - **Strong-Style Pairing:** "Für eine Idee, die in den Code soll, muss sie durch die Hände einer anderen Person." Der Navigator diktiert, der Driver tippt.
 - **Remote Pair Programming:** Über Screen-Sharing/VS Code Live Share. Relevant seit hybriden Unterrichtsformen.
 
+## Zeitbedarf
+
+- **Vorbereitung:** 10-15 Min. (Paare bilden, Aufgabe vorbereiten, Rollen erklären)
+- **Durchführung:** Min. 45 Min. produktive Pairzeit (kürzere Sessions lohnen sich kaum)
+- **Rollenwechsel:** Alle 10-15 Min. (Timer nutzen)
+- **Reflexion:** 10-15 Min. am Ende
+- **Gesamtdauer:** Ideal 60-90 Min. pro Session
+
 ## Bezug zur IT-Ausbildung
 
 Pair Programming ist direkt berufsrelevant für FIAE — es wird in vielen Unternehmen praktiziert. Besonders geeignet für:
@@ -78,6 +86,9 @@ Konkret: Der Agent kann Pair-Programming-Aufgaben generieren, die die Ping-Pong-
 - [[constructive-alignment]] — Pair Programming als TLA muss zum Lernziel passen
 - [[blooms-taxonomie]] — Taxonomiestufen "anwenden" und "analysieren" beschreiben das Kompetenzniveau von Pair Programming
 - [[interaktive-lernumgebungen]] — Pair Programming als kooperative Interaktionsform in interaktiven Lernumgebungen
+- [[handlungsorientierter-unterricht]] — Pair Programming als Methode für handlungsorientierte Lernsituationen
+- [[formatives-assessment]] — Peer-Feedback im Pair als Wiliams Strategie 4 (Lernende als Lernressourcen)
+- [[scaffolding]] — Navigator als soziales Scaffold für den Driver
 
 ## Quellen
 

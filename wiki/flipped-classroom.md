@@ -15,8 +15,8 @@ created: 2026-04-07
 updated: 2026-04-07
 summary: >
   Wissensvermittlung wird vor den Unterricht verlagert (Video, Lektüre),
-  die Präsenzzeit für aktives Lernen genutzt. Bergmann & Sams (2012).
-  Evidenz zeigt konsistente kleine bis mittlere Effekte (d ≈ 0,24-0,35).
+  die Präsenzzeit für aktives Lernen genutzt (Bergmann & Sams, 2012) —
+  mit konsistenten kleinen bis mittleren Effekten (d ≈ 0,24-0,35).
 ---
 
 # Flipped Classroom

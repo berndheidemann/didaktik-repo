@@ -15,7 +15,7 @@ created: 2026-04-07
 updated: 2026-04-07
 summary: >
   Klassifikationssystem kognitiver Lernziele in sechs Stufen (erinnern bis erschaffen)
-  nach Anderson & Krathwohl (2001). Zentrales Werkzeug zur Formulierung und
+  nach Anderson & Krathwohl (2001), zentrales Werkzeug zur Formulierung und
   Einstufung von Lernzielen in der IT-Ausbildung.
 ---
 
@@ -85,6 +85,8 @@ Ein Agent kann Blooms Taxonomie operationalisieren:
 - [[pair-programming-unterricht]] — Methode, die typischerweise auf Stufe "anwenden" und "analysieren" operiert
 - [[selbstgesteuertes-lernen]] — Metakognitives Wissen (vierte Wissensdimension) ist die theoretische Basis für Selbstregulation
 - [[interaktive-lernumgebungen]] — Taxonomiestufen bestimmen die passende Interaktionstiefe in Lernumgebungen
+- [[cognitive-load-theory]] — Höhere Taxonomiestufen erzeugen typischerweise höhere Elementinteraktivität
+- [[handlungsorientierter-unterricht]] — Lernfeld-Progression korreliert mit Taxonomiestufen im Spiralcurriculum
 
 ## Quellen
 

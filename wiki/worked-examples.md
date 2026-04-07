@@ -14,8 +14,8 @@ sozialform: [einzelarbeit, partner]
 created: 2026-04-07
 updated: 2026-04-07
 summary: >
-  Vollständig ausgearbeitete Lösungen zum Studieren statt eigenes Problemlösen.
-  Reduziert kognitive Belastung bei Novizen (Sweller & Cooper, 1985).
+  Vollständig ausgearbeitete Lösungen zum Studieren statt eigenes Problemlösen,
+  um kognitive Belastung bei Novizen zu reduzieren (Sweller & Cooper, 1985) —
   Fading zu Lückencode und offenen Aufgaben als zentrale Scaffolding-Strategie.
 ---
 
@@ -63,6 +63,14 @@ Renkl, Atkinson & Maier (2002) zeigten, dass Fading + Self-Explanation-Prompts m
 ### Expertise Reversal Effect
 
 Worked Examples helfen Novizen, schaden aber Fortgeschrittenen: Wer bereits über Schemata verfügt, muss redundante Information verarbeiten, was die kognitive Last erhöht. Daher ist Fading essenziell — und die Anpassung an den Lernstand (vgl. [[scaffolding]]).
+
+## Durchführung
+
+1. **Worked Example präsentieren** — vollständig ausgearbeitete Lösung mit Sub-Goal Labels und Inline-Kommentaren zeigen.
+2. **Studierphase** — Lernende lesen und bearbeiten Self-Explanation Prompts ("Warum wird hier eine Schleife statt Rekursion verwendet?").
+3. **Completion Problem** — ähnliche Aufgabe mit 1-2 fehlenden Schritten, die Lernende ergänzen.
+4. **Fading fortsetzen** — schrittweise mehr Lücken, bis Lernende eigenständig arbeiten.
+5. **Isomorphes Problem** — offene Aufgabe mit gleicher Struktur aber anderem Kontext zum Transfer.
 
 ## Voraussetzungen
 

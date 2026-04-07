@@ -15,8 +15,8 @@ created: 2026-04-07
 updated: 2026-04-07
 summary: >
   Didaktisches Prinzip nach Biggs (1996): Lernziele, Lehr-/Lernaktivitäten
-  und Prüfungsformen müssen aufeinander abgestimmt sein. Zentral für
-  kompetenzorientierte Unterrichtsplanung in der IT-Ausbildung.
+  und Prüfungsformen müssen aufeinander abgestimmt sein, um
+  kompetenzorientierten IT-Unterricht wirksam zu gestalten.
 ---
 
 # Constructive Alignment
@@ -61,6 +61,8 @@ Ein Agent kann Constructive Alignment nutzen, um Lernsituationen zu validieren u
 - [[pair-programming-unterricht]] — Beispiel für eine aligned TLA bei Programmier-Lernzielen
 - [[selbstgesteuertes-lernen]] — SGL erfordert explizites Alignment: Lernziele müssen Selbstregulation einschließen
 - [[interaktive-lernumgebungen]] — Interaktionsform und Feedbackdesign müssen zum Lernziel aligned sein
+- [[handlungsorientierter-unterricht]] — Lernsituationen erfordern Alignment zwischen Lernfeld-Zielen und Aktivitäten
+- [[formatives-assessment]] — liefert die Evidenz, ob das Alignment zwischen Zielen, Aktivitäten und Prüfung funktioniert
 
 ## Quellen
 

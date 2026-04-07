@@ -10,6 +10,7 @@ related:
   - "[[scaffolding]]"
   - "[[worked-examples]]"
   - "[[formatives-assessment]]"
+  - "[[pair-programming-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07
@@ -87,6 +88,10 @@ Ein Agent kann diese Prinzipien nutzen, um wirksame Lernsituationen zu gestalten
 - [[constructive-alignment]] — Interaktionsform und Feedbackdesign müssen zum Lernziel aligned sein
 - [[blooms-taxonomie]] — Bestimmt die passende Interaktionstiefe (Multiple-Choice vs. offene Aufgabe)
 - [[pair-programming-unterricht]] — Kooperative Interaktionsform, die in interaktive Lernumgebungen eingebettet werden kann
+- [[cognitive-load-theory]] — Liefert die theoretische Basis für Aufgaben- und Feedbackdesign
+- [[scaffolding]] — Scaffolding als zentrales Gestaltungsprinzip interaktiver Umgebungen
+- [[worked-examples]] — Kernbaustein interaktiver Lernpfade für Novizen
+- [[formatives-assessment]] — Sofortiges Feedback als zentrales Element formativen Assessments
 
 ## Quellen
 

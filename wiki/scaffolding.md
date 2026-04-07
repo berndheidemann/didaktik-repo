@@ -9,14 +9,15 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[blooms-taxonomie]]"
   - "[[pair-programming-unterricht]]"
+  - "[[formatives-assessment]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07
 updated: 2026-04-07
 summary: >
-  Temporäre Lernunterstützung in der Zone der nächsten Entwicklung (Vygotsky, 1978).
-  Scaffolding (Wood, Bruner & Ross, 1976) wird schrittweise abgebaut (Fading),
-  sobald Lernende eigenständig handeln können.
+  Temporäre Lernunterstützung in der Zone der nächsten Entwicklung (Vygotsky, 1978),
+  die schrittweise abgebaut wird (Fading), sobald Lernende eigenständig
+  handeln können (Wood, Bruner & Ross, 1976).
 ---
 
 # Scaffolding und Zone der nächsten Entwicklung
@@ -101,6 +102,7 @@ Ein Agent kann Scaffolding dynamisch anpassen:
 - [[interaktive-lernumgebungen]] — Scaffolding als zentrales Gestaltungsprinzip
 - [[pair-programming-unterricht]] — Navigator als soziales Scaffold für den Driver
 - [[blooms-taxonomie]] — Taxonomiestufe bestimmt das nötige Scaffolding-Niveau
+- [[formatives-assessment]] — Abgestuftes Feedback ist eine Form von Scaffolding
 
 ## Quellen
 

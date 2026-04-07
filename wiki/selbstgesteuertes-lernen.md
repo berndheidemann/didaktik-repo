@@ -13,7 +13,7 @@ taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07
 updated: 2026-04-07
 summary: >
-  Lernende planen, überwachen und reflektieren ihren eigenen Lernprozess.
+  Lernende planen, überwachen und reflektieren ihren eigenen Lernprozess —
   Zimmermans Drei-Phasen-Modell (1989) beschreibt die zyklische Selbstregulation
   als Schlüsselkompetenz für lebenslanges Lernen in der IT.
 ---
@@ -78,6 +78,8 @@ Ein Agent kann selbstgesteuertes Lernen auf mehreren Ebenen unterstützen:
 - [[blooms-taxonomie]] — Metakognitives Wissen als höchste Wissensdimension bildet die theoretische Basis für Selbstregulation
 - [[constructive-alignment]] — SGL erfordert, dass Lernziele explizit Selbstregulations-Kompetenz einschließen und Aktivitäten/Prüfungen darauf ausgerichtet sind
 - [[interaktive-lernumgebungen]] — Gestaltungsprinzipien für Umgebungen, die selbstgesteuertes Lernen ermöglichen und fördern
+- [[scaffolding]] — Metakognitives Scaffolding fördert Selbstregulationskompetenzen
+- [[formatives-assessment]] — Wiliams Strategie 5 und Hattie-Timperleys Self-Regulation-Ebene unterstützen SGL
 
 ## Quellen
 

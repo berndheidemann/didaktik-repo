@@ -16,8 +16,8 @@ created: 2026-04-07
 updated: 2026-04-07
 summary: >
   Assessment FOR Learning: Lernstandsinformationen während des Unterrichts
-  erheben und nutzen, um Lernen zu verbessern. Black & Wiliam (1998) zeigen
-  Effektstärken von d = 0,4-0,7 — eine der wirksamsten Interventionen überhaupt.
+  erheben und nutzen, um Lernen zu verbessern — mit Effektstärken von
+  d = 0,4-0,7 eine der wirksamsten Interventionen überhaupt (Black & Wiliam, 1998).
 ---
 
 # Formatives Assessment
@@ -71,6 +71,26 @@ Vier Ebenen mit abnehmender Wirksamkeit:
 3. **Feedback geben** — abgestuft: Task → Process → Self-Regulation. Feed-Forward priorisieren (Strategie 3)
 4. **Peers einbinden** — Code-Reviews, Peer-Debugging, Think-Pair-Share (Strategie 4)
 5. **Reflexion ermöglichen** — Selbstbewertung gegen Erfolgskriterien, Lerntagebuch (Strategie 5)
+
+## Voraussetzungen
+
+- Lehrkraft muss bereit sein, Unterricht basierend auf erhobener Evidenz anzupassen
+- Klare Erfolgskriterien müssen vor der Aufgabe formuliert sein (→ [[constructive-alignment]])
+- Bei digitalem Assessment: Zugang zu automatisierten Test-/Feedback-Tools
+- Vertrauensvolle Lernatmosphäre, in der Fehler als Lernchance gelten
+
+## Varianten
+
+- **Exit-Tickets:** Am Ende jeder Stunde eine Frage beantworten ("Was hast du heute gelernt? Was ist unklar?")
+- **Peer-Assessment:** Lernende bewerten gegenseitig nach vorgegebenen Kriterien (Code-Reviews, Checklisten)
+- **Digitales Echtzeit-Assessment:** Automatisierte Unit-Tests, Linter-Feedback, CI/CD-Pipelines als kontinuierliches Assessment
+- **Diagnostische Aufgaben:** Kurze, gezielte Aufgaben, die typische Fehlkonzepte aufdecken
+
+## Zeitbedarf
+
+- **Vorbereitung:** Gering bis mittel (Erfolgskriterien und diagnostische Aufgaben erstellen)
+- **Durchführung:** Kontinuierlich in den Unterricht integriert (kein separater Zeitblock)
+- **Nachbereitung:** 10-15 Min. pro Einheit für Ergebnis-Auswertung und Unterrichtsanpassung
 
 ## Bezug zur IT-Ausbildung
 
