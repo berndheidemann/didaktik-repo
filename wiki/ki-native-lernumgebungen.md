@@ -13,6 +13,8 @@ related:
   - "[[learning-engineering]]"
   - "[[meta-analysen-cs-education]]"
   - "[[threshold-concepts]]"
+  - "[[use-modify-create]]"
+  - "[[computational-action]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

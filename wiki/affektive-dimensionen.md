@@ -1,7 +1,7 @@
 ---
 title: Affektive Dimensionen des Programmierenlernens
 type: theorie
-tags: [motivation, selbstwirksamkeit, growth-mindset, angst, dropout, inklusion]
+tags: [motivation, selbstwirksamkeit, growth-mindset, angst, dropout, inklusion, mastery-goals]
 related:
   - "[[selbstgesteuertes-lernen]]"
   - "[[scaffolding]]"
@@ -12,6 +12,9 @@ related:
   - "[[cognitive-apprenticeship]]"
   - "[[community-of-practice]]"
   - "[[wissensretention-programmierung]]"
+  - "[[flow-theorie]]"
+  - "[[self-determination-theory]]"
+  - "[[computational-action]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07
@@ -32,70 +35,62 @@ Die meisten CS1-Abbrecher:innen *könnten* den Stoff verstehen — sie hören au
 
 ### Selbstwirksamkeit (Bandura, 1997)
 
-Selbstwirksamkeit ist die Überzeugung "Ich kann das schaffen." Ramalingam & Wiedenbeck (1998) zeigten: Selbstwirksamkeit ist der stärkste nicht-kognitive Prädiktor für Programmiererfolg — stärker als Mathe-Noten.
+Selbstwirksamkeit ist die Überzeugung "Ich kann das schaffen." Ramalingam & Wiedenbeck (1998) zeigten: Sie ist der stärkste nicht-kognitive Prädiktor für Programmiererfolg — stärker als Mathe-Noten.
 
-Vier Quellen der Selbstwirksamkeit:
-1. **Mastery Experience** — Eigene Erfolgserlebnisse (die wichtigste Quelle). Kleine, erreichbare Aufgaben, die Erfolg erlebbar machen.
-2. **Vicarious Experience** — Beobachten, wie ähnliche Personen Erfolg haben. "Wenn die/der das kann, kann ich das auch." → [[pair-programming-unterricht]], Peer-Modeling.
-3. **Verbal Persuasion** — Ermutigung durch Lehrkraft oder Peers. "Du kannst das" — wirkt nur in Kombination mit echten Erfahrungen.
-4. **Physiological State** — Angst und Stress senken Selbstwirksamkeit. Entspannte Lernumgebung → höhere Überzeugung.
+Vier Quellen: (1) **Mastery Experience** — eigene Erfolgserlebnisse, die wichtigste Quelle; (2) **Vicarious Experience** — Beobachten ähnlicher Personen ([[pair-programming-unterricht]], Peer-Modeling); (3) **Verbal Persuasion** — Ermutigung, wirkt nur kombiniert mit echten Erfahrungen; (4) **Physiological State** — Angst und Stress senken Selbstwirksamkeit.
 
 ### Growth Mindset (Dweck, 2006)
 
-**Fixed Mindset:** "Programmieren ist Talent — entweder man kann es oder nicht."
-**Growth Mindset:** "Programmieren ist eine erlernbare Fähigkeit — Anstrengung und Fehler sind der Weg."
-
-Cutts et al. (2010) zeigten: Growth-Mindset-Interventionen in CS1 ("Programmieren ist wie eine Sprache lernen — jede:r kann es, es braucht Übung") reduzierten Durchfallquoten. Der Schlüssel: Fehler und Struggle als *normal und notwendig* rahmen, nicht als Zeichen mangelnden Talents.
-
-Direkte Verbindung zu [[productive-failure]]: Productive Failure funktioniert nur in einer Growth-Mindset-Kultur. In einer Fixed-Mindset-Umgebung erzeugt Scheitern Scham statt Lernen.
+**Fixed Mindset:** "Programmieren ist Talent — entweder man kann es oder nicht." **Growth Mindset:** "Programmieren ist eine erlernbare Fähigkeit — Anstrengung und Fehler sind der Weg." Cutts et al. (2010) zeigten: Growth-Mindset-Interventionen in CS1 reduzierten Durchfallquoten. Schlüssel: Fehler als *normal und notwendig* rahmen. Direkte Verbindung zu [[productive-failure]]: PF funktioniert nur in Growth-Mindset-Kultur — sonst erzeugt Scheitern Scham statt Lernen.
 
 ### Programmier-Angst
 
-Connolly et al. (2009) berichten, dass bis zu 40% der CS1-Studierenden signifikante Angst erleben. Auslöser: Compiler-Fehlermeldungen (kryptisch, rot, "Error"), Zeitdruck bei Prüfungen, Vergleich mit erfahreneren Peers, die Sichtbarkeit von Fehlern (Code funktioniert oder nicht — kein "halb richtig").
-
-Becker et al. (2019) zeigten: Allein die Verbesserung von Compiler-Fehlermeldungen (klarer, hilfreicher, weniger technisch) reduzierte Anfänger-Frustration signifikant. Emotionales Design matters.
+Connolly et al. (2009): Bis zu 40% der CS1-Studierenden erleben signifikante Angst. Auslöser sind kryptische Compiler-Fehlermeldungen, Zeitdruck, Peer-Vergleiche und die binäre Sichtbarkeit von Fehlern (Code läuft oder nicht). Becker et al. (2019) zeigten: Allein klarere Fehlermeldungen reduzieren Anfänger-Frustration signifikant.
 
 ### Zugehörigkeit (Belonging Uncertainty)
 
-Walton & Cohen (2011) zeigten mit einer einzigen einstündigen Intervention (Lesen und Schreiben über "Zugehörigkeitszweifel sind normal und gehen vorbei"): +0,3 GPA-Punkte über 3 Jahre bei unterrepräsentierten Studierenden. Belonging Uncertainty ist besonders akut in IT, wo Stereotype ("Nerds", "Männerdomäne") Ausgrenzung verstärken.
+Walton & Cohen (2011): Eine einstündige Intervention (Lesen/Schreiben über "Zugehörigkeitszweifel sind normal und gehen vorbei") brachte +0,3 GPA-Punkte über 3 Jahre bei unterrepräsentierten Studierenden. Besonders akut in IT, wo Stereotype Ausgrenzung verstärken.
 
 ### Self-Determination Theory (Deci & Ryan)
 
-Drei Grundbedürfnisse für intrinsische Motivation:
-- **Autonomie** — Wahlmöglichkeiten (Projektthema, Lösungsweg, Tools)
-- **Kompetenzerleben** — Aufgaben in der Zone der nächsten Entwicklung (vgl. [[scaffolding]])
-- **Soziale Eingebundenheit** — Teil einer Lerngemeinschaft sein (vgl. [[pair-programming-unterricht]])
+Drei Grundbedürfnisse für intrinsische Motivation: **Autonomie** (Wahlmöglichkeiten), **Kompetenzerleben** (Aufgaben in der ZPD, vgl. [[scaffolding]]) und **soziale Eingebundenheit** (Lerngemeinschaft, vgl. [[pair-programming-unterricht]]). Sind alle drei erfüllt, entsteht intrinsische Motivation — die nachhaltigste Form. [[gamification-it-unterricht]] wirkt nur, wenn es diese Bedürfnisse anspricht, nicht durch reine Punktevergabe.
 
-Wenn alle drei Bedürfnisse erfüllt sind, entsteht intrinsische Motivation — die nachhaltigste Form. [[gamification-it-unterricht]] wirkt nur, wenn es diese Bedürfnisse anspricht, nicht wenn es nur extrinsische Punkte vergibt.
+### Achievement Goals: Mastery vs. Performance
+
+Dweck (1986) und Elliot & McGregor (2001) unterscheiden zwei Zielorientierungen, die Lernende verfolgen können: **Mastery Goals** zielen auf Verständnis und Kompetenzzuwachs ("Ich will das wirklich kapieren"), **Performance Goals** auf Vergleich und Anerkennung ("Ich will besser sein als die anderen").
+
+Die Forschung ist konsistent: Mastery Goals korrelieren mit tieferem Lernen, höherer Persistenz und Growth Mindset. Performance Goals bringen gemischte Ergebnisse — sie können kurzfristig motivieren, wirken aber oft negativ bei Rückschlägen, weil ein Misserfolg dann das Selbstbild bedroht.
+
+**Klassenklima-Konsequenz:** Kein öffentlicher Leistungsvergleich, kein "Bester der Klasse"-Framing, keine Bestenlisten. Stattdessen individuellen Fortschritt sichtbar machen ("Vor zwei Wochen hast du noch X gebraucht — heute machst du Y").
+
+**Für den Agent:** Feedback-Sprache bewusst mastery-orientiert formulieren. Statt "Du bist besser als 60% der Klasse" → "Du hast diese Struktur jetzt verstanden — was kommt als Nächstes?" Vermeidung von Vergleichssprache, Fokus auf den Lernweg der einzelnen Person. Mastery Goals stärken zudem intrinsische Motivation (vgl. [[self-determination-theory]]).
 
 ## Bezug zur IT-Ausbildung
 
-In Berufsschulklassen für Fachinformatiker:innen ist Heterogenität das Normalbild: Manche Azubis programmieren seit Jahren als Hobby, andere haben noch nie eine Zeile Code geschrieben. Die affektive Dimension ist hier besonders relevant:
+In Fachinformatiker-Klassen ist Heterogenität das Normalbild: Manche programmieren seit Jahren, andere noch nie. Die affektive Dimension ist hier besonders relevant:
 
-- **Hobby-Programmierer:innen** riskieren Langeweile (Autonomie-Bedürfnis nicht erfüllt) → Differenzierung nach oben, Exploration ermöglichen
-- **Absolute Anfänger:innen** riskieren Angst und Impostor Syndrome → Mastery Experiences sicherstellen, Growth Mindset kultivieren, kryptische Fehlermeldungen entschärfen
-- **Das Berichtsheft-Problem:** Azubis, die im Betrieb "nur zuarbeiten", zweifeln an ihrer Kompetenz → [[lerntagebuch]] als Sichtbarmachung von Lernfortschritt
+- **Hobby-Programmierer:innen** riskieren Langeweile (Autonomie unerfüllt) → Differenzierung nach oben, Exploration ermöglichen
+- **Absolute Anfänger:innen** riskieren Angst und Impostor Syndrome → Mastery Experiences, Growth Mindset, klare Fehlermeldungen
+- **Berichtsheft-Problem:** Azubis, die im Betrieb "nur zuarbeiten", zweifeln an ihrer Kompetenz → [[lerntagebuch]] zur Sichtbarmachung
 
 ## Praktische Anwendung
 
 Ein Agent kann die affektive Dimension aktiv gestalten:
 
-1. **Growth Mindset rahmen:** Fehler als "das Gehirn wächst gerade" kommunizieren. Fehlermeldungen mit "Das ist ein häufiger Fehler — hier ist, was er bedeutet..." einleiten statt mit rotem "ERROR".
-2. **Mastery Experiences sicherstellen:** Aufgabensequenz so gestalten, dass regelmäßig Erfolgserlebnisse auftreten — nicht nur am Ende einer Einheit. Vgl. [[scaffolding]]: Teilschritte mit sichtbarem Zwischenerfolg.
-3. **Frustrationsdetekion:** Aus Antwortmustern (wiederholte Fehler, lange Pausen, Hilfe-Anfragen) Frustration erkennen und automatisch leichtere [[worked-examples]] oder Ermutigung anbieten.
-4. **Autonomie ermöglichen:** Wo möglich Wahlfreiheit geben — welches Projekt, welche Sprache, welcher Lösungsweg. Vgl. [[gamification-it-unterricht]]: Quest-basierte Kursstruktur.
-5. **Soziale Eingebundenheit fördern:** [[pair-programming-unterricht]], [[code-review-unterricht]] und [[peer-instruction]] einsetzen — Isolation ist der Feind des Lernens.
-6. **Normalisierung:** "Auch Senior-Entwickler:innen googeln ständig und machen Fehler" — Expert Blind Spot aufbrechen (vgl. [[cognitive-apprenticeship]]).
+1. **Growth Mindset rahmen:** Fehler als "das Gehirn wächst gerade" kommunizieren. Fehlermeldungen mit "Das ist ein häufiger Fehler..." einleiten statt rotem "ERROR".
+2. **Mastery Experiences sicherstellen:** Aufgabensequenz mit regelmäßigen Erfolgserlebnissen, nicht nur am Ende (vgl. [[scaffolding]]).
+3. **Frustrationsdetektion:** Aus Antwortmustern (wiederholte Fehler, Pausen) Frustration erkennen und [[worked-examples]] oder Ermutigung anbieten.
+4. **Autonomie ermöglichen:** Wahlfreiheit bei Projekt, Sprache, Lösungsweg (vgl. [[gamification-it-unterricht]]).
+5. **Soziale Eingebundenheit fördern:** [[pair-programming-unterricht]], [[code-review-unterricht]], [[peer-instruction]] — Isolation ist der Feind des Lernens.
+6. **Normalisierung:** "Auch Senior-Entwickler:innen googeln ständig" — Expert Blind Spot aufbrechen (vgl. [[cognitive-apprenticeship]]).
 
 ## Verwandte Konzepte
 
-- [[selbstgesteuertes-lernen]] — Selbstwirksamkeit ist ein Kerntreiber der Selbstregulation
-- [[scaffolding]] — Frustrationskontrolle ist eine der sechs Scaffolding-Funktionen
+- [[selbstgesteuertes-lernen]] — Selbstwirksamkeit treibt Selbstregulation
 - [[productive-failure]] — Funktioniert nur in Growth-Mindset-Kultur
-- [[gamification-it-unterricht]] — Wirkt nachhaltig nur, wenn SDT-Bedürfnisse adressiert werden
-- [[pair-programming-unterricht]] — Vicarious Experience und soziale Eingebundenheit
-- [[ki-gestuetztes-tutoring]] — Emotionales Design von KI-Feedback
-- [[cognitive-apprenticeship]] — Normalisierung von Fehlern durch sichtbares Experten-Denken
+- [[self-determination-theory]] — Mastery-Goals stärken intrinsische Motivation
+- [[pair-programming-unterricht]] — Vicarious Experience und Eingebundenheit
+- [[cognitive-apprenticeship]] — Sichtbares Experten-Denken normalisiert Fehler
 
 ## Quellen
 
@@ -105,3 +100,5 @@ Ein Agent kann die affektive Dimension aktiv gestalten:
 - Walton, G. M. & Cohen, G. L. (2011). A Brief Social-Belonging Intervention Improves Academic and Health Outcomes of Minority Students. Science, 331(6023), 1447-1451.
 - Cutts, Q. et al. (2010). An Exploration of the Role of "Mindset" in CS1. Proceedings of ACM SIGCSE 2010.
 - Connolly, C. et al. (2009). An Exploration of Programming Anxiety amongst CS Students. Proceedings of PPIG 2009.
+- Dweck, C. S. (1986). Motivational processes affecting learning. American Psychologist, 41(10), 1040-1048.
+- Elliot, A. J. & McGregor, H. A. (2001). A 2 × 2 achievement goal framework. Journal of Personality and Social Psychology, 80(3), 501-519.

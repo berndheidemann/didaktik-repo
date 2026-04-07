@@ -10,6 +10,9 @@ related:
   - "[[affektive-dimensionen]]"
   - "[[handlungsorientierter-unterricht]]"
   - "[[selbstgesteuertes-lernen]]"
+  - "[[self-determination-theory]]"
+  - "[[computational-action]]"
+  - "[[engagement-theory]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

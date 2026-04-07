@@ -13,6 +13,8 @@ related:
   - "[[flipped-classroom]]"
   - "[[immersive-simulationen]]"
   - "[[kompetenzfeststellung-programmierung]]"
+  - "[[computational-action]]"
+  - "[[engagement-theory]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

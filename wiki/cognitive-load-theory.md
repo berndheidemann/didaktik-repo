@@ -1,7 +1,7 @@
 ---
 title: Cognitive Load Theory
 type: theorie
-tags: [kognitive-belastung, instruktionsdesign, arbeitsgedaechtnis, lernmaterial-gestaltung]
+tags: [kognitive-belastung, instruktionsdesign, arbeitsgedaechtnis, lernmaterial-gestaltung, challenge-point]
 related:
   - "[[worked-examples]]"
   - "[[scaffolding]]"
@@ -17,6 +17,8 @@ related:
   - "[[peer-instruction]]"
   - "[[retrieval-practice]]"
   - "[[threshold-concepts]]"
+  - "[[flow-theorie]]"
+  - "[[primm-methode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07
@@ -73,6 +75,10 @@ IT-Inhalte haben oft hohe Elementinteraktivität: Beim Programmieren müssen Syn
 
 Der Expertise Reversal Effect ist besonders relevant für heterogene Berufsschulklassen: Dieselbe Anleitung, die Anfänger:innen brauchen, bremst erfahrene Hobby-Programmierer:innen.
 
+### Bezug zum Challenge Point Framework
+
+CLT begrenzt die *absolute* Schwierigkeit durch die Arbeitsgedächtniskapazität, das Challenge Point Framework (Guadagnoli & Lee, 2004) individualisiert die *relative* Schwierigkeit am Skill-Stand. Zusammen ergeben sie ein zweistufiges Modell: CLT setzt die Obergrenze (was darf insgesamt an Last entstehen?), Challenge Point wählt innerhalb dieser den optimalen Punkt für die individuelle Lernende. Ausführlich beschrieben in [[scaffolding]].
+
 ## Praktische Anwendung
 
 Ein Agent kann CLT-Prinzipien operationalisieren:
@@ -96,3 +102,4 @@ Ein Agent kann CLT-Prinzipien operationalisieren:
 - Sweller, J., Ayres, P. & Kalyuga, S. (2011). Cognitive Load Theory. Springer.
 - Sweller, J., van Merriënboer, J. J. G. & Paas, F. (2019). Cognitive Architecture and Instructional Design: 20 Years Later. Educational Psychology Review, 31, 261-292.
 - Paas, F., Renkl, A. & Sweller, J. (2003). Cognitive Load Theory and Instructional Design: Recent Developments. Educational Psychologist, 38(1), 1-4.
+- Guadagnoli, M. A. & Lee, T. D. (2004). Challenge point: A framework for conceptualizing the effects of various practice conditions in motor learning. Journal of Motor Behavior, 36(2), 212-224.

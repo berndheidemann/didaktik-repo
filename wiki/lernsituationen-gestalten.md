@@ -1,7 +1,7 @@
 ---
 title: Lernsituationen gestalten
 type: methode
-tags: [lernsituation, lernfeldkonzept, unterrichtsplanung, handlungsorientierung, rahmenlehrplan]
+tags: [lernsituation, lernfeldkonzept, unterrichtsplanung, handlungsorientierung, rahmenlehrplan, udl, authentisches-lernen]
 related:
   - "[[handlungsorientierter-unterricht]]"
   - "[[constructive-alignment]]"
@@ -9,6 +9,10 @@ related:
   - "[[scaffolding]]"
   - "[[formatives-assessment]]"
   - "[[cognitive-apprenticeship]]"
+  - "[[low-floor-high-ceiling]]"
+  - "[[self-determination-theory]]"
+  - "[[computational-action]]"
+  - "[[engagement-theory]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]
@@ -32,42 +36,64 @@ Eine Lernsituation übersetzt die abstrakten Kompetenzformulierungen eines Lernf
 
 ### Aufbau einer Lernsituation
 
-| Element | Beschreibung | Beispiel (LF5 FIAE) |
-|---------|-------------|---------------------|
-| **Handlungssituation** | Authentisches Szenario aus der Berufspraxis | "Die Firma TechStore braucht eine Datenbank für ihr Bestellsystem" |
-| **Kompetenzformulierung** | Was können Lernende am Ende? (Bloom-Verben) | "SuS entwerfen ein normalisiertes ER-Modell und implementieren es in SQL" |
-| **Arbeitsaufträge** | Konkrete Aufgaben in den sechs Phasen | Informieren: Anforderungen analysieren → Planen: ER-Modell skizzieren → ... |
-| **Informationsmaterial** | Fachliche Grundlagen, Datenblätter | Kundenbriefing, Beispiel-Daten, SQL-Referenz |
-| **Lehrerhinweise** | Didaktische Hinweise, Differenzierung | Hilfestellungen für schwächere SuS, Zusatzaufgaben für stärkere |
+| Element | Beispiel (LF5 FIAE) |
+|---------|---------------------|
+| **Handlungssituation** | "Firma TechStore braucht eine Datenbank für ihr Bestellsystem" |
+| **Kompetenzformulierung** | "SuS entwerfen ein normalisiertes ER-Modell und implementieren es in SQL" |
+| **Arbeitsaufträge** | Aufgaben in den sechs Phasen der vollständigen Handlung |
+| **Informationsmaterial** | Kundenbriefing, Beispiel-Daten, SQL-Referenz |
+| **Lehrerhinweise** | Differenzierung, gestufte Hilfen, Zusatzaufgaben |
+
+### Universal Design for Learning
+
+UDL nach CAST (2018) ist ein proaktives Differenzierungs-Framework mit drei Prinzipien: Multiple Means of **Engagement** (Zugänge zur Motivation), **Representation** (Inhalte in mehreren Modalitäten) und **Action/Expression** (verschiedene Wege, Wissen zu zeigen). Statt nachträglich auf Heterogenität zu reagieren, wird die Vielfalt der Zugänge von Anfang an in die Lernsituation eingebaut.
+
+**Konkret im IT-Unterricht:** Multimodale Materialien (Video + Text + kommentierter Code), Wahlmöglichkeiten im Produkt (lauffähige Anwendung + Doku + Präsentation als gleichwertige Nachweise), unterschiedliche Aufgabenstart-Punkte (Worked Example, Parsons Problem oder offene Aufgabe für dasselbe Lernziel). Verbindet sich mit [[low-floor-high-ceiling]] und der Autonomie-Komponente von [[self-determination-theory]].
+
+### Herrington's 9 Elemente authentischen Lernens
+
+Herrington & Oliver (2000) destillierten neun Elemente, die authentische Lernumgebungen auszeichnen — eine Checkliste, an der jede Lernsituation geprüft werden kann:
+
+1. **Authentischer Kontext** — realer beruflicher Rahmen, kein artifizielles Lehrbuch-Szenario
+2. **Authentische Aktivität** — komplexe, ill-defined Aufgaben mit mehreren Lösungswegen
+3. **Experten-Modellierung** — Profis bei der Arbeit beobachten (vgl. [[cognitive-apprenticeship]])
+4. **Multiple Rollen und Perspektiven** — verschiedene Sichtweisen auf dasselbe Problem
+5. **Kollaborative Wissenskonstruktion** — gemeinsam Lösungen erarbeiten
+6. **Reflexion** — bewusst über das eigene Vorgehen nachdenken
+7. **Artikulation** — Wissen verbalisieren und verteidigen
+8. **Coaching/[[scaffolding]]** — gestufte Unterstützung statt direkter Instruktion
+9. **Authentisches Assessment** — Prüfung integriert in die Aufgabe, nicht separat
+
+Direkte Anschlussfähigkeit an das deutsche Lernfeldkonzept und [[handlungsorientierter-unterricht]]: Jede Lernsituation kann als Erfüllungsgrad dieser neun Elemente bewertet werden — ein Qualitätskriterium über die formale Phasenstruktur hinaus.
 
 ## Durchführung
 
-1. **Lernfeld analysieren** — Kompetenzformulierung und Inhaltsangaben des Rahmenlehrplans lesen. Zentrale Verben identifizieren und mit [[blooms-taxonomie]] einstufen.
-2. **Handlungssituation konstruieren** — Authentisches berufliches Szenario entwickeln. Idealerweise aus realen Betriebserfahrungen der Azubis abgeleitet.
-3. **Arbeitsaufträge formulieren** — Entlang der sechs Phasen der vollständigen Handlung (informieren → planen → entscheiden → ausführen → kontrollieren → bewerten).
-4. **Material bereitstellen** — Informationsblätter, Datenquellen, Werkzeuge. Gemäß [[scaffolding]] je nach Lernstand mehr oder weniger Hilfestellung.
-5. **[[formatives-assessment]] einbauen** — Zwischenstände sichern, Reflexionsphasen planen. Gemäß [[constructive-alignment]] Prüfung auf gleicher Taxonomiestufe wie das Lernziel.
-6. **Differenzierung planen** — Zusatzaufgaben, gestufte Hilfen, verschiedene Komplexitätsniveaus.
+1. **Lernfeld analysieren** — Kompetenzformulierung und Inhalte lesen, Verben mit [[blooms-taxonomie]] einstufen.
+2. **Handlungssituation konstruieren** — Authentisches Szenario, idealerweise aus realen Betriebserfahrungen.
+3. **Arbeitsaufträge formulieren** — Entlang der sechs Phasen (informieren → planen → entscheiden → ausführen → kontrollieren → bewerten).
+4. **Material bereitstellen** — Mit [[scaffolding]] nach Lernstand abgestuft.
+5. **[[formatives-assessment]] einbauen** — Zwischenstände und [[constructive-alignment]]-konforme Prüfung.
+6. **Differenzierung planen** — Zusatzaufgaben, gestufte Hilfen.
 
 ## Voraussetzungen
 
-- Zugang zum Rahmenlehrplan und didaktischer Jahresplanung
-- Kenntnis der betrieblichen Praxis (Lernortkooperation mit Ausbildungsbetrieben)
-- Zeit für Bildungsgangkonferenz (Lernsituationen werden im Team entwickelt)
-- Technische Infrastruktur passend zum Lernfeld (IDE, Datenbank, Netzwerk-Lab)
+- Rahmenlehrplan und didaktische Jahresplanung
+- Lernortkooperation mit Ausbildungsbetrieben
+- Bildungsgangkonferenz (Teamentwicklung)
+- Technische Infrastruktur (IDE, Datenbank, Netzwerk-Lab)
 
 ## Varianten
 
-- **Kurze Lernsituation (4-8 Std.):** Eine Phase der vollständigen Handlung betont, z.B. reines Troubleshooting (LF6)
-- **Umfassende Lernsituation (20-40 Std.):** Alle sechs Phasen, häufig projektartig (LF10-12)
-- **Spiralcurriculare Verknüpfung:** Lernsituation aus LF5 (Datenbank) wird in LF8 (API) weitergeführt
-- **Kooperative Lernsituation:** Teams arbeiten an verschiedenen Teilaspekten eines gemeinsamen Produkts
+- **Kurze LS (4-8 Std.):** Eine Phase betont, z.B. Troubleshooting (LF6)
+- **Umfassende LS (20-40 Std.):** Alle sechs Phasen, projektartig (LF10-12)
+- **Spiralcurricular:** LS aus LF5 in LF8 weiterführen
+- **Kooperativ:** Teams an Teilaspekten eines gemeinsamen Produkts
 
 ## Zeitbedarf
 
-- **Entwicklung:** 4-8 Stunden pro Lernsituation (Bildungsgangkonferenz + Ausarbeitung)
-- **Durchführung:** Je nach Umfang 4-40 Unterrichtsstunden
-- **Evaluation/Anpassung:** 1-2 Stunden nach Durchführung
+- **Entwicklung:** 4-8 h pro LS
+- **Durchführung:** 4-40 Unterrichtsstunden
+- **Evaluation:** 1-2 h nach Durchführung
 
 ## Bezug zur IT-Ausbildung
 
@@ -86,18 +112,18 @@ Die Materiallage ist für LF1-6 gut, für LF7-12 (v.a. fachrichtungsspezifisch) 
 
 Ein Agent kann Lernsituationen generieren und bewerten:
 
-1. **LS-Entwurf:** Ausgehend von Lernfeld-Nummer und Kompetenzformulierung eine authentische Handlungssituation generieren. [[blooms-taxonomie]] für Operatoren nutzen, [[constructive-alignment]] für Kohärenz prüfen.
-2. **Arbeitsaufträge generieren** — pro Phase der vollständigen Handlung 1-2 konkrete Aufgaben formulieren, mit [[scaffolding]]-Stufen für Differenzierung.
-3. **Material erstellen** — Informationsblätter, Kundenbriefings, Beispieldaten für die Handlungssituation bereitstellen.
-4. **Qualität prüfen** — Ist die Handlungssituation authentisch? Deckt sie die Lernfeld-Kompetenzen ab? Ist das Assessment aligned?
+1. **LS-Entwurf:** Aus Lernfeld + Kompetenzformulierung eine authentische Handlungssituation generieren ([[blooms-taxonomie]]-Operatoren, [[constructive-alignment]]-Kohärenz).
+2. **Arbeitsaufträge:** Pro Phase der vollständigen Handlung 1-2 Aufgaben mit [[scaffolding]]-Stufen.
+3. **Material erstellen** — Kundenbriefings, Beispieldaten, Referenzen.
+4. **Qualität prüfen** — Authentisch? Kompetenzen abgedeckt? Assessment aligned?
 
 ## Verwandte Konzepte
 
-- [[handlungsorientierter-unterricht]] — Lernsituationen setzen das Lernfeldkonzept und die vollständige Handlung um
-- [[constructive-alignment]] — Lernziele, Aktivitäten und Prüfung müssen in der Lernsituation aligned sein
-- [[blooms-taxonomie]] — Operatoren zur Formulierung von Kompetenzzielen in der Lernsituation
-- [[scaffolding]] — Differenzierung innerhalb der Lernsituation durch gestufte Hilfen
-- [[formatives-assessment]] — Zwischenstände sichern und Feedback in die Lernsituation integrieren
+- [[handlungsorientierter-unterricht]] — vollständige Handlung als Strukturrahmen
+- [[constructive-alignment]] — Lernziele, Aktivitäten und Prüfung in Linie
+- [[blooms-taxonomie]] — Operatoren für Kompetenzziele
+- [[scaffolding]] — Differenzierung durch gestufte Hilfen
+- [[low-floor-high-ceiling]] — Zugänglichkeit + Ausbaufähigkeit
 
 ## Quellen
 
@@ -105,3 +131,5 @@ Ein Agent kann Lernsituationen generieren und bewerten:
 - Kultusministerkonferenz. (2020). Rahmenlehrplan für die Ausbildungsberufe Fachinformatiker und Fachinformatikerin.
 - ISB Bayern. (2020). Handreichung technische IT-Ausbildungsberufe — Umsetzungshilfe mit Lernsituationen.
 - Tramm, T. & Krille, F. (2013). Planung des Lernfeldunterrichts. bwp@ Berufs- und Wirtschaftspädagogik — online, 24, 1-24.
+- CAST (2018). Universal Design for Learning Guidelines version 2.2. http://udlguidelines.cast.org
+- Herrington, J. & Oliver, R. (2000). An instructional design framework for authentic learning environments. Educational Technology Research and Development, 48(3), 23-48.

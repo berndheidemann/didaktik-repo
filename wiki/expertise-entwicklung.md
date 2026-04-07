@@ -13,6 +13,9 @@ related:
   - "[[wissensretention-programmierung]]"
   - "[[debugging-als-kompetenz]]"
   - "[[kompetenzfeststellung-programmierung]]"
+  - "[[low-floor-high-ceiling]]"
+  - "[[primm-methode]]"
+  - "[[use-modify-create]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren, bewerten]
 created: 2026-04-07

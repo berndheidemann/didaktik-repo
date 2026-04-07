@@ -16,6 +16,8 @@ related:
   - "[[community-of-practice]]"
   - "[[flipped-classroom]]"
   - "[[ki-native-lernumgebungen]]"
+  - "[[self-determination-theory]]"
+  - "[[engagement-theory]]"
 audience: [FIAE]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [partner]

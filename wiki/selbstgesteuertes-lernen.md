@@ -16,6 +16,7 @@ related:
   - "[[handlungsorientierter-unterricht]]"
   - "[[productive-failure]]"
   - "[[retrieval-practice]]"
+  - "[[self-determination-theory]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

@@ -11,6 +11,11 @@ related:
   - "[[meta-analysen-cs-education]]"
   - "[[affektive-dimensionen]]"
   - "[[immersive-simulationen]]"
+  - "[[flow-theorie]]"
+  - "[[self-determination-theory]]"
+  - "[[intrinsic-integration]]"
+  - "[[computational-action]]"
+  - "[[engagement-theory]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

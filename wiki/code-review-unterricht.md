@@ -12,6 +12,8 @@ related:
   - "[[community-of-practice]]"
   - "[[kompetenzfeststellung-programmierung]]"
   - "[[peer-instruction]]"
+  - "[[primm-methode]]"
+  - "[[engagement-theory]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [partner, gruppe]

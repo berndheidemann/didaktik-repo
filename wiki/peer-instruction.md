@@ -11,6 +11,7 @@ related:
   - "[[threshold-concepts]]"
   - "[[meta-analysen-cs-education]]"
   - "[[community-of-practice]]"
+  - "[[primm-methode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [partner, plenum]

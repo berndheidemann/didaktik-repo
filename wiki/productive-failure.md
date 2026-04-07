@@ -1,7 +1,7 @@
 ---
 title: Productive Failure und Desirable Difficulties
 type: theorie
-tags: [lernwiderstand, spacing, interleaving, retrieval-practice, transfer, kognitive-belastung]
+tags: [lernwiderstand, spacing, interleaving, retrieval-practice, transfer, kognitive-belastung, productive-struggle]
 related:
   - "[[cognitive-load-theory]]"
   - "[[worked-examples]]"
@@ -16,6 +16,11 @@ related:
   - "[[ki-native-lernumgebungen]]"
   - "[[retrieval-practice]]"
   - "[[threshold-concepts]]"
+  - "[[low-floor-high-ceiling]]"
+  - "[[flow-theorie]]"
+  - "[[self-determination-theory]]"
+  - "[[intrinsic-integration]]"
+  - "[[primm-methode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07
@@ -43,6 +48,12 @@ Die traditionelle Sequenz ist: Instruktion → Übung. Productive Failure kehrt 
 
 **Spannung mit [[cognitive-load-theory]]:** PF scheint CLT zu widersprechen — [[worked-examples]] minimieren Struggle für Novizen. Die Auflösung: PF funktioniert, wenn Lernende *etwas* Vorwissen haben, um partielle Lösungen zu generieren. Für absolute Anfänger:innen bleiben Worked Examples überlegen. Der Übergang von Worked Examples zu Productive Failure markiert den Weg vom Novizen zum kompetenten Problemlöser.
 
+### Productive Struggle — Abgrenzung
+
+Hiebert & Grouws (2007) definieren Productive Struggle als Lernsituation, in der "students expend effort to make sense of mathematics, to figure something out that is not immediately apparent" — ein Ringen *innerhalb* der ZPD (vgl. [[scaffolding]]), nicht darüber hinaus. Im Unterschied zu Productive Failure geht es nicht um bewusstes Scheitern *vor* der Instruktion, sondern um kontinuierliches Bemühen mit erreichbaren Problemen *während* des Lernens. Designkriterium: Der erste Lösungsansatz trägt nicht, ein zweiter oder dritter bleibt aber erreichbar.
+
+**Für den Agent — "Struggle-or-Scaffold"-Entscheidung:** Bei absoluten Novizen scaffolden ([[worked-examples]], gestufte Hilfen), bei Fortgeschrittenen Struggle aktiv zulassen. Die Lernstandsdiagnose entscheidet, ob ein Hinweis sofort gegeben oder das Ringen produktiv ausgehalten wird.
+
 ### Desirable Difficulties (Bjork)
 
 Robert und Elizabeth Bjork identifizieren vier Bedingungen, die Lernen kurzfristig erschweren, aber Langzeitbehaltung und Transfer verbessern:
@@ -54,11 +65,7 @@ Robert und Elizabeth Bjork identifizieren vier Bedingungen, die Lernen kurzfrist
 | **Retrieval Practice** | Aktives Abrufen statt Wiederlesen | "Was gibt dieser Code aus?" bevor man ihn ausführt |
 | **Generation** | Selbst generieren statt vorgefertigt lesen | Pseudocode schreiben bevor die Lösung gezeigt wird |
 
-**Evidenz Spacing:** Leppink et al. (2023) zeigten 40% bessere Retention bei verteilter vs. massierter SQL-Übung nach 4 Wochen.
-
-**Evidenz Interleaving:** Tafliovich et al. (2023) fanden signifikant bessere Prüfungsleistungen bei CS1-Studierenden mit interleaved vs. blocked Practice.
-
-**Evidenz Retrieval Practice:** Yang et al. (2024) zeigten ~15% bessere Klausurergebnisse durch Low-Stakes-Code-Tracing-Quizzes vor jeder Einheit. Parsons Problems (Code-Zeilen sortieren) funktionieren als Retrieval Practice mit niedrigerer kognitiver Last als freies Schreiben.
+**Evidenz:** Leppink et al. (2023) zeigten 40% bessere Retention bei verteilter SQL-Übung. Tafliovich et al. (2023) fanden signifikant bessere CS1-Prüfungsleistungen mit interleaved Practice. Yang et al. (2024) berichten ~15% bessere Klausurergebnisse durch Low-Stakes-Code-Tracing-Quizzes. Parsons Problems funktionieren als Retrieval Practice mit niedrigerer kognitiver Last als freies Schreiben.
 
 ## Bezug zur IT-Ausbildung
 
@@ -80,12 +87,11 @@ Ein Agent kann Desirable Difficulties systematisch einbauen:
 
 ## Verwandte Konzepte
 
-- [[cognitive-load-theory]] — Spannung und Komplementarität: CLT für Novizen, PF für Fortgeschrittene
-- [[worked-examples]] — Das andere Ende des Kontinuums: Worked Examples → Completion → PF
-- [[scaffolding]] — Wann scaffolden (Novize) vs. wann scheitern lassen (Fortgeschrittene)?
-- [[formatives-assessment]] — Retrieval Practice ist gleichzeitig Assessment und Lernstrategie
-- [[interaktive-lernumgebungen]] — Adaptive Schwierigkeit muss Desirable Difficulties einbauen
-- [[selbstgesteuertes-lernen]] — Generation und Retrieval fördern metakognitives Bewusstsein
+- [[cognitive-load-theory]] — CLT für Novizen, PF für Fortgeschrittene (Komplementarität)
+- [[worked-examples]] — Anderes Ende des Kontinuums: Worked Examples → Completion → PF
+- [[scaffolding]] — Wann scaffolden vs. wann scheitern lassen?
+- [[formatives-assessment]] — Retrieval Practice als Assessment und Lernstrategie
+- [[selbstgesteuertes-lernen]] — Generation und Retrieval fördern Metakognition
 
 ## Quellen
 
@@ -94,3 +100,4 @@ Ein Agent kann Desirable Difficulties systematisch einbauen:
 - Loibl, K., Roll, I. & Rummel, N. (2024). Towards a Theory of When and How Problem Solving Followed by Instruction Supports Learning. Educational Psychology Review, 29, 693-715.
 - Bjork, R. A. & Bjork, E. L. (2011). Making Things Hard on Yourself, But in a Good Way. In M. A. Gernsbacher et al. (Hrsg.), Psychology and the Real World (S. 56-64). Worth.
 - Roediger, H. L. & Karpicke, J. D. (2006). Test-Enhanced Learning. Psychological Science, 17(3), 249-255.
+- Hiebert, J. & Grouws, D. A. (2007). The effects of classroom mathematics teaching on students' learning. In F. K. Lester (Hrsg.), Second Handbook of Research on Mathematics Teaching and Learning (S. 371-404). NCTM.

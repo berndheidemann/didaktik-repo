@@ -13,6 +13,10 @@ related:
   - "[[cognitive-apprenticeship]]"
   - "[[affektive-dimensionen]]"
   - "[[debugging-als-kompetenz]]"
+  - "[[flow-theorie]]"
+  - "[[intrinsic-integration]]"
+  - "[[use-modify-create]]"
+  - "[[computational-action]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]

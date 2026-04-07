@@ -11,6 +11,9 @@ related:
   - "[[ki-gestuetztes-tutoring]]"
   - "[[worked-examples]]"
   - "[[expertise-entwicklung]]"
+  - "[[primm-methode]]"
+  - "[[intrinsic-integration]]"
+  - "[[use-modify-create]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit, partner]
