@@ -12,6 +12,8 @@ related:
   - "[[code-review-unterricht]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[lerntagebuch]]"
+  - "[[retrieval-practice]]"
+  - "[[productive-failure]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 sozialform: [einzelarbeit, partner, gruppe, plenum]

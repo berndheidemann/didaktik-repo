@@ -9,6 +9,7 @@ related:
   - "[[selbstgesteuertes-lernen]]"
   - "[[worked-examples]]"
   - "[[cognitive-load-theory]]"
+  - "[[ki-native-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]

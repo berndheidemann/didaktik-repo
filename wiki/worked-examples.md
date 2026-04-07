@@ -8,6 +8,8 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[blooms-taxonomie]]"
   - "[[formatives-assessment]]"
+  - "[[productive-failure]]"
+  - "[[retrieval-practice]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 sozialform: [einzelarbeit, partner]

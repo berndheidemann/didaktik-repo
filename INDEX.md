@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 16 | **Letzte Aktualisierung:** 2026-04-07
+**Artikel:** 21 | **Letzte Aktualisierung:** 2026-04-07
 
 ---
 
@@ -16,6 +16,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[interaktive-lernumgebungen]] — Gestaltungsprinzipien für Lernumgebungen mit aktivem Handeln, Feedback und adaptiven Lernpfaden
 - [[scaffolding]] — Temporäre Lernunterstützung in der Zone der nächsten Entwicklung nach Vygotsky (1978)
 - [[selbstgesteuertes-lernen]] — Lernende planen, überwachen und reflektieren ihren Lernprozess nach Zimmerman (1989)
+- [[productive-failure]] — Gezieltes Scheitern vor Instruktion und Desirable Difficulties (Spacing, Interleaving, Retrieval)
+- [[ki-native-lernumgebungen]] — Frontier: KI als Lernmedium (Multi-Agent-Tutoring, Copilot-First, Prompt Engineering als Pädagogik)
+- [[learning-engineering]] — Datengetriebener Aufbau von Lernsystemen nach Prinzipien von Duolingo, Carnegie Learning und Khan Academy
 
 ### Methoden & Formate
 - [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
@@ -26,6 +29,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[lernsituationen-gestalten]] — Methodik zur Entwicklung von Lernsituationen aus Lernfeldern des Rahmenlehrplans
 - [[pair-programming-unterricht]] — Kooperatives Programmieren als Lernmethode mit Driver/Navigator-Rollen
 - [[worked-examples]] — Ausgearbeitete Lösungsbeispiele mit Fading als Scaffolding-Strategie
+- [[immersive-simulationen]] — CTFs, Cloud-Sandboxes, Incident-Response-Simulatoren für authentische IT-Praxis
+- [[retrieval-practice]] — Spaced Repetition, Code-Katas und Interleaving für nachhaltiges Behalten
 
 ### Evidenz & Forschung
 *(noch keine Artikel)*
@@ -40,9 +45,11 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 ### LF3: Clients in Netzwerke einbinden
 - [[flipped-classroom]] — Protokolltheorie per Video, Netzwerkkonfiguration im Unterricht
 - [[worked-examples]] — Dokumentierte Subnetting-Berechnungen Schritt für Schritt
+- [[immersive-simulationen]] — Virtuelle Netzwerk-Labs (GNS3, EVE-NG) mit echtem Firmware
 
 ### LF4: Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen
 - [[gamification-it-unterricht]] — Escape Room IT-Security für Schutzbedarfsanalyse
+- [[immersive-simulationen]] — CTF-Plattformen (TryHackMe, PicoCTF) für Penetration Testing
 
 ### LF5: Software zur Verwaltung von Daten anpassen
 - [[pair-programming-unterricht]]
@@ -85,6 +92,10 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[cognitive-load-theory]] — Lernmaterial-Gestaltung für alle Inhalte
 - [[scaffolding]] — Differenzierte Unterstützung über alle Lernfelder
 - [[ki-gestuetztes-tutoring]] — Stufenmodell für KI-Einsatz über die Ausbildungsjahre
+- [[productive-failure]] — Spacing und Interleaving über Lernfelder hinweg
+- [[retrieval-practice]] — Spaced Review Queue für alle bisherigen Inhalte
+- [[ki-native-lernumgebungen]] — Multi-Agent-Tutoring und adaptive Aufgabengenerierung
+- [[learning-engineering]] — Knowledge Graph der Lernfelder mit Mastery-Tracking
 
 ---
 
@@ -135,6 +146,16 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 
 ### KI im Unterricht
 - [[ki-gestuetztes-tutoring]] — Stufenmodell für den Einsatz von KI-Tutoring-Systemen
+- [[ki-native-lernumgebungen]] — Frontier: Multi-Agent-Tutoring, Copilot-First, Prompt Engineering als Pädagogik
+
+### Wissensretention / Nachhaltiges Lernen
+- [[retrieval-practice]] — Testing Effect, Spaced Repetition und Interleaving für langfristiges Behalten
+- [[productive-failure]] — Gezielt Schwierigkeiten einbauen für tieferes Verständnis
+
+### Plattform- und Systemdesign
+- [[learning-engineering]] — Prinzipien für den Aufbau datengetriebener Lernsysteme
+- [[immersive-simulationen]] — Authentische IT-Simulationsumgebungen mit consequential Feedback
+- [[ki-native-lernumgebungen]] — Architektur KI-nativer Lernumgebungen
 
 ### Lernzielformulierung
 - [[blooms-taxonomie]] — Sechs Kompetenzstufen mit Operatoren für Lernziele

@@ -7,6 +7,8 @@ related:
   - "[[scaffolding]]"
   - "[[interaktive-lernumgebungen]]"
   - "[[blooms-taxonomie]]"
+  - "[[productive-failure]]"
+  - "[[ki-native-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

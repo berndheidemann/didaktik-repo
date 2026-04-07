@@ -13,6 +13,9 @@ related:
   - "[[pair-programming-unterricht]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[gamification-it-unterricht]]"
+  - "[[ki-native-lernumgebungen]]"
+  - "[[immersive-simulationen]]"
+  - "[[learning-engineering]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07
