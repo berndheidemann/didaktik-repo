@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 21 | **Letzte Aktualisierung:** 2026-04-07
+**Artikel:** 26 | **Letzte Aktualisierung:** 2026-04-07
 
 ---
 
@@ -19,6 +19,10 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[productive-failure]] — Gezieltes Scheitern vor Instruktion und Desirable Difficulties (Spacing, Interleaving, Retrieval)
 - [[ki-native-lernumgebungen]] — Frontier: KI als Lernmedium (Multi-Agent-Tutoring, Copilot-First, Prompt Engineering als Pädagogik)
 - [[learning-engineering]] — Datengetriebener Aufbau von Lernsystemen nach Prinzipien von Duolingo, Carnegie Learning und Khan Academy
+- [[threshold-concepts]] — Schwellenkonzepte (Rekursion, Referenzen) und Notional Machines als Schlüssel zum Verständnis
+- [[cognitive-apprenticeship]] — Expertenwissen sichtbar machen durch Modeling, Coaching, Articulation und Reflection
+- [[expertise-entwicklung]] — Dreyfus-Modell und Subskill-Progression (Tracing → Explaining → Writing → Designing)
+- [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset und Zugehörigkeit als Dropout-Prävention
 
 ### Methoden & Formate
 - [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
@@ -31,6 +35,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[worked-examples]] — Ausgearbeitete Lösungsbeispiele mit Fading als Scaffolding-Strategie
 - [[immersive-simulationen]] — CTFs, Cloud-Sandboxes, Incident-Response-Simulatoren für authentische IT-Praxis
 - [[retrieval-practice]] — Spaced Repetition, Code-Katas und Interleaving für nachhaltiges Behalten
+- [[peer-instruction]] — ConcepTest-Zyklen mit 61% weniger Durchfallern in CS-Kursen (Porter et al.)
 
 ### Evidenz & Forschung
 *(noch keine Artikel)*
@@ -107,6 +112,11 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[handlungsorientierter-unterricht]] — Handlungskompetenz (Fach-, Selbst-, Sozialkompetenz) als Ziel
 - [[lernsituationen-gestalten]] — Kompetenzen in authentische Lernsituationen übersetzen
 
+### Dropout-Prävention / Affektive Dimension
+- [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset, Zugehörigkeit als stärkste Prädiktoren
+- [[scaffolding]] — Frustrationskontrolle als Scaffolding-Funktion
+- [[productive-failure]] — Nur wirksam in Growth-Mindset-Kultur
+
 ### Heterogenität / Differenzierung
 - [[pair-programming-unterricht]] — Heterogene Paare für Wissenstransfer
 - [[interaktive-lernumgebungen]] — Adaptive Lernpfade passen Schwierigkeit an individuelles Niveau an
@@ -114,10 +124,18 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[cognitive-load-theory]] — Expertise Reversal: Hilfen für Novizen anpassen, für Experten reduzieren
 - [[worked-examples]] — Fading von vollständigen Beispielen zu offenen Aufgaben
 - [[ki-gestuetztes-tutoring]] — Personalisierte Erklärungen auf verschiedenen Abstraktionsniveaus
+- [[expertise-entwicklung]] — Dreyfus-Stufen bestimmen den passenden Instruktionsansatz
+- [[threshold-concepts]] — Gezielte Intervention bei nicht-überschrittenen Schwellenkonzepten
+
+### Expertenwissen vermitteln
+- [[cognitive-apprenticeship]] — Modeling, Coaching, Scaffolding, Articulation, Reflection, Exploration
+- [[threshold-concepts]] — Gezielte Intervention bei transformativen Schwellenkonzepten
+- [[expertise-entwicklung]] — Subskill-Zerlegung für adaptive Lernpfade
 
 ### Aktivierung / Handlungsorientierung
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Unterrichtsprinzip
 - [[pair-programming-unterricht]] — Lernende programmieren aktiv statt nur zuzuschauen
+- [[peer-instruction]] — ConcepTest-Zyklen aktivieren alle Lernenden gleichzeitig
 - [[interaktive-lernumgebungen]] — Lernende interagieren aktiv mit Aufgaben und erhalten sofortiges Feedback
 - [[flipped-classroom]] — Präsenzzeit für aktives Lernen statt Vortrag nutzen
 - [[gamification-it-unterricht]] — Hackathons, Escape Rooms und Coding Challenges für aktives Lernen
