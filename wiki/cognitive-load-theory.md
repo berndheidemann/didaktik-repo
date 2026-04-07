@@ -9,6 +9,8 @@ related:
   - "[[blooms-taxonomie]]"
   - "[[productive-failure]]"
   - "[[ki-native-lernumgebungen]]"
+  - "[[wissensretention-programmierung]]"
+  - "[[effektstaerken-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

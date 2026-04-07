@@ -12,6 +12,8 @@ related:
   - "[[formatives-assessment]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[lerntagebuch]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[cognitive-apprenticeship]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07

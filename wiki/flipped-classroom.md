@@ -8,6 +8,7 @@ related:
   - "[[handlungsorientierter-unterricht]]"
   - "[[formatives-assessment]]"
   - "[[pair-programming-unterricht]]"
+  - "[[meta-analysen-cs-education]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

@@ -9,6 +9,7 @@ related:
   - "[[cognitive-load-theory]]"
   - "[[selbstgesteuertes-lernen]]"
   - "[[learning-engineering]]"
+  - "[[wissensretention-programmierung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden]
 sozialform: [einzelarbeit]

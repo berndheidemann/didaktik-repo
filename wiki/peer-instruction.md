@@ -9,6 +9,7 @@ related:
   - "[[code-review-unterricht]]"
   - "[[cognitive-load-theory]]"
   - "[[threshold-concepts]]"
+  - "[[meta-analysen-cs-education]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [partner, plenum]

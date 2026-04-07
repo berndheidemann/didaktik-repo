@@ -10,6 +10,7 @@ related:
   - "[[formatives-assessment]]"
   - "[[ki-native-lernumgebungen]]"
   - "[[expertise-entwicklung]]"
+  - "[[wissensretention-programmierung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 created: 2026-04-07

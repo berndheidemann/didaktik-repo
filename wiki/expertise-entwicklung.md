@@ -10,6 +10,7 @@ related:
   - "[[threshold-concepts]]"
   - "[[productive-failure]]"
   - "[[learning-engineering]]"
+  - "[[wissensretention-programmierung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren, bewerten]
 created: 2026-04-07

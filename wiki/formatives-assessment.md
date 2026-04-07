@@ -14,6 +14,7 @@ related:
   - "[[lerntagebuch]]"
   - "[[retrieval-practice]]"
   - "[[productive-failure]]"
+  - "[[cognitive-apprenticeship]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 sozialform: [einzelarbeit, partner, gruppe, plenum]

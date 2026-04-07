@@ -10,6 +10,9 @@ related:
   - "[[formatives-assessment]]"
   - "[[productive-failure]]"
   - "[[retrieval-practice]]"
+  - "[[meta-analysen-cs-education]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[cognitive-apprenticeship]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 sozialform: [einzelarbeit, partner]

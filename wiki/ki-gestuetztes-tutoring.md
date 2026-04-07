@@ -10,6 +10,7 @@ related:
   - "[[worked-examples]]"
   - "[[cognitive-load-theory]]"
   - "[[ki-native-lernumgebungen]]"
+  - "[[cognitive-apprenticeship]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]

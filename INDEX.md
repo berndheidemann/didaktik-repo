@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 29 | **Letzte Aktualisierung:** 2026-04-07
+**Artikel:** 32 | **Letzte Aktualisierung:** 2026-04-07
 
 ---
 
@@ -19,6 +19,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[productive-failure]] — Gezieltes Scheitern vor Instruktion und Desirable Difficulties (Spacing, Interleaving, Retrieval)
 - [[ki-native-lernumgebungen]] — Frontier: KI als Lernmedium (Multi-Agent-Tutoring, Copilot-First, Prompt Engineering als Pädagogik)
 - [[learning-engineering]] — Datengetriebener Aufbau von Lernsystemen nach Prinzipien von Duolingo, Carnegie Learning und Khan Academy
+- [[community-of-practice]] — Lernen durch wachsende Teilhabe an Praxisgemeinschaften (Wenger, 1998)
 - [[threshold-concepts]] — Schwellenkonzepte (Rekursion, Referenzen) und Notional Machines als Schlüssel zum Verständnis
 - [[cognitive-apprenticeship]] — Expertenwissen sichtbar machen durch Modeling, Coaching, Articulation und Reflection
 - [[expertise-entwicklung]] — Dreyfus-Modell und Subskill-Progression (Tracing → Explaining → Writing → Designing)
@@ -36,6 +37,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[immersive-simulationen]] — CTFs, Cloud-Sandboxes, Incident-Response-Simulatoren für authentische IT-Praxis
 - [[retrieval-practice]] — Spaced Repetition, Code-Katas und Interleaving für nachhaltiges Behalten
 - [[peer-instruction]] — ConcepTest-Zyklen mit 61% weniger Durchfallern in CS-Kursen (Porter et al.)
+- [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz mit systematischen Strategien
 
 ### Evidenz & Forschung
 - [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
@@ -44,6 +46,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 
 ### Praxis & Erfahrung
 - [[ki-gestuetztes-tutoring]] — Erfahrungsberichte zu LLM-basierten Tutoring-Systemen im Programmierunterricht
+- [[kompetenzfeststellung-programmierung]] — Portfolio, Prozess-Assessment und KI-integrierte Prüfungsformate
 
 ---
 
@@ -129,6 +132,12 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[expertise-entwicklung]] — Dreyfus-Stufen bestimmen den passenden Instruktionsansatz
 - [[threshold-concepts]] — Gezielte Intervention bei nicht-überschrittenen Schwellenkonzepten
 
+### Kooperatives Lernen / Soziale Dimension
+- [[community-of-practice]] — Lernen durch Teilhabe an Praxisgemeinschaften
+- [[pair-programming-unterricht]] — Kooperatives Programmieren im Pair
+- [[code-review-unterricht]] — Peer-Feedback auf Code
+- [[peer-instruction]] — Strukturierte Peer-Diskussion über Konzepte
+
 ### Expertenwissen vermitteln
 - [[cognitive-apprenticeship]] — Modeling, Coaching, Scaffolding, Articulation, Reflection, Exploration
 - [[threshold-concepts]] — Gezielte Intervention bei transformativen Schwellenkonzepten
@@ -148,11 +157,16 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[scaffolding]] — Von maximaler Unterstützung zu Selbstständigkeit
 - [[lernsituationen-gestalten]] — Systematische Entwicklung von Lernsituationen
 
+### Debugging und Fehlerkultur
+- [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz
+- [[affektive-dimensionen]] — Growth Mindset und Fehlertoleranz als Voraussetzung
+
 ### Feedback und Lernstandsdiagnostik
 - [[formatives-assessment]] — Fünf Schlüsselstrategien für Assessment FOR Learning
 - [[interaktive-lernumgebungen]] — Sofortiges Feedback durch automatisierte Tests und KI
 - [[code-review-unterricht]] — Peer Code Reviews als strukturiertes Feedback
 - [[ki-gestuetztes-tutoring]] — KI-gestütztes individuelles Feedback im Programmierunterricht
+- [[kompetenzfeststellung-programmierung]] — Summative Assessment: Portfolio, Prozess, Fachgespräch
 
 ### Selbstständiges Lernen fördern
 - [[selbstgesteuertes-lernen]] — Drei-Phasen-Modell zur Förderung eigenständiger Lernkompetenz

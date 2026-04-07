@@ -9,6 +9,7 @@ related:
   - "[[formatives-assessment]]"
   - "[[interaktive-lernumgebungen]]"
   - "[[selbstgesteuertes-lernen]]"
+  - "[[wissensretention-programmierung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07
