@@ -7,6 +7,8 @@ related:
   - "[[pair-programming-unterricht]]"
   - "[[selbstgesteuertes-lernen]]"
   - "[[interaktive-lernumgebungen]]"
+  - "[[cognitive-load-theory]]"
+  - "[[handlungsorientierter-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

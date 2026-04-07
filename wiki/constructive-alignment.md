@@ -7,6 +7,8 @@ related:
   - "[[pair-programming-unterricht]]"
   - "[[selbstgesteuertes-lernen]]"
   - "[[interaktive-lernumgebungen]]"
+  - "[[handlungsorientierter-unterricht]]"
+  - "[[formatives-assessment]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07

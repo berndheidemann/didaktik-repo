@@ -6,6 +6,10 @@ related:
   - "[[selbstgesteuertes-lernen]]"
   - "[[constructive-alignment]]"
   - "[[blooms-taxonomie]]"
+  - "[[cognitive-load-theory]]"
+  - "[[scaffolding]]"
+  - "[[worked-examples]]"
+  - "[[formatives-assessment]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

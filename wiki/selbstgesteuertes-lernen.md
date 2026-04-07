@@ -6,6 +6,8 @@ related:
   - "[[blooms-taxonomie]]"
   - "[[constructive-alignment]]"
   - "[[interaktive-lernumgebungen]]"
+  - "[[scaffolding]]"
+  - "[[formatives-assessment]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07
