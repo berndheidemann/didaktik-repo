@@ -10,6 +10,7 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 summary: >
   {Ein bis zwei Sätze: Was ist die Methode und wofür eignet sie sich?}
+# source: "[[sources/YYYY-MM-DD-kurztitel.pdf]]"
 ---
 
 # {Titel}
@@ -33,6 +34,10 @@ summary: >
 ## Varianten
 
 {Welche Abwandlungen gibt es? Wie kann die Methode an verschiedene Kontexte angepasst werden?}
+
+## Zeitbedarf
+
+{Wie viel Zeit braucht die Methode? Vorbereitung, Durchführung, Nachbereitung.}
 
 ## Bezug zur IT-Ausbildung
 

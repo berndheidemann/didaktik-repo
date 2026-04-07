@@ -10,6 +10,7 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 summary: >
   {Ein bis zwei Sätze: Was wurde untersucht und was ist das Kernergebnis?}
+# source: "[[sources/YYYY-MM-DD-kurztitel.pdf]]"
 ---
 
 # {Titel}

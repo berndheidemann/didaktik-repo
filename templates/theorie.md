@@ -9,6 +9,7 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 summary: >
   {Ein bis zwei Sätze: Was ist das Kernkonzept und warum ist es relevant?}
+# source: "[[sources/YYYY-MM-DD-kurztitel.pdf]]"
 ---
 
 # {Titel}

@@ -33,7 +33,7 @@ didaktik-repo/
 
 Unveränderliches Rohmaterial. PDFs, Artikel-URLs, Notizen, Transkripte. Wird nicht direkt von Agents zur Wissensfindung genutzt, sondern dient als Grundlage für die Kompilation in `wiki/`.
 
-Dateinamen: `YYYY-MM-DD-kurztitel.{pdf,md,txt,url}`
+Dateinamen: `YYYY-MM-DD-kurztitel.{pdf,md,txt}`
 
 ### Schicht 2: `wiki/`
 
