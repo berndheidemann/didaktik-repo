@@ -14,6 +14,7 @@ related:
   - "[[low-floor-high-ceiling]]"
   - "[[use-modify-create]]"
   - "[[productive-failure]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [partner, gruppe, einzelarbeit]

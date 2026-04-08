@@ -20,6 +20,7 @@ related:
   - "[[low-floor-high-ceiling]]"
   - "[[primm-methode]]"
   - "[[use-modify-create]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 sozialform: [einzelarbeit, partner]

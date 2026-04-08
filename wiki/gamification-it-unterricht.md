@@ -16,6 +16,7 @@ related:
   - "[[intrinsic-integration]]"
   - "[[computational-action]]"
   - "[[engagement-theory]]"
+  - "[[kursarchitektur-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

@@ -12,6 +12,7 @@ related:
   - "[[flow-theorie]]"
   - "[[self-determination-theory]]"
   - "[[engagement-theory]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07

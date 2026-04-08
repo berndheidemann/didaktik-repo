@@ -14,6 +14,7 @@ related:
   - "[[low-floor-high-ceiling]]"
   - "[[ki-native-lernumgebungen]]"
   - "[[computational-action]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

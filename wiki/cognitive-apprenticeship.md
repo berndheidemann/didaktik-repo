@@ -14,6 +14,8 @@ related:
   - "[[community-of-practice]]"
   - "[[debugging-als-kompetenz]]"
   - "[[formatives-assessment]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[prompt-engineering-didaktisch]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

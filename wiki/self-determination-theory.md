@@ -16,6 +16,7 @@ related:
   - "[[intrinsic-integration]]"
   - "[[engagement-theory]]"
   - "[[computational-action]]"
+  - "[[kursarchitektur-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

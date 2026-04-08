@@ -19,6 +19,7 @@ related:
   - "[[lerntagebuch]]"
   - "[[scaffolding]]"
   - "[[worked-examples]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

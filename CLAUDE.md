@@ -29,7 +29,7 @@ Zielgruppe: Fachinformatiker (FIAE/FIDP) in der Berufsschule.
 
 ## Konventionen
 
-- Artikel max. ~8.000 Zeichen — darüber in mehrere Artikel aufteilen
+- Artikel-Länge: Standard ~8.000 Zeichen, Obergrenze ~10.000. Referenz- und Katalogartikel (Tag `referenz` oder `katalog`) dürfen bis ~15.000 Zeichen gehen, wenn die Vollständigkeit didaktisch den Wert ausmacht. Darüber hinaus oder bei geschwätzigem Text: in mehrere Artikel aufteilen.
 - Wikilinks ohne .md-Endung: `[[constructive-alignment]]` nicht `[[constructive-alignment.md]]`
 - `related` ist **bidirektional**: Wenn Artikel A im `related`-Feld auf B verweist, muss B auch auf A verweisen. Beim Anlegen oder Erweitern eines Artikels stets auch die Gegenrichtung in den verlinkten Artikeln nachtragen.
 - Jeder Abschnitt muss auch isoliert verständlich sein (Progressive Disclosure)

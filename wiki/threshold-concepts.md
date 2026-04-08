@@ -15,6 +15,9 @@ related:
   - "[[peer-instruction]]"
   - "[[low-floor-high-ceiling]]"
   - "[[use-modify-create]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[prompt-engineering-didaktisch]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 created: 2026-04-07

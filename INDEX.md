@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 40 | **Letzte Aktualisierung:** 2026-04-07
+**Artikel:** 47 | **Letzte Aktualisierung:** 2026-04-07
 
 ---
 
@@ -30,6 +30,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[intrinsic-integration]] — Habgood & Ainsworth: Lerninhalt als Kernmechanik statt Gamification-Aufsatz
 - [[computational-action]] — Tissenbaum/Sheldon/Abelson: Von Computational Thinking zu Werkzeugen mit echtem Nutzen
 - [[engagement-theory]] — Kearsley & Shneidermans Relate-Create-Donate als Designcheckliste
+- [[kursarchitektur-lernumgebungen]] — Acht Architektur-Muster (Linear, Mastery-Gate, Knowledge Graph, Branching, Rollen, Spiral, Hub-and-Spoke, Sandbox) mit Entscheidungshilfe
 
 ### Methoden & Formate
 - [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
@@ -46,6 +47,11 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz mit systematischen Strategien
 - [[primm-methode]] — Predict-Run-Investigate-Modify-Make als 5-Phasen-Struktur für Programmieraufgaben (Sentance)
 - [[use-modify-create]] — Drei-Stufen-Progression für Computational Thinking (Lee et al. 2011) mit eingebauter Differenzierung
+- [[llm-integrationsmuster-lernumgebungen]] — Vier wiederverwendbare Muster für LLM-Integration in Lernumgebungen (Adversary, Sokratischer Tutor, Rubric-Evaluator, Case Generator) mit Prompt-Skeletten
+- [[prompt-engineering-didaktisch]] — Engineering-Disziplin hinter den LLM-Mustern: Layered Prompts, Ground-Truth-Injection, Persona-Anchor, Structured Output, Injection-Sandbox
+- [[evaluation-lernumgebungen]] — Pragmatischer Leitfaden für Lehrer-Entwickler: Metriken, Playtest-Protokoll, Pre-/Post-Design, Design-Based Research
+- [[aufgabentypen-interaktive-lernumgebungen]] — Referenz-Katalog mit 21 Aufgabentypen, Bloom-Einordnung und LLM-Upgrade-Potenzial
+- [[lerner-modell-mastery-tracking]] — Fünfstufiges Komplexitätsmodell (Completion → Score → KCs → BKT → DKT) mit TypeScript-Datenstrukturen
 
 ### Evidenz & Forschung
 - [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
@@ -55,6 +61,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 ### Praxis & Erfahrung
 - [[ki-gestuetztes-tutoring]] — Erfahrungsberichte zu LLM-basierten Tutoring-Systemen im Programmierunterricht
 - [[kompetenzfeststellung-programmierung]] — Portfolio, Prozess-Assessment und KI-integrierte Prüfungsformate
+- [[datenschutz-lernumgebungen]] — Datenschutzkonformer Bau von Schul-Lernumgebungen: Verantwortlichkeit, LLM-AVV, Einwilligung, Client-only als Königsweg
 
 ---
 
@@ -185,6 +192,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[worked-examples]] — Ausgearbeitete Lösungen für Novizen, Fading für Fortgeschrittene
 - [[scaffolding]] — Von maximaler Unterstützung zu Selbstständigkeit
 - [[lernsituationen-gestalten]] — Systematische Entwicklung von Lernsituationen
+- [[aufgabentypen-interaktive-lernumgebungen]] — Referenz-Katalog mit 21 Widget-Typen und Entscheidungshilfe Lernziel → Typ
 - [[low-floor-high-ceiling]] — Einstieg niedrig, Decke offen, Wide Walls für diverse Produktformen
 - [[intrinsic-integration]] — Lernziel als Kernmechanik verankern, nicht als Reward ankleben
 - [[flow-theorie]] — Aufgaben in individueller Challenge-Skill-Balance halten
@@ -198,6 +206,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[interaktive-lernumgebungen]] — Sofortiges Feedback durch automatisierte Tests und KI
 - [[code-review-unterricht]] — Peer Code Reviews als strukturiertes Feedback
 - [[ki-gestuetztes-tutoring]] — KI-gestütztes individuelles Feedback im Programmierunterricht
+- [[llm-integrationsmuster-lernumgebungen]] — Rubric-Evaluator-Muster für kriterienbasiertes Feedback auf Freitext
+- [[lerner-modell-mastery-tracking]] — Mastery pro Konzept als Diagnose-Goldstandard für Unterrichtsgespräche
+- [[evaluation-lernumgebungen]] — Pre-/Post-Tests, Telemetrie und Playtests zur Wirksamkeitsprüfung
 - [[kompetenzfeststellung-programmierung]] — Summative Assessment: Portfolio, Prozess, Fachgespräch
 
 ### Selbstständiges Lernen fördern
@@ -220,17 +231,27 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 ### KI im Unterricht
 - [[ki-gestuetztes-tutoring]] — Stufenmodell für den Einsatz von KI-Tutoring-Systemen
 - [[ki-native-lernumgebungen]] — Frontier: Multi-Agent-Tutoring, Copilot-First, Prompt Engineering als Pädagogik
+- [[llm-integrationsmuster-lernumgebungen]] — Konkrete, wiederverwendbare Muster mit Prompt-Skeletten für LLM-Integration in Lernumgebungen
+- [[prompt-engineering-didaktisch]] — Engineering hinter den Mustern: Layered Prompts, Ground-Truth-Injection, Persona-Anchor, Injection-Sandbox
+- [[datenschutz-lernumgebungen]] — LLM-Integration datenschutzkonform: Cloud vs. lokal, AVV, Prompt-Hygiene
 - [[use-modify-create]] — Natürlicher Lernpfad in einer KI-Welt: KI-Output nutzen, modifizieren, eigenes bauen
 - [[computational-action]] — LLMs machen echte Produkte für Schüler erst zugänglich
 
 ### Wissensretention / Nachhaltiges Lernen
 - [[retrieval-practice]] — Testing Effect, Spaced Repetition und Interleaving für langfristiges Behalten
 - [[productive-failure]] — Gezielt Schwierigkeiten einbauen für tieferes Verständnis
+- [[lerner-modell-mastery-tracking]] — Spaced-Repetition-Algorithmen (Leitner, SM-2, FSRS) und Decay-Modellierung
 
 ### Plattform- und Systemdesign
 - [[learning-engineering]] — Prinzipien für den Aufbau datengetriebener Lernsysteme
 - [[immersive-simulationen]] — Authentische IT-Simulationsumgebungen mit consequential Feedback
 - [[ki-native-lernumgebungen]] — Architektur KI-nativer Lernumgebungen
+- [[llm-integrationsmuster-lernumgebungen]] — Baukasten aus vier LLM-Integrationsmustern mit Prompt-Skeletten und Failure Modes
+- [[prompt-engineering-didaktisch]] — Meta-Engineering: wie didaktische Prompts stabil und reproduzierbar gebaut werden
+- [[kursarchitektur-lernumgebungen]] — Acht Makro-Architekturen mit Entscheidungsbaum und 3-Phasen-Struktur (Onboarding/Main/Mastery)
+- [[lerner-modell-mastery-tracking]] — Pragmatische Implementierungsstufen von Completion-Tracking bis Bayesian Knowledge Tracing
+- [[evaluation-lernumgebungen]] — Wie man die Wirksamkeit einer selbst gebauten Lernumgebung valide misst
+- [[datenschutz-lernumgebungen]] — Privacy by Design als Architekturprinzip für Schul-Lernumgebungen
 - [[intrinsic-integration]] — Designkriterium für interaktive Systeme: Lernziel = Kernmechanik
 - [[flow-theorie]] — Technische Anforderungen für Flow: Microgoals, Instant Feedback, adaptive Progression
 

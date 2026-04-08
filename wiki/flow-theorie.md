@@ -14,6 +14,7 @@ related:
   - "[[self-determination-theory]]"
   - "[[intrinsic-integration]]"
   - "[[engagement-theory]]"
+  - "[[kursarchitektur-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

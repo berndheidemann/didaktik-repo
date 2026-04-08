@@ -14,6 +14,7 @@ related:
   - "[[self-determination-theory]]"
   - "[[flow-theorie]]"
   - "[[intrinsic-integration]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erschaffen, bewerten]
 created: 2026-04-07

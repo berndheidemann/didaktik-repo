@@ -15,6 +15,7 @@ related:
   - "[[primm-methode]]"
   - "[[use-modify-create]]"
   - "[[computational-action]]"
+  - "[[kursarchitektur-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

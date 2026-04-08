@@ -23,6 +23,12 @@ related:
   - "[[primm-methode]]"
   - "[[intrinsic-integration]]"
   - "[[use-modify-create]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[evaluation-lernumgebungen]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[kursarchitektur-lernumgebungen]]"
+  - "[[lerner-modell-mastery-tracking]]"
+  - "[[datenschutz-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

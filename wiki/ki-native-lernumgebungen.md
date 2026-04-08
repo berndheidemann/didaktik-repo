@@ -15,6 +15,11 @@ related:
   - "[[threshold-concepts]]"
   - "[[use-modify-create]]"
   - "[[computational-action]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[prompt-engineering-didaktisch]]"
+  - "[[kursarchitektur-lernumgebungen]]"
+  - "[[lerner-modell-mastery-tracking]]"
+  - "[[datenschutz-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

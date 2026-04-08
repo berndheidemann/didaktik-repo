@@ -14,6 +14,7 @@ related:
   - "[[primm-methode]]"
   - "[[intrinsic-integration]]"
   - "[[use-modify-create]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit, partner]

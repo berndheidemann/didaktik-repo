@@ -21,6 +21,10 @@ related:
   - "[[self-determination-theory]]"
   - "[[intrinsic-integration]]"
   - "[[primm-methode]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[evaluation-lernumgebungen]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[kursarchitektur-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

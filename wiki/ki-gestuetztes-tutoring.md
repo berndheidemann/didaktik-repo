@@ -17,6 +17,9 @@ related:
   - "[[intrinsic-integration]]"
   - "[[use-modify-create]]"
   - "[[computational-action]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[prompt-engineering-didaktisch]]"
+  - "[[datenschutz-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]

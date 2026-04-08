@@ -19,6 +19,7 @@ related:
   - "[[threshold-concepts]]"
   - "[[flow-theorie]]"
   - "[[primm-methode]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

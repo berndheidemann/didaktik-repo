@@ -28,6 +28,11 @@ related:
   - "[[flow-theorie]]"
   - "[[primm-methode]]"
   - "[[use-modify-create]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[prompt-engineering-didaktisch]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[kursarchitektur-lernumgebungen]]"
+  - "[[lerner-modell-mastery-tracking]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07

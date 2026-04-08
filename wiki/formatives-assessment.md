@@ -25,6 +25,11 @@ related:
   - "[[peer-instruction]]"
   - "[[threshold-concepts]]"
   - "[[worked-examples]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[prompt-engineering-didaktisch]]"
+  - "[[evaluation-lernumgebungen]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[lerner-modell-mastery-tracking]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 sozialform: [einzelarbeit, partner, gruppe, plenum]

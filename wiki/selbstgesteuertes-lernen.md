@@ -17,6 +17,8 @@ related:
   - "[[productive-failure]]"
   - "[[retrieval-practice]]"
   - "[[self-determination-theory]]"
+  - "[[evaluation-lernumgebungen]]"
+  - "[[kursarchitektur-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07
