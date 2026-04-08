@@ -14,6 +14,8 @@ related:
   - "[[peer-instruction]]"
   - "[[primm-methode]]"
   - "[[engagement-theory]]"
+  - "[[kooperatives-lernen]]"
+  - "[[fehlerkultur-im-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [partner, gruppe]

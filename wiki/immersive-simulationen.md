@@ -11,6 +11,7 @@ related:
   - "[[intrinsic-integration]]"
   - "[[computational-action]]"
   - "[[engagement-theory]]"
+  - "[[cognitive-load-theory]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

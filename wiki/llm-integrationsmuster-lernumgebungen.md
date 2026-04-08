@@ -16,6 +16,9 @@ related:
   - "[[prompt-engineering-didaktisch]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[datenschutz-lernumgebungen]]"
+  - "[[blooms-taxonomie]]"
+  - "[[lernsituationen-gestalten]]"
+  - "[[multimedia-gestaltungsprinzipien]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit]

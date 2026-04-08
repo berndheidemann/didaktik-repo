@@ -10,6 +10,7 @@ related:
   - "[[ki-native-lernumgebungen]]"
   - "[[prompt-engineering-didaktisch]]"
   - "[[evaluation-lernumgebungen]]"
+  - "[[multimedia-gestaltungsprinzipien]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

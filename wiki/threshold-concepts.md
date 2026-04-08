@@ -18,6 +18,7 @@ related:
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[prompt-engineering-didaktisch]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[misconception-analyse]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 created: 2026-04-07

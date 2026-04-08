@@ -13,6 +13,7 @@ related:
   - "[[self-determination-theory]]"
   - "[[computational-action]]"
   - "[[engagement-theory]]"
+  - "[[kooperatives-lernen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

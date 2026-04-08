@@ -12,6 +12,9 @@ related:
   - "[[meta-analysen-cs-education]]"
   - "[[community-of-practice]]"
   - "[[primm-methode]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[kooperatives-lernen]]"
+evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [partner, plenum]

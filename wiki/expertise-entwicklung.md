@@ -17,6 +17,8 @@ related:
   - "[[primm-methode]]"
   - "[[use-modify-create]]"
   - "[[lerner-modell-mastery-tracking]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[metakognition]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren, bewerten]
 created: 2026-04-07

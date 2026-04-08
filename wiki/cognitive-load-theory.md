@@ -20,6 +20,12 @@ related:
   - "[[flow-theorie]]"
   - "[[primm-methode]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[immersive-simulationen]]"
+  - "[[sprachsensibler-it-unterricht]]"
+  - "[[zeitmanagement-selbstorganisation]]"
+  - "[[pruefungsvorbereitung-lernstrategie]]"
+  - "[[misconception-analyse]]"
+  - "[[multimedia-gestaltungsprinzipien]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

@@ -16,6 +16,7 @@ related:
   - "[[kursarchitektur-lernumgebungen]]"
   - "[[lerner-modell-mastery-tracking]]"
   - "[[datenschutz-lernumgebungen]]"
+  - "[[kompetenzfeststellung-programmierung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

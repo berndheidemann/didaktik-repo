@@ -30,6 +30,15 @@ related:
   - "[[evaluation-lernumgebungen]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[lerner-modell-mastery-tracking]]"
+  - "[[ki-native-lernumgebungen]]"
+  - "[[sprachsensibler-it-unterricht]]"
+  - "[[kooperatives-lernen]]"
+  - "[[metakognition]]"
+  - "[[fehlerkultur-im-unterricht]]"
+  - "[[pruefungsvorbereitung-lernstrategie]]"
+  - "[[misconception-analyse]]"
+  - "[[differenzierung-inklusion]]"
+evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 sozialform: [einzelarbeit, partner, gruppe, plenum]

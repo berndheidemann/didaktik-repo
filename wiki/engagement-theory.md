@@ -15,6 +15,8 @@ related:
   - "[[flow-theorie]]"
   - "[[intrinsic-integration]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[kooperatives-lernen]]"
+  - "[[constructive-alignment]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erschaffen, bewerten]
 created: 2026-04-07

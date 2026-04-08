@@ -15,6 +15,7 @@ related:
   - "[[use-modify-create]]"
   - "[[productive-failure]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[misconception-analyse]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [partner, gruppe, einzelarbeit]

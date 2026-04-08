@@ -12,6 +12,7 @@ related:
   - "[[cognitive-apprenticeship]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[datenschutz-lernumgebungen]]"
+  - "[[multimedia-gestaltungsprinzipien]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

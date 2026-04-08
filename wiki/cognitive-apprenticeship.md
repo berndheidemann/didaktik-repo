@@ -16,6 +16,7 @@ related:
   - "[[formatives-assessment]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[prompt-engineering-didaktisch]]"
+  - "[[fehlerkultur-im-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

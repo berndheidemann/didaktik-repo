@@ -17,6 +17,8 @@ related:
   - "[[computational-action]]"
   - "[[engagement-theory]]"
   - "[[kursarchitektur-lernumgebungen]]"
+  - "[[effektstaerken-unterricht]]"
+evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

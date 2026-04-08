@@ -20,6 +20,7 @@ related:
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[prompt-engineering-didaktisch]]"
   - "[[datenschutz-lernumgebungen]]"
+  - "[[metakognition]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]

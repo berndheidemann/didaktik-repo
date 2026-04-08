@@ -33,6 +33,13 @@ related:
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[kursarchitektur-lernumgebungen]]"
   - "[[lerner-modell-mastery-tracking]]"
+  - "[[sprachsensibler-it-unterricht]]"
+  - "[[kooperatives-lernen]]"
+  - "[[metakognition]]"
+  - "[[misconception-analyse]]"
+  - "[[multimedia-gestaltungsprinzipien]]"
+  - "[[differenzierung-inklusion]]"
+evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07

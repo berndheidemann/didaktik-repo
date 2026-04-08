@@ -18,6 +18,10 @@ related:
   - "[[ki-native-lernumgebungen]]"
   - "[[self-determination-theory]]"
   - "[[engagement-theory]]"
+  - "[[kooperatives-lernen]]"
+  - "[[fehlerkultur-im-unterricht]]"
+  - "[[differenzierung-inklusion]]"
+evidenzgrad: meta-analyse
 audience: [FIAE]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [partner]

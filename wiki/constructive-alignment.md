@@ -13,6 +13,11 @@ related:
   - "[[gamification-it-unterricht]]"
   - "[[kompetenzfeststellung-programmierung]]"
   - "[[lernsituationen-gestalten]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[pruefungsvorbereitung-lernstrategie]]"
+  - "[[kooperatives-lernen]]"
+  - "[[computational-action]]"
+  - "[[engagement-theory]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07
@@ -43,13 +48,37 @@ Misalignment entsteht, wenn z.B. Lernziele auf "Analysieren" abzielen, aber die 
 
 ## Bezug zur IT-Ausbildung
 
-In der Fachinformatiker-Ausbildung ist Constructive Alignment besonders relevant, weil die Lernfelder des Rahmenlehrplans kompetenzorientiert formuliert sind. Ein konkretes Beispiel:
+In der Fachinformatiker-Ausbildung ist Constructive Alignment besonders relevant, weil die Lernfelder des Rahmenlehrplans kompetenzorientiert formuliert sind. Die häufigsten Misalignments: kompetenzorientiertes Lernziel ("analysieren", "bewerten", "erschaffen") wird mit Multiple-Choice-Klausur auf Bloom-Stufe 1-2 geprüft.
 
-**Lernfeld 6 (FIAE) — Serviceanfragen bearbeiten:**
+**LF4 (FIAE/FIDP) — Schutzbedürftige Daten:**
+- **ILO:** Lernende können für ein gegebenes Verarbeitungsszenario die passende Rechtsgrundlage nach Art. 6 DSGVO **auswählen und begründen**.
+- **TLA (aligned):** Branching-Szenario mit 6 realistischen Kundenfällen; jede Entscheidung mit Begründungspflicht. Peer-Diskussion über Grenzfälle (vgl. [[kooperatives-lernen]]).
+- **TLA (misaligned):** Frontalvortrag zu Art. 6, danach Lückentext mit Rechtsgrundlagen-Liste.
+- **AT (aligned):** Ein neuer, unbekannter Fall — Lernende schreiben einen 1-seitigen Begründungstext. Rubric prüft: richtige Grundlage + Begründungsqualität.
+
+**LF5 (FIAE) — Datenverwaltung mit SQL:**
+- **ILO:** Lernende können für eine gegebene Anforderung ein normalisiertes ER-Modell **entwerfen** und in ausführbarem SQL implementieren.
+- **TLA (aligned):** Projektbasiertes Arbeiten an einem echten oder quasi-echten Datensatz (Kundenbriefing), Pair Programming, inkrementelle Code Reviews.
+- **TLA (misaligned):** Lehrer erklärt Normalformen an der Tafel; Schüler füllen ein Arbeitsblatt aus.
+- **AT (aligned):** Lernende erhalten ein neues Briefing und müssen innerhalb von 60 Min ein ER-Modell liefern, das lauffähiges SQL erzeugt — mit mündlicher Begründung ihrer Normalisierungs-Entscheidungen.
+
+**LF6 (FIAE/FIDP) — Serviceanfragen bearbeiten:**
 - **ILO:** Lernende können systematisch Fehler in IT-Systemen diagnostizieren und beheben.
 - **TLA (aligned):** Lernende bearbeiten simulierte Trouble-Tickets in einer realitätsnahen Umgebung.
 - **TLA (misaligned):** Lernende lesen ein Kapitel über Fehlerbehebung und machen Multiple-Choice-Test.
 - **AT (aligned):** Lernende lösen ein unbekanntes Problem live und dokumentieren ihren Lösungsweg.
+
+**LF10a (FIAE) — Benutzerschnittstellen gestalten:**
+- **ILO:** Lernende können eine Benutzeroberfläche nach UX- und Barrierefreiheits-Kriterien **gestalten und bewerten**.
+- **TLA (aligned):** Gallery Walk mit Prototypen, strukturiertes Peer-Feedback nach Rubric, iterative Verbesserung; siehe [[kooperatives-lernen]].
+- **TLA (misaligned):** Theoretische Einführung in UX-Prinzipien, danach eine fertige Musterlösung zum Nachbauen.
+- **AT (aligned):** Eigener Prototyp + Selbstevaluation gegen WCAG-Checkliste + Live-Usability-Test mit 3 Peers.
+
+**LF11a/LF12 (FIAE) — Funktionalität realisieren / Anwendungsentwicklung:**
+- **ILO:** Lernende können eine Anforderung selbstständig in lauffähige Software übersetzen, testen und dokumentieren (Bloom: erschaffen).
+- **TLA (aligned):** Projektbasiertes Arbeiten mit echten Stakeholder:innen (vgl. [[computational-action]], [[engagement-theory]]); Code Reviews als Routine.
+- **TLA (misaligned):** Schrittweise vorgegebene Aufgaben mit eng geführten Zwischenlösungen — "Erschaffen" wird faktisch zu "Anwenden" reduziert.
+- **AT (aligned):** Betrieblicher Projektauftrag AP2 + Projektdokumentation + Fachgespräch. Das ist der IHK-Standard und **ist** Constructive Alignment in Reinform (vgl. [[pruefungsvorbereitung-lernstrategie]]).
 
 ## Praktische Anwendung
 

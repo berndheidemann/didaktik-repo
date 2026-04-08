@@ -15,6 +15,7 @@ related:
   - "[[intrinsic-integration]]"
   - "[[engagement-theory]]"
   - "[[kursarchitektur-lernumgebungen]]"
+  - "[[zeitmanagement-selbstorganisation]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

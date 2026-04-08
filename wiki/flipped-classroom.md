@@ -10,6 +10,7 @@ related:
   - "[[pair-programming-unterricht]]"
   - "[[meta-analysen-cs-education]]"
   - "[[peer-instruction]]"
+  - "[[effektstaerken-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

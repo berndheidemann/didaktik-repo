@@ -15,6 +15,8 @@ related:
   - "[[self-determination-theory]]"
   - "[[engagement-theory]]"
   - "[[use-modify-create]]"
+  - "[[differenzierung-inklusion]]"
+  - "[[constructive-alignment]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erschaffen, bewerten]
 created: 2026-04-07

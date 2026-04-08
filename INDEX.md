@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 47 | **Letzte Aktualisierung:** 2026-04-07
+**Artikel:** 56 | **Letzte Aktualisierung:** 2026-04-08
 
 ---
 
@@ -31,6 +31,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[computational-action]] — Tissenbaum/Sheldon/Abelson: Von Computational Thinking zu Werkzeugen mit echtem Nutzen
 - [[engagement-theory]] — Kearsley & Shneidermans Relate-Create-Donate als Designcheckliste
 - [[kursarchitektur-lernumgebungen]] — Acht Architektur-Muster (Linear, Mastery-Gate, Knowledge Graph, Branching, Rollen, Spiral, Hub-and-Spoke, Sandbox) mit Entscheidungshilfe
+- [[metakognition]] — Flavells Modell, Planning/Monitoring/Evaluating, Calibration und Dunning-Kruger in der IT-Ausbildung
+- [[multimedia-gestaltungsprinzipien]] — Mayers 12 Prinzipien (Coherence, Signaling, Modality, Spatial/Temporal Contiguity u.a.) für Lernumgebungs-Design
+- [[differenzierung-inklusion]] — UDL, Tomlinson, Neurodiversität, Nachteilsausgleich, WCAG für heterogene IT-Klassen
 
 ### Methoden & Formate
 - [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
@@ -52,6 +55,12 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[evaluation-lernumgebungen]] — Pragmatischer Leitfaden für Lehrer-Entwickler: Metriken, Playtest-Protokoll, Pre-/Post-Design, Design-Based Research
 - [[aufgabentypen-interaktive-lernumgebungen]] — Referenz-Katalog mit 21 Aufgabentypen, Bloom-Einordnung und LLM-Upgrade-Potenzial
 - [[lerner-modell-mastery-tracking]] — Fünfstufiges Komplexitätsmodell (Completion → Score → KCs → BKT → DKT) mit TypeScript-Datenstrukturen
+- [[sprachsensibler-it-unterricht]] — Leisen/Gibbons-Prinzipien für DaZ, Fachsprache und Code-Switching in der IT-Ausbildung
+- [[kooperatives-lernen]] — Dach-Artikel mit Methoden-Katalog (Jigsaw, Think-Pair-Share, Reziprokes Lehren, Gallery Walk, Strukturierte Kontroverse, Kagan-Strukturen)
+- [[zeitmanagement-selbstorganisation]] — Pomodoro, Personal Kanban, Effort Estimation, Implementation Intentions für LF10-12 und AP2
+- [[fehlerkultur-im-unterricht]] — Error Climate (Steuer et al.), Psychological Safety (Edmondson), Lehrerhandeln und Klassennormen
+- [[pruefungsvorbereitung-lernstrategie]] — Lernwissenschaftlich fundierte IHK-AP1/AP2-Vorbereitung mit 6-Wochen-Plan
+- [[misconception-analyse]] — Methodik für Identifikation, Kategorisierung und Intervention bei Fehlvorstellungen (Chi, Vosniadou, POE, Bridging Analogies)
 
 ### Evidenz & Forschung
 - [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
@@ -151,6 +160,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[computational-action]] — Identitätsarbeit und Empowerment für bislang nicht engagierte Lernende
 
 ### Heterogenität / Differenzierung
+- [[differenzierung-inklusion]] — Klammer-Artikel: UDL, Tomlinson, Neurodiversität, Nachteilsausgleich, WCAG
+- [[sprachsensibler-it-unterricht]] — DaZ, Fachsprache und Code-Switching als Heterogenitätsdimension
 - [[pair-programming-unterricht]] — Heterogene Paare für Wissenstransfer
 - [[interaktive-lernumgebungen]] — Adaptive Lernpfade passen Schwierigkeit an individuelles Niveau an
 - [[scaffolding]] — Abgestufte Unterstützung je nach Lernstand mit Fading
@@ -164,6 +175,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[primm-methode]] — Phasenstruktur, in der Lernende auf unterschiedlichen Tiefen verweilen
 
 ### Kooperatives Lernen / Soziale Dimension
+- [[kooperatives-lernen]] — Methoden-Dach-Artikel mit Jigsaw, Think-Pair-Share, Reziprokes Lehren, Gallery Walk
 - [[community-of-practice]] — Lernen durch Teilhabe an Praxisgemeinschaften
 - [[pair-programming-unterricht]] — Kooperatives Programmieren im Pair
 - [[code-review-unterricht]] — Peer-Feedback auf Code
@@ -189,8 +201,10 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 
 ### Aufgaben- und Materialdesign
 - [[cognitive-load-theory]] — Extrinsische Belastung minimieren, lernförderliche maximieren
+- [[multimedia-gestaltungsprinzipien]] — Mayers 12 Prinzipien für Video, Animation und multimediale Erklärungen
 - [[worked-examples]] — Ausgearbeitete Lösungen für Novizen, Fading für Fortgeschrittene
 - [[scaffolding]] — Von maximaler Unterstützung zu Selbstständigkeit
+- [[sprachsensibler-it-unterricht]] — Sprachgerüste und Wortspeicher für Aufgabenformulierung
 - [[lernsituationen-gestalten]] — Systematische Entwicklung von Lernsituationen
 - [[aufgabentypen-interaktive-lernumgebungen]] — Referenz-Katalog mit 21 Widget-Typen und Entscheidungshilfe Lernziel → Typ
 - [[low-floor-high-ceiling]] — Einstieg niedrig, Decke offen, Wide Walls für diverse Produktformen
@@ -200,6 +214,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 ### Debugging und Fehlerkultur
 - [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz
 - [[affektive-dimensionen]] — Growth Mindset und Fehlertoleranz als Voraussetzung
+- [[fehlerkultur-im-unterricht]] — Klassenklima, Error Climate, Psychological Safety, Lehrerhandeln
+- [[misconception-analyse]] — Systematische Methodik für Fehlvorstellungen
 
 ### Feedback und Lernstandsdiagnostik
 - [[formatives-assessment]] — Fünf Schlüsselstrategien für Assessment FOR Learning
@@ -209,10 +225,15 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[llm-integrationsmuster-lernumgebungen]] — Rubric-Evaluator-Muster für kriterienbasiertes Feedback auf Freitext
 - [[lerner-modell-mastery-tracking]] — Mastery pro Konzept als Diagnose-Goldstandard für Unterrichtsgespräche
 - [[evaluation-lernumgebungen]] — Pre-/Post-Tests, Telemetrie und Playtests zur Wirksamkeitsprüfung
+- [[misconception-analyse]] — Concept Inventories und Diagnostic Items mit Distraktor-Engineering
+- [[pruefungsvorbereitung-lernstrategie]] — Kalibrierungs-Tracking als formative Diagnose vor Prüfungen
 - [[kompetenzfeststellung-programmierung]] — Summative Assessment: Portfolio, Prozess, Fachgespräch
 
 ### Selbstständiges Lernen fördern
 - [[selbstgesteuertes-lernen]] — Drei-Phasen-Modell zur Förderung eigenständiger Lernkompetenz
+- [[metakognition]] — Klammer-Konzept: Wissen und Regulation der eigenen Kognition
+- [[zeitmanagement-selbstorganisation]] — Pragmatische Werkzeuge (Pomodoro, Kanban, Effort Estimation) für Azubis
+- [[pruefungsvorbereitung-lernstrategie]] — Lernwissenschaftlich fundierte Vorbereitung auf AP1/AP2
 - [[interaktive-lernumgebungen]] — Scaffolding und Reflexionsprompts unterstützen Selbstregulation
 - [[flipped-classroom]] — Pre-Class-Phase erfordert und fördert Selbstregulation
 - [[lerntagebuch]] — Schriftliche Reflexion fördert Metakognition und Selbstregulation

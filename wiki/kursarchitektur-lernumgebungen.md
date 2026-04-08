@@ -14,6 +14,7 @@ related:
   - "[[scaffolding]]"
   - "[[ki-native-lernumgebungen]]"
   - "[[lerner-modell-mastery-tracking]]"
+  - "[[differenzierung-inklusion]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07

@@ -13,6 +13,10 @@ related:
   - "[[effektstaerken-unterricht]]"
   - "[[peer-instruction]]"
   - "[[lerner-modell-mastery-tracking]]"
+  - "[[handlungsorientierter-unterricht]]"
+  - "[[metakognition]]"
+  - "[[pruefungsvorbereitung-lernstrategie]]"
+evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden]
 sozialform: [einzelarbeit]

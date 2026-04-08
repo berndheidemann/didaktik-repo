@@ -19,6 +19,10 @@ related:
   - "[[self-determination-theory]]"
   - "[[evaluation-lernumgebungen]]"
   - "[[kursarchitektur-lernumgebungen]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[metakognition]]"
+  - "[[zeitmanagement-selbstorganisation]]"
+  - "[[pruefungsvorbereitung-lernstrategie]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

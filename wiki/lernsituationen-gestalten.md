@@ -13,6 +13,9 @@ related:
   - "[[self-determination-theory]]"
   - "[[computational-action]]"
   - "[[engagement-theory]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[sprachsensibler-it-unterricht]]"
+  - "[[differenzierung-inklusion]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

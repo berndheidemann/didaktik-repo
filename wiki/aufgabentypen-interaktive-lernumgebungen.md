@@ -16,6 +16,7 @@ related:
   - "[[productive-failure]]"
   - "[[threshold-concepts]]"
   - "[[prompt-engineering-didaktisch]]"
+  - "[[multimedia-gestaltungsprinzipien]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

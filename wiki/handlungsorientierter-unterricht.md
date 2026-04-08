@@ -15,6 +15,9 @@ related:
   - "[[kompetenzfeststellung-programmierung]]"
   - "[[computational-action]]"
   - "[[engagement-theory]]"
+  - "[[retrieval-practice]]"
+  - "[[kooperatives-lernen]]"
+  - "[[pruefungsvorbereitung-lernstrategie]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

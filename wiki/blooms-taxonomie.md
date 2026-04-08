@@ -20,6 +20,10 @@ related:
   - "[[scaffolding]]"
   - "[[worked-examples]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[debugging-als-kompetenz]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[sprachsensibler-it-unterricht]]"
+  - "[[metakognition]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

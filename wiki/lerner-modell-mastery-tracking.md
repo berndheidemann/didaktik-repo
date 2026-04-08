@@ -12,6 +12,7 @@ related:
   - "[[ki-native-lernumgebungen]]"
   - "[[expertise-entwicklung]]"
   - "[[kursarchitektur-lernumgebungen]]"
+  - "[[differenzierung-inklusion]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07

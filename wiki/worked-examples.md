@@ -21,6 +21,11 @@ related:
   - "[[primm-methode]]"
   - "[[use-modify-create]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[sprachsensibler-it-unterricht]]"
+  - "[[misconception-analyse]]"
+  - "[[multimedia-gestaltungsprinzipien]]"
+  - "[[differenzierung-inklusion]]"
+evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 sozialform: [einzelarbeit, partner]

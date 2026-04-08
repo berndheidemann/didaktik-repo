@@ -9,6 +9,9 @@ related:
   - "[[blooms-taxonomie]]"
   - "[[cognitive-apprenticeship]]"
   - "[[debugging-als-kompetenz]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[metakognition]]"
+  - "[[zeitmanagement-selbstorganisation]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit]

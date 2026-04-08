@@ -11,6 +11,7 @@ related:
   - "[[affektive-dimensionen]]"
   - "[[cognitive-load-theory]]"
   - "[[lerner-modell-mastery-tracking]]"
+  - "[[zeitmanagement-selbstorganisation]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]

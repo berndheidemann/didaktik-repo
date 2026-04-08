@@ -10,6 +10,9 @@ related:
   - "[[expertise-entwicklung]]"
   - "[[handlungsorientierter-unterricht]]"
   - "[[ki-native-lernumgebungen]]"
+  - "[[learning-engineering]]"
+  - "[[sprachsensibler-it-unterricht]]"
+  - "[[pruefungsvorbereitung-lernstrategie]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]
