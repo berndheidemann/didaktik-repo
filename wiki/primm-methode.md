@@ -23,6 +23,7 @@ related:
   - "[[spaced-repetition-algorithmen]]"
   - "[[poe-methode]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [partner, gruppe, einzelarbeit]

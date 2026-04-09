@@ -12,10 +12,12 @@ related:
   - "[[productive-failure]]"
   - "[[datenschutz-lernumgebungen]]"
   - "[[blooms-taxonomie]]"
+  - "[[ki-tutoring-evidenzlage]]"
+  - "[[ki-tool-auswahl-berufsschule]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Pragmatischer Leitfaden für Lehrer-Entwickler: Woher weißt du, ob deine selbst
   gebaute Lernumgebung wirkt? Metrik-Auswahl ohne Vanity Metrics, Playtest-Protokoll,

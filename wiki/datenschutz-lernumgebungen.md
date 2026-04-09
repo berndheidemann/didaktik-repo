@@ -11,10 +11,15 @@ related:
   - "[[prompt-engineering-didaktisch]]"
   - "[[evaluation-lernumgebungen]]"
   - "[[multimedia-gestaltungsprinzipien]]"
+  - "[[ki-tutoring-evidenzlage]]"
+  - "[[ki-kompetenzrahmen-schule]]"
+  - "[[ki-erfahrungsberichte-berufliche-bildung]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
+  - "[[ki-tool-auswahl-berufsschule]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Was Lehrer-Entwickler datenschutzrechtlich beachten müssen, wenn sie
   Lernumgebungen für den Schulbetrieb bauen — Verantwortlichkeit, Rechtsgrundlagen,

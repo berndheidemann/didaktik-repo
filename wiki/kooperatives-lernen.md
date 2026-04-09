@@ -24,7 +24,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren, bewerten]
 sozialform: [partner, gruppe, plenum]
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 summary: >
   Methoden-Katalog zu kooperativen Lernformen jenseits der Programmierung —
   Johnson & Johnsons fünf Grundpfeiler plus konkrete Methoden (Jigsaw,
@@ -79,6 +79,12 @@ Dieser Artikel ist ein Dach-Artikel zu den programmier-spezifischen Methoden [[p
 **Gallery Walk:** Gruppen erstellen ein sichtbares Produkt (Plakat, Whiteboard, Miro-Board) und hängen es auf. Alle Gruppen rotieren in 3-5-Minuten-Takten durch die Galerie und hinterlassen strukturiertes Feedback (2 Sterne + 1 Frage pro Station). Zurück am eigenen Produkt: Feedback sichten und überarbeiten. **Non-Programming-Beispiele:** Netzplanskizzen, ER-Diagramme, DSFA-Entwürfe, Schutzbedarfsanalysen nach BSI-Grundschutz.
 
 **Strukturierte Kontroverse (Johnson & Johnson 1979):** Vierergruppe, zwei Paare. Paar A argumentiert Pro, Paar B Contra — mit Material, das beide Seiten absichtlich gut vertritt. Nach 10 Minuten **Perspektivwechsel**: A wird Contra, B wird Pro. Anschließend gemeinsam ein differenziertes Urteil formulieren (nicht Sieger-Voting!). Trainiert genau das, was Bloom-Stufe "bewerten" verlangt. **IT-Themen:** Open-Source vs. proprietär, BYOD ja/nein, biometrische Authentifizierung im Betrieb.
+
+### Randnotiz: Social Annotation als asynchrone Variante
+
+Für asynchrone Textarbeit (Flipped Classroom Prep, Reading Assignments) existiert seit einigen Jahren **Social Annotation** als methodisches Format: Lernende kommentieren Textstellen direkt im Dokument, andere sehen die Kommentare und antworten darauf. Plattformen wie **Hypothesis** (Open Source, LTI) und **Perusall** (gratis für Lehrkräfte, KI-gestütztes Comment-Grading) bieten diese Funktion für Texte, Artikel, RFCs und PDFs. Empirie ist moderat positiv (systematic reviews zeigen Effekte auf Leseverstehen und Metakognition), aber **schwächer als Retrieval Practice oder Peer Instruction**. Beide Hauptplattformen sind US-gehostet, was für deutsche Schulen ein DSGVO-Blocker ist — ohne Schul-DSB-Freigabe und Schrems-II-Prüfung nicht einsetzbar. DE-Alternative: **edubreak CAMPUS** (kommerziell, eher Video-fokussiert).
+
+**Für FIAE/FIDP**: Die Code-Variante von Social Annotation ist der **Pull-Request-Review** in GitHub/GitLab — siehe [[code-review-unterricht]]. Für reine Text-Annotation lohnt sich der DSGVO-Aufwand nur, wenn Textverständnis (LF4 DSGVO-Dokumente, LF3/LF8 RFCs, AGB/Verträge) im Mittelpunkt einer längeren Phase steht. Für die meisten Fälle reicht ein gemeinsames Etherpad oder ein geteiltes Dokument mit Kommentarfunktion.
 
 ## Durchführung
 

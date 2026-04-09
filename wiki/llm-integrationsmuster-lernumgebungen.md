@@ -27,6 +27,10 @@ related:
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[retrieval-practice]]"
   - "[[selbstgesteuertes-lernen]]"
+  - "[[ki-tutoring-evidenzlage]]"
+  - "[[ki-kompetenzrahmen-schule]]"
+  - "[[ki-erfahrungsberichte-berufliche-bildung]]"
+  - "[[ki-tool-auswahl-berufsschule]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit]
@@ -71,6 +75,27 @@ Deine Aufgabe:
 ```
 
 **Failure Modes:** LLM gibt die Antwort vorweg. LLM wird zu höflich/zustimmend. LLM erfindet Gegenargumente, die fachlich falsch sind. **Mitigation:** Ground Truth explizit in den System-Prompt, Temperature niedrig, Rundenlimit einbauen.
+
+#### Vertiefung: Conversational Roleplay — längere Dialoge über mehrere Turns
+
+Der Adversary Partner in seiner Basisform ist ein kurzer Schlagabtausch: 2-3 Runden, Entscheidung, Bewertung. **Conversational Roleplay** erweitert das Muster zu einem mehrstufigen Dialog — simuliertes Kundengespräch (LF6), Stakeholder-Interview im Requirements-Engineering, IHK-Fachgesprächs-Generalprobe, Incident-Response-Telefonat mit betroffenem Kollegen. Empirisch belegt ist dieses Format vor allem aus Sprachlern-RCTs (Duolingo Max Video Call 2025, N=567, signifikante Speaking-Gains) und aus der Medizin-Didaktik (PatientSim, simulierte Patient:innen mit 4-achsiger Persona-Modellierung). Für FIAE/FIDP fehlen Transfer-Studien — die didaktischen Prinzipien sind aber fachunabhängig.
+
+**Zusätzliche Design-Entscheidungen, die bei der Kurzform nicht auftauchen:**
+
+1. **Szenario-Briefing vor Gesprächsstart.** Der Lernende braucht Kontext: Wer ist die Person, was ist ihr Anliegen, was weiß sie, was weiß sie nicht, welche emotionale Lage. Ohne Briefing wird das Gespräch zum Raten. Briefing als sichtbaren Text vor dem Chat, nicht im System-Prompt versteckt.
+2. **Persona-Anchoring gegen Drift.** Bei Dialogen über 8+ Turns driftet das LLM typisch weg von der Rolle — der "genervte Kunde" wird plötzlich hilfsbereit und erklärt dem Azubi das Problem. Gegenmittel: Die Persona-Definition alle 3-5 Turns **re-injecten**, entweder als System-Reminder im Kontext oder durch explizite "Bleib in Rolle"-Direktiven am Anfang jedes System-Turns. Der Aufwand lohnt sich — ohne diesen Mechanismus wird Roleplay unbrauchbar, sobald Dialoge nicht-trivial werden.
+3. **Turn-Budget als explizite Ressource.** 5-10 Turns sind die empirisch brauchbare Spanne (Duolingo-Praxis). Mehr Turns korrelieren nicht mit mehr Lernen, aber mit mehr Drift und Ermüdung. Turn-Counter sichtbar im UI — der Lernende soll wissen, dass das Gespräch ein Ende hat.
+4. **Debriefing ist Pflicht, nicht Kür.** Der stärkste Transfer-Hebel aus der klinischen Simulations-Didaktik (Tandfonline 2025, PMC Nursing Reviews): **Ohne strukturierte Nachbesprechung bleibt Rollenspiel oberflächliches Engagement.** Der Lernende muss nach dem Gespräch reflektieren: Was lief gut, was schlecht, welche Alternative wäre gewesen? Technisch: Eigener Prompt nach Gesprächsende mit Rubric-Evaluator-Muster (Muster 3), der die Gesprächs-Transkription bewertet — nicht das LLM selbst im Rollenspiel. Die Trennung zwischen Rolle und Reflexion ist entscheidend.
+5. **Voice vs. Text.** Voice-Modus (Duolingo Max, ChatGPT Voice) erhöht Engagement und Authentizität, bringt aber Latenz und Transkriptionsfehler mit. Für AP2-Fachgesprächs-Generalprobe: Voice näher an der Prüfungsrealität. Für Code-Review-Dialoge oder Ticket-Antworten: Text reicht und ist diagnostischer.
+6. **Failure Mode "Sycophancy".** LLMs stimmen User-Positionen ~50% häufiger zu als Menschen — das ist für einen "schwierigen Kunden" der Tod des didaktischen Werts. Der System-Prompt muss explizit anti-sycophancy-Direktiven enthalten ("Widersprich auch, wenn der Lernende freundlich argumentiert"), und im Testing muss man das Muster gezielt stressen.
+
+**Anwendungsbeispiele FIAE/FIDP:**
+
+- **LF6 Kundengespräch**: Rollenspiel "Kunde meldet Drucker defekt, Ursache ist aber Berechtigungsfehler". Lernender muss durch Fragen die echte Ursache herausarbeiten, der "Kunde" ist wenig technisch und leicht genervt. Debriefing: Welche Frage war besonders nützlich, welche zu technisch?
+- **LF11 Projekt / AP2 Generalprobe**: Prüfungs-Simulator, in dem das LLM einen IHK-Prüfer verkörpert und Rückfragen zur Projektarbeit stellt. Rubric-Evaluator bewertet anschließend die Argumentationsqualität.
+- **LF4/LF9 Incident-Response**: Rollenspiel mit LLM als betroffenem Kollegen in einem Security-Vorfall — "Bei mir geht nichts mehr, ich habe gerade einen Anhang geöffnet". Lernender muss ruhig kommunizieren und parallel forensische Fragen stellen.
+
+**Abgrenzung zu einem eigenständigen Muster**: Conversational Roleplay ist kein fünftes Muster, weil die Kernmechanik identisch mit Adversary Partner bleibt (Rolle, Ground Truth, Rundenlimit). Die Vertiefungen oben sind **zusätzliche Techniken** für längere Dialoge — aber keine neue didaktische Grundlogik. Wer Muster 1 verstanden hat, kann Roleplay bauen, sobald er Debriefing-Phase, Persona-Anchoring und Turn-Budget hinzunimmt.
 
 ### Muster 2: Sokratischer Tutor — Misconception-Buster
 
@@ -232,3 +257,7 @@ Der Kern-Shift: Die Lehrkraft schreibt nicht mehr *Inhalte*, sondern *Beurteilun
 - Kazemitabaar, M. et al. (2024). CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant. Proceedings of CHI 2024.
 - Mollick, E. & Mollick, L. (2023). Assigning AI: Seven Approaches for Students, with Prompts. Wharton Working Paper.
 - Hattie, J. & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research*, 77(1), 81-112.
+- Duolingo (2025). *Video Call with Lily: A Randomized Controlled Trial of Conversational AI for Language Learning*. Duolingo Whitepaper (N=567, 30 Tage, Versant-Test prä/post).
+- Lee, D. et al. (2025). PatientSim: A Persona-Driven Simulator for Clinical Conversations. *arXiv:2505.17818*.
+- Nursing Simulation Debriefing Scoping Review. *PMC9912432* (2023).
+- Role-Play Cognitive and Emotional Impact Study (2025). *Frontiers in Psychology*, Vol. 16.

@@ -15,6 +15,8 @@ related:
   - "[[fehlerkultur-im-unterricht]]"
   - "[[retrieval-practice]]"
   - "[[worked-examples]]"
+  - "[[explorable-explanations-im-unterricht]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 created: 2026-04-09

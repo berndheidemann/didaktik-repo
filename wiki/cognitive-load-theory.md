@@ -30,6 +30,8 @@ related:
   - "[[parsons-problems]]"
   - "[[direct-manipulation-lernumgebungen]]"
   - "[[spaced-repetition-algorithmen]]"
+  - "[[ki-tutoring-evidenzlage]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

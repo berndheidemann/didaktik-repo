@@ -27,10 +27,11 @@ related:
   - "[[kompetenzfeststellung-programmierung]]"
   - "[[lerner-modell-mastery-tracking]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[ki-erfahrungsberichte-berufliche-bildung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Lernende planen, überwachen und reflektieren ihren eigenen Lernprozess —
   Zimmermans Drei-Phasen-Modell (1989) beschreibt die zyklische Selbstregulation

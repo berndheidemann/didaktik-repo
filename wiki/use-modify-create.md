@@ -17,11 +17,12 @@ related:
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[parsons-problems]]"
   - "[[retrieval-practice]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Lee et al. (2011) entwickelten die dreistufige Progression Use → Modify
   → Create für Computational-Thinking-Lerneinheiten. Differenzierung ist

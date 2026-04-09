@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 63 | **Letzte Aktualisierung:** 2026-04-09
+**Artikel:** 69 | **Letzte Aktualisierung:** 2026-04-09
 
 ---
 
@@ -31,6 +31,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[computational-action]] — Tissenbaum/Sheldon/Abelson: Von Computational Thinking zu Werkzeugen mit echtem Nutzen
 - [[engagement-theory]] — Kearsley & Shneidermans Relate-Create-Donate als Designcheckliste
 - [[kursarchitektur-lernumgebungen]] — Acht Architektur-Muster (Linear, Mastery-Gate, Knowledge Graph, Branching, Rollen, Spiral, Hub-and-Spoke, Sandbox) mit Entscheidungshilfe
+- [[ki-kompetenzrahmen-schule]] — Synopse OECD AILit, UNESCO, DigComp 2.2, KMK mit Mapping auf Rahmenlehrplan Fachinformatiker
 - [[metakognition]] — Flavells Modell, Planning/Monitoring/Evaluating, Calibration und Dunning-Kruger in der IT-Ausbildung
 - [[multimedia-gestaltungsprinzipien]] — Mayers 12 Prinzipien (Coherence, Signaling, Modality, Spatial/Temporal Contiguity u.a.) für Lernumgebungs-Design
 - [[differenzierung-inklusion]] — UDL, Tomlinson, Neurodiversität, Nachteilsausgleich, WCAG für heterogene IT-Klassen
@@ -67,17 +68,22 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[parsons-problems]] — Code-Puzzles mit Distraktoren (Ericson et al. 2022): gleiche Lernwirkung wie freies Schreiben bei halber Zeit und niedrigerer kognitiver Last
 - [[spaced-repetition-algorithmen]] — Vier Scheduler-Familien (Leitner, SM-2, FSRS, Half-Life Regression) mit Pseudocode — Algorithmen-Katalog
 - [[poe-methode]] — Predict-Observe-Explain (White & Gunstone 1992) als generische Methode für Nicht-Code-Kontexte (Netzwerk, Security, DB-Verhalten)
+- [[browser-ide-gestuetzte-tutorials]] — Format für schrittweise Programmier-Tutorials mit Null-Setup-Einstieg; Tools (TutorialKit, Codespaces) als Beispiele
 
 ### Evidenz & Forschung
 - [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
 - [[meta-analysen-cs-education]] — Was die Forschung tatsächlich über Active Learning, Peer Instruction, Pair Programming sagt
 - [[wissensretention-programmierung]] — Skill Decay, Transfer und Spacing — wie dauerhaftes Können entsteht
+- [[ki-tutoring-evidenzlage]] — Kritischer Evidenzüberblick 2024-2026: Bastani (PNAS) belegt −17% Klausur ohne Guardrails; Performance ≠ Lernen
+- [[ki-erfahrungsberichte-berufliche-bildung]] — Ausgezeichnete Praxisprojekte: BIBB Hermann-Schmidt-Preis 2025 (Uni Augsburg, Berufskolleg Troisdorf), KI-Schulpreis 2025 mit Transferpotenzial
 
 ### Praxis & Erfahrung
 - [[ki-gestuetztes-tutoring]] — Erfahrungsberichte zu LLM-basierten Tutoring-Systemen im Programmierunterricht
 - [[kompetenzfeststellung-programmierung]] — Portfolio, Prozess-Assessment und KI-integrierte Prüfungsformate
 - [[datenschutz-lernumgebungen]] — Datenschutzkonformer Bau von Schul-Lernumgebungen: Verantwortlichkeit, LLM-AVV, Einwilligung, Client-only als Königsweg
 - [[spaced-repetition-scheduler-bauen]] — Implementierungs-Praxis für SR-Scheduler mit AP1-Trainer-Designbeispiel
+- [[explorable-explanations-im-unterricht]] — Kuratierter Katalog IT-relevanter Explorables (Ciechanowski, Olah, Red Blob, Visualgo) mit didaktischer Einbettung
+- [[ki-tool-auswahl-berufsschule]] — Entscheidungs-Rubrics: wann client-only, wann Landes-Chatbot (telli/fobizz), wann kommerziell? Inkl. DSGVO-Pfad
 
 ---
 
@@ -87,10 +93,13 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[flipped-classroom]] — Protokolltheorie per Video, Netzwerkkonfiguration im Unterricht
 - [[worked-examples]] — Dokumentierte Subnetting-Berechnungen Schritt für Schritt
 - [[immersive-simulationen]] — Virtuelle Netzwerk-Labs (GNS3, EVE-NG) mit echtem Firmware
+- [[explorable-explanations-im-unterricht]] — Ciechanowskis "Internet from First Principles" als konzeptueller Einstieg
 
 ### LF4: Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen
 - [[gamification-it-unterricht]] — Escape Room IT-Security für Schutzbedarfsanalyse
 - [[immersive-simulationen]] — CTF-Plattformen (TryHackMe, PicoCTF) für Penetration Testing
+- [[explorable-explanations-im-unterricht]] — "How HTTPS Works" und Case's "Evolution of Trust" als Einstiegs-Explorables
+- [[ki-tool-auswahl-berufsschule]] — DSGVO-Rubrics als Lerngegenstand und Unterrichts-Methodik zugleich
 
 ### LF5: Software zur Verwaltung von Daten anpassen
 - [[pair-programming-unterricht]]
@@ -105,6 +114,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[parsons-problems]] — SQL-Query-Bausteine sortieren (SELECT, FROM, JOIN, WHERE, GROUP BY) mit Distraktoren für typische Fehler
 - [[contrasting-cases]] — SQL vs. NoSQL, Datenformate JSON vs. XML vs. CSV im Parallelvergleich
 - [[direct-manipulation-lernumgebungen]] — Live-SQL-Editor mit sofortiger Ergebnistabelle ohne Submit-Button
+- [[explorable-explanations-im-unterricht]] — Interaktive JOIN-Visualisierungen (sql-joins.leopard.in.ua) als Einstieg
+- [[browser-ide-gestuetzte-tutorials]] — Browser-SQL-Sandbox ohne Setup für schnellen Einstieg
 
 ### LF6: Serviceanfragen bearbeiten
 - [[constructive-alignment]] — Beispiel für Alignment in LF6
@@ -122,6 +133,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[use-modify-create]] — API-Progression: Fremd-API nutzen → Wrapper modifizieren → eigenen Endpoint erschaffen
 - [[contrasting-cases]] — GET vs. POST, synchron vs. asynchron, REST vs. GraphQL im Parallelvergleich
 - [[parsons-problems]] — REST-Handler aus Bausteinen zusammensetzen (Validierung, Auth, DB-Zugriff, Response)
+- [[explorable-explanations-im-unterricht]] — Ciechanowskis "Internet from First Principles" + "How HTTPS Works" als Einstieg
+- [[browser-ide-gestuetzte-tutorials]] — TutorialKit/WebContainers für Node.js-REST-API-Tutorials ohne lokales Setup
 
 ### LF10-12: Projekte planen, durchführen und auswerten
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Projektstruktur
@@ -158,6 +171,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[flow-theorie]] — Challenge-Skill-Balance als Justierkriterium für jede Übung
 - [[self-determination-theory]] — Autonomie, Kompetenz, Verbundenheit als Grundlage jeder Lernsituation
 - [[intrinsic-integration]] — Lerninhalt muss in die Kernmechanik der Aufgabe eingewebt sein
+- [[ki-kompetenzrahmen-schule]] — KI-Kompetenz als lernfeldübergreifendes Querschnittsziel (AILit, UNESCO, KMK)
+- [[ki-tool-auswahl-berufsschule]] — Tool-Entscheidung als wiederkehrende Aufgabe in jedem neuen Lernkontext
 
 ---
 
@@ -168,6 +183,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[blooms-taxonomie]] — Operatoren zur präzisen Formulierung von Kompetenzstufen
 - [[handlungsorientierter-unterricht]] — Handlungskompetenz (Fach-, Selbst-, Sozialkompetenz) als Ziel
 - [[lernsituationen-gestalten]] — Kompetenzen in authentische Lernsituationen übersetzen
+- [[ki-kompetenzrahmen-schule]] — KI-Kompetenz als eigenes Lernziel — Synopse der Rahmenwerke
 
 ### Dropout-Prävention / Affektive Dimension
 - [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset, Zugehörigkeit als stärkste Prädiktoren
@@ -233,6 +249,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[contrasting-cases]] — Parallele Fall-Paare statt Einzelfall als Designmuster für Transfer
 - [[direct-manipulation-lernumgebungen]] — Designprinzip für Widgets: kontinuierliche Repräsentation, Reversibilität, sofortige Wirkung
 - [[anchored-instruction]] — Durchgehender narrativer Anker (Fiktivfirma) als Material-Rahmen
+- [[explorable-explanations-im-unterricht]] — Narrativ geführte, manipulierbare Artefakte als Einstiegsphase
+- [[browser-ide-gestuetzte-tutorials]] — Null-Setup-Tutorials mit lauffähigem Code als Anwendungsphase
 
 ### Debugging und Fehlerkultur
 - [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz
@@ -278,6 +296,10 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[ki-native-lernumgebungen]] — Frontier: Multi-Agent-Tutoring, Copilot-First, Prompt Engineering als Pädagogik
 - [[llm-integrationsmuster-lernumgebungen]] — Konkrete, wiederverwendbare Muster mit Prompt-Skeletten für LLM-Integration in Lernumgebungen
 - [[prompt-engineering-didaktisch]] — Engineering hinter den Mustern: Layered Prompts, Ground-Truth-Injection, Persona-Anchor, Injection-Sandbox
+- [[ki-tutoring-evidenzlage]] — Kritischer Evidenzüberblick: was funktioniert, was schadet (Bastani 2025, Meta-Analysen)
+- [[ki-kompetenzrahmen-schule]] — Was sollen Schüler:innen ÜBER KI lernen? Synopse OECD/UNESCO/DigComp/KMK + Mapping Rahmenlehrplan
+- [[ki-erfahrungsberichte-berufliche-bildung]] — Praxisprojekte aus ausgezeichneten Berufsschulen und Kammer-Initiativen (BIBB, KI-Schulpreis)
+- [[ki-tool-auswahl-berufsschule]] — Entscheidungs-Rubrics für die Tool-Wahl (Client-only vs. telli/fobizz vs. kommerziell)
 - [[datenschutz-lernumgebungen]] — LLM-Integration datenschutzkonform: Cloud vs. lokal, AVV, Prompt-Hygiene
 - [[use-modify-create]] — Natürlicher Lernpfad in einer KI-Welt: KI-Output nutzen, modifizieren, eigenes bauen
 - [[computational-action]] — LLMs machen echte Produkte für Schüler erst zugänglich
@@ -304,6 +326,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[direct-manipulation-lernumgebungen]] — HCI-Interaktionsprinzip als Fundament für Live-Editor, Linked-View und Parameter-Slider
 - [[anchored-instruction]] — Persistente Systemlandschaft und wiederkehrende Personen als Architektur-Muster
 - [[spaced-repetition-algorithmen]] — Scheduler-Baustein neben Aufgaben-Engine und Feedback-System
+- [[ki-tool-auswahl-berufsschule]] — Entscheidungsrubrics, die Architekturentscheidungen vorbereiten (client-only vs. API vs. Landes-Chatbot)
+- [[browser-ide-gestuetzte-tutorials]] — Format als architektonische Alternative zu selbstgehosteten Code-Sandboxes
 
 ### Lernzielformulierung
 - [[blooms-taxonomie]] — Sechs Kompetenzstufen mit Operatoren für Lernziele

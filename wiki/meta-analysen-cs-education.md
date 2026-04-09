@@ -11,11 +11,12 @@ related:
   - "[[worked-examples]]"
   - "[[ki-native-lernumgebungen]]"
   - "[[evaluation-lernumgebungen]]"
+  - "[[ki-tutoring-evidenzlage]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Zusammenstellung CS-spezifischer Meta-Analysen — Active Learning senkt
   Durchfallquoten um 55% (Freeman et al., 2014), Peer Instruction um 61%

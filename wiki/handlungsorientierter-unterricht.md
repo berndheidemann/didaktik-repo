@@ -19,10 +19,12 @@ related:
   - "[[kooperatives-lernen]]"
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[anchored-instruction]]"
+  - "[[ki-kompetenzrahmen-schule]]"
+  - "[[ki-erfahrungsberichte-berufliche-bildung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Zentrales didaktisches Prinzip der deutschen Berufsbildung. Lernende
   durchlaufen die vollständige Handlung (informieren, planen, entscheiden,

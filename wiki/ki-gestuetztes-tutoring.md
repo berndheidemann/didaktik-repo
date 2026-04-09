@@ -22,11 +22,15 @@ related:
   - "[[datenschutz-lernumgebungen]]"
   - "[[metakognition]]"
   - "[[differenzierung-inklusion]]"
+  - "[[ki-tutoring-evidenzlage]]"
+  - "[[ki-kompetenzrahmen-schule]]"
+  - "[[ki-erfahrungsberichte-berufliche-bildung]]"
+  - "[[ki-tool-auswahl-berufsschule]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Erfahrungsberichte zum Einsatz von LLM-basierten Tutoring-Systemen (CS50 AI,
   CodeHelp, Copilot) im Programmierunterricht — ein Stufenmodell von "erst ohne,

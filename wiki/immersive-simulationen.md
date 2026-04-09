@@ -14,11 +14,13 @@ related:
   - "[[cognitive-load-theory]]"
   - "[[anchored-instruction]]"
   - "[[direct-manipulation-lernumgebungen]]"
+  - "[[explorable-explanations-im-unterricht]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Authentische IT-Übungsumgebungen (CTF-Plattformen, Cloud-Sandboxes,
   Netzwerk-Labs, Incident-Response-Simulatoren), in denen Entscheidungen

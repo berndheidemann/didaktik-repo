@@ -25,6 +25,7 @@ taxonomiestufe: [analysieren, bewerten]
 sozialform: [partner, gruppe]
 created: 2026-04-07
 updated: 2026-04-09
+
 summary: >
   Strukturierte Peer Code Reviews als Lernmethode, die Lesekompetenz,
   Qualitätsbewusstsein und Kommunikationsfähigkeit trainiert — direkt
@@ -83,6 +84,18 @@ Für KI-unterstütztes Review (Rubric-Evaluator aus [[llm-integrationsmuster-ler
 - **Think-Pair-Share für Code:** (1) Individuell über Code-Problem nachdenken (2 Min.), (2) mit Partner besprechen (3 Min.), (3) im Plenum vorstellen. Verdoppelt die Lösungsquote bei Trace-Aufgaben (Simon & Cutts, 2012).
 - **Jigsaw (Gruppenpuzzle):** Jede Expertengruppe erarbeitet ein Design Pattern, dann wird in Stammgruppen zusammengetragen.
 
+### Exkurs: Social Annotation — PR-Review ist die Code-Variante
+
+In Geistes- und Sprachwissenschaften hat sich **Social Annotation** etabliert: Lernende markieren und kommentieren Textstellen direkt im Dokument, andere sehen die Anmerkungen und antworten darauf. Führende Plattformen: **Hypothesis** (Open Source, LTI 1.3 für Moodle/Canvas, US-gehostet) und **Perusall** (kostenlos für Lehrkräfte, KI-unterstütztes Comment-Grading, US-gehostet). Empirie ist moderat positiv: Systematic Reviews (Zhu et al., 66 Studien 2008-2023) zeigen Effekte auf Leseverstehen, Metakognition und Motivation; eine CS-Einführungsstudie (Gonzalez-Barahona et al., ICSE-SEET 2024) beobachtete 81 % vs. 56 % Bestehensquote bei Perusall-Teilnahme — allerdings mit Selbstselektion, nicht als RCT. Effekt-Größen liegen unter dem, was Retrieval Practice oder Peer Instruction liefern.
+
+**Warum das hier kein eigenständiges Muster ist**: Der Pull-Request-Workflow oben **ist** Social Annotation auf Code. Jeder Inline-Kommentar in einem GitHub/GitLab-PR ist eine Annotation, jede Antwort darauf ist die soziale Dimension, jede "Resolve"-Aktion ist der Schließ-Mechanismus. Die didaktische Grundlogik (gemeinsam an einem Artefakt diskutieren, anker-gebundenes Feedback) ist identisch — nur das Artefakt ist Code statt Text. Für FIAE/FIDP ist das sogar **berufs-authentischer**, weil PR-Workflows der professionelle Standard sind.
+
+**Wann lohnt sich der Blick auf Text-Social-Annotation trotzdem?** Für Phasen, in denen Lernende **kein Code**, sondern Doku, RFCs, Datenschutzerklärungen oder Fachartikel analysieren sollen — also in Flipped-Classroom-Preps oder bei LF4 (DSGVO-Dokumente), LF3/LF8 (RFCs). Dann liefern Hypothesis oder Perusall Funktionen, die PR-Reviews nicht haben (anker-gebundene Text-Markierungen, Thread-Ansicht über das gesamte Dokument).
+
+**DSGVO-Caveat**: Hypothesis und Perusall sind US-gehostet. Für deutsche Schulen ist beides nicht ohne Schul-DSB-Freigabe und Schrems-II-Prüfung einsetzbar — das ist ein harter Blocker, keine Formalie. DE-Alternativen wie **edubreak CAMPUS** existieren (DE-Hosting, LTI), sind aber kommerziell und eher auf Video-Annotation zugeschnitten. Für die Praxis heißt das: **Solange die Aufgabe Code ist, reicht der PR-Workflow**. Erst wenn Text-Annotation wirklich nötig wird, lohnt der DSGVO-Aufwand für eine externe Plattform.
+
+Siehe auch [[kooperatives-lernen]] für die allgemeine Einordnung als Methode.
+
 ## Zeitbedarf
 
 - **Vorbereitung:** 1-2 Stunden (Rubric erstellen, Kalibrierungsbeispiel vorbereiten)
@@ -125,3 +138,5 @@ Ein Agent kann Code Reviews unterstützen:
 - Luxton-Reilly, A. et al. (2018). Introductory Programming: A Systematic Literature Review. ITiCSE Working Group Report.
 - Simon, B. & Cutts, Q. (2012). Peer Instruction: A Teaching Method to Foster Deep Understanding. Communications of the ACM, 55(2), 27-29.
 - Hattie, J. & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research*, 77(1), 81-112.
+- Zhu, X., Chen, B., Avadhanam, R. M., Shui, H., & Zhang, R. Z. (2024). Reading and connecting: Using social annotation in online classes — A systematic review of research. *Educational Technology Research and Development*.
+- Gonzalez-Barahona, J. M., et al. (2024). Social Annotation in an Introductory Programming Course. *ICSE-SEET 2024*. arXiv:2407.10322.

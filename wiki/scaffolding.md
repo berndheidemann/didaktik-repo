@@ -41,6 +41,8 @@ related:
   - "[[differenzierung-inklusion]]"
   - "[[contrasting-cases]]"
   - "[[parsons-problems]]"
+  - "[[ki-tutoring-evidenzlage]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]

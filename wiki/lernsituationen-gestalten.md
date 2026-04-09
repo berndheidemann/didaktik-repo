@@ -18,11 +18,12 @@ related:
   - "[[differenzierung-inklusion]]"
   - "[[anchored-instruction]]"
   - "[[expertise-entwicklung]]"
+  - "[[ki-kompetenzrahmen-schule]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Methodik zur Entwicklung von Lernsituationen aus Lernfeldern des Rahmenlehrplans,
   inklusive Materialquellen (ISB Bayern, BW, Sachsen) und dem sechsphasigen Modell

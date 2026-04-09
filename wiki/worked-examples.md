@@ -31,12 +31,13 @@ related:
   - "[[direct-manipulation-lernumgebungen]]"
   - "[[spaced-repetition-algorithmen]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 sozialform: [einzelarbeit, partner]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Vollständig ausgearbeitete Lösungen zum Studieren statt eigenes Problemlösen,
   um kognitive Belastung bei Novizen zu reduzieren (Sweller & Cooper, 1985) —

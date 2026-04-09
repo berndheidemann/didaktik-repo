@@ -23,10 +23,14 @@ related:
   - "[[formatives-assessment]]"
   - "[[spaced-repetition-algorithmen]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[ki-tutoring-evidenzlage]]"
+  - "[[ki-kompetenzrahmen-schule]]"
+  - "[[ki-erfahrungsberichte-berufliche-bildung]]"
+  - "[[ki-tool-auswahl-berufsschule]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Frontier-Ansätze, die KI nicht als Add-on, sondern als Lernmedium behandeln —
   Multi-Agent-Tutoring, adaptives KI-Pair-Programming, Prompt Engineering als

@@ -26,6 +26,7 @@ related:
   - "[[metakognition]]"
   - "[[evaluation-lernumgebungen]]"
   - "[[retrieval-practice]]"
+  - "[[ki-kompetenzrahmen-schule]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

@@ -36,10 +36,12 @@ related:
   - "[[spaced-repetition-algorithmen]]"
   - "[[poe-methode]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[explorable-explanations-im-unterricht]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Gestaltungsprinzipien für Lernumgebungen, in denen Lernende aktiv mit
   Inhalten, Aufgaben und Feedback interagieren. Grundlage für KI-gestützte

@@ -21,10 +21,12 @@ related:
   - "[[parsons-problems]]"
   - "[[direct-manipulation-lernumgebungen]]"
   - "[[constructive-alignment]]"
+  - "[[explorable-explanations-im-unterricht]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Referenz-Katalog von 21 interaktiven Aufgabentypen für digitale Lernumgebungen
   mit Bloom-Einordnung, Produktionsaufwand und LLM-Upgrade-Potenzial. Plus

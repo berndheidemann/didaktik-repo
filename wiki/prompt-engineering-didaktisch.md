@@ -13,10 +13,13 @@ related:
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[datenschutz-lernumgebungen]]"
   - "[[multimedia-gestaltungsprinzipien]]"
+  - "[[ki-tutoring-evidenzlage]]"
+  - "[[ki-kompetenzrahmen-schule]]"
+  - "[[ki-tool-auswahl-berufsschule]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Wie man stabile, hallucination-arme, rollenstabile didaktische Prompts baut.
   Acht Patterns (Layered System Prompt, Ground-Truth-Injection, Persona-Anchor,
@@ -167,6 +170,22 @@ Eine Temperature für alles ist falsch — Bewertung braucht Stabilität, Case-G
 
 Inkonsistente Bewertungen für identische Antworten sind Vertrauenskiller — direkte Verbindung zu [[formatives-assessment]]: Konsistenz ist Voraussetzung für Lernsteuerung.
 
+### Referenzbeispiel: LearnLM als Operationalisierung klassischer Lernprinzipien
+
+Google DeepMind hat 2024/2025 mit **LearnLM** ein purpose-built Lern-Modell entwickelt, das seit Gemini 2.5 in den Hauptmodellen integriert ist. Der Wert von LearnLM für dieses Repo liegt **nicht** in den didaktischen Prinzipien selbst — die sind Sweller, Vygotsky, Flavell und Deci/Ryan in neuer Verpackung: Active Learning, Cognitive Load Management, Metacognition Deepening, Curiosity Stimulation, Goal Adaptation. Alles bekannt, alles im Repo bereits als eigenständige Artikel vorhanden ([[cognitive-load-theory]], [[scaffolding]], [[metakognition]], [[self-determination-theory]]).
+
+Der Wert liegt in der **Operationalisierung**: LearnLM zeigt, wie sich diese klassischen Prinzipien in einen System-Prompt gießen lassen, der messbar das Modellverhalten verändert. In der Experten-Bewertung (Lehrkräfte, simulierte Tutor-Szenarien) bevorzugten Rater LearnLM gegenüber GPT-4o um ~31 % — vor allem bei "guidance" und "mistake correction". Das ist **kein Lerngewinn-Nachweis** (vgl. [[ki-tutoring-evidenzlage]] zum Unterschied Präferenz ≠ Lernerfolg), aber ein belastbarer Hinweis, dass Prompts, die Lernwissenschaft systematisch verankern, andere Outputs produzieren als generische Hilfs-Prompts.
+
+**Übertragbar auf eigene Prompts** sind drei LearnLM-Designentscheidungen:
+
+1. **Prinzipien als Pflichtfelder, nicht als Wunsch.** Statt "Sei didaktisch wertvoll" enthält der Prompt pro Prinzip eine Direktive mit Verhaltens-Konkretisierung ("Aktiviere Lerner durch eine Frage pro Antwort-Abschnitt, statt zu erklären"). Jede Direktive ist prüfbar — das passt zu Pattern 2 (Negative Constraints mit positiver Substitution).
+2. **Explizite Cognitive-Load-Budgets.** Antworten werden auf ein Segment begrenzt, multimodale Elemente werden modular zugeschaltet statt pauschal. Das entspricht Pattern 6 (Structured Output mit Schema) — nur auf Content-Ebene statt auf Datenformat-Ebene.
+3. **Adaptation als eigener Reasoning-Schritt.** Vor der Antwortgenerierung wird ein internes "Was weiß der Lerner bereits, wo liegt die nächste Entwicklungszone"-Assessment durchgeführt. Lässt sich in eigenen Systemen als Chain-of-Thought-Block mit Visibility-Tag umsetzen (Pattern 3, Ground-Truth-Injection, lässt sich erweitern zu "learner-state-injection").
+
+**Was LearnLM nicht liefert**, ist ein magischer Zugewinn. Wer diese drei Ideen schon in eigenen Prompts umsetzt, wird keinen großen Unterschied merken. Wer bisher nur "Sei ein guter Tutor"-Prompts schreibt, wird durch die LearnLM-Lektüre deutlich präzisere Prompts bauen können — der Lift kommt aus der Disziplin, nicht aus einem geheimnisvollen neuen Verfahren. LearnLM ist damit im Wesentlichen ein **hochwertiges Referenz-Beispiel**, wie Pattern 1-8 dieses Artikels in der Praxis kombiniert aussehen können.
+
+LearnLM ist keine Empfehlung, Gemini als Modell einzusetzen — die Prinzipien sind modellunabhängig und können mit jedem Frontier-Modell umgesetzt werden. Das öffentlich zugängliche LearnLM-Whitepaper (DeepMind 2024/2025) ist als Lektüre trotzdem lohnenswert, weil es seltene Transparenz über System-Prompt-Design in einem Produktionssystem bietet.
+
 ## Durchführung
 
 Weitere Patterns, die regelmäßig gebraucht werden:
@@ -228,3 +247,4 @@ Ein Agent oder Entwickler, der LLM-basierte Lernfunktionen baut, sollte:
 - Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., & Liang, P. (2024). Lost in the middle: How language models use long contexts. *Transactions of the ACL*, 12, 157-173.
 - Mollick, E. R., & Mollick, L. (2023). *Assigning AI: Seven approaches for students, with prompts.* Wharton Working Paper.
 - Schulhoff, S., Ilie, M., Balepur, N., et al. (2024). The Prompt Report: A systematic survey of prompting techniques. *arXiv:2406.06608*.
+- Google DeepMind (2024, v2: 2025-11). *Towards Responsible Development of Generative AI for Education* (LearnLM Whitepaper). https://storage.googleapis.com/deepmind-media/LearnLM/LearnLM_paper.pdf

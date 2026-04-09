@@ -34,11 +34,13 @@ related:
   - "[[contrasting-cases]]"
   - "[[parsons-problems]]"
   - "[[poe-methode]]"
+  - "[[ki-tutoring-evidenzlage]]"
+  - "[[browser-ide-gestuetzte-tutorials]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Lernen wird nachhaltiger, wenn es gezielt erschwert wird — Kapur (2008)
   zeigt, dass Scheitern vor Instruktion tieferes Verständnis erzeugt,

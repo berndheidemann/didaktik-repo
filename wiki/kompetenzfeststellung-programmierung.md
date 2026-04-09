@@ -14,11 +14,12 @@ related:
   - "[[sprachsensibler-it-unterricht]]"
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[selbstgesteuertes-lernen]]"
+  - "[[ki-erfahrungsberichte-berufliche-bildung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Innovative Assessment-Formen jenseits von Multiple Choice — Portfolio-Assessment,
   prozessbasierte Bewertung und kontinuierliche Kompetenzprofile ergänzen die
