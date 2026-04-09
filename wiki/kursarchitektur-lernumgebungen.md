@@ -15,6 +15,7 @@ related:
   - "[[ki-native-lernumgebungen]]"
   - "[[lerner-modell-mastery-tracking]]"
   - "[[differenzierung-inklusion]]"
+  - "[[anchored-instruction]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07
@@ -164,6 +165,7 @@ Ein Entwickler, der eine Lernumgebung aufbaut oder umbaut, sollte:
 - [[gamification-it-unterricht]] — Gamification-Mechaniken sind Progression-Mechaniken *innerhalb* einer Architektur, kein Ersatz für sie
 - [[scaffolding]] — Fading erfolgt entlang der Architektur-Phasen
 - [[ki-native-lernumgebungen]] — KI-Tutoring kann jede Architektur unterstützen, ändert aber nicht die Architekturwahl
+- [[anchored-instruction]] — Passt besonders zur Hub-and-Spoke- und Spiralcurriculum-Architektur
 
 ## Quellen
 

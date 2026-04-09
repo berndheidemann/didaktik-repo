@@ -16,15 +16,20 @@ related:
   - "[[engagement-theory]]"
   - "[[kooperatives-lernen]]"
   - "[[fehlerkultur-im-unterricht]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[affektive-dimensionen]]"
+  - "[[expertise-entwicklung]]"
+  - "[[wissensretention-programmierung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [partner, gruppe]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Strukturierte Peer Code Reviews als Lernmethode, die Lesekompetenz,
   Qualitätsbewusstsein und Kommunikationsfähigkeit trainiert — direkt
   berufsrelevant und eine Form von Wiliams Strategie 4 (Peers als Lernressourcen).
+  Rubric-Qualität folgt den Hattie-Timperley-Feedback-Ebenen.
 ---
 
 # Code Reviews als Lernmethode
@@ -38,6 +43,21 @@ Code Reviews übertragen eine zentrale Praxis der professionellen Softwareentwic
 Hundhausen et al. (2013) zeigten, dass Peer Code Reviews die Codequalität und das Verständnis für Softwaredesign signifikant verbessern. Entscheidend ist ein klar vorgegebenes Review-Rubric — ohne Rubric bleiben Reviews oberflächlich ("sieht gut aus").
 
 Ein bewährtes Verfahren ist zweistufig: (1) Review schreiben, (2) das eigene Review vom Peer bewerten lassen (Review-of-Review), was die Reflexionstiefe erhöht.
+
+### Hattie-Feedback-Ebenen als Qualitätskriterium für Reviews
+
+Die wirksamste Justierung eines Review-Rubrics ist nicht die Zahl der Kriterien, sondern die **Feedback-Ebene**, auf der es operiert. Hattie & Timperley (2007) unterscheiden vier Ebenen mit sehr unterschiedlicher Wirksamkeit — die vollständige Tabelle steht in [[formatives-assessment]]:
+
+| Ebene | Review-Kommentar-Beispiel | Wirksamkeit |
+|---|---|---|
+| **Task** | "In Zeile 14 fehlt die Fehlerbehandlung für `null`." | Nützlich, aber oberflächlich |
+| **Process** | "Die Funktion tut zu viel — zerlege sie in `validate()` und `save()`, dann wird Testing einfacher." | Sehr wirksam, fördert Transfer |
+| **Self-Regulation** | "Hast du vor dem Commit einen Trockenlauf mit den Grenzwerten gemacht? Das hätte den Bug gezeigt." | Am nachhaltigsten |
+| **Self** | "Super gemacht, du bist ein guter Coder!" | **Unwirksam** — keine handlungsrelevante Info |
+
+Novizen-Reviews bleiben typischerweise auf der Task-Ebene stehen ("hier fehlt was", "schreibfehler") — das ist brauchbar, aber unter dem Potenzial. Das Rubric und die Kalibrierungssession sollten **Process-Feedback explizit fordern** ("welche Strategie hätte geholfen?") und **Self-Feedback explizit verbieten**. Review-of-Review ist der Hebel, um Ebenen-Drift zu korrigieren: "War dieser Kommentar auf Task-, Process- oder Self-Regulation-Ebene?" ist eine sehr produktive Meta-Frage.
+
+Für KI-unterstütztes Review (Rubric-Evaluator aus [[llm-integrationsmuster-lernumgebungen]]): Die Hattie-Ebenen gehören als Pflichtfelder ins JSON-Output-Schema, damit das LLM nicht in Task-only-Drift kippt.
 
 ## Durchführung
 
@@ -93,13 +113,15 @@ Ein Agent kann Code Reviews unterstützen:
 ## Verwandte Konzepte
 
 - [[pair-programming-unterricht]] — Synchrones Peer-Feedback (Code Review ist die asynchrone Variante)
-- [[formatives-assessment]] — Code Reviews sind Wiliams Strategie 4 (Peers als Lernressourcen)
+- [[formatives-assessment]] — Code Reviews sind Wiliams Strategie 4 (Peers als Lernressourcen); Hattie-Timperley-Feedback-Ebenen-Tabelle als direkte Rubric-Grundlage
 - [[scaffolding]] — Rubric und Kalibrierung als Scaffold für konstruktives Feedback
 - [[constructive-alignment]] — Code Review als aligned Assessment auf Stufe "analysieren"/"bewerten"
 - [[blooms-taxonomie]] — Code-Analyse operiert auf den oberen Taxonomiestufen
+- [[llm-integrationsmuster-lernumgebungen]] — Rubric-Evaluator-Muster für KI-unterstützte Reviews mit Hattie-Ebenen als Pflichtfeldern
 
 ## Quellen
 
 - Hundhausen, C. D. et al. (2013). Talking About Code: Integrating Pedagogical Code Reviews into Early Computing Courses. ACM Transactions on Computing Education, 13(3), 1-28.
 - Luxton-Reilly, A. et al. (2018). Introductory Programming: A Systematic Literature Review. ITiCSE Working Group Report.
 - Simon, B. & Cutts, Q. (2012). Peer Instruction: A Teaching Method to Foster Deep Understanding. Communications of the ACM, 55(2), 27-29.
+- Hattie, J. & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research*, 77(1), 81-112.

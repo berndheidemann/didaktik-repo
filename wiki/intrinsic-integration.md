@@ -13,6 +13,10 @@ related:
   - "[[self-determination-theory]]"
   - "[[engagement-theory]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[anchored-instruction]]"
+  - "[[direct-manipulation-lernumgebungen]]"
+  - "[[computational-action]]"
+  - "[[constructive-alignment]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07
@@ -104,6 +108,8 @@ Ein Agent kann Intrinsic Integration als Designkriterium anwenden:
 - [[flow-theorie]] — Intrinsic Integration schafft die Bedingungen für Flow
 - [[self-determination-theory]] — Crowding-Out als empirischer Beleg für die Wichtigkeit intrinsischer Integration
 - [[engagement-theory]] — "Donate"-Phase als externe Erfolgsbedingung wirkt intrinsisch
+- [[anchored-instruction]] — Anker liefert den Kontext; Intrinsic Integration stellt sicher, dass die Aufgaben im Anker das Lernziel auch treffen
+- [[direct-manipulation-lernumgebungen]] — Wenn die Kernmechanik das Lernziel ist, muss sie direkt manipulativ sein, damit sie nicht umgangen wird
 
 ## Quellen
 

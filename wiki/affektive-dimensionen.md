@@ -23,6 +23,12 @@ related:
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[multimedia-gestaltungsprinzipien]]"
   - "[[differenzierung-inklusion]]"
+  - "[[code-review-unterricht]]"
+  - "[[debugging-als-kompetenz]]"
+  - "[[lerntagebuch]]"
+  - "[[low-floor-high-ceiling]]"
+  - "[[peer-instruction]]"
+  - "[[worked-examples]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

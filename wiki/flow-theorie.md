@@ -16,6 +16,7 @@ related:
   - "[[engagement-theory]]"
   - "[[kursarchitektur-lernumgebungen]]"
   - "[[zeitmanagement-selbstorganisation]]"
+  - "[[direct-manipulation-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07
@@ -113,6 +114,7 @@ Ein Agent kann Flow systematisch ermöglichen:
 - [[ki-gestuetztes-tutoring]] — Tutor als Flow-Wächter
 - [[low-floor-high-ceiling]] — Strukturelle Voraussetzung dafür, dass jede:r seinen Flow-Channel findet
 - [[self-determination-theory]] — Kompetenzerleben als affektive Komponente von Flow
+- [[direct-manipulation-lernumgebungen]] — Liefert die technischen Voraussetzungen für Flow: instant feedback, klare Wirkung, klare Ziele
 
 ## Quellen
 

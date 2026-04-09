@@ -16,16 +16,24 @@ related:
   - "[[productive-failure]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[misconception-analyse]]"
+  - "[[parsons-problems]]"
+  - "[[anchored-instruction]]"
+  - "[[metakognition]]"
+  - "[[retrieval-practice]]"
+  - "[[spaced-repetition-algorithmen]]"
+  - "[[poe-methode]]"
+  - "[[spaced-repetition-scheduler-bauen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [partner, gruppe, einzelarbeit]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Fünf-Phasen-Struktur für Programmieraufgaben (Sentance, Waite & Kallia,
   2019): Predict → Run → Investigate → Modify → Make. Differenzierung ist
   strukturell eingebaut — schwache Lernende verweilen länger in den frühen
-  Phasen, starke springen zu Modify/Make.
+  Phasen, starke springen zu Modify/Make. Code-Spezialisierung der
+  generischen POE-Methode ([[poe-methode]]).
 ---
 
 # PRIMM — Predict, Run, Investigate, Modify, Make
@@ -81,6 +89,10 @@ print(ergebnis)
 - **PRIMM mit KI:** Investigate als Tutor-Dialog, Modify als KI-Quests, Make mit KI-Assist nach klaren Regeln.
 - **PRIMM für Bug-Fixing:** Fehlerhafter Code, Predict: "Was *sollte* das tun?" Vgl. [[debugging-als-kompetenz]].
 
+## Beziehung zu POE (Predict-Observe-Explain)
+
+PRIMM ist eine Code-Spezialisierung der generischen **Predict-Observe-Explain**-Methode von White & Gunstone (1992). POE selbst funktioniert ohne Code — für Netzwerk, Security, DB-Verhalten, Dateisystem etc. —, und ist für FIDP-Themen oft das passendere Format. Eigener Methoden-Artikel mit Einsatzmustern außerhalb des Code-Kontexts: [[poe-methode]].
+
 ## Zeitbedarf
 
 Eine vollständige PRIMM-Sequenz dauert 45-90 Minuten — passend für eine Doppelstunde. Predict und Run sind kurz (zusammen 10-15 Min.), Investigate und Modify mittel, Make ist die längste Phase. Bei Zeitnot kann Make in die Folgestunde wandern.
@@ -121,6 +133,7 @@ Ein Agent kann PRIMM-Aufgaben automatisch generieren und orchestrieren:
 - [[expertise-entwicklung]] — Trainiert Tracing → Explaining → Writing
 - [[low-floor-high-ceiling]] — Predict/Run als Floor, Modify/Make als Ceiling
 - [[use-modify-create]] — Verwandte Methode auf größerer Granularität
+- [[parsons-problems]] — Passt in die Investigate-Phase; in der Modify-Phase als Bausatz einsetzbar
 
 ## Quellen
 

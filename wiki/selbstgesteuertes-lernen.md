@@ -23,6 +23,10 @@ related:
   - "[[metakognition]]"
   - "[[zeitmanagement-selbstorganisation]]"
   - "[[pruefungsvorbereitung-lernstrategie]]"
+  - "[[gamification-it-unterricht]]"
+  - "[[kompetenzfeststellung-programmierung]]"
+  - "[[lerner-modell-mastery-tracking]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

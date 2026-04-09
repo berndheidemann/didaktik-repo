@@ -13,6 +13,7 @@ related:
   - "[[learning-engineering]]"
   - "[[sprachsensibler-it-unterricht]]"
   - "[[pruefungsvorbereitung-lernstrategie]]"
+  - "[[selbstgesteuertes-lernen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

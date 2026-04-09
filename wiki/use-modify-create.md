@@ -15,6 +15,8 @@ related:
   - "[[ki-native-lernumgebungen]]"
   - "[[computational-action]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[parsons-problems]]"
+  - "[[retrieval-practice]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]
@@ -122,6 +124,7 @@ Ein Agent kann UMC als generische Aufgabenstruktur nutzen:
 - [[debugging-als-kompetenz]] — Modify-Phase trainiert Debugging
 - [[low-floor-high-ceiling]] — UMC operationalisiert die niedrige Tür mit hoher Decke
 - [[ki-native-lernumgebungen]] — UMC ist die natürliche KI-Lernprogression
+- [[parsons-problems]] — Kompositionsformat für die Modify-Phase
 
 ## Quellen
 

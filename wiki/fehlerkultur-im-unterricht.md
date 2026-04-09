@@ -12,6 +12,8 @@ related:
   - "[[formatives-assessment]]"
   - "[[kooperatives-lernen]]"
   - "[[misconception-analyse]]"
+  - "[[direct-manipulation-lernumgebungen]]"
+  - "[[poe-methode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-08
@@ -161,6 +163,7 @@ IT ist für Fehlerkultur ein Sonderfall, weil Fehler dort **binär und öffentli
 - [[formatives-assessment]] — die Trennung formatives/summatives Assessment ist Dimension 2
 - [[kooperatives-lernen]] — soziale Grundkompetenzen als Voraussetzung
 - [[misconception-analyse]] — Mistakes (Reason-Taxonomie) sind Misconceptions
+- [[direct-manipulation-lernumgebungen]] — Reversibilität (Undo) ist praktizierte Fehlerkultur im Interface
 
 ## Quellen
 

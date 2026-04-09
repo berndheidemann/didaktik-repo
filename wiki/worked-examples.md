@@ -25,6 +25,12 @@ related:
   - "[[misconception-analyse]]"
   - "[[multimedia-gestaltungsprinzipien]]"
   - "[[differenzierung-inklusion]]"
+  - "[[contrasting-cases]]"
+  - "[[parsons-problems]]"
+  - "[[affektive-dimensionen]]"
+  - "[[direct-manipulation-lernumgebungen]]"
+  - "[[spaced-repetition-algorithmen]]"
+  - "[[spaced-repetition-scheduler-bauen]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
@@ -134,6 +140,8 @@ Ein Agent kann Worked Examples adaptiv einsetzen:
 - [[scaffolding]] — Fading als Brücke zum selbstständigen Problemlösen
 - [[productive-failure]] — Anderes Ende des Kontinuums
 - [[formatives-assessment]] — Completion Problems als diagnostisches Werkzeug
+- [[contrasting-cases]] — Ein Worked Example zeigt eine Lösung, Contrasting Cases zeigen Unterschiede — komplementäre Formate
+- [[parsons-problems]] — Etablierte Zwischenstufe zwischen Worked Example und freiem Schreiben
 
 ## Quellen
 

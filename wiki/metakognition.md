@@ -17,6 +17,9 @@ related:
   - "[[misconception-analyse]]"
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[zeitmanagement-selbstorganisation]]"
+  - "[[cognitive-apprenticeship]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[primm-methode]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]

@@ -30,6 +30,12 @@ related:
   - "[[lerner-modell-mastery-tracking]]"
   - "[[datenschutz-lernumgebungen]]"
   - "[[multimedia-gestaltungsprinzipien]]"
+  - "[[contrasting-cases]]"
+  - "[[direct-manipulation-lernumgebungen]]"
+  - "[[anchored-instruction]]"
+  - "[[spaced-repetition-algorithmen]]"
+  - "[[poe-methode]]"
+  - "[[spaced-repetition-scheduler-bauen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07
@@ -111,6 +117,9 @@ Ein Agent kann diese Prinzipien nutzen, um wirksame Lernsituationen zu gestalten
 - [[scaffolding]] — Scaffolding als zentrales Gestaltungsprinzip interaktiver Umgebungen
 - [[worked-examples]] — Kernbaustein interaktiver Lernpfade für Novizen
 - [[formatives-assessment]] — Sofortiges Feedback als zentrales Element formativen Assessments
+- [[contrasting-cases]] — Side-by-Side-Darstellung als Widget-Pattern für strukturelles Lernen
+- [[direct-manipulation-lernumgebungen]] — Tragendes Interaktionsprinzip: kontinuierliche Repräsentation und sofortige Reaktion
+- [[anchored-instruction]] — Persistente Systemlandschaft und wiederkehrende Fiktivfirma als Widget-Pattern
 
 ## Quellen
 

@@ -13,6 +13,12 @@ related:
   - "[[metakognition]]"
   - "[[fehlerkultur-im-unterricht]]"
   - "[[scaffolding]]"
+  - "[[contrasting-cases]]"
+  - "[[parsons-problems]]"
+  - "[[kooperatives-lernen]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[poe-methode]]"
+  - "[[spaced-repetition-scheduler-bauen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-08
@@ -155,6 +161,8 @@ Entwicklung eigener Concept-Inventory-Items: 2-4 h pro Item (inkl. Kalibrierung)
 - [[metakognition]] — Lernende lernen, eigene Misconceptions zu erkennen
 - [[fehlerkultur-im-unterricht]] — Voraussetzung: Klima, in dem "falsche" Antworten zeigbar sind
 - [[scaffolding]] — Bridging Analogies sind gestufte konzeptuelle Hilfen
+- [[contrasting-cases]] — Ein korrekter vs. ein plausibel-falscher Fall adressieren Misconceptions proaktiv im Lernmaterial
+- [[parsons-problems]] — Distraktoren als Misconception-Sensoren und diagnostisches Signal
 
 ## Quellen
 

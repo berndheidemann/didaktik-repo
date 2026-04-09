@@ -26,6 +26,10 @@ related:
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[misconception-analyse]]"
   - "[[multimedia-gestaltungsprinzipien]]"
+  - "[[contrasting-cases]]"
+  - "[[parsons-problems]]"
+  - "[[direct-manipulation-lernumgebungen]]"
+  - "[[spaced-repetition-algorithmen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07
@@ -102,6 +106,9 @@ Ein Agent kann CLT-Prinzipien operationalisieren:
 - [[scaffolding]] — Fading von Hilfestellung folgt direkt aus CLT: Novizen brauchen mehr, Experten weniger
 - [[interaktive-lernumgebungen]] — CLT liefert die theoretische Basis für Feedback- und Aufgabendesign
 - [[blooms-taxonomie]] — Höhere Taxonomiestufen erzeugen typischerweise höhere Elementinteraktivität
+- [[contrasting-cases]] — Vergleichen erhöht intrinsische Last; funktioniert nur bei ausreichendem Vorwissen
+- [[parsons-problems]] — Senkt Produktions-Last bei gleichem Schema-Aufbau
+- [[direct-manipulation-lernumgebungen]] — Reduziert Execution- und Evaluation-Distance (Hutchins/Hollan/Norman) als externe Last
 
 ## Quellen
 

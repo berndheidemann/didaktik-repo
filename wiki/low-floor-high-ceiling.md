@@ -18,6 +18,9 @@ related:
   - "[[kursarchitektur-lernumgebungen]]"
   - "[[sprachsensibler-it-unterricht]]"
   - "[[differenzierung-inklusion]]"
+  - "[[parsons-problems]]"
+  - "[[affektive-dimensionen]]"
+  - "[[formatives-assessment]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07
@@ -103,6 +106,7 @@ Ein Agent kann LFHC systematisch in jede generierte Aufgabe einbauen:
 - [[flow-theorie]] — LFHC erlaubt jedem Lernenden seinen eigenen Flow-Channel
 - [[primm-methode]] — Floor-Sicherung über Predict/Run/Investigate
 - [[use-modify-create]] — Strukturierte LFHC-Progression für Code-Aufgaben
+- [[parsons-problems]] — Distraktor-Dichte als unsichtbare Höhenverstellung
 
 ## Quellen
 

@@ -1,7 +1,7 @@
 ---
 title: Scaffolding und Zone der nächsten Entwicklung
 type: theorie
-tags: [lernunterstuetzung, zpd, fading, differenzierung, vygotsky, parsons-problems, challenge-point]
+tags: [lernunterstuetzung, zpd, fading, differenzierung, vygotsky, parsons-problems, challenge-point, concreteness-fading]
 related:
   - "[[cognitive-load-theory]]"
   - "[[worked-examples]]"
@@ -39,15 +39,18 @@ related:
   - "[[misconception-analyse]]"
   - "[[multimedia-gestaltungsprinzipien]]"
   - "[[differenzierung-inklusion]]"
+  - "[[contrasting-cases]]"
+  - "[[parsons-problems]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Temporäre Lernunterstützung in der Zone der nächsten Entwicklung (Vygotsky, 1978),
   die schrittweise abgebaut wird (Fading), sobald Lernende eigenständig
-  handeln können (Wood, Bruner & Ross, 1976).
+  handeln können (Wood, Bruner & Ross, 1976). Ergänzt um Concreteness Fading
+  (Goldstone/Fyfe) als zweite, orthogonale Fading-Achse auf der Repräsentations-Ebene.
 ---
 
 # Scaffolding und Zone der nächsten Entwicklung
@@ -101,11 +104,27 @@ Guadagnoli & Lee (2004) führten **funktionale Schwierigkeit** ein: Die Lernwirk
 
 ### Parsons Problems als Scaffold
 
-Parsons Problems sind eine spezifische Scaffolding-Form: Lernende sortieren vorgegebene Code-Snippets in die richtige Reihenfolge, statt Code frei zu schreiben. Empirisch sitzen sie zwischen [[worked-examples]] und freiem Schreiben — der "missing scaffolding step".
+Parsons Problems sind eine spezifische Scaffolding-Form zwischen [[worked-examples]] und freiem Schreiben: Lernende sortieren vorgegebene Code-Snippets statt zu tippen. Eigener Methoden-Artikel mit Distraktor-Varianten und Evidenz: [[parsons-problems]].
 
-Denny et al. (2008) und Ericson et al. (2022) zeigen konsistent: Gleiche Lernergebnisse in weniger Zeit bei reduzierter kognitiver Last. Distraktoren (falsche Zeilen) erhöhen die Anforderung schrittweise. Fading-Pfad: Worked Example → Parsons → Faded Parsons → Completion → freies Schreiben.
+### Concreteness Fading — Scaffolding auf der Repräsentations-Ebene
 
-**Für den Agent:** Parsons Problems lassen sich automatisch aus Lösungscode generieren — Zeilen mischen, optional Distraktoren beimischen.
+Klassisches Fading baut *Hilfe* schrittweise ab. **Concreteness Fading** (Goldstone & Son 2005; Fyfe et al. 2014) verschiebt eine orthogonale Dimension: die **Abstraktheit der Repräsentation selbst**. Die klassische Sequenz ist dreistufig — **konkret-verkörpert → ikonisch-visuell → abstrakt-symbolisch** — mit Effektstärken d ≈ 0,4–0,7 auf Transfer in Mathematik und MINT.
+
+**Kern:** Konkrete Repräsentationen senken die Einstiegshürde, abstrakte erhöhen Transferfähigkeit. Wer nur konkret bleibt, lernt oberflächengebunden; wer direkt abstrakt startet, scheitert am Verstehen. Der Wirkstoff ist die *Sequenz*, nicht eine Einzelstufe. Worked-Example-Fading reduziert Unterstützungsmenge, Concreteness Fading reduziert Darstellungs-Nähe zum Anschaulichen — beide Achsen sind kombinierbar.
+
+**IT-spezifische Sequenzen:**
+
+| Konzept | Konkret | Ikonisch | Symbolisch |
+|---|---|---|---|
+| **Pandas-DataFrame** | Farbige Karteikarten mit Spalten-/Zeilenetiketten | Tabellen-Rendering mit gehighlighteter Selektion | `df.loc[df.a > 5, ['b','c']]` |
+| **NumPy-Tensor** | Physische Schachtel-Metapher (1D=Stab, 2D=Blatt, 3D=Stapel) | Achsen-Diagramm mit nummerierten Dimensionen | `shape=(32,64,3)` |
+| **SQL-Join** | Venn-Diagramm mit physischen Mengenstücken | Tabellen-Paare mit Verbindungslinien zwischen Schlüsseln | `LEFT JOIN ... ON a.id = b.fk` |
+| **Rekursion** | Gestapelte Sticky-Notes als Stack Frames | Python Tutor Step-Through | Funktionsdefinition + Aufrufbaum |
+| **Block-basierte Programmierung** | Puzzle-Stücke ohne Syntaxfehler | visueller Blockeditor | Textsprache (Python, JS) |
+
+Der letzte Eintrag zeigt: Concreteness Fading ist kein neues Konzept für CS-Didaktik — Block-zu-Text-Übergänge *sind* Concreteness Fading. Neu ist nur der Fachbegriff, der das Muster über Einzelanwendungen hinaus hebt.
+
+**Boundary Condition (Fyfe et al. 2014):** Die Zwischenstufen müssen *explizit verknüpft* werden. Sprung ohne Brückenerklärung liefert keinen Vorteil gegenüber direktem abstraktem Unterricht — der Fading-Prozess selbst ist der Wirkstoff. Die Schwelle zwischen den Stufen an Lerner-Performance koppeln, nicht an Zeit.
 
 ## Bezug zur IT-Ausbildung
 
@@ -117,8 +136,6 @@ Scaffolding ist besonders relevant für Programmierunterricht, weil Anfänger:in
 | **Hoch** | Lücken-Query: JOIN ergänzen | Routing vorgegeben, Handler bauen |
 | **Mittel** | Query mit Peers entwickeln | API-Sandbox mit Tests |
 | **Minimal** | "Offene Bestellungen mit Kundennamen" | Eigene API nach Anforderung |
-
-Block-basierte Umgebungen (Scratch, Blockly) sind visuelles Scaffolding: Syntaxfehler eliminiert. Der Übergang zu Text ist gezieltes Fading.
 
 ## Praktische Anwendung
 
@@ -137,6 +154,8 @@ Ein Agent kann Scaffolding dynamisch anpassen:
 - [[selbstgesteuertes-lernen]] — Metakognitives Scaffolding fördert Selbstregulation
 - [[pair-programming-unterricht]] — Navigator als soziales Scaffold
 - [[flow-theorie]] — Challenge-Skill-Balance verwandt zum Challenge Point Framework
+- [[parsons-problems]] — Eigener Methoden-Artikel mit Distraktor-Varianten und Evidenz
+- [[contrasting-cases]] — Vergleichsmatrix als Scaffolding für den Abstraktionsprozess
 
 ## Quellen
 
@@ -147,3 +166,5 @@ Ein Agent kann Scaffolding dynamisch anpassen:
 - Guadagnoli, M. A. & Lee, T. D. (2004). Challenge point: A framework for conceptualizing the effects of various practice conditions in motor learning. Journal of Motor Behavior, 36(2), 212-224.
 - Denny, P., Luxton-Reilly, A. & Simon, B. (2008). Evaluating a new exam question: Parsons problems. ICER 2008.
 - Ericson, B. J., Denny, P., Prather, J., Duran, R., Hellas, A., Leinonen, J., Miller, C. S., Morrison, B. B., Pearce, J. L. & Rodger, S. H. (2022). Parsons Problems and Beyond: Systematic Literature Review. ITiCSE-WGR 2022.
+- Goldstone, R. L. & Son, J. Y. (2005). The Transfer of Scientific Principles Using Concrete and Idealized Simulations. *Journal of the Learning Sciences*, 14(1), 69-110.
+- Fyfe, E. R., McNeil, N. M., Son, J. Y. & Goldstone, R. L. (2014). Concreteness Fading in Mathematics and Science Instruction: A Systematic Review. *Educational Psychology Review*, 26(1), 9-25.

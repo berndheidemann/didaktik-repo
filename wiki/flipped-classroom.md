@@ -11,6 +11,7 @@ related:
   - "[[meta-analysen-cs-education]]"
   - "[[peer-instruction]]"
   - "[[effektstaerken-unterricht]]"
+  - "[[expertise-entwicklung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

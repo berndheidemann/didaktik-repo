@@ -12,6 +12,9 @@ related:
   - "[[effektstaerken-unterricht]]"
   - "[[metakognition]]"
   - "[[zeitmanagement-selbstorganisation]]"
+  - "[[affektive-dimensionen]]"
+  - "[[computational-action]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit]

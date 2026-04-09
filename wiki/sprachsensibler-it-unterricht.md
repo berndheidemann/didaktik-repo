@@ -14,6 +14,7 @@ related:
   - "[[kompetenzfeststellung-programmierung]]"
   - "[[formatives-assessment]]"
   - "[[differenzierung-inklusion]]"
+  - "[[community-of-practice]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 created: 2026-04-08

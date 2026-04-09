@@ -17,6 +17,10 @@ related:
   - "[[threshold-concepts]]"
   - "[[prompt-engineering-didaktisch]]"
   - "[[multimedia-gestaltungsprinzipien]]"
+  - "[[contrasting-cases]]"
+  - "[[parsons-problems]]"
+  - "[[direct-manipulation-lernumgebungen]]"
+  - "[[constructive-alignment]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07
@@ -163,6 +167,9 @@ Azubis bauen im letzten Ausbildungsjahr oft selbst Lern-Apps — als Projekt, al
 - [[debugging-als-kompetenz]] — Bug-Hunt und Erroneous Examples sind die Widget-Form
 - [[productive-failure]] — Predict-the-Output und Bug-Hunt produzieren kontrolliertes Scheitern
 - [[threshold-concepts]] — Dialog-Widgets adressieren Schwellenkonzepte gezielt
+- [[contrasting-cases]] — Parallel-View, Vergleichsmatrix und "Finde den Unterschied" als eigenständige Aufgabenformate
+- [[parsons-problems]] — Eigener Methoden-Artikel; Typ #18 im Katalog
+- [[direct-manipulation-lernumgebungen]] — Designprinzip für Live-Editor, Linked-View und Parameter-Slider
 
 ## Quellen
 

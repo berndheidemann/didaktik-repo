@@ -16,6 +16,8 @@ related:
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[sprachsensibler-it-unterricht]]"
   - "[[differenzierung-inklusion]]"
+  - "[[anchored-instruction]]"
+  - "[[expertise-entwicklung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]
@@ -127,6 +129,7 @@ Ein Agent kann Lernsituationen generieren und bewerten:
 - [[blooms-taxonomie]] — Operatoren für Kompetenzziele
 - [[scaffolding]] — Differenzierung durch gestufte Hilfen
 - [[low-floor-high-ceiling]] — Zugänglichkeit + Ausbaufähigkeit
+- [[anchored-instruction]] — Durchgängiger narrativer Anker (z.B. Fiktivfirma), der mehrere Lernsituationen zu einer gemeinsamen Welt verbindet
 
 ## Quellen
 

@@ -12,6 +12,10 @@ related:
   - "[[cognitive-load-theory]]"
   - "[[lerner-modell-mastery-tracking]]"
   - "[[zeitmanagement-selbstorganisation]]"
+  - "[[spaced-repetition-algorithmen]]"
+  - "[[code-review-unterricht]]"
+  - "[[peer-instruction]]"
+  - "[[spaced-repetition-scheduler-bauen]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
@@ -113,6 +117,7 @@ Ein Agent kann für dauerhafte Kompetenz optimieren:
 - [[threshold-concepts]] — Korrekte Notional Machines überdauern Syntax-Verfall
 - [[learning-engineering]] — Knowledge Tracing optimiert den Spaced-Repetition-Zeitplan
 - [[affektive-dimensionen]] — Programmier-Identität führt zu freiwilliger Übung und Retention
+- [[spaced-repetition-algorithmen]] — Algorithmische Operationalisierung des Decay-Modells (Leitner, SM-2, FSRS)
 
 ## Quellen
 

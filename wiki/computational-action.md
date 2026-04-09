@@ -17,6 +17,9 @@ related:
   - "[[use-modify-create]]"
   - "[[differenzierung-inklusion]]"
   - "[[constructive-alignment]]"
+  - "[[anchored-instruction]]"
+  - "[[intrinsic-integration]]"
+  - "[[lerntagebuch]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erschaffen, bewerten]
 created: 2026-04-07
@@ -108,6 +111,7 @@ Ein Agent kann Computational Action gezielt orchestrieren:
 - [[self-determination-theory]] — Adressiert alle drei Bedürfnisse stark
 - [[engagement-theory]] — Donate-Phase ist Computational Action
 - [[use-modify-create]] — Create-Stufe wird mit echten Adressaten zur Computational Action
+- [[anchored-instruction]] — Fiktiver Anker als Ersatz, wenn echte Adressaten nicht verfügbar sind
 
 ## Quellen
 

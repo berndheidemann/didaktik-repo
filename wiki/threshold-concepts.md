@@ -19,6 +19,9 @@ related:
   - "[[prompt-engineering-didaktisch]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[misconception-analyse]]"
+  - "[[contrasting-cases]]"
+  - "[[learning-engineering]]"
+  - "[[poe-methode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 created: 2026-04-07
@@ -104,6 +107,7 @@ Ein Agent kann Threshold Concepts gezielt adressieren:
 - [[formatives-assessment]] — Code-Tracing als Diagnostik für Schwellenkonzept-Status
 - [[ki-native-lernumgebungen]] — Misconception-aware KI-Tutoring
 - [[expertise-entwicklung]] — Schwellenkonzepte markieren Übergänge zwischen Expertise-Stufen
+- [[contrasting-cases]] — Die Dimensionen, die erst beim Vergleich sichtbar werden, sind oft genau die Schwellenkonzepte
 
 ## Quellen
 

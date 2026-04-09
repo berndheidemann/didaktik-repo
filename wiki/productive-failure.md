@@ -31,6 +31,9 @@ related:
   - "[[fehlerkultur-im-unterricht]]"
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[misconception-analyse]]"
+  - "[[contrasting-cases]]"
+  - "[[parsons-problems]]"
+  - "[[poe-methode]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
@@ -103,6 +106,7 @@ Ein Agent kann Desirable Difficulties systematisch einbauen:
 - [[scaffolding]] — Wann scaffolden vs. wann scheitern lassen?
 - [[formatives-assessment]] — Retrieval Practice als Assessment und Lernstrategie
 - [[selbstgesteuertes-lernen]] — Generation und Retrieval fördern Metakognition
+- [[contrasting-cases]] — Vergleich paralleler Fälle ist das klassische Vehikel für Preparation for Future Learning
 
 ## Quellen
 

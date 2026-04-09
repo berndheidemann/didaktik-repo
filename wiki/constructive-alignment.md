@@ -18,6 +18,8 @@ related:
   - "[[kooperatives-lernen]]"
   - "[[computational-action]]"
   - "[[engagement-theory]]"
+  - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[intrinsic-integration]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07

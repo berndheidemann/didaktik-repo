@@ -24,6 +24,8 @@ related:
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[sprachsensibler-it-unterricht]]"
   - "[[metakognition]]"
+  - "[[evaluation-lernumgebungen]]"
+  - "[[retrieval-practice]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

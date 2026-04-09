@@ -18,6 +18,7 @@ related:
   - "[[retrieval-practice]]"
   - "[[kooperatives-lernen]]"
   - "[[pruefungsvorbereitung-lernstrategie]]"
+  - "[[anchored-instruction]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07
@@ -107,6 +108,7 @@ Ein Agent kann Handlungsorientierung unterstützen, indem er Lernsituationen nac
 - [[blooms-taxonomie]] — Taxonomiestufen korrelieren mit Lernfeld-Progression im Spiralcurriculum
 - [[selbstgesteuertes-lernen]] — Selbstkompetenz als Teil der Handlungskompetenz
 - [[pair-programming-unterricht]] — Methode für handlungsorientierte Programmier-Lernsituationen
+- [[anchored-instruction]] — Gemeinsamer narrativer Kontext, in dem die Handlungen stattfinden
 
 ## Quellen
 

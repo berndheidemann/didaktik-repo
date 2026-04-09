@@ -13,6 +13,7 @@ related:
   - "[[prompt-engineering-didaktisch]]"
   - "[[datenschutz-lernumgebungen]]"
   - "[[differenzierung-inklusion]]"
+  - "[[direct-manipulation-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 evidenzgrad: meta-analyse
@@ -161,6 +162,7 @@ Einarbeitungszeit in Mayers Prinzipien: 2-4 h (Kernkonzepte + Referenz durchgehe
 - [[prompt-engineering-didaktisch]] — Personalization ist ein Prompt-Engineering-Pattern
 - [[datenschutz-lernumgebungen]] — Accessibility-Rahmen rechtlich
 - [[differenzierung-inklusion]] — WCAG und barrierefreies Multimedia
+- [[direct-manipulation-lernumgebungen]] — Spatial Contiguity und räumliche Nähe von Eingabe und Wirkung als Grundlage direkter Manipulation
 
 ## Quellen
 

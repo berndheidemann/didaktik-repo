@@ -16,6 +16,8 @@ related:
   - "[[pair-programming-unterricht]]"
   - "[[computational-action]]"
   - "[[multimedia-gestaltungsprinzipien]]"
+  - "[[parsons-problems]]"
+  - "[[ki-gestuetztes-tutoring]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-08
@@ -167,6 +169,7 @@ In der deutschen Schulrealität ist "Inklusion" oft faktisch Integration. UDL un
 - [[pair-programming-unterricht]] — Peer-Tutoring mit Rollenrotation
 - [[computational-action]] — Barrierefreiheits-Audits als authentische Aufgaben
 - [[multimedia-gestaltungsprinzipien]] — WCAG-Konvergenz mit Mayers Prinzipien
+- [[parsons-problems]] — Strukturelle Differenzierung ohne sichtbare Niveau-Etiketten
 
 ## Quellen
 

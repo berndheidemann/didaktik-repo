@@ -15,6 +15,10 @@ related:
   - "[[metakognition]]"
   - "[[zeitmanagement-selbstorganisation]]"
   - "[[productive-failure]]"
+  - "[[spaced-repetition-algorithmen]]"
+  - "[[kooperatives-lernen]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[spaced-repetition-scheduler-bauen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-08
@@ -174,6 +178,7 @@ Ein Agent oder eine Lehrkraft kann den Prozess unterstützen:
 - [[metakognition]] — Kalibrierung und Dunning-Kruger systematisch
 - [[zeitmanagement-selbstorganisation]] — der 6-Wochen-Plan braucht konkrete Techniken
 - [[productive-failure]] — Desirable Difficulties als Prinzip hinter Spacing und Interleaving
+- [[spaced-repetition-algorithmen]] — Konkrete Scheduler für die tägliche Übungsdosis im 6-Wochen-Plan
 
 ## Quellen
 

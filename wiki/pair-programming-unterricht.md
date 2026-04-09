@@ -21,6 +21,8 @@ related:
   - "[[kooperatives-lernen]]"
   - "[[fehlerkultur-im-unterricht]]"
   - "[[differenzierung-inklusion]]"
+  - "[[effektstaerken-unterricht]]"
+  - "[[expertise-entwicklung]]"
 evidenzgrad: meta-analyse
 audience: [FIAE]
 taxonomiestufe: [anwenden, analysieren]

@@ -20,6 +20,7 @@ related:
   - "[[gamification-it-unterricht]]"
   - "[[flipped-classroom]]"
   - "[[kooperatives-lernen]]"
+  - "[[pair-programming-unterricht]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]

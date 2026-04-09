@@ -95,7 +95,7 @@ Die Situation muss **konkret, beobachtbar, wiederkehrend** sein — kein "wenn i
 
 **Problem:** Programmieren und Lernen brauchen ungestörte Konzentration, aber jede Push-Notification zerlegt den mentalen Stack. Mark et al. (2008): Nach einer Unterbrechung dauert es im Schnitt **23 Minuten**, bis man den vorherigen Task wieder auf Expertenniveau bearbeitet.
 
-**Umsetzung:** 90-120-Minuten-Blöcke im Kalender reservieren, 2x pro Woche ein solcher Block für AP2-Projektarbeit. Handy aus, Browser ohne Tabs, Discord zu. Ritual zum Einstieg (Tee, Kopfhörer, bestimmter Ort) senkt Startkosten. Deep Work ist die **Infrastruktur**, die [[flow-theorie|Flow]] erst möglich macht.
+**Umsetzung:** 90-120-Minuten-Blöcke im Kalender reservieren, 2x pro Woche ein solcher Block für AP2-Projektarbeit. Handy aus, Browser ohne Tabs, Discord zu. Ritual zum Einstieg (Tee, Kopfhörer, bestimmter Ort) senkt Startkosten. Deep Work ist die **Infrastruktur**, die [[flow-theorie]] erst möglich macht.
 
 **Typische Fehler:** Deep Work mit Social-Media-Tab im Hintergrund. Zu viele Blöcke planen (2-4 pro Woche sind ambitioniert).
 

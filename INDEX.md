@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 56 | **Letzte Aktualisierung:** 2026-04-08
+**Artikel:** 63 | **Letzte Aktualisierung:** 2026-04-09
 
 ---
 
@@ -34,6 +34,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[metakognition]] — Flavells Modell, Planning/Monitoring/Evaluating, Calibration und Dunning-Kruger in der IT-Ausbildung
 - [[multimedia-gestaltungsprinzipien]] — Mayers 12 Prinzipien (Coherence, Signaling, Modality, Spatial/Temporal Contiguity u.a.) für Lernumgebungs-Design
 - [[differenzierung-inklusion]] — UDL, Tomlinson, Neurodiversität, Nachteilsausgleich, WCAG für heterogene IT-Klassen
+- [[contrasting-cases]] — Parallele Fälle vergleichen (Schwartz & Bransford) als Preparation for Future Learning mit starker Transfer-Evidenz
+- [[anchored-instruction]] — Durchgehender narrativer Anker (CTGV/Bransford, Jasper Woodbury) als Alternative zu isolierten Beispielen
+- [[direct-manipulation-lernumgebungen]] — HCI-Designprinzip (Shneiderman, Hutchins/Hollan/Norman) für Lernwidgets: kein Submit, sofortige Reaktion, Reversibilität
 
 ### Methoden & Formate
 - [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
@@ -61,6 +64,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[fehlerkultur-im-unterricht]] — Error Climate (Steuer et al.), Psychological Safety (Edmondson), Lehrerhandeln und Klassennormen
 - [[pruefungsvorbereitung-lernstrategie]] — Lernwissenschaftlich fundierte IHK-AP1/AP2-Vorbereitung mit 6-Wochen-Plan
 - [[misconception-analyse]] — Methodik für Identifikation, Kategorisierung und Intervention bei Fehlvorstellungen (Chi, Vosniadou, POE, Bridging Analogies)
+- [[parsons-problems]] — Code-Puzzles mit Distraktoren (Ericson et al. 2022): gleiche Lernwirkung wie freies Schreiben bei halber Zeit und niedrigerer kognitiver Last
+- [[spaced-repetition-algorithmen]] — Vier Scheduler-Familien (Leitner, SM-2, FSRS, Half-Life Regression) mit Pseudocode — Algorithmen-Katalog
+- [[poe-methode]] — Predict-Observe-Explain (White & Gunstone 1992) als generische Methode für Nicht-Code-Kontexte (Netzwerk, Security, DB-Verhalten)
 
 ### Evidenz & Forschung
 - [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
@@ -71,6 +77,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[ki-gestuetztes-tutoring]] — Erfahrungsberichte zu LLM-basierten Tutoring-Systemen im Programmierunterricht
 - [[kompetenzfeststellung-programmierung]] — Portfolio, Prozess-Assessment und KI-integrierte Prüfungsformate
 - [[datenschutz-lernumgebungen]] — Datenschutzkonformer Bau von Schul-Lernumgebungen: Verantwortlichkeit, LLM-AVV, Einwilligung, Client-only als Königsweg
+- [[spaced-repetition-scheduler-bauen]] — Implementierungs-Praxis für SR-Scheduler mit AP1-Trainer-Designbeispiel
 
 ---
 
@@ -95,6 +102,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[lerntagebuch]] — Debugging-Journal für SQL- und Programmierfehler
 - [[primm-methode]] — PRIMM-Zyklen für CRUD-Operationen und ORM-Mapper
 - [[use-modify-create]] — Fertige Query nutzen, modifizieren, dann eigene entwickeln
+- [[parsons-problems]] — SQL-Query-Bausteine sortieren (SELECT, FROM, JOIN, WHERE, GROUP BY) mit Distraktoren für typische Fehler
+- [[contrasting-cases]] — SQL vs. NoSQL, Datenformate JSON vs. XML vs. CSV im Parallelvergleich
+- [[direct-manipulation-lernumgebungen]] — Live-SQL-Editor mit sofortiger Ergebnistabelle ohne Submit-Button
 
 ### LF6: Serviceanfragen bearbeiten
 - [[constructive-alignment]] — Beispiel für Alignment in LF6
@@ -110,10 +120,13 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[code-review-unterricht]] — Peer Review von REST-API-Endpoints
 - [[primm-methode]] — PRIMM-Zyklen für REST-Clients: vorhandenen Client lesen, modifizieren, eigenen bauen
 - [[use-modify-create]] — API-Progression: Fremd-API nutzen → Wrapper modifizieren → eigenen Endpoint erschaffen
+- [[contrasting-cases]] — GET vs. POST, synchron vs. asynchron, REST vs. GraphQL im Parallelvergleich
+- [[parsons-problems]] — REST-Handler aus Bausteinen zusammensetzen (Validierung, Auth, DB-Zugriff, Response)
 
 ### LF10-12: Projekte planen, durchführen und auswerten
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Projektstruktur
 - [[lernsituationen-gestalten]] — Umfassende Lernsituationen für projektbasiertes Arbeiten
+- [[anchored-instruction]] — Durchgehende Fiktivfirma als narrativer Anker über mehrere Projekte hinweg
 - [[selbstgesteuertes-lernen]] — Projekte mit offenem Format erfordern Selbstregulation
 - [[interaktive-lernumgebungen]] — Projektumgebung mit integriertem KI-Tutor
 - [[formatives-assessment]] — Sprint-Reviews und Retrospektiven als strukturiertes Feedback
@@ -129,12 +142,16 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[blooms-taxonomie]] — Lernzielformulierung für alle Lernfelder
 - [[handlungsorientierter-unterricht]] — Leitprinzip des gesamten Rahmenlehrplans
 - [[lernsituationen-gestalten]] — Methodik zur LS-Entwicklung für jedes Lernfeld
+- [[anchored-instruction]] — Lernfeldübergreifender narrativer Anker als curriculare Integration
 - [[selbstgesteuertes-lernen]] — Schlüsselkompetenz für alle projektbasierten Lernfelder
 - [[cognitive-load-theory]] — Lernmaterial-Gestaltung für alle Inhalte
 - [[scaffolding]] — Differenzierte Unterstützung über alle Lernfelder
 - [[ki-gestuetztes-tutoring]] — Stufenmodell für KI-Einsatz über die Ausbildungsjahre
 - [[productive-failure]] — Spacing und Interleaving über Lernfelder hinweg
 - [[retrieval-practice]] — Spaced Review Queue für alle bisherigen Inhalte
+- [[spaced-repetition-algorithmen]] — Konkrete Scheduler (Leitner/SM-2/FSRS) für AP-Trainer und Spaced-Review-Queues
+- [[spaced-repetition-scheduler-bauen]] — Implementierungs-Praxis für Scheduler mit AP1-Designbeispiel
+- [[poe-methode]] — POE als Einstiegsformat für jede neue lernfeldübergreifende Einheit (Netzwerk, Security, DB)
 - [[ki-native-lernumgebungen]] — Multi-Agent-Tutoring und adaptive Aufgabengenerierung
 - [[learning-engineering]] — Knowledge Graph der Lernfelder mit Mastery-Tracking
 - [[low-floor-high-ceiling]] — Universelles Aufgabendesignprinzip für heterogene Klassen
@@ -173,6 +190,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[low-floor-high-ceiling]] — Schwache und starke Lernende in derselben Aufgabe mitnehmen
 - [[use-modify-create]] — Strukturelle Differenzierung durch drei Anspruchsstufen
 - [[primm-methode]] — Phasenstruktur, in der Lernende auf unterschiedlichen Tiefen verweilen
+- [[parsons-problems]] — Distraktor-Dichte als unsichtbare Höhenverstellung ohne Niveau-Etikett
 
 ### Kooperatives Lernen / Soziale Dimension
 - [[kooperatives-lernen]] — Methoden-Dach-Artikel mit Jigsaw, Think-Pair-Share, Reziprokes Lehren, Gallery Walk
@@ -188,6 +206,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[expertise-entwicklung]] — Subskill-Zerlegung für adaptive Lernpfade
 - [[primm-methode]] — Explizites Code-Tracing als Einstieg in Expertendenken
 - [[use-modify-create]] — Progression vom Benutzen fremder Artefakte zum Erschaffen eigener
+- [[contrasting-cases]] — Strukturdimensionen beim Vergleich paralleler Fälle entdecken lassen statt vorgeben
 
 ### Aktivierung / Handlungsorientierung
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Unterrichtsprinzip
@@ -210,12 +229,17 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[low-floor-high-ceiling]] — Einstieg niedrig, Decke offen, Wide Walls für diverse Produktformen
 - [[intrinsic-integration]] — Lernziel als Kernmechanik verankern, nicht als Reward ankleben
 - [[flow-theorie]] — Aufgaben in individueller Challenge-Skill-Balance halten
+- [[parsons-problems]] — Code-Puzzles mit Distraktoren als evidenzstarke Zwischenstufe im Fading-Pfad
+- [[contrasting-cases]] — Parallele Fall-Paare statt Einzelfall als Designmuster für Transfer
+- [[direct-manipulation-lernumgebungen]] — Designprinzip für Widgets: kontinuierliche Repräsentation, Reversibilität, sofortige Wirkung
+- [[anchored-instruction]] — Durchgehender narrativer Anker (Fiktivfirma) als Material-Rahmen
 
 ### Debugging und Fehlerkultur
 - [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz
 - [[affektive-dimensionen]] — Growth Mindset und Fehlertoleranz als Voraussetzung
 - [[fehlerkultur-im-unterricht]] — Klassenklima, Error Climate, Psychological Safety, Lehrerhandeln
 - [[misconception-analyse]] — Systematische Methodik für Fehlvorstellungen
+- [[poe-methode]] — Predict-Observe-Explain als Diagnose-Instrument für Misconceptions
 
 ### Feedback und Lernstandsdiagnostik
 - [[formatives-assessment]] — Fünf Schlüsselstrategien für Assessment FOR Learning
@@ -262,6 +286,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[retrieval-practice]] — Testing Effect, Spaced Repetition und Interleaving für langfristiges Behalten
 - [[productive-failure]] — Gezielt Schwierigkeiten einbauen für tieferes Verständnis
 - [[lerner-modell-mastery-tracking]] — Spaced-Repetition-Algorithmen (Leitner, SM-2, FSRS) und Decay-Modellierung
+- [[spaced-repetition-algorithmen]] — Algorithmen-Katalog mit Pseudocode
+- [[spaced-repetition-scheduler-bauen]] — Implementierungs-Praxis für SR-Scheduler (AP1-Trainer-Designbeispiel)
 
 ### Plattform- und Systemdesign
 - [[learning-engineering]] — Prinzipien für den Aufbau datengetriebener Lernsysteme
@@ -275,6 +301,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[datenschutz-lernumgebungen]] — Privacy by Design als Architekturprinzip für Schul-Lernumgebungen
 - [[intrinsic-integration]] — Designkriterium für interaktive Systeme: Lernziel = Kernmechanik
 - [[flow-theorie]] — Technische Anforderungen für Flow: Microgoals, Instant Feedback, adaptive Progression
+- [[direct-manipulation-lernumgebungen]] — HCI-Interaktionsprinzip als Fundament für Live-Editor, Linked-View und Parameter-Slider
+- [[anchored-instruction]] — Persistente Systemlandschaft und wiederkehrende Personen als Architektur-Muster
+- [[spaced-repetition-algorithmen]] — Scheduler-Baustein neben Aufgaben-Engine und Feedback-System
 
 ### Lernzielformulierung
 - [[blooms-taxonomie]] — Sechs Kompetenzstufen mit Operatoren für Lernziele
@@ -283,3 +312,4 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 ### Unterrichtsplanung
 - [[lernsituationen-gestalten]] — Methodik und Quellen für die Lernsituationsentwicklung
 - [[constructive-alignment]] — Alignment-Check für Lernziele, Aktivitäten und Prüfung
+- [[anchored-instruction]] — Narrativer Anker (Fiktivfirma) als lernfeldübergreifender Planungsrahmen

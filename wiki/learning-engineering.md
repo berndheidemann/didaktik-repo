@@ -17,6 +17,9 @@ related:
   - "[[lerner-modell-mastery-tracking]]"
   - "[[datenschutz-lernumgebungen]]"
   - "[[kompetenzfeststellung-programmierung]]"
+  - "[[spaced-repetition-algorithmen]]"
+  - "[[threshold-concepts]]"
+  - "[[spaced-repetition-scheduler-bauen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07
@@ -91,6 +94,7 @@ Ein Agent kann Learning-Engineering-Prinzipien umsetzen:
 - [[cognitive-load-theory]] — Knowledge Tracing operationalisiert den Expertise-Reversal-Effekt
 - [[ki-native-lernumgebungen]] — Learning Engineering + KI = nächste Generation
 - [[retrieval-practice]] — Spaced Repetition als Retention-Mechanismus
+- [[spaced-repetition-algorithmen]] — Algorithmen-Ergänzung mit Leitner, SM-2, FSRS und HLR im Detail
 
 ## Quellen
 

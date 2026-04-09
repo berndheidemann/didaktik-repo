@@ -38,6 +38,11 @@ related:
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[misconception-analyse]]"
   - "[[differenzierung-inklusion]]"
+  - "[[contrasting-cases]]"
+  - "[[direct-manipulation-lernumgebungen]]"
+  - "[[expertise-entwicklung]]"
+  - "[[low-floor-high-ceiling]]"
+  - "[[poe-methode]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
@@ -154,6 +159,8 @@ Ein Agent kann formatives Assessment in Echtzeit umsetzen:
 - [[scaffolding]] — Abgestuftes Feedback ist eine Form von Scaffolding
 - [[interaktive-lernumgebungen]] — Sofortiges Feedback als zentrales Gestaltungsprinzip
 - [[pair-programming-unterricht]] — Peer-Feedback als Wiliams Strategie 4
+- [[contrasting-cases]] — Die bei Vergleichen entdeckten Dimensionen sind diagnostisches Material über den Lernstand
+- [[direct-manipulation-lernumgebungen]] — Interaktionsprinzip, das besonders dichte formative Diagnose-Zyklen ermöglicht
 
 ## Quellen
 

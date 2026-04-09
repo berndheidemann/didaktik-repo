@@ -21,6 +21,7 @@ related:
   - "[[prompt-engineering-didaktisch]]"
   - "[[datenschutz-lernumgebungen]]"
   - "[[metakognition]]"
+  - "[[differenzierung-inklusion]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]

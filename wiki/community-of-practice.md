@@ -14,6 +14,8 @@ related:
   - "[[computational-action]]"
   - "[[engagement-theory]]"
   - "[[kooperatives-lernen]]"
+  - "[[expertise-entwicklung]]"
+  - "[[sprachsensibler-it-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

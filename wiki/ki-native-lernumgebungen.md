@@ -21,6 +21,8 @@ related:
   - "[[lerner-modell-mastery-tracking]]"
   - "[[datenschutz-lernumgebungen]]"
   - "[[formatives-assessment]]"
+  - "[[spaced-repetition-algorithmen]]"
+  - "[[spaced-repetition-scheduler-bauen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

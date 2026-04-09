@@ -19,16 +19,25 @@ related:
   - "[[blooms-taxonomie]]"
   - "[[lernsituationen-gestalten]]"
   - "[[multimedia-gestaltungsprinzipien]]"
+  - "[[code-review-unterricht]]"
+  - "[[lerntagebuch]]"
+  - "[[metakognition]]"
+  - "[[misconception-analyse]]"
+  - "[[peer-instruction]]"
+  - "[[pruefungsvorbereitung-lernstrategie]]"
+  - "[[retrieval-practice]]"
+  - "[[selbstgesteuertes-lernen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-09
 summary: >
   Vier wiederverwendbare Muster, um LLMs als didaktisches Element in interaktive
   Lernumgebungen einzubauen: Adversary Partner, Sokratischer Tutor, Rubric-Evaluator
   und Adaptive Case Generator. Jedes Muster mit didaktischer Verankerung,
-  Prompt-Skelett und typischen Failure Modes.
+  Prompt-Skelett und typischen Failure Modes. Rubric-Evaluator explizit an
+  Hattie-Timperley-Feedback-Ebenen strukturiert.
 ---
 
 # LLM-Integrationsmuster für interaktive Lernumgebungen
@@ -90,6 +99,8 @@ Der Lernende formuliert eine freie Antwort (Erklärung, Datenschutzerklärung, S
 
 **Didaktische Funktion:** Öffnet Bloom-Stufen "bewerten" und "erschaffen". Transformiert [[formatives-assessment]] von "klickbarer Auswahl" zu "produktiver Leistung". Ermöglicht Aufgaben, die in einer fix-codierten Umgebung unmöglich sind — weil der Lösungsraum offen ist.
 
+**Hattie-Feedback-Ebenen als strukturelle Vorgabe.** Hattie & Timperley (2007) unterscheiden vier Feedback-Ebenen mit sehr unterschiedlicher Wirksamkeit: **Task** (ist es richtig?), **Process** (war das Vorgehen angemessen?), **Self-Regulation** (wie hast du deine Arbeit überwacht?) und **Self** (Personen-Lob, wirkungslos). Siehe die Tabelle in [[formatives-assessment]]. Der häufigste LLM-Fehler im Feedback ist, auf der Task-Ebene zu verharren ("Zeile 3 ist falsch") oder in Self-Ebene zu kippen ("Du bist auf einem guten Weg!"). Der Rubric-Evaluator wird deutlich wirksamer, wenn Process- und Self-Regulation-Feedback **strukturell als Pflichtfelder** im Output-Schema erzwungen werden — das LLM kann sie dann nicht mehr überspringen.
+
 **Prompt-Skelett:**
 ```
 Du bewertest die Antwort eines Lernenden nach folgendem Rubric.
@@ -102,15 +113,22 @@ Rubric:
 
 Lernendenantwort: "{USER_ANTWORT}"
 
+Feedback-Ebenen nach Hattie & Timperley (ALLE Felder ausfüllen):
+- Task: Ist die Antwort korrekt/vollständig? Was fehlt oder stimmt nicht?
+- Process: War das Vorgehen sinnvoll? Welche Strategie hätte geholfen?
+- Self-Regulation: Wie hätte der Lernende seine Arbeit selbst prüfen können?
+(Self-Ebene — Personen-Lob — explizit VERBOTEN, nie verwenden.)
+
 Gib zurück als JSON:
 {
-  "kriterien": [{"name": "...", "punkte": 0-3, "begründung": "...", "konkreter_verbesserungshinweis": "..."}],
-  "gesamtstärke": "...",
+  "kriterien": [{"name": "...", "punkte": 0-3, "task_feedback": "..."}],
+  "process_feedback": "...",
+  "self_regulation_hinweis": "...",
   "nächster_schritt": "..."
 }
 ```
 
-**Failure Modes:** LLM ist inflationär ("alles gut"), inkonsistent zwischen Durchläufen, oder pflückt irrelevante Details auseinander. **Mitigation:** Rubric eng fassen, Punkteskala grob (0-3, nicht 0-100), immer einen "nächster Schritt" erzwingen, JSON-Schema validieren.
+**Failure Modes:** LLM ist inflationär ("alles gut"), inkonsistent zwischen Durchläufen, bleibt auf Task-Ebene stehen oder rutscht in Self-Lob ("Gute Arbeit!"). **Mitigation:** Rubric eng fassen, Punkteskala grob (0-3, nicht 0-100), Process- und Self-Regulation-Felder als Pflicht im JSON-Schema, Self-Ebene explizit verbieten, immer einen "nächster Schritt" erzwingen, JSON-Schema validieren. Bei aktiven Lerner-Logs gelegentlich Stichproben prüfen — Drift in Richtung Task-only ist ein typisches LLM-Symptom und signalisiert, dass das Schema nachgeschärft werden muss.
 
 ### Muster 4: Adaptive Case Generator — Szenarien on-the-fly
 
@@ -199,11 +217,12 @@ Der Kern-Shift: Die Lehrkraft schreibt nicht mehr *Inhalte*, sondern *Beurteilun
 - [[ki-gestuetztes-tutoring]] — Stufenmodell, in das die Muster einzubetten sind
 - [[interaktive-lernumgebungen]] — Gestaltungsprinzipien, die durch LLM-Muster erweitert werden
 - [[scaffolding]] — Adversary und Sokratischer Tutor als dynamisches Scaffolding
-- [[formatives-assessment]] — Rubric-Evaluator skaliert formatives Feedback auf offene Aufgaben
+- [[formatives-assessment]] — Rubric-Evaluator skaliert formatives Feedback auf offene Aufgaben; Hattie-Timperley-Ebenen sind dort tabellarisch ausgeführt
 - [[cognitive-apprenticeship]] — Articulation und Modeling werden durch Adversary Partner erzwungen
 - [[threshold-concepts]] — Sokratischer Tutor als gezielte Intervention
 - [[productive-failure]] — Adversary Partner provoziert kontrolliertes Scheitern
 - [[intrinsic-integration]] — LLM-Muster müssen die Lernmechanik verkörpern, nicht dekorieren
+- [[code-review-unterricht]] — Rubric-Evaluator als KI-Variante der strukturierten Code-Review-Rubrics
 
 ## Quellen
 
@@ -212,3 +231,4 @@ Der Kern-Shift: Die Lehrkraft schreibt nicht mehr *Inhalte*, sondern *Beurteilun
 - Sarsa, S. et al. (2022). Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models. Proceedings of ACE 2022.
 - Kazemitabaar, M. et al. (2024). CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant. Proceedings of CHI 2024.
 - Mollick, E. & Mollick, L. (2023). Assigning AI: Seven Approaches for Students, with Prompts. Wharton Working Paper.
+- Hattie, J. & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research*, 77(1), 81-112.

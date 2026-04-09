@@ -18,6 +18,8 @@ related:
   - "[[engagement-theory]]"
   - "[[kursarchitektur-lernumgebungen]]"
   - "[[effektstaerken-unterricht]]"
+  - "[[debugging-als-kompetenz]]"
+  - "[[selbstgesteuertes-lernen]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]

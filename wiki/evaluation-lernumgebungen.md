@@ -11,6 +11,7 @@ related:
   - "[[selbstgesteuertes-lernen]]"
   - "[[productive-failure]]"
   - "[[datenschutz-lernumgebungen]]"
+  - "[[blooms-taxonomie]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

@@ -17,6 +17,8 @@ related:
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[kooperatives-lernen]]"
   - "[[constructive-alignment]]"
+  - "[[anchored-instruction]]"
+  - "[[direct-manipulation-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erschaffen, bewerten]
 created: 2026-04-07
@@ -102,6 +104,8 @@ Ein Agent kann Engagement Theory als 30-Sekunden-Designcheckliste anwenden:
 - [[self-determination-theory]] — Empirisch tiefere Schwesterntheorie, komplementär nutzen
 - [[flow-theorie]] — Echte Adressaten erhöhen Engagement und damit Flow-Wahrscheinlichkeit
 - [[intrinsic-integration]] — Donate ist eine Form, externes Engagement intrinsisch zu integrieren
+- [[anchored-instruction]] — Der Anker trägt das "Relate" über lange Zeiträume
+- [[direct-manipulation-lernumgebungen]] — Direct Manipulation ist eine Form des "Create" — aktives Hervorbringen statt Auswählen
 
 ## Quellen
 

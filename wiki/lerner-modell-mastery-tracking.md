@@ -13,6 +13,9 @@ related:
   - "[[expertise-entwicklung]]"
   - "[[kursarchitektur-lernumgebungen]]"
   - "[[differenzierung-inklusion]]"
+  - "[[spaced-repetition-algorithmen]]"
+  - "[[selbstgesteuertes-lernen]]"
+  - "[[spaced-repetition-scheduler-bauen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07
@@ -228,6 +231,7 @@ KC-Zerlegung und Knowledge Tracing sind in sich Lerninhalte für LF10-12: Azubis
 - [[formatives-assessment]] — jede Lerner-Modell-Aktualisierung ist formative Diagnostik
 - [[ki-native-lernumgebungen]] — Lerner-Modell als Datenfundament für KI-Tutor-Personalisierung
 - [[expertise-entwicklung]] — KCs sind operationalisierte Expertise-Bausteine
+- [[spaced-repetition-algorithmen]] — Tieferer Methoden-Artikel zu Leitner, SM-2, FSRS und HLR mit Pseudocode
 
 ## Quellen
 

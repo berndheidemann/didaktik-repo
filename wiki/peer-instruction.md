@@ -14,6 +14,9 @@ related:
   - "[[primm-methode]]"
   - "[[effektstaerken-unterricht]]"
   - "[[kooperatives-lernen]]"
+  - "[[affektive-dimensionen]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[wissensretention-programmierung]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]

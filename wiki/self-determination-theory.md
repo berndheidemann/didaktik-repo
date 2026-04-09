@@ -20,6 +20,7 @@ related:
   - "[[kooperatives-lernen]]"
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[differenzierung-inklusion]]"
+  - "[[anchored-instruction]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07
@@ -109,6 +110,7 @@ Ein Agent kann SDT operationalisieren:
 - [[pair-programming-unterricht]] — Verbundenheit konkret in Methode gegossen
 - [[low-floor-high-ceiling]] — Wide Walls erfüllt Autonomie strukturell
 - [[flow-theorie]] — Kompetenzerleben überlappt mit Flow
+- [[anchored-instruction]] — Kontextstabilität unterstützt Kompetenz- und Verbundenheits-Erleben
 
 ## Quellen
 

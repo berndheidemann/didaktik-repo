@@ -16,6 +16,15 @@ related:
   - "[[handlungsorientierter-unterricht]]"
   - "[[metakognition]]"
   - "[[pruefungsvorbereitung-lernstrategie]]"
+  - "[[parsons-problems]]"
+  - "[[spaced-repetition-algorithmen]]"
+  - "[[blooms-taxonomie]]"
+  - "[[direct-manipulation-lernumgebungen]]"
+  - "[[kooperatives-lernen]]"
+  - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[primm-methode]]"
+  - "[[use-modify-create]]"
+  - "[[spaced-repetition-scheduler-bauen]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden]
@@ -114,6 +123,8 @@ Ein Agent kann Retrieval Practice systematisch integrieren:
 - [[cognitive-load-theory]] — Microlearning hält kognitive Belastung pro Einheit niedrig
 - [[selbstgesteuertes-lernen]] — Spaced Repetition als Werkzeug für eigenständiges Lernen
 - [[learning-engineering]] — Knowledge Tracing optimiert den Spaced-Repetition-Zeitplan
+- [[parsons-problems]] — Niedrigschwellige Retrieval-Übung für Spaced Review
+- [[spaced-repetition-algorithmen]] — Implementierungs-Ergänzung mit Leitner, SM-2, FSRS und HLR im Detail
 
 ## Quellen
 

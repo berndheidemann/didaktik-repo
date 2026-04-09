@@ -12,6 +12,8 @@ related:
   - "[[computational-action]]"
   - "[[engagement-theory]]"
   - "[[cognitive-load-theory]]"
+  - "[[anchored-instruction]]"
+  - "[[direct-manipulation-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]
@@ -105,6 +107,8 @@ Ein Agent kann immersive Szenarien orchestrieren:
 - [[productive-failure]] — Scheitern im Szenario ist der zentrale Lernmoment
 - [[scaffolding]] — Von Walkthrough über Guided Challenge zu Open Sandbox
 - [[gamification-it-unterricht]] — CTFs und Escape Rooms als gamifizierte Simulationsformate
+- [[anchored-instruction]] — Simulationen werden erst durch einen durchgehenden Anker didaktisch verbunden
+- [[direct-manipulation-lernumgebungen]] — Simulationen leben von direkter Manipulation; eine Simulation ohne DM ist ein animiertes Video
 
 ## Quellen
 
