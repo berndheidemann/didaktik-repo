@@ -23,6 +23,8 @@ related:
   - "[[affektive-dimensionen]]"
   - "[[gamification-it-unterricht]]"
   - "[[poe-methode]]"
+  - "[[deskilling-ki-codegenerierung]]"
+  - "[[neurodidaktik-programmieren]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit, partner]

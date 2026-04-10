@@ -28,6 +28,7 @@ related:
   - "[[lerner-modell-mastery-tracking]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
+  - "[[lernortkooperation-transfer]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

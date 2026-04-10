@@ -20,6 +20,9 @@ related:
   - "[[cognitive-apprenticeship]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[primm-methode]]"
+  - "[[deskilling-ki-codegenerierung]]"
+  - "[[lernortkooperation-transfer]]"
+  - "[[neurodidaktik-programmieren]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]

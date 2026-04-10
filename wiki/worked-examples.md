@@ -32,6 +32,8 @@ related:
   - "[[spaced-repetition-algorithmen]]"
   - "[[spaced-repetition-scheduler-bauen]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
+  - "[[deskilling-ki-codegenerierung]]"
+  - "[[neurodidaktik-programmieren]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]

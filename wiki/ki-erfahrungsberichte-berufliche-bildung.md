@@ -13,6 +13,7 @@ related:
   - "[[selbstgesteuertes-lernen]]"
   - "[[kompetenzfeststellung-programmierung]]"
   - "[[ki-tool-auswahl-berufsschule]]"
+  - "[[lernortkooperation-transfer]]"
 evidenzgrad: praxisbericht
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]

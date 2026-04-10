@@ -20,6 +20,7 @@ related:
   - "[[anchored-instruction]]"
   - "[[intrinsic-integration]]"
   - "[[lerntagebuch]]"
+  - "[[lernortkooperation-transfer]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erschaffen, bewerten]
 created: 2026-04-07

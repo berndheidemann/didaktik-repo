@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 69 | **Letzte Aktualisierung:** 2026-04-09
+**Artikel:** 73 | **Letzte Aktualisierung:** 2026-04-10
 
 ---
 
@@ -38,6 +38,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[contrasting-cases]] — Parallele Fälle vergleichen (Schwartz & Bransford) als Preparation for Future Learning mit starker Transfer-Evidenz
 - [[anchored-instruction]] — Durchgehender narrativer Anker (CTGV/Bransford, Jasper Woodbury) als Alternative zu isolierten Beispielen
 - [[direct-manipulation-lernumgebungen]] — HCI-Designprinzip (Shneiderman, Hutchins/Hollan/Norman) für Lernwidgets: kein Submit, sofortige Reaktion, Reversibilität
+- [[lernortkooperation-transfer]] — Kooperationsstufenmodell (Euler) und Transferdidaktik für die duale IT-Ausbildung
+- [[neurodidaktik-programmieren]] — fMRI-Befunde zu Code-Verstehen: fronto-parietales Netzwerk, Sprachareale, Implikationen für Sequenzierung und Scaffolding
 
 ### Methoden & Formate
 - [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
@@ -76,6 +78,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[wissensretention-programmierung]] — Skill Decay, Transfer und Spacing — wie dauerhaftes Können entsteht
 - [[ki-tutoring-evidenzlage]] — Kritischer Evidenzüberblick 2024-2026: Bastani (PNAS) belegt −17% Klausur ohne Guardrails; Performance ≠ Lernen
 - [[ki-erfahrungsberichte-berufliche-bildung]] — Ausgezeichnete Praxisprojekte: BIBB Hermann-Schmidt-Preis 2025 (Uni Augsburg, Berufskolleg Troisdorf), KI-Schulpreis 2025 mit Transferpotenzial
+- [[deskilling-ki-codegenerierung]] — RCT-Evidenz (Coppock 2025, Bastani 2025): 17 % Leistungsabfall durch KI-Codegenerierung ohne Guardrails; didaktische Gegenstrategien
 
 ### Praxis & Erfahrung
 - [[ki-gestuetztes-tutoring]] — Erfahrungsberichte zu LLM-basierten Tutoring-Systemen im Programmierunterricht
@@ -84,6 +87,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[spaced-repetition-scheduler-bauen]] — Implementierungs-Praxis für SR-Scheduler mit AP1-Trainer-Designbeispiel
 - [[explorable-explanations-im-unterricht]] — Kuratierter Katalog IT-relevanter Explorables (Ciechanowski, Olah, Red Blob, Visualgo) mit didaktischer Einbettung
 - [[ki-tool-auswahl-berufsschule]] — Entscheidungs-Rubrics: wann client-only, wann Landes-Chatbot (telli/fobizz), wann kommerziell? Inkl. DSGVO-Pfad
+- [[rag-tutoring-systeme]] — RAG-Architektur (Embedding, Vektordatenbank, Prompt-Injection) für domänenspezifische KI-Tutoren mit Halluzinationsreduktion
 
 ---
 
@@ -116,6 +120,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[direct-manipulation-lernumgebungen]] — Live-SQL-Editor mit sofortiger Ergebnistabelle ohne Submit-Button
 - [[explorable-explanations-im-unterricht]] — Interaktive JOIN-Visualisierungen (sql-joins.leopard.in.ua) als Einstieg
 - [[browser-ide-gestuetzte-tutorials]] — Browser-SQL-Sandbox ohne Setup für schnellen Einstieg
+- [[neurodidaktik-programmieren]] — fMRI-Befunde: Code-Lesen beansprucht Sprach- und Exekutivnetzwerk — Konsequenzen für Sequenzierung und Bezeichner
 
 ### LF6: Serviceanfragen bearbeiten
 - [[constructive-alignment]] — Beispiel für Alignment in LF6
@@ -173,6 +178,10 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[intrinsic-integration]] — Lerninhalt muss in die Kernmechanik der Aufgabe eingewebt sein
 - [[ki-kompetenzrahmen-schule]] — KI-Kompetenz als lernfeldübergreifendes Querschnittsziel (AILit, UNESCO, KMK)
 - [[ki-tool-auswahl-berufsschule]] — Tool-Entscheidung als wiederkehrende Aufgabe in jedem neuen Lernkontext
+- [[deskilling-ki-codegenerierung]] — Evidenz und Gegenstrategien zu Skill-Erosion durch KI-Codegenerierung
+- [[rag-tutoring-systeme]] — RAG-Architektur für lernfeldspezifische KI-Tutoren
+- [[lernortkooperation-transfer]] — Transferdidaktik und Kooperation zwischen Berufsschule und Betrieb
+- [[neurodidaktik-programmieren]] — Neurowissenschaftliche Fundierung von Programmierunterricht
 
 ---
 
@@ -184,6 +193,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[handlungsorientierter-unterricht]] — Handlungskompetenz (Fach-, Selbst-, Sozialkompetenz) als Ziel
 - [[lernsituationen-gestalten]] — Kompetenzen in authentische Lernsituationen übersetzen
 - [[ki-kompetenzrahmen-schule]] — KI-Kompetenz als eigenes Lernziel — Synopse der Rahmenwerke
+- [[lernortkooperation-transfer]] — Abstimmung von Lernzielen über Lernortgrenzen hinweg (Berufsschule/Betrieb)
 
 ### Dropout-Prävention / Affektive Dimension
 - [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset, Zugehörigkeit als stärkste Prädiktoren
@@ -223,6 +233,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[primm-methode]] — Explizites Code-Tracing als Einstieg in Expertendenken
 - [[use-modify-create]] — Progression vom Benutzen fremder Artefakte zum Erschaffen eigener
 - [[contrasting-cases]] — Strukturdimensionen beim Vergleich paralleler Fälle entdecken lassen statt vorgeben
+- [[deskilling-ki-codegenerierung]] — Warum KI-Delegation den Novize-Experte-Übergang gefährdet und wie Gegenstrategien wirken
+- [[neurodidaktik-programmieren]] — Neuronale Expertise-Marker im fMRI begründen Subskill-Progression
 
 ### Aktivierung / Handlungsorientierung
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Unterrichtsprinzip
@@ -251,6 +263,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[anchored-instruction]] — Durchgehender narrativer Anker (Fiktivfirma) als Material-Rahmen
 - [[explorable-explanations-im-unterricht]] — Narrativ geführte, manipulierbare Artefakte als Einstiegsphase
 - [[browser-ide-gestuetzte-tutorials]] — Null-Setup-Tutorials mit lauffähigem Code als Anwendungsphase
+- [[neurodidaktik-programmieren]] — fMRI-basierte Begründung für sprechende Bezeichner, Code-Lesen vor Code-Schreiben, multimodale Darstellung
 
 ### Debugging und Fehlerkultur
 - [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz
@@ -303,6 +316,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[datenschutz-lernumgebungen]] — LLM-Integration datenschutzkonform: Cloud vs. lokal, AVV, Prompt-Hygiene
 - [[use-modify-create]] — Natürlicher Lernpfad in einer KI-Welt: KI-Output nutzen, modifizieren, eigenes bauen
 - [[computational-action]] — LLMs machen echte Produkte für Schüler erst zugänglich
+- [[deskilling-ki-codegenerierung]] — RCT-Evidenz zu Skill-Erosion und fünf Gegenstrategien (UMC, PRIMM, KI-freie Phasen, Scaffolding, Debugging)
+- [[rag-tutoring-systeme]] — RAG-Architektur für domänenspezifische KI-Tutoren mit Halluzinationskontrolle
 
 ### Wissensretention / Nachhaltiges Lernen
 - [[retrieval-practice]] — Testing Effect, Spaced Repetition und Interleaving für langfristiges Behalten
@@ -310,6 +325,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[lerner-modell-mastery-tracking]] — Spaced-Repetition-Algorithmen (Leitner, SM-2, FSRS) und Decay-Modellierung
 - [[spaced-repetition-algorithmen]] — Algorithmen-Katalog mit Pseudocode
 - [[spaced-repetition-scheduler-bauen]] — Implementierungs-Praxis für SR-Scheduler (AP1-Trainer-Designbeispiel)
+- [[deskilling-ki-codegenerierung]] — Evidenz zu Skill-Erosion durch KI-Codegenerierung und Interventionsstrategien
 
 ### Plattform- und Systemdesign
 - [[learning-engineering]] — Prinzipien für den Aufbau datengetriebener Lernsysteme
@@ -328,6 +344,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[spaced-repetition-algorithmen]] — Scheduler-Baustein neben Aufgaben-Engine und Feedback-System
 - [[ki-tool-auswahl-berufsschule]] — Entscheidungsrubrics, die Architekturentscheidungen vorbereiten (client-only vs. API vs. Landes-Chatbot)
 - [[browser-ide-gestuetzte-tutorials]] — Format als architektonische Alternative zu selbstgehosteten Code-Sandboxes
+- [[rag-tutoring-systeme]] — RAG als Enabling Technology für domänenspezifische KI-Tutoren (Architektur, Tech-Stack, Evidenz)
 
 ### Lernzielformulierung
 - [[blooms-taxonomie]] — Sechs Kompetenzstufen mit Operatoren für Lernziele
@@ -337,3 +354,4 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[lernsituationen-gestalten]] — Methodik und Quellen für die Lernsituationsentwicklung
 - [[constructive-alignment]] — Alignment-Check für Lernziele, Aktivitäten und Prüfung
 - [[anchored-instruction]] — Narrativer Anker (Fiktivfirma) als lernfeldübergreifender Planungsrahmen
+- [[lernortkooperation-transfer]] — Systematische Verzahnung von Berufsschule und Betrieb als Planungsrahmen

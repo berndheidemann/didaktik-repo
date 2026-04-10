@@ -26,6 +26,8 @@ related:
   - "[[ki-kompetenzrahmen-schule]]"
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
   - "[[ki-tool-auswahl-berufsschule]]"
+  - "[[deskilling-ki-codegenerierung]]"
+  - "[[rag-tutoring-systeme]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]

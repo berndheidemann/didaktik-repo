@@ -15,6 +15,7 @@ related:
   - "[[affektive-dimensionen]]"
   - "[[computational-action]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
+  - "[[lernortkooperation-transfer]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit]

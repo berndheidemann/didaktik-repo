@@ -25,6 +25,8 @@ related:
   - "[[formatives-assessment]]"
   - "[[lernsituationen-gestalten]]"
   - "[[pair-programming-unterricht]]"
+  - "[[deskilling-ki-codegenerierung]]"
+  - "[[neurodidaktik-programmieren]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren, bewerten]
 created: 2026-04-07

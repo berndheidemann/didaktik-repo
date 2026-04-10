@@ -21,6 +21,7 @@ related:
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[intrinsic-integration]]"
   - "[[ki-kompetenzrahmen-schule]]"
+  - "[[lernortkooperation-transfer]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07

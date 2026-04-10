@@ -16,6 +16,7 @@ related:
   - "[[spaced-repetition-algorithmen]]"
   - "[[selbstgesteuertes-lernen]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[rag-tutoring-systeme]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07

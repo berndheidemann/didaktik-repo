@@ -14,6 +14,7 @@ related:
   - "[[datenschutz-lernumgebungen]]"
   - "[[differenzierung-inklusion]]"
   - "[[direct-manipulation-lernumgebungen]]"
+  - "[[neurodidaktik-programmieren]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 evidenzgrad: meta-analyse

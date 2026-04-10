@@ -32,6 +32,7 @@ related:
   - "[[spaced-repetition-algorithmen]]"
   - "[[ki-tutoring-evidenzlage]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
+  - "[[neurodidaktik-programmieren]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

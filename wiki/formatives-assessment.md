@@ -44,6 +44,7 @@ related:
   - "[[low-floor-high-ceiling]]"
   - "[[poe-methode]]"
   - "[[ki-tutoring-evidenzlage]]"
+  - "[[rag-tutoring-systeme]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]

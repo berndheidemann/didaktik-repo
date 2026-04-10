@@ -16,6 +16,7 @@ related:
   - "[[kooperatives-lernen]]"
   - "[[expertise-entwicklung]]"
   - "[[sprachsensibler-it-unterricht]]"
+  - "[[lernortkooperation-transfer]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

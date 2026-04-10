@@ -19,6 +19,7 @@ related:
   - "[[anchored-instruction]]"
   - "[[expertise-entwicklung]]"
   - "[[ki-kompetenzrahmen-schule]]"
+  - "[[lernortkooperation-transfer]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

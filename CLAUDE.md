@@ -48,3 +48,7 @@ Erlaubte Werte:
 - `evidenzgrad`: meta-analyse | rct | quasi-experimentell | praxisbericht
 - `audience`: FIAE | FIDP
 - `sozialform`: einzelarbeit | partner | gruppe | plenum
+
+## Code Review
+
+Beim Einsatz des Code-Reviewer-Agents (`superpowers:code-reviewer`) immer `model: "sonnet"` verwenden.

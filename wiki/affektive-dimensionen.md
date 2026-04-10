@@ -29,6 +29,8 @@ related:
   - "[[low-floor-high-ceiling]]"
   - "[[peer-instruction]]"
   - "[[worked-examples]]"
+  - "[[deskilling-ki-codegenerierung]]"
+  - "[[neurodidaktik-programmieren]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

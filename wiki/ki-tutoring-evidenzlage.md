@@ -18,6 +18,8 @@ related:
   - "[[ki-kompetenzrahmen-schule]]"
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
   - "[[ki-tool-auswahl-berufsschule]]"
+  - "[[deskilling-ki-codegenerierung]]"
+  - "[[rag-tutoring-systeme]]"
 evidenzgrad: rct
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]

@@ -43,6 +43,10 @@ related:
   - "[[parsons-problems]]"
   - "[[ki-tutoring-evidenzlage]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
+  - "[[deskilling-ki-codegenerierung]]"
+  - "[[rag-tutoring-systeme]]"
+  - "[[lernortkooperation-transfer]]"
+  - "[[neurodidaktik-programmieren]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]

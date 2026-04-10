@@ -16,6 +16,7 @@ related:
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
   - "[[ki-tool-auswahl-berufsschule]]"
+  - "[[rag-tutoring-systeme]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

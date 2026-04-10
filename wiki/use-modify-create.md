@@ -18,6 +18,7 @@ related:
   - "[[parsons-problems]]"
   - "[[retrieval-practice]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
+  - "[[deskilling-ki-codegenerierung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

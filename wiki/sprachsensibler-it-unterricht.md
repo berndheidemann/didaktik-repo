@@ -15,6 +15,7 @@ related:
   - "[[formatives-assessment]]"
   - "[[differenzierung-inklusion]]"
   - "[[community-of-practice]]"
+  - "[[neurodidaktik-programmieren]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 created: 2026-04-08

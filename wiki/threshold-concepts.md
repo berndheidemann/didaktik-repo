@@ -22,6 +22,7 @@ related:
   - "[[contrasting-cases]]"
   - "[[learning-engineering]]"
   - "[[poe-methode]]"
+  - "[[neurodidaktik-programmieren]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 created: 2026-04-07
