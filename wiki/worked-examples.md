@@ -34,6 +34,9 @@ related:
   - "[[browser-ide-gestuetzte-tutorials]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[neurodidaktik-programmieren]]"
+  - "[[notional-machines]]"
+  - "[[live-coding-lehrmethode]]"
+  - "[[cognitive-task-analysis]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]

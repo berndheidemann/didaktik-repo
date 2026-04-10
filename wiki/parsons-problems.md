@@ -16,6 +16,7 @@ related:
   - "[[misconception-analyse]]"
   - "[[spaced-repetition-algorithmen]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[notional-machines]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]

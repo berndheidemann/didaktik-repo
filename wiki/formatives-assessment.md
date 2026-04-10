@@ -45,6 +45,7 @@ related:
   - "[[poe-methode]]"
   - "[[ki-tutoring-evidenzlage]]"
   - "[[rag-tutoring-systeme]]"
+  - "[[cognitive-task-analysis]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]

@@ -27,6 +27,9 @@ related:
   - "[[pair-programming-unterricht]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[neurodidaktik-programmieren]]"
+  - "[[notional-machines]]"
+  - "[[live-coding-lehrmethode]]"
+  - "[[cognitive-task-analysis]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren, bewerten]
 created: 2026-04-07

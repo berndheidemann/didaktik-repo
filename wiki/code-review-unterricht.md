@@ -20,6 +20,7 @@ related:
   - "[[affektive-dimensionen]]"
   - "[[expertise-entwicklung]]"
   - "[[wissensretention-programmierung]]"
+  - "[[live-coding-lehrmethode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [partner, gruppe]

@@ -23,6 +23,8 @@ related:
   - "[[learning-engineering]]"
   - "[[poe-methode]]"
   - "[[neurodidaktik-programmieren]]"
+  - "[[notional-machines]]"
+  - "[[cognitive-task-analysis]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 created: 2026-04-07

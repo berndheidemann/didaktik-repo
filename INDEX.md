@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 73 | **Letzte Aktualisierung:** 2026-04-10
+**Artikel:** 77 | **Letzte Aktualisierung:** 2026-04-10
 
 ---
 
@@ -40,6 +40,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[direct-manipulation-lernumgebungen]] — HCI-Designprinzip (Shneiderman, Hutchins/Hollan/Norman) für Lernwidgets: kein Submit, sofortige Reaktion, Reversibilität
 - [[lernortkooperation-transfer]] — Kooperationsstufenmodell (Euler) und Transferdidaktik für die duale IT-Ausbildung
 - [[neurodidaktik-programmieren]] — fMRI-Befunde zu Code-Verstehen: fronto-parietales Netzwerk, Sprachareale, Implikationen für Sequenzierung und Scaffolding
+- [[notional-machines]] — Mentale Modelle der Programmausführung (du Boulay 1986, Sorva 2013): Warum falsche Notional Machines die häufigste Fehlerquelle sind
 
 ### Methoden & Formate
 - [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
@@ -71,6 +72,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[spaced-repetition-algorithmen]] — Vier Scheduler-Familien (Leitner, SM-2, FSRS, Half-Life Regression) mit Pseudocode — Algorithmen-Katalog
 - [[poe-methode]] — Predict-Observe-Explain (White & Gunstone 1992) als generische Methode für Nicht-Code-Kontexte (Netzwerk, Security, DB-Verhalten)
 - [[browser-ide-gestuetzte-tutorials]] — Format für schrittweise Programmier-Tutorials mit Null-Setup-Einstieg; Tools (TutorialKit, Codespaces) als Beispiele
+- [[cognitive-task-analysis]] — Systematische Extraktion impliziten Expertenwissens (Clark & Feldon 2008) als Grundlage für Worked Examples, Scaffolding und Lernsituationen (d = 1,29)
+- [[live-coding-lehrmethode]] — Live Coding mit Think-Aloud und Deliberate Mistakes als Modeling-Methode (Rubin 2013, Raj 2018, Nederbragt 2020)
 
 ### Evidenz & Forschung
 - [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
@@ -121,6 +124,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[explorable-explanations-im-unterricht]] — Interaktive JOIN-Visualisierungen (sql-joins.leopard.in.ua) als Einstieg
 - [[browser-ide-gestuetzte-tutorials]] — Browser-SQL-Sandbox ohne Setup für schnellen Einstieg
 - [[neurodidaktik-programmieren]] — fMRI-Befunde: Code-Lesen beansprucht Sprach- und Exekutivnetzwerk — Konsequenzen für Sequenzierung und Bezeichner
+- [[notional-machines]] — Korrekte mentale Modelle der Programmausführung als Fundament für Variablen, Schleifen, Referenzen
+- [[live-coding-lehrmethode]] — SQL-Queries live entwickeln mit Deliberate Mistakes (falscher JOIN, fehlende GROUP BY)
 
 ### LF6: Serviceanfragen bearbeiten
 - [[constructive-alignment]] — Beispiel für Alignment in LF6
@@ -128,6 +133,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[worked-examples]] — Annotierte Debugging-Walkthroughs
 - [[formatives-assessment]] — Checklisten-basierte Selbstbewertung der Ticketbearbeitung
 - [[lerntagebuch]] — Reflexion über Troubleshooting-Strategien
+- [[live-coding-lehrmethode]] — Debugging live vorführen: Fehlermeldung, Stacktrace, Fix
 
 ### LF8: Daten systemübergreifend bereitstellen
 - [[pair-programming-unterricht]]
@@ -140,6 +146,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[parsons-problems]] — REST-Handler aus Bausteinen zusammensetzen (Validierung, Auth, DB-Zugriff, Response)
 - [[explorable-explanations-im-unterricht]] — Ciechanowskis "Internet from First Principles" + "How HTTPS Works" als Einstieg
 - [[browser-ide-gestuetzte-tutorials]] — TutorialKit/WebContainers für Node.js-REST-API-Tutorials ohne lokales Setup
+- [[live-coding-lehrmethode]] — REST-API-Endpoint live bauen mit Think-Aloud zu HTTP-Statuscodes
 
 ### LF10-12: Projekte planen, durchführen und auswerten
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Projektstruktur
@@ -155,6 +162,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[computational-action]] — Projekte mit echten Adressaten aus dem Ausbildungsbetrieb
 - [[engagement-theory]] — Relate-Create-Donate als Projektdesign-Checkliste
 - [[use-modify-create]] — Projektprogression von Fremd-Artefakt zu eigenem Produkt
+- [[live-coding-lehrmethode]] — Refactoring-Sessions live durchführen als Clean-Code-Modellierung
 
 ### Lernfeldübergreifend
 - [[blooms-taxonomie]] — Lernzielformulierung für alle Lernfelder
@@ -182,6 +190,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[rag-tutoring-systeme]] — RAG-Architektur für lernfeldspezifische KI-Tutoren
 - [[lernortkooperation-transfer]] — Transferdidaktik und Kooperation zwischen Berufsschule und Betrieb
 - [[neurodidaktik-programmieren]] — Neurowissenschaftliche Fundierung von Programmierunterricht
+- [[cognitive-task-analysis]] — Systematische Extraktion impliziten Expertenwissens als Grundlage für Lernmaterialien
 
 ---
 
@@ -227,6 +236,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[engagement-theory]] — Relate-Create-Donate als Kerntriade kollaborativen Lernens
 
 ### Expertenwissen vermitteln
+- [[cognitive-task-analysis]] — Implizites Expertenwissen systematisch extrahieren (Expert Blind Spot, ACTA-Methode)
 - [[cognitive-apprenticeship]] — Modeling, Coaching, Scaffolding, Articulation, Reflection, Exploration
 - [[threshold-concepts]] — Gezielte Intervention bei transformativen Schwellenkonzepten
 - [[expertise-entwicklung]] — Subskill-Zerlegung für adaptive Lernpfade
@@ -235,6 +245,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[contrasting-cases]] — Strukturdimensionen beim Vergleich paralleler Fälle entdecken lassen statt vorgeben
 - [[deskilling-ki-codegenerierung]] — Warum KI-Delegation den Novize-Experte-Übergang gefährdet und wie Gegenstrategien wirken
 - [[neurodidaktik-programmieren]] — Neuronale Expertise-Marker im fMRI begründen Subskill-Progression
+- [[notional-machines]] — Listers Stufenmodell (Tracing → Explaining → Writing) als Roadmap zur Expertise
+- [[live-coding-lehrmethode]] — Think-Aloud beim Programmieren macht Expertenwissen sichtbar (Modeling)
 
 ### Aktivierung / Handlungsorientierung
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Unterrichtsprinzip
@@ -245,6 +257,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[gamification-it-unterricht]] — Hackathons, Escape Rooms und Coding Challenges für aktives Lernen
 - [[computational-action]] — Lernende bauen Werkzeuge mit echtem Nutzen in ihrer Community
 - [[engagement-theory]] — Relate-Create-Donate erzwingt aktives Handeln mit echtem Adressaten
+- [[live-coding-lehrmethode]] — Partizipatives Live Coding aktiviert durch Mitprogrammieren und Predict-Pausen
 
 ### Aufgaben- und Materialdesign
 - [[cognitive-load-theory]] — Extrinsische Belastung minimieren, lernförderliche maximieren
@@ -271,6 +284,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[fehlerkultur-im-unterricht]] — Klassenklima, Error Climate, Psychological Safety, Lehrerhandeln
 - [[misconception-analyse]] — Systematische Methodik für Fehlvorstellungen
 - [[poe-methode]] — Predict-Observe-Explain als Diagnose-Instrument für Misconceptions
+- [[notional-machines]] — Falsche Notional Machines als Wurzel der meisten Programmier-Misconceptions — Diagnostik per Code-Tracing
+- [[live-coding-lehrmethode]] — Deliberate Mistakes und Live-Debugging als Fehlerkultur-Modellierung
 
 ### Feedback und Lernstandsdiagnostik
 - [[formatives-assessment]] — Fünf Schlüsselstrategien für Assessment FOR Learning
@@ -318,6 +333,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[computational-action]] — LLMs machen echte Produkte für Schüler erst zugänglich
 - [[deskilling-ki-codegenerierung]] — RCT-Evidenz zu Skill-Erosion und fünf Gegenstrategien (UMC, PRIMM, KI-freie Phasen, Scaffolding, Debugging)
 - [[rag-tutoring-systeme]] — RAG-Architektur für domänenspezifische KI-Tutoren mit Halluzinationskontrolle
+- [[live-coding-lehrmethode]] — KI-gestütztes Live Coding: Copilot-Vorschläge kritisch analysieren als Unterrichtsmethode
 
 ### Wissensretention / Nachhaltiges Lernen
 - [[retrieval-practice]] — Testing Effect, Spaced Repetition und Interleaving für langfristiges Behalten

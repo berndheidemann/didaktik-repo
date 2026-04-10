@@ -33,6 +33,9 @@ related:
   - "[[ki-tutoring-evidenzlage]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
   - "[[neurodidaktik-programmieren]]"
+  - "[[notional-machines]]"
+  - "[[live-coding-lehrmethode]]"
+  - "[[cognitive-task-analysis]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

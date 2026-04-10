@@ -26,6 +26,8 @@ related:
   - "[[browser-ide-gestuetzte-tutorials]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[neurodidaktik-programmieren]]"
+  - "[[notional-machines]]"
+  - "[[live-coding-lehrmethode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [partner, gruppe, einzelarbeit]

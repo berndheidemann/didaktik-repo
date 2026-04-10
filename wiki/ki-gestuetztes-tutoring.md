@@ -28,6 +28,7 @@ related:
   - "[[ki-tool-auswahl-berufsschule]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[rag-tutoring-systeme]]"
+  - "[[live-coding-lehrmethode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]

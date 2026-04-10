@@ -15,6 +15,7 @@ related:
   - "[[debugging-als-kompetenz]]"
   - "[[metakognition]]"
   - "[[affektive-dimensionen]]"
+  - "[[live-coding-lehrmethode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten, analysieren]
 evidenzgrad: rct

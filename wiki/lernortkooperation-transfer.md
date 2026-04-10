@@ -14,6 +14,7 @@ related:
   - "[[selbstgesteuertes-lernen]]"
   - "[[kompetenzfeststellung-programmierung]]"
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
+  - "[[cognitive-task-analysis]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-10

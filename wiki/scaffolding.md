@@ -47,6 +47,9 @@ related:
   - "[[rag-tutoring-systeme]]"
   - "[[lernortkooperation-transfer]]"
   - "[[neurodidaktik-programmieren]]"
+  - "[[notional-machines]]"
+  - "[[live-coding-lehrmethode]]"
+  - "[[cognitive-task-analysis]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]

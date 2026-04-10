@@ -19,6 +19,7 @@ related:
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[poe-methode]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[notional-machines]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-08

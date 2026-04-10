@@ -23,6 +23,7 @@ related:
   - "[[differenzierung-inklusion]]"
   - "[[effektstaerken-unterricht]]"
   - "[[expertise-entwicklung]]"
+  - "[[live-coding-lehrmethode]]"
 evidenzgrad: meta-analyse
 audience: [FIAE]
 taxonomiestufe: [anwenden, analysieren]

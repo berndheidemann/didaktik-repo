@@ -25,6 +25,9 @@ related:
   - "[[poe-methode]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[neurodidaktik-programmieren]]"
+  - "[[notional-machines]]"
+  - "[[live-coding-lehrmethode]]"
+  - "[[cognitive-task-analysis]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit, partner]

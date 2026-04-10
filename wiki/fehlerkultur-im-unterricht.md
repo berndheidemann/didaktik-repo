@@ -14,6 +14,7 @@ related:
   - "[[misconception-analyse]]"
   - "[[direct-manipulation-lernumgebungen]]"
   - "[[poe-methode]]"
+  - "[[live-coding-lehrmethode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-08

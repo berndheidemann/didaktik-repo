@@ -14,6 +14,8 @@ related:
   - "[[scaffolding]]"
   - "[[primm-methode]]"
   - "[[affektive-dimensionen]]"
+  - "[[notional-machines]]"
+  - "[[live-coding-lehrmethode]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 evidenzgrad: quasi-experimentell

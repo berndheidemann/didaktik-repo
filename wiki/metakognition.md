@@ -23,6 +23,8 @@ related:
   - "[[deskilling-ki-codegenerierung]]"
   - "[[lernortkooperation-transfer]]"
   - "[[neurodidaktik-programmieren]]"
+  - "[[live-coding-lehrmethode]]"
+  - "[[cognitive-task-analysis]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
