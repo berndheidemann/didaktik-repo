@@ -63,7 +63,7 @@ In einem späteren Paper (BJET 2021) formulieren die Autoren vier Prinzipien fü
 
 ### App Inventor als Beleg
 
-App Inventor (MIT) ist die praktische Inkarnation: Hundert Millionen Downloads weltweit. Schüler:innen bauen Apps für eigene Anliegen — Erinnerungs-Apps für demenzkranke Angehörige, Wasserqualitäts-Tracking, Tutoring-Apps für jüngere Geschwister. Die Apps existieren *in der Welt*, nicht nur in der Schule.
+App Inventor (MIT) ist die praktische Inkarnation: über 100 Millionen erstellte Projekte und mehr als 20 Millionen registrierte Nutzer weltweit. Schüler:innen bauen Apps für eigene Anliegen — Erinnerungs-Apps für demenzkranke Angehörige, Wasserqualitäts-Tracking, Tutoring-Apps für jüngere Geschwister. Die Apps existieren *in der Welt*, nicht nur in der Schule.
 
 ### Mit KI: zugänglich für alle
 

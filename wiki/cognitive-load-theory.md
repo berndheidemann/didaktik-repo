@@ -46,7 +46,7 @@ summary: >
 
 ## Kernidee
 
-Das Arbeitsgedächtnis kann nur wenige Informationselemente gleichzeitig verarbeiten (ca. 4 bei neuem Material). Cognitive Load Theory (CLT) nach Sweller (1988) unterscheidet drei Belastungsarten und leitet daraus Gestaltungsprinzipien ab, die extrinsische Belastung minimieren und lernförderliche Verarbeitung maximieren.
+Das Arbeitsgedächtnis kann nur wenige Informationselemente gleichzeitig verarbeiten (ca. 4 bei neuem Material; Cowan, 2001). Cognitive Load Theory (CLT) nach Sweller (1988) unterscheidet drei Belastungsarten und leitet daraus Gestaltungsprinzipien ab, die extrinsische Belastung minimieren und lernförderliche Verarbeitung maximieren.
 
 ## Beschreibung
 
@@ -58,7 +58,7 @@ Das Arbeitsgedächtnis kann nur wenige Informationselemente gleichzeitig verarbe
 | **Extrinsisch** | Schlechtes Instruktionsdesign | Design optimieren (Hauptziel von CLT) |
 | **Lernförderlich (germane)** | Schema-Aufbau und Automatisierung | Kapazität freisetzen durch Reduktion extrinsischer Last |
 
-Die drei Typen sind additiv: Übersteigt ihre Summe die Arbeitsgedächtniskapazität, bricht Lernen zusammen. Bei hoher intrinsischer Last (typisch für IT) reicht schon wenig extrinsische Last, um Überlastung auszulösen.
+Im klassischen Modell sind die drei Typen additiv: Übersteigt ihre Summe die Arbeitsgedächtniskapazität, bricht Lernen zusammen. **Hinweis:** Sweller selbst hat 2010 das Modell revidiert: Germane Load wird inzwischen als Teil der intrinsischen Last betrachtet, nicht als unabhängige dritte Größe. Das Zwei-Faktor-Modell (intrinsisch + extrinsisch) gilt als aktueller Forschungsstand (Sweller et al., 2019). — Bei hoher intrinsischer Last (typisch für IT) reicht schon wenig extrinsische Last, um Überlastung auszulösen.
 
 ### Zentrale CLT-Effekte
 
@@ -118,4 +118,5 @@ Ein Agent kann CLT-Prinzipien operationalisieren:
 - Sweller, J., Ayres, P. & Kalyuga, S. (2011). Cognitive Load Theory. Springer.
 - Sweller, J., van Merriënboer, J. J. G. & Paas, F. (2019). Cognitive Architecture and Instructional Design: 20 Years Later. Educational Psychology Review, 31, 261-292.
 - Paas, F., Renkl, A. & Sweller, J. (2003). Cognitive Load Theory and Instructional Design: Recent Developments. Educational Psychologist, 38(1), 1-4.
+- Cowan, N. (2001). The Magical Number 4 in Short-Term Memory: A Reconsideration of Mental Storage Capacity. Behavioral and Brain Sciences, 24(1), 87-114.
 - Guadagnoli, M. A. & Lee, T. D. (2004). Challenge point: A framework for conceptualizing the effects of various practice conditions in motor learning. Journal of Motor Behavior, 36(2), 212-224.

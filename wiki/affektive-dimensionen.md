@@ -63,7 +63,7 @@ Connolly et al. (2009): Bis zu 40% der CS1-Studierenden erleben signifikante Ang
 
 ### Zugehörigkeit (Belonging Uncertainty)
 
-Walton & Cohen (2011): Eine einstündige Intervention (Lesen/Schreiben über "Zugehörigkeitszweifel sind normal und gehen vorbei") brachte +0,3 GPA-Punkte über 3 Jahre bei unterrepräsentierten Studierenden. Besonders akut in IT, wo Stereotype Ausgrenzung verstärken.
+Walton & Cohen (2011): Eine einstündige Intervention (Lesen/Schreiben über "Zugehörigkeitszweifel sind normal und gehen vorbei") brachte +0,24 GPA-Punkte über 3 Jahre bei unterrepräsentierten Studierenden und halbierte den Achievement Gap. Besonders akut in IT, wo Stereotype Ausgrenzung verstärken.
 
 ### Self-Determination Theory (Deci & Ryan)
 

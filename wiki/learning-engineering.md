@@ -99,6 +99,6 @@ Ein Agent kann Learning-Engineering-Prinzipien umsetzen:
 ## Quellen
 
 - Dede, C. & Richards, J. (Hrsg.). (2020). The 60-Year Curriculum: New Models for Lifelong Learning in the Digital Economy. Routledge.
-- Corbett, A. T. & Anderson, J. R. (1994). Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge. User Modeling and User-Adapted Interaction, 4(4), 253-278.
+- Corbett, A. T. & Anderson, J. R. (1995). Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge. User Modeling and User-Adapted Interaction, 4(4), 253-278.
 - Settles, B. & Meeder, B. (2016). A Trainable Spaced Repetition Model for Language Learning. Proceedings of ACL 2016.
 - Bloom, B. S. (1984). The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring. Educational Researcher, 13(6), 4-16.

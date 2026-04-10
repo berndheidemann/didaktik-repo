@@ -37,7 +37,7 @@ Flow ist der Zustand völliger Versenkung in eine Tätigkeit, in dem die Zeit ve
 
 ### Die acht Komponenten des Flow-Erlebens
 
-Csíkszentmihályi identifizierte acht Merkmale, die in Flow-Episoden konsistent auftreten:
+Csíkszentmihályi identifizierte neun Merkmale, die in Flow-Episoden konsistent auftreten:
 
 | Komponente | Bedeutung im Programmierunterricht |
 |-----------|-------------------------------------|
@@ -69,7 +69,7 @@ Herausforderung
 
 ### Evidenz
 
-Fong, Zaleski & Leach (2015) bestätigen in einer Meta-Analyse über 24 Studien den Effekt der Challenge-Skill-Balance auf Flow-Erleben (mittlere Effektstärke). Csíkszentmihályi & Schneider (2000) zeigten in der "Becoming Adult"-Studie mit Experience Sampling, dass Jugendliche in *strukturierten produktiven* Tätigkeiten häufiger Flow erleben als in passivem Konsum — ein gezielt designter Programmierunterricht hat hier strukturelle Vorteile.
+Fong, Zaleski & Leach (2015) bestätigen in einer Meta-Analyse über 28 Studien den Effekt der Challenge-Skill-Balance auf Flow-Erleben (mittlere Effektstärke). Csíkszentmihályi & Schneider (2000) zeigten in der "Becoming Adult"-Studie mit Experience Sampling, dass Jugendliche in *strukturierten produktiven* Tätigkeiten häufiger Flow erleben als in passivem Konsum — ein gezielt designter Programmierunterricht hat hier strukturelle Vorteile.
 
 ### Spannung mit Cognitive Load
 

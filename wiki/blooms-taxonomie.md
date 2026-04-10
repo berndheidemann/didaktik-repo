@@ -45,7 +45,7 @@ Die revidierte Bloom'sche Taxonomie klassifiziert kognitive Lernziele in sechs a
 
 ## Beschreibung
 
-Benjamin Bloom veröffentlichte 1956 die erste Taxonomie kognitiver Lernziele. 2001 revidierten Lorin Anderson (Blooms Doktorand) und David Krathwohl das Modell grundlegend: Substantive wurden zu Verben (handlungsorientiert), und "Erschaffen" ersetzte "Synthese" als höchste Stufe.
+Benjamin Bloom veröffentlichte 1956 die erste Taxonomie kognitiver Lernziele. 2001 revidierten Lorin Anderson (Blooms Doktorand) und David Krathwohl das Modell grundlegend: Substantive wurden zu Verben (handlungsorientiert), und die Reihenfolge der obersten Stufen wurde geändert: "Synthese" wurde zu "Erschaffen" umbenannt und von Position 5 auf Position 6 verschoben, während "Bewerten" (vormals "Evaluation", Position 6) auf Position 5 rückte.
 
 ### Die sechs kognitiven Prozessstufen
 

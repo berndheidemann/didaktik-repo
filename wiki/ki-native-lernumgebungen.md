@@ -76,7 +76,7 @@ Das ist funktional ein automatisierter Expertise-Reversal-Effekt (vgl. [[cogniti
 
 ### Prompt Engineering als Programmier-Pädagogik
 
-Sarsa et al. (2022, Aalto) entwickelten "Prompt Problems": Lernende formulieren Prompts, die korrekten Code erzeugen, und verifizieren das Ergebnis. Das invertiert den traditionellen Flow — statt Code zu schreiben, spezifizieren Lernende Intent und evaluieren Output. Trainiert Spezifikation, Dekomposition und Testing — die schwierigeren Teile des Programmierens.
+Denny et al. (2024, SIGCSE) entwickelten "Prompt Problems": Lernende formulieren Prompts, die korrekten Code erzeugen, und verifizieren das Ergebnis. Vorarbeit zu automatischer Aufgabengenerierung per LLM lieferten Sarsa et al. (2022, ICER). Das invertiert den traditionellen Flow — statt Code zu schreiben, spezifizieren Lernende Intent und evaluieren Output. Trainiert Spezifikation, Dekomposition und Testing — die schwierigeren Teile des Programmierens.
 
 **Ergebnis:** Prompt Problems sind effektiv für Computational Thinking ohne syntaktische Fluenz — besonders stark in den ersten Wochen eines Kurses.
 
@@ -112,6 +112,7 @@ Ein Agent kann KI-native Prinzipien direkt umsetzen:
 
 - Becker, B. A. et al. (2023). Programming Is Hard — Or at Least It Used to Be. Proceedings of ITiCSE 2023.
 - Denny, P. et al. (2024). Computing Education in the Era of Generative AI. Communications of the ACM, 67(2), 56-67.
-- Sarsa, S. et al. (2022). Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models. Proceedings of ACE 2022.
+- Sarsa, S. et al. (2022). Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models. Proceedings of ICER 2022.
+- Denny, P. et al. (2024). Prompt Problems: A New Programming Exercise for the Generative AI Era. Proceedings of SIGCSE 2024.
 - Kazemitabaar, M. et al. (2024). Studying the Effect of AI Code Generators on Supporting Novice Learners. Proceedings of CHI 2024.
 - Goel, A. (2024). AI Teaching Assistants: Lessons from Jill Watson. AI Magazine, 45(1), 78-89.

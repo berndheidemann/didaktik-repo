@@ -93,7 +93,7 @@ Die Situation muss **konkret, beobachtbar, wiederkehrend** sein — kein "wenn i
 
 ### Deep Work Blocks (Newport)
 
-**Problem:** Programmieren und Lernen brauchen ungestörte Konzentration, aber jede Push-Notification zerlegt den mentalen Stack. Mark et al. (2008): Nach einer Unterbrechung dauert es im Schnitt **23 Minuten**, bis man den vorherigen Task wieder auf Expertenniveau bearbeitet.
+**Problem:** Programmieren und Lernen brauchen ungestörte Konzentration, aber jede Push-Notification zerlegt den mentalen Stack. Mark et al. (2008): Nach einer Unterbrechung dauert es im Schnitt **23 Minuten und 15 Sekunden**, bis man zum unterbrochenen Task zurückkehrt.
 
 **Umsetzung:** 90-120-Minuten-Blöcke im Kalender reservieren, 2x pro Woche ein solcher Block für AP2-Projektarbeit. Handy aus, Browser ohne Tabs, Discord zu. Ritual zum Einstieg (Tee, Kopfhörer, bestimmter Ort) senkt Startkosten. Deep Work ist die **Infrastruktur**, die [[flow-theorie]] erst möglich macht.
 
@@ -101,7 +101,7 @@ Die Situation muss **konkret, beobachtbar, wiederkehrend** sein — kein "wenn i
 
 ### Parkinsons Gesetz + künstliche Deadlines
 
-**Problem:** "Arbeit dehnt sich in dem Maße aus, wie Zeit für ihre Erledigung zur Verfügung steht" (Parkinson 1958).
+**Problem:** "Arbeit dehnt sich in dem Maße aus, wie Zeit für ihre Erledigung zur Verfügung steht" (Parkinson, 1955; Essay im *The Economist*, Buchfassung 1957).
 
 **Umsetzung:** Pro Teilaufgabe eine **harte, selbst gesetzte Deadline** deutlich unter der echten Deadline. "Ich habe bis Freitag 17 Uhr für das Datenbank-Kapitel — egal wie unfertig." Für AP2: Milestone-Plan mit jeweils eigener harter Deadline, nicht nur Abgabedatum.
 

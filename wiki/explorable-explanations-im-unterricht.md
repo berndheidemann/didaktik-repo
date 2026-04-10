@@ -48,7 +48,7 @@ Die einzigartige Kombination ist **geführter Lernpfad + Mikro-Interaktionen**. 
 
 ### Die Bewegung und ihr Stand 2026
 
-Die Bewegung ist klein und nicht skaliert. Der zentrale Hub explorabl.es sammelt ~170 Stücke, die aktiven Kern-Autor:innen sind überschaubar (Nicky Case, Bartosz Ciechanowski, Chris Olah, Amit Patel/Red Blob Games, Victor Powell, Vi Hart). **Distill.pub** — das 2016 gestartete Flaggschiff-Journal für interaktive ML-Artikel — hat 2021 den "Hiatus" verkündet wegen Volunteer-Burnout. **Idyll** — das wichtigste Open-Source-Tool zum Erstellen von Explorables — ist seit 2021 praktisch stehengeblieben. Aktiv bleibt die Szene vor allem bei Einzel-Autor:innen und in Ad-hoc-Initiativen ("Explorables Jam"). Das bedeutet zwei Dinge: (1) Es gibt einen wertvollen Bestand kuratierbarer Artefakte, aber (2) der Trend zur Eigenproduktion hat sich nicht durchgesetzt — auch außerhalb der Berufsschule nicht.
+Die Bewegung ist klein und nicht skaliert. Der zentrale Hub explorabl.es sammelt ~170 Stücke, die aktiven Kern-Autor:innen sind überschaubar (Nicky Case, Bartosz Ciechanowski, Chris Olah, Amit Patel/Red Blob Games, Victor Powell, Vi Hart). **Distill.pub** — das 2017 gestartete Flaggschiff-Journal für interaktive ML-Artikel — hat 2021 den "Hiatus" verkündet wegen Volunteer-Burnout. **Idyll** — das wichtigste Open-Source-Tool zum Erstellen von Explorables — ist seit 2021 praktisch stehengeblieben. Aktiv bleibt die Szene vor allem bei Einzel-Autor:innen und in Ad-hoc-Initiativen ("Explorables Jam"). Das bedeutet zwei Dinge: (1) Es gibt einen wertvollen Bestand kuratierbarer Artefakte, aber (2) der Trend zur Eigenproduktion hat sich nicht durchgesetzt — auch außerhalb der Berufsschule nicht.
 
 ### Evidenzstand — ehrlich eingeordnet
 

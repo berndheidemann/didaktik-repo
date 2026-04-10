@@ -123,9 +123,9 @@ Der KMK-Rahmenlehrplan formuliert "selbstgesteuertes Handeln" als explizites Zie
 
 ### Evidenz
 
-- **Hattie & Donoghue (2016, Visible Learning):** Metakognitive Strategien d ≈ **0,60** — konsistent in den Top-20-Interventionen.
+- **Hattie (Visible Learning):** Metakognitive Strategien d ≈ **0,60** — konsistent in den Top-20-Interventionen. Hattie & Donoghue (2016) differenzieren nach Substrategien (Planning 0,80; Monitoring 0,71; Evaluation 0,75).
 - **Self-Explanation (Chi et al. 1989/1994):** d ≈ 0,55–0,80 je nach Implementierung, besonders groß bei prozeduralen Domänen.
-- **Dignath & Büttner (2008, Meta-Analyse):** metakognitive Trainings Sekundarbereich d = 0,54 auf Leistung, d = 0,73 auf Strategienutzung.
+- **Dignath & Büttner (2008, Meta-Analyse):** metakognitive Trainings Sekundarbereich d = 0,54 auf Leistung, d = 0,73 als ungewichteter Gesamt-Effekt (nicht spezifisch auf Strategienutzung beschränkt).
 
 **Wichtige Randbedingungen:**
 - Generische "Lernstrategie-Trainings" ohne Fachinhalt wirken kaum.

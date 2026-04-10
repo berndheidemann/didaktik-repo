@@ -60,7 +60,7 @@ Intuitiv scheint es richtig, Lernen so einfach wie möglich zu machen. Die Forsc
 
 Die traditionelle Sequenz ist: Instruktion → Übung. Productive Failure kehrt das um: **Exploration → Scheitern → Instruktion**. Lernende versuchen ein Problem zu lösen, bevor sie die Theorie kennen. Sie produzieren fehlerhafte, naive oder brute-force-Lösungen — und genau das aktiviert Vorwissen, deckt Lücken auf und schafft "Wissensbedarf", der die folgende Instruktion bedeutsamer macht.
 
-**Evidenz:** Meta-Analyse von Loibl, Roll & Rummel (2024) bestätigt robuste Effekte (d ≈ 0,36-0,53) auf konzeptuellen Transfer, besonders wenn die Explorationsphase diverse Lösungen produziert.
+**Evidenz:** Loibl, Roll & Rummel (2017) liefern ein theoretisches Framework für PF. Die Meta-Analyse von Sinha & Kapur (2021) bestätigt robuste Effekte (d ≈ 0,36-0,53) auf konzeptuellen Transfer, besonders wenn die Explorationsphase diverse Lösungen produziert.
 
 **Spannung mit [[cognitive-load-theory]]:** PF scheint CLT zu widersprechen — [[worked-examples]] minimieren Struggle für Novizen. Die Auflösung: PF funktioniert, wenn Lernende *etwas* Vorwissen haben, um partielle Lösungen zu generieren. Für absolute Anfänger:innen bleiben Worked Examples überlegen. Der Übergang von Worked Examples zu Productive Failure markiert den Weg vom Novizen zum kompetenten Problemlöser.
 
@@ -114,7 +114,8 @@ Ein Agent kann Desirable Difficulties systematisch einbauen:
 
 - Kapur, M. (2008). Productive Failure. Cognition and Instruction, 26(3), 379-424.
 - Kapur, M. & Bielaczyc, K. (2012). Designing for Productive Failure. Journal of the Learning Sciences, 21(1), 45-83.
-- Loibl, K., Roll, I. & Rummel, N. (2024). Towards a Theory of When and How Problem Solving Followed by Instruction Supports Learning. Educational Psychology Review, 29, 693-715.
+- Loibl, K., Roll, I. & Rummel, N. (2017). Towards a Theory of When and How Problem Solving Followed by Instruction Supports Learning. Educational Psychology Review, 29, 693-715.
+- Sinha, T. & Kapur, M. (2021). When Problem Solving Followed by Instruction Works: Evidence for Productive Failure. Review of Educational Research, 91(6), 823-861.
 - Bjork, R. A. & Bjork, E. L. (2011). Making Things Hard on Yourself, But in a Good Way. In M. A. Gernsbacher et al. (Hrsg.), Psychology and the Real World (S. 56-64). Worth.
 - Roediger, H. L. & Karpicke, J. D. (2006). Test-Enhanced Learning. Psychological Science, 17(3), 249-255.
 - Hiebert, J. & Grouws, D. A. (2007). The effects of classroom mathematics teaching on students' learning. In F. K. Lester (Hrsg.), Second Handbook of Research on Mathematics Teaching and Learning (S. 371-404). NCTM.

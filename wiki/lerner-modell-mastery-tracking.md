@@ -186,7 +186,7 @@ Der Schlüssel ist die `kcIds`-Annotation pro Übung — das ist die einmalige, 
 ### Cold-Start, Forgetting, Gaming-Mitigation
 
 - **Cold-Start**: Start mit `P_init = 0.3` für alle KCs, oder kurzes Diagnostik-Quiz. Für Solo-Projekte reicht: erste Aufgabe ist immer die einfachste pro KC.
-- **Forgetting**: Decay-Term pro KC: `mastery_t = mastery_0 * exp(-Δt / halflife)`. Halflife konservativ 14 Tage. Lindsey et al. (2014) zeigen +12% Retention bei personalisierten Halflives.
+- **Forgetting**: Decay-Term pro KC: `mastery_t = mastery_0 * exp(-Δt / halflife)`. Halflife konservativ 14 Tage. Lindsey et al. (2014) zeigen signifikant bessere Retention bei personalisierten Halflives (+16,5% vs. Massed Study, +10% vs. generisches Spacing).
 - **Gaming-Mitigation**: (a) Mastery nur bei First-Attempt-Korrektheit erhöhen. (b) Periodische "Audit"-Items, die früheres Wissen unangekündigt abprüfen. (c) Antworten unter 1.5 Sekunden halb zählen.
 
 ## Voraussetzungen

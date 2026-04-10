@@ -57,8 +57,8 @@ Mehrere systematische Reviews konvergieren auf moderate positive Effekte:
 
 | Studie | Sample | Effekt | Typ |
 |---|---|---|---|
-| Ma et al. (2025), J. Computer Assisted Learning | 44 Effektgrößen | **SMD = 0,45** [0,43-0,47] | Meta-Analyse |
-| GenAI vs. traditionelle Tools (Review 2025) | 21 Studien | **g = 0,572** | Meta-Analyse |
+| Ma et al. (2025), J. Computer Assisted Learning | 68 Studien | **SMD = 0,45** [0,43-0,47] | Meta-Analyse |
+| GenAI vs. traditionelle Tools (Review 2025) | 21 Studien | **g = 0,572** | Meta-Analyse (Quelle nicht eindeutig zuordenbar — Werte aus Trainingsdaten, Primärquelle ausstehend) |
 | — davon kognitive Outcomes | | g = 0,604 | |
 | — davon affektive Outcomes | | g = 0,478 | |
 

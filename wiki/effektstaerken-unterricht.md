@@ -41,7 +41,7 @@ Fast alles "wirkt" im Unterricht — die Frage ist, was am stärksten wirkt. Hat
 
 ## Studiendesign
 
-Hattie (2009, aktualisiert 2023) ist eine Meta-Meta-Analyse: Synthese von 2.100+ Meta-Analysen mit über 300 Millionen Lernenden. Ergänzt durch CS-spezifische Meta-Analysen (Freeman et al. 2014, Porter et al. 2013, Sailer & Homner 2020, VanLehn 2011).
+Hattie (2009) ist eine Meta-Meta-Analyse: Synthese von 800+ Meta-Analysen mit über 80 Millionen Lernenden. Die aktualisierte Fassung (Hattie, 2023: *Visible Learning — The Sequel*) erweitert auf 2.100+ Meta-Analysen mit über 400 Millionen Lernenden. Ergänzt durch CS-spezifische Meta-Analysen (Freeman et al. 2014, Porter et al. 2013, Sailer & Homner 2020, VanLehn 2011).
 
 ## Stichprobe
 
@@ -76,7 +76,7 @@ Hatties Daten umfassen alle Altersgruppen, Fächer und Kontexte weltweit. CS-spe
 
 ### CS-spezifische Schlüsselfunde
 
-**Active Learning in STEM (Freeman et al., 2014):** 225 Studien, 55% weniger Durchfaller bei aktivem Lernen. Die Autoren argumentieren, traditionelle Vorlesung sei "unethisch" angesichts der Evidenz.
+**Active Learning in STEM (Freeman et al., 2014):** 225 Studien, 55% weniger Durchfaller bei aktivem Lernen. Die Autoren sprachen von "educational malpractice"; Eric Mazur (Harvard) nannte Weiter-Vorlesung "unethisch" angesichts der Evidenz.
 
 **ITS fast so effektiv wie menschliche Tutoren (VanLehn, 2011):** Intelligente Tutorsysteme mit Step-Level-Feedback erreichen d=0,76 — fast identisch mit menschlichem 1:1-Tutoring (d=0,79). Answer-Level-Feedback allein ist deutlich schwächer.
 

@@ -40,7 +40,7 @@ Bei einem Parsons Problem bekommen Lernende die korrekten Codezeilen eines Progr
 
 ### Ursprung und Evidenz
 
-Dale Parsons und Patricia Haden (University of Otago) stellten das Format 2006 auf der ACE-Konferenz vor. Die empirische Aufarbeitung liegt auf Meta-Analyse-Niveau:
+Dale Parsons und Patricia Haden (Otago Polytechnic) stellten das Format 2006 auf der ACE-Konferenz vor. Die empirische Aufarbeitung liegt auf Meta-Analyse-Niveau:
 
 - **Denny, Luxton-Reilly & Simon (2008):** Parsons-Aufgaben erzeugen vergleichbare Lernergebnisse wie freies Schreiben, benötigen aber **signifikant weniger Zeit** und frustrieren weniger.
 - **Ericson, Denny, Prather et al. (2022):** Systematische Literaturrecherche über 47 Studien. Befund: Parsons Problems sind für Lernende *effizienter* — gleiche Lernwirkung bei ≈ halbem Zeitaufwand und niedrigerer cognitive load (gemessen per NASA-TLX und selbstberichteter Belastung).

@@ -36,7 +36,7 @@ summary: >
 
 ## Kernidee
 
-Eine gute Aufgabe braucht einen *niedrigen Boden* (jede:r kann sofort einsteigen, ohne Erklärung), eine *hohe Decke* (selbst Fortgeschrittene können Stunden produktiv vertiefen) und *breite Wände* (viele unterschiedliche Lösungswege und Produktformen sind möglich). Erfunden hat das Prinzip Seymour Papert für Logo, Mitchel Resnick hat es für Scratch und das MIT Media Lab um die Wide-Walls-Dimension erweitert. Es ist das wirksamste Einzelprinzip gegen das Heterogenitätsproblem im IT-Unterricht — *eine* Aufgabe statt drei Niveaustufen.
+Eine gute Aufgabe braucht einen *niedrigen Boden* (jede:r kann sofort einsteigen, ohne Erklärung), eine *hohe Decke* (selbst Fortgeschrittene können Stunden produktiv vertiefen) und *breite Wände* (viele unterschiedliche Lösungswege und Produktformen sind möglich). Das Prinzip wird Seymour Papert zugeschrieben (im Kontext von Logo), auch wenn die Formulierung "Low Floor, High Ceiling" in *Mindstorms* (1980) nicht wörtlich vorkommt. Mitchel Resnick und Brian Silverman (2005) haben es für Scratch und das MIT Media Lab explizit ausformuliert und um die Wide-Walls-Dimension erweitert. Es ist das wirksamste Einzelprinzip gegen das Heterogenitätsproblem im IT-Unterricht — *eine* Aufgabe statt drei Niveaustufen.
 
 ## Beschreibung
 

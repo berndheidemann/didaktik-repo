@@ -253,7 +253,7 @@ Der Kern-Shift: Die Lehrkraft schreibt nicht mehr *Inhalte*, sondern *Beurteilun
 
 - Liffiton, M. et al. (2023). CodeHelp: Using Large Language Models with Guardrails for Scalable Support in Programming Classes. Proceedings of Koli Calling 2023.
 - Denny, P. et al. (2024). Computing Education in the Era of Generative AI. Communications of the ACM, 67(2), 56-67.
-- Sarsa, S. et al. (2022). Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models. Proceedings of ACE 2022.
+- Sarsa, S. et al. (2022). Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models. Proceedings of ICER 2022.
 - Kazemitabaar, M. et al. (2024). CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant. Proceedings of CHI 2024.
 - Mollick, E. & Mollick, L. (2023). Assigning AI: Seven Approaches for Students, with Prompts. Wharton Working Paper.
 - Hattie, J. & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research*, 77(1), 81-112.

@@ -68,7 +68,7 @@ Lernen ist nachhaltig ab Stufe 4 (Identified) — und qualitativ hochwertig erst
 
 ### Evidenz
 
-Howard et al. (2021) integrieren in einer Meta-Analyse über 344 Studien (~224.000 Lernende): Befriedigung der drei Grundbedürfnisse korreliert robust mit Engagement (r ≈ 0,40), Wohlbefinden (r ≈ 0,48), Lernleistung (r ≈ 0,21) und negativ mit Dropout. Ryan & Deci (2020) berichten: SDT ist auf alle Bildungsstufen, Kulturen und Fachgebiete anwendbar.
+Howard et al. (2021) integrieren in einer Meta-Analyse über 344 Stichproben (~223.000 Teilnehmende): Autonome Motivationsformen korrelieren robust mit Engagement, Wohlbefinden und Lernleistung und negativ mit Dropout. Die stärksten Zusammenhänge zeigen sich für intrinsische und identifizierte Motivation. Ryan & Deci (2020) berichten: SDT ist auf alle Bildungsstufen, Kulturen und Fachgebiete anwendbar.
 
 **Wichtige Praxisbefunde:**
 - Externe Belohnungen *senken* intrinsische Motivation für interessante Tätigkeiten ("Crowding-Out"-Effekt) — Vorsicht bei Punktesystemen ohne SDT-Basis (vgl. [[gamification-it-unterricht]]).

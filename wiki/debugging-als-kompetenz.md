@@ -38,7 +38,7 @@ summary: >
 
 ## Kernidee
 
-Die meisten Programmier-Curricula lehren, wie man Code *schreibt* — aber nicht, wie man Fehler *findet*. Dabei verbringen professionelle Entwickler:innen 35-50% ihrer Zeit mit Debugging (Vessey, 1985). Debugging ist eine eigenständige Kompetenz mit eigenen Strategien, die explizit gelehrt werden muss. Erfahrene Debugger arbeiten hypothesengetrieben; Anfänger:innen probieren zufällig — dieser Unterschied ist lehrbar.
+Die meisten Programmier-Curricula lehren, wie man Code *schreibt* — aber nicht, wie man Fehler *findet*. Dabei verbringen professionelle Entwickler:innen 35-50% ihrer Zeit mit Debugging (häufig zitierte Schätzung; Vessey, 1985 untersucht Debugging-Strategien von Experten vs. Novizen). Debugging ist eine eigenständige Kompetenz mit eigenen Strategien, die explizit gelehrt werden muss. Erfahrene Debugger arbeiten hypothesengetrieben; Anfänger:innen probieren zufällig — dieser Unterschied ist lehrbar.
 
 ## Beschreibung
 

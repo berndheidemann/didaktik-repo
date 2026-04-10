@@ -45,7 +45,7 @@ PRIMM ist eine fünfstufige Sequenz für Programmierunterricht: **Predict** (Out
 
 ## Beschreibung
 
-PRIMM hat einen sozio-konstruktivistischen Hintergrund: Predict aktiviert Vorwissen, Run liefert Feedback auf mentale Modelle, Investigate macht Wissen explizit, Modify/Make sind aktive Konstruktion. Sentance, Waite & Kallia (2019) berichten aus einer Studie mit Lehrkräften aus 13 UK-Schulen: PRIMM-Klassen zeigten höhere Beteiligung und besseres Verständnis als Klassen, in denen sofort eigenständig geschrieben wird.
+PRIMM hat einen sozio-konstruktivistischen Hintergrund: Predict aktiviert Vorwissen, Run liefert Feedback auf mentale Modelle, Investigate macht Wissen explizit, Modify/Make sind aktive Konstruktion. Sentance, Waite & Kallia (2019) berichten aus einer Studie mit 493 Schüler:innen (11-14 Jahre) in 13 UK-Schulen: PRIMM-Klassen zeigten höhere Beteiligung und besseres Verständnis als Klassen, in denen sofort eigenständig geschrieben wird.
 
 PRIMM ist verwandt mit [[use-modify-create]] (andere Granularität) und nutzt [[worked-examples]] als Material. Entscheidender Unterschied: Predict zwingt zum *aktiven Engagement* mit dem Code, statt zum passiven Überfliegen.
 

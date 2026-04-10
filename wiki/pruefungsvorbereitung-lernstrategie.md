@@ -42,14 +42,14 @@ Dieser Artikel ist die **Lerner-seitige** Ergänzung zu [[kompetenzfeststellung-
 
 ### IHK AP1/AP2 — Struktur kompakt
 
-**AP1** (Teil 1, nach ~18 Monaten, ~25% der Endnote)
+**AP1** (Teil 1, nach ~18 Monaten, **20%** der Endnote lt. FIAusbV 2020)
 - Schriftlich, 90 Minuten
 - Thema: "Einrichten eines IT-gestützten Arbeitsplatzes"
 - Ganzheitliche Aufgabe aus der ersten Ausbildungshälfte (Netzwerk, Hardware, Datenschutz, einfache Algorithmen)
 - Offene Aufgabenformate mit Teilaufgaben
 - **Didaktische Implikation:** Strukturiertes Schreiben technischer Sachverhalte unter Zeitdruck — eigene Kompetenz.
 
-**AP2** (Teil 2, Ende der Ausbildung, ~75% der Endnote) — vier Komponenten:
+**AP2** (Teil 2, Ende der Ausbildung, **80%** der Endnote) — vier Komponenten:
 1. **Betrieblicher Projektauftrag** (FIAE: 80 h, FIDP: 40 h) + Projektdokumentation
 2. **Präsentation** (15 Min.) des Projekts vor dem Prüfungsausschuss
 3. **Fachgespräch** (15 Min.) — Vertiefung anhand des Projekts
@@ -63,7 +63,7 @@ Jede Komponente verlangt eine eigene Vorbereitungsstrategie.
 |---|---|---|---|
 | **Retrieval Practice mit Alt-Prüfungen** | Roediger & Karpicke 2006, d ≈ 0,50–0,80 | 45-60 Min / 2x pro Woche | Ab 8 Wochen vor Prüfung |
 | **Spacing / verteiltes Lernen** | Cepeda et al. 2008: Cramming verliert 50% in 7 Tagen | 20 Min täglich > 2h wöchentlich | Ab Ausbildungsbeginn ideal; min. 6 Wochen vorher |
-| **Interleaved Practice** (Lernfelder mischen) | Rohrer & Taylor 2007, +43% auf Transfer | 30-45 Min / Session | Letzte 4 Wochen |
+| **Interleaved Practice** (Lernfelder mischen) | Rohrer & Taylor 2007, Interleaving-Vorteile bei Transferaufgaben | 30-45 Min / Session | Letzte 4 Wochen |
 | **Elaborative Interrogation** ("Warum?") | Dunlosky et al. 2013 "moderat wirksam" | +2 Min pro Aufgabe | Parallel zu Retrieval |
 | **Parsons Problems / Code-Tracing** | Ericson et al. 2022, weniger CLT | 10-15 Min täglich | Für FIAE schriftlich |
 | **Mock-Fachgespräch (Rollenspiel)** | Articulation-Effekt | 20 Min / Woche | Letzte 6 Wochen vor AP2 |

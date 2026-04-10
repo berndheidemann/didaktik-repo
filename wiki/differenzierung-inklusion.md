@@ -87,7 +87,7 @@ Baron-Cohen et al. (2001) und die Empathizing-Systemizing-Hypothese zeigen: Neur
 
 ### Hochbegabte fördern
 
-**Enrichment** (Vertiefung auf gleicher Stufe) vs. **Acceleration** (Überspringen, Verkürzung § 8 BBiG). Meta-Evidenz Steenbergen-Hu, Makel & Olszewski-Kubilius (2016, 100 Jahre Forschung): Acceleration hat robust positive Effekte (g ≈ 0,18 Tests, g ≈ 0,42 fachspezifisch) und *keine* signifikanten negativen sozio-emotionalen Folgen (entgegen dem Mythos).
+**Enrichment** (Vertiefung auf gleicher Stufe) vs. **Acceleration** (Überspringen, Verkürzung § 8 BBiG). Meta-Evidenz Steenbergen-Hu, Makel & Olszewski-Kubilius (2016, 100 Jahre Forschung): Acceleration hat robust positive Effekte (g ≈ 0,70 Akzelerierte vs. gleichaltrige Nicht-Akzelerierte, g ≈ 0,42 aggregiert über spezifische Akzelerationsformen) und *keine* signifikanten negativen sozio-emotionalen Folgen (entgegen dem Mythos).
 
 **IT-konkret:** Vertikales Enrichment (Performance-Analyse, Security-Audit der eigenen Lösung), horizontales Enrichment (PostgreSQL-Features, GraphQL statt nur REST), Peer-Expertenrolle (Tutorial geben, Code-Review leiten — freiwillig!), Open-Source-Beiträge als echte Projekte, Acceleration nach § 8 BBiG (Verkürzung auf 2-2,5 Jahre). **Anti-Pattern:** "Du bist fertig, hilf dem Nachbarn" als *Strafe* — tötet Motivation.
 

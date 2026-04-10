@@ -53,7 +53,7 @@ Primär Hochschul-CS1/CS2-Kurse in USA, Europa und Australien. Wenige Studien au
 
 ### Was *tatsächlich* stark wirkt
 
-**Active Learning (Freeman et al., 2014):** Die stärkste Einzelevidenz in STEM. Jede Form aktiver Beteiligung — Diskussion, Coding, Peer Instruction, Problemlösung — schlägt passive Vorlesung. Die Autoren nannten Weiter-Vorlesung angesichts der Evidenz "unethisch."
+**Active Learning (Freeman et al., 2014):** Die stärkste Einzelevidenz in STEM. Jede Form aktiver Beteiligung — Diskussion, Coding, Peer Instruction, Problemlösung — schlägt passive Vorlesung. Die Autoren sprachen von "educational malpractice"; Eric Mazur (Harvard) nannte Weiter-Vorlesung angesichts der Evidenz "unethisch."
 
 **Peer Instruction (Porter et al., 2013, 2016):** Spezifisch für CS repliziert. ConcepTest-Zyklen mit Peer-Diskussion reduzieren Durchfallquoten konsistent. Zingaro & Porter (2014) zeigten: PI wirkt besonders bei Higher-Order-Fragen, nicht nur Faktenabfrage.
 

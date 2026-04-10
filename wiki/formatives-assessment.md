@@ -91,7 +91,7 @@ Effektives Feedback beantwortet drei Fragen:
 - **Feed-Back:** "Wo stehe ich?" → Fortschritt einschätzen
 - **Feed-Forward:** "Was ist der nächste Schritt?" → Handlung ableiten
 
-Vier Ebenen mit abnehmender Wirksamkeit:
+Vier Ebenen (nach Aufgabennähe geordnet; Process und Self-Regulation sind für tiefes Lernen wirksamer als Task):
 
 | Ebene | Fokus | IT-Beispiel | Wirksamkeit |
 |-------|-------|-------------|-------------|

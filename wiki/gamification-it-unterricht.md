@@ -29,7 +29,7 @@ updated: 2026-04-07
 summary: >
   Spielelemente (Punkte, Quests, Escape Rooms, Hackathons) im IT-Unterricht
   einsetzen — Sailer & Homner (2020) zeigen mittlere Effekte auf Lernergebnisse
-  (d = 0,49), aber nur bei didaktisch sinnvoller Einbettung.
+  (Hedges' g = 0,49 kognitiv, g = 0,36 motivational), aber nur bei didaktisch sinnvoller Einbettung.
 ---
 
 # Gamification im IT-Unterricht

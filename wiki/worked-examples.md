@@ -70,7 +70,7 @@ Sweller & Cooper (1985): Lernende mit Worked Examples brauchten in Posttests die
 | 3 | **Mehr Lücken** — nur SELECT und FROM gegeben |
 | 4 | **Offenes Problem** — "Offene Bestellungen mit Kundennamen" |
 
-Renkl, Atkinson & Maier (2002): Fading + Self-Explanation-Prompts erzeugt mittlere bis große Transfer-Effekte.
+Renkl, Atkinson, Maier & Staley (2002): Fading + Self-Explanation-Prompts verbessert Near-Transfer; Far-Transfer-Effekte sind weniger robust belegt.
 
 ### Expertise Reversal Effect
 
@@ -88,7 +88,7 @@ Worked Examples helfen Novizen, schaden Fortgeschrittenen: Wer Schemata hat, mus
 
 - Novizen im Thema (bei Experten: Expertise Reversal)
 - Klare Lösungsschritte (weniger für völlig offene Aufgaben)
-- Sorgfältige Self-Explanation Prompts (Barbieri et al., 2023)
+- Self-Explanation Prompts sorgfältig einsetzen — Barbieri et al. (2023) fanden in ihrer Meta-Analyse, dass Self-Explanation-Prompts als Moderator einen negativen Effekt auf Mathematik-Leistung hatten; der Nutzen hängt stark vom Aufgabendesign ab
 
 ## Varianten
 

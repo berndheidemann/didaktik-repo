@@ -104,6 +104,6 @@ Ein Agent kann Kompetenzfeststellung unterstützen:
 ## Quellen
 
 - Jadud, M. C. (2006). Methods and Tools for Exploring Novice Compilation Behaviour. Proceedings of ICER 2006, 73-84.
-- Nickolaus, R. & Seeber, S. (2013). Berufliche Kompetenzen: Modellierung und Diagnostik. Beiheft der Zeitschrift für Berufs- und Wirtschaftspädagogik, 26.
+- Nickolaus, R. & Seeber, S. (2013). Berufliche Kompetenzen: Modellierung und Diagnostik. In A. Frey, U. Lissmann & B. Schwarz (Hrsg.), Handbuch berufspädagogischer Diagnostik (S. 166-195). Beltz.
 - Baird, J. et al. (2017). Assessment and Learning: State of the Field Review. Oxford University Centre for Educational Assessment.
 - Denny, P. et al. (2024). Computing Education in the Era of Generative AI. Communications of the ACM, 67(2), 56-67.

@@ -50,7 +50,7 @@ Entwickelt gemeinsam von OECD, EU-Kommission und Code.org mit internationalen Ex
 
 Zwei Rahmenwerke, eins für Lehrkräfte, eins für Schüler:innen:
 
-- **Teachers:** 15 Kompetenzen in 5 Dimensionen (Human-centred mindset, Ethics, AI Foundations, Pedagogy, Professional Learning), 4 Progressionsstufen (Acquire → Deepen → Create → Lead)
+- **Teachers:** 15 Kompetenzen in 5 Dimensionen (Human-centred mindset, Ethics, AI Foundations, Pedagogy, Professional Learning), 3 Progressionsstufen (Acquire → Deepen → Create)
 - **Students:** 12 Kompetenzen in 4 Dimensionen (Human-centred mindset, Ethics of AI, AI techniques, AI system design)
 
 Die beiden UNESCO-Rahmenwerke sind **die klarste Quelle zur Frage, was Lehrkräfte selbst können sollten** — nicht nur als didaktische Methode, sondern als eigene Kompetenz.
@@ -118,7 +118,7 @@ Für ein Agent oder eine Lehrkraft, die diesen Rahmen bei Unterrichtsplanung nut
 2. **Lernziele formulieren** (vgl. [[blooms-taxonomie]]) mit expliziter KI-Dimension: Ein "Verstehen"-Ziel zu SQL kann "SQL-Abfragen schreiben" sein, eine KI-Erweiterung wäre "Copilot-generierte SQL-Queries auf Korrektheit prüfen und Schwachstellen erklären" (Engaging with AI + Creating with AI gemeinsam).
 3. **Constructive Alignment prüfen** (vgl. [[constructive-alignment]]): Wenn ein Lernziel KI-Kompetenz enthält, muss auch die Prüfung diese Kompetenz messen können — und zwar in einer KI-freien oder guardrail-gesicherten Umgebung (vgl. [[ki-tutoring-evidenzlage]] zum Bastani-Mechanismus).
 4. **Argumentation gegenüber Schulleitung**: Für Freiräume und Rechtfertigungen auf OECD AILit und KMK-Handlungsempfehlung 2024 als gemeinsame Referenz verweisen — das zeigt, dass KI-Integration nicht Hobby einzelner Lehrkräfte ist, sondern internationale Policy.
-5. **Lehrer-Selbsteinschätzung** mit UNESCO Teachers Framework (4 Progressionsstufen). Nützlich als Ausgangspunkt für Fortbildungsplanung und Kollegiums-Workshops — nicht als formale Bewertung.
+5. **Lehrer-Selbsteinschätzung** mit UNESCO Teachers Framework (3 Progressionsstufen). Nützlich als Ausgangspunkt für Fortbildungsplanung und Kollegiums-Workshops — nicht als formale Bewertung.
 
 ### Offene Fragen, die dieser Rahmen nicht beantwortet
 
@@ -150,5 +150,5 @@ Diese Fragen bleiben offen und werden voraussichtlich erst mit dem nächsten Rah
 - KMK (2024). *Handlungsempfehlung für die Bildungsverwaltung zum Umgang mit KI in schulischen Bildungsprozessen*. Beschluss vom 10.10.2024.
 - KMK (2016, Ergänzung 2021). *Bildung in der digitalen Welt — Strategie der Kultusministerkonferenz*.
 - KMK (2025). *Jahresbericht Bildung in der digitalen Welt 2024-2025*. Dezember 2025.
-- KMK (2020). *Rahmenlehrplan für die Ausbildungsberufe Fachinformatiker und Fachinformatikerin*. Beschluss vom 19.12.2019 / 13.01.2020.
+- KMK (2020). *Rahmenlehrplan für die Ausbildungsberufe Fachinformatiker und Fachinformatikerin*. Beschluss vom 13.12.2019 / 13.01.2020.
 - BIBB (2020). *Fachinformatiker/Fachinformatikerin — Ausbildung gestalten*. Bonn: BIBB-Publikation.

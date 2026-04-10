@@ -55,7 +55,7 @@ Gruppiert nach den drei Design-Zielen: **(A) Extraneous Processing reduzieren**,
 | 2 | **Signaling** | Lernende erkennen Kernideen nicht | Kernbegriffe fett, Pfeile, Farb-Highlights, Gliederungs-Hinweise | ~0,69 |
 | 3 | **Redundancy** | Text + identische Narration überlastet visuellen Kanal | Bei gesprochener Erklärung **keinen** wortgleichen Bildschirmtext | ~0,86 |
 | 4 | **Spatial Contiguity** | Trennung von Text & Bild erzwingt visuelles Suchen | Label direkt am Bildelement, nicht in Legende unten | ~1,10 |
-| 5 | **Temporal Contiguity** | Zeitversatz zwischen Animation & Erklärung verhindert Verknüpfung | Narration und Animation **synchron**, nicht nacheinander | ~1,36 |
+| 5 | **Temporal Contiguity** | Zeitversatz zwischen Animation & Erklärung verhindert Verknüpfung | Narration und Animation **synchron**, nicht nacheinander | ~1,22 |
 | **B — Essential managen** |
 | 6 | **Segmenting** | Komplexer Ablauf überfordert | Video in klickbare Abschnitte mit Lerner-gesteuertem "Weiter" | ~0,79 |
 | 7 | **Pre-training** | Unbekannte Begriffe blockieren Verständnis der Dynamik | Begriffe vorher einzeln einführen | ~0,75 |

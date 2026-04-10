@@ -32,7 +32,7 @@ summary: >
 
 ## Kernidee
 
-Wenn man einen Lerninhalt mit einer spielerischen Hülle verpackt, gibt es zwei grundsätzlich verschiedene Designs: **extrinsisch integriert** (Quiz-Frage → richtig → Punkte → nächstes Level) oder **intrinsisch integriert** (Lerninhalt *ist* die Spielmechanik selbst). Habgood & Ainsworth (2011) zeigten experimentell: Nur die zweite Variante funktioniert wirklich. In ihrer Studie lernten Kinder mit der intrinsisch integrierten Version nicht nur mehr — sie spielten bei freier Wahl auch *siebenmal länger*. Das Prinzip ist die schärfste Designwaffe gegen "vergoldete Karteikarten".
+Wenn man einen Lerninhalt mit einer spielerischen Hülle verpackt, gibt es zwei grundsätzlich verschiedene Designs: **extrinsisch integriert** (Quiz-Frage → richtig → Punkte → nächstes Level) oder **intrinsisch integriert** (Lerninhalt *ist* die Spielmechanik selbst). Habgood & Ainsworth (2011) zeigten experimentell: Nur die zweite Variante funktioniert wirklich. In ihrer Studie lernten Kinder mit der intrinsisch integrierten Version nicht nur mehr — sie spielten bei freier Wahl auch *deutlich länger* (Study 2, kleine Stichprobe N=16). Das Prinzip ist die schärfste Designwaffe gegen "vergoldete Karteikarten".
 
 ## Beschreibung
 
@@ -43,16 +43,16 @@ Habgood & Ainsworth bauten zwei Versionen eines Mathematik-Lernspiels:
 - **Extrinsisch:** Jagd auf Zombies, dazwischen Quiz-Fragen zur Division. Richtig → Power-Up. Falsch → kein Power-Up.
 - **Intrinsisch:** Zombies haben Zahlen als Köpfe. Zerlegung in Faktoren *ist* die Spielmechanik — man muss durch korrekte Division die Zombies "in Stücke" zerteilen.
 
-Ergebnis (RCT mit 58 Kindern, 8-11 Jahre, kontrollierter Vortest):
+Ergebnis (quasi-experimentelles Design mit 58 Kindern, 8-11 Jahre, kontrollierter Vortest):
 - Lernzuwachs intrinsisch deutlich höher als extrinsisch
-- Bei freier Wahl: intrinsische Version 7× länger gespielt
+- Bei freier Wahl: intrinsische Version deutlich länger gespielt (Study 2, N=16)
 - Subjektive Zufriedenheit signifikant höher
 
 Habgood & Ainsworth folgerten: Intrinsische Integration heißt, dass die *Hauptaktion* des Spielens identisch ist mit der zu lernenden Tätigkeit — nicht parallel oder dazwischengeschaltet.
 
 ### Malones Vorarbeit (1981)
 
-Thomas Malone (Xerox PARC, später MIT) hatte schon 1981 in einem Klassiker drei Quellen intrinsischer Motivation in Computerspielen identifiziert: **Challenge, Fantasy, Curiosity**. Seine zentrale Beobachtung über Fantasy: "intrinsic fantasies" (die Tätigkeit hat Bedeutung *innerhalb* der Spielwelt) sind didaktisch wirksamer als "extrinsic fantasies" (die Belohnung hat Bedeutung, die Tätigkeit ist beliebig).
+Thomas Malone (Stanford-Dissertation, gefördert durch Xerox PARC; später MIT) hatte schon 1981 in einem Klassiker drei Quellen intrinsischer Motivation in Computerspielen identifiziert: **Challenge, Fantasy, Curiosity**. Seine zentrale Beobachtung über Fantasy: "intrinsic fantasies" (die Tätigkeit hat Bedeutung *innerhalb* der Spielwelt) sind didaktisch wirksamer als "extrinsic fantasies" (die Belohnung hat Bedeutung, die Tätigkeit ist beliebig).
 
 ### Der Lackmustest
 

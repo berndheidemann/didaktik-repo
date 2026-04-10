@@ -54,7 +54,7 @@ Die Erfahrungsberichte stammen aus CS1/CS2-Kursen an Hochschulen (2023-2026), si
 | System | Ansatz | Ergebnis |
 |--------|--------|----------|
 | **CS50 AI (Harvard)** | GPT-4-basiert, sokratisch, gibt keine Lösungen | Gut für Debugging und Konzeptfragen, schwächer bei Architekturentscheidungen |
-| **CodeHelp** (Open Source) | LLM-Antworten gefiltert — Hinweise ja, Code nein | Vergleichbare Prüfungsleistung, höhere Selbstwirksamkeit beim Debugging (n≈300) |
+| **CodeHelp** (Open Source) | LLM-Antworten gefiltert — Hinweise ja, Code nein | Positive Nutzungserfahrungen in CS-Kursen (Liffiton et al. 2023, n=52) |
 | **GitHub Copilot** | Code-Completion in der IDE | Löst ~70-80% typischer CS1-Aufgaben; Anfänger:innen entwickeln schlechtere mentale Modelle bei frühem Einsatz |
 
 ### Das Stufenmodell (Best Practice)

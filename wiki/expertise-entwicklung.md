@@ -55,7 +55,7 @@ Nicht jede Instruktionsmethode passt zu jedem Lernstand. Das Dreyfus-Modell besc
 
 **Ziel der FIAE-Ausbildung:** Stufe "Kompetent" — eigenständiges Problemlösen mit bewusster Strategiewahl. Das ist die Stufe, ab der Handlungskompetenz im Sinne des Rahmenlehrplans erreicht ist.
 
-### Subskill-Progression (Lister et al., 2006)
+### Subskill-Progression (synthetisiert aus Lister 2004, 2006; Lopez 2008 u.a.)
 
 | Subskill | Beschreibung | Bloom-Stufe |
 |----------|-------------|-------------|

@@ -41,7 +41,7 @@ Drei Eigenschaften machen eine Simulation wirklich immersiv: **(1)** Authentisch
 ### Kategorien
 
 **Cybersecurity CTF (Capture the Flag):**
-HackTheBox, TryHackMe, PicoCTF bieten das reifste Ökosystem. Progressive Schwierigkeit, echte Hacker-Tools (nmap, Burp Suite), Community-Writeups als Peer-Teaching. Svabensky et al. (2023) zeigten signifikant bessere praktische Skills und Transfer auf neue Probleme gegenüber traditioneller Instruktion.
+HackTheBox, TryHackMe, PicoCTF bieten das reifste Ökosystem. Progressive Schwierigkeit, echte Hacker-Tools (nmap, Burp Suite), Community-Writeups als Peer-Teaching. Svabensky et al. (2021) zeigten signifikant bessere praktische Skills und Transfer auf neue Probleme gegenüber traditioneller Instruktion.
 
 **Cloud-Sandboxes:**
 AWS Academy, Azure for Education, Google Cloud Skills Boost: Zeitlich begrenzte Cloud-Umgebungen für Zero-Consequence-Experimentation. Lernende deployen, fehlkonfigurieren und zerstören Infrastruktur, die real Tausende kosten würde.
@@ -114,6 +114,6 @@ Ein Agent kann immersive Szenarien orchestrieren:
 
 ## Quellen
 
-- Svabensky, V. et al. (2023). Cybersecurity Education Through Capture the Flag Competitions. ACM Computing Surveys, 55(3), 1-36.
+- Svabensky, V. et al. (2021). Cybersecurity Knowledge and Skills Taught in Capture the Flag Challenges. Computers & Security, 102, 102154.
 - Kolb, D. A. (1984). Experiential Learning: Experience as the Source of Learning and Development. Prentice-Hall.
 - Lave, J. & Wenger, E. (1991). Situated Learning: Legitimate Peripheral Participation. Cambridge University Press.
