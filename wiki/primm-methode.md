@@ -28,6 +28,7 @@ related:
   - "[[neurodidaktik-programmieren]]"
   - "[[notional-machines]]"
   - "[[live-coding-lehrmethode]]"
+  - "[[generative-learning-aktivitaeten]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [partner, gruppe, einzelarbeit]

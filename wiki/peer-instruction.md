@@ -17,6 +17,7 @@ related:
   - "[[affektive-dimensionen]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[wissensretention-programmierung]]"
+  - "[[generative-learning-aktivitaeten]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]

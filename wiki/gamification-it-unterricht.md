@@ -20,6 +20,7 @@ related:
   - "[[effektstaerken-unterricht]]"
   - "[[debugging-als-kompetenz]]"
   - "[[selbstgesteuertes-lernen]]"
+  - "[[interactive-fiction-twine]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]

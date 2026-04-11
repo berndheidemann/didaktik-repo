@@ -46,6 +46,7 @@ related:
   - "[[ki-tutoring-evidenzlage]]"
   - "[[rag-tutoring-systeme]]"
   - "[[cognitive-task-analysis]]"
+  - "[[generative-learning-aktivitaeten]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]

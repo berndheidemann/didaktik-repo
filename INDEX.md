@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 77 | **Letzte Aktualisierung:** 2026-04-10
+**Artikel:** 78 | **Letzte Aktualisierung:** 2026-04-11
 
 ---
 
@@ -41,6 +41,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[lernortkooperation-transfer]] — Kooperationsstufenmodell (Euler) und Transferdidaktik für die duale IT-Ausbildung
 - [[neurodidaktik-programmieren]] — fMRI-Befunde zu Code-Verstehen: fronto-parietales Netzwerk, Sprachareale, Implikationen für Sequenzierung und Scaffolding
 - [[notional-machines]] — Mentale Modelle der Programmausführung (du Boulay 1986, Sorva 2013): Warum falsche Notional Machines die häufigste Fehlerquelle sind
+- [[generative-learning-aktivitaeten]] — Fiorella & Mayers SOI-Framework mit acht generativen Lernstrategien (Summarizing, Mapping, Drawing, Imagining, Self-Testing, Self-Explaining, Teaching, Enacting) als Aufgabengenerator
 
 ### Methoden & Formate
 - [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
@@ -74,6 +75,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[browser-ide-gestuetzte-tutorials]] — Format für schrittweise Programmier-Tutorials mit Null-Setup-Einstieg; Tools (TutorialKit, Codespaces) als Beispiele
 - [[cognitive-task-analysis]] — Systematische Extraktion impliziten Expertenwissens (Clark & Feldon 2008) als Grundlage für Worked Examples, Scaffolding und Lernsituationen (d = 1,29)
 - [[live-coding-lehrmethode]] — Live Coding mit Think-Aloud und Deliberate Mistakes als Modeling-Methode (Rubin 2013, Raj 2018, Nederbragt 2020)
+- [[interactive-fiction-twine]] — Choice-based Branching Narratives (Twine, Ink) für DSGVO-Dilemmata, Phishing und Incident Response; DSGVO-konform (Client-only HTML)
 
 ### Evidenz & Forschung
 - [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
@@ -101,12 +103,14 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[worked-examples]] — Dokumentierte Subnetting-Berechnungen Schritt für Schritt
 - [[immersive-simulationen]] — Virtuelle Netzwerk-Labs (GNS3, EVE-NG) mit echtem Firmware
 - [[explorable-explanations-im-unterricht]] — Ciechanowskis "Internet from First Principles" als konzeptueller Einstieg
+- [[interactive-fiction-twine]] — Phishing-Entscheidungsszenario und Social-Engineering-Dialoge als Twine-Story
 
 ### LF4: Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen
 - [[gamification-it-unterricht]] — Escape Room IT-Security für Schutzbedarfsanalyse
 - [[immersive-simulationen]] — CTF-Plattformen (TryHackMe, PicoCTF) für Penetration Testing
 - [[explorable-explanations-im-unterricht]] — "How HTTPS Works" und Case's "Evolution of Trust" als Einstiegs-Explorables
 - [[ki-tool-auswahl-berufsschule]] — DSGVO-Rubrics als Lerngegenstand und Unterrichts-Methodik zugleich
+- [[interactive-fiction-twine]] — DSGVO-Dilemma "Ex-Mitarbeiter-Account" und Incident-Response-Story als Branching Narrative
 
 ### LF5: Software zur Verwaltung von Daten anpassen
 - [[pair-programming-unterricht]]
@@ -134,6 +138,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[formatives-assessment]] — Checklisten-basierte Selbstbewertung der Ticketbearbeitung
 - [[lerntagebuch]] — Reflexion über Troubleshooting-Strategien
 - [[live-coding-lehrmethode]] — Debugging live vorführen: Fehlermeldung, Stacktrace, Fix
+- [[interactive-fiction-twine]] — Ticket-Eskalation und Kundendialog als Entscheidungs-Szenario (Pretexting, ITIL)
 
 ### LF8: Daten systemübergreifend bereitstellen
 - [[pair-programming-unterricht]]
@@ -277,6 +282,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[explorable-explanations-im-unterricht]] — Narrativ geführte, manipulierbare Artefakte als Einstiegsphase
 - [[browser-ide-gestuetzte-tutorials]] — Null-Setup-Tutorials mit lauffähigem Code als Anwendungsphase
 - [[neurodidaktik-programmieren]] — fMRI-basierte Begründung für sprechende Bezeichner, Code-Lesen vor Code-Schreiben, multimodale Darstellung
+- [[generative-learning-aktivitaeten]] — Acht evidenzbasierte Aufgabentypen (Drawing, Mapping, Self-Explaining, Teaching, Enacting …) jenseits von "Code schreiben" als Widget-Generator
 
 ### Debugging und Fehlerkultur
 - [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz
@@ -318,6 +324,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[computational-action]] — Identität und Empowerment als Motivationsquellen
 - [[engagement-theory]] — Relate-Create-Donate als Designcheckliste
 - [[low-floor-high-ceiling]] — Schwache und starke Lernende gleichermaßen begeistern
+- [[interactive-fiction-twine]] — Branching Narratives als Low-Cost-Motivator: Entscheidung erleben statt abfragen
 
 ### KI im Unterricht
 - [[ki-gestuetztes-tutoring]] — Stufenmodell für den Einsatz von KI-Tutoring-Systemen

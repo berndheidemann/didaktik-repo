@@ -21,6 +21,7 @@ related:
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[differenzierung-inklusion]]"
   - "[[anchored-instruction]]"
+  - "[[interactive-fiction-twine]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

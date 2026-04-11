@@ -17,6 +17,7 @@ related:
   - "[[browser-ide-gestuetzte-tutorials]]"
   - "[[ki-tool-auswahl-berufsschule]]"
   - "[[rag-tutoring-systeme]]"
+  - "[[interactive-fiction-twine]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

@@ -25,6 +25,7 @@ related:
   - "[[primm-methode]]"
   - "[[use-modify-create]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[generative-learning-aktivitaeten]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden]

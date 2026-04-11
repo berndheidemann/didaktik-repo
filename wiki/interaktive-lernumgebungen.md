@@ -38,6 +38,7 @@ related:
   - "[[spaced-repetition-scheduler-bauen]]"
   - "[[explorable-explanations-im-unterricht]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
+  - "[[generative-learning-aktivitaeten]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

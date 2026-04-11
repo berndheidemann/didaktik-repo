@@ -17,6 +17,7 @@ related:
   - "[[direct-manipulation-lernumgebungen]]"
   - "[[computational-action]]"
   - "[[constructive-alignment]]"
+  - "[[interactive-fiction-twine]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07

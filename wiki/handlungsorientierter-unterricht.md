@@ -22,6 +22,7 @@ related:
   - "[[ki-kompetenzrahmen-schule]]"
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
   - "[[lernortkooperation-transfer]]"
+  - "[[interactive-fiction-twine]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

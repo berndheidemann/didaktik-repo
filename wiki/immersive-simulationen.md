@@ -16,6 +16,7 @@ related:
   - "[[direct-manipulation-lernumgebungen]]"
   - "[[explorable-explanations-im-unterricht]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
+  - "[[interactive-fiction-twine]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

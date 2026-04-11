@@ -36,6 +36,7 @@ related:
   - "[[notional-machines]]"
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
+  - "[[generative-learning-aktivitaeten]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

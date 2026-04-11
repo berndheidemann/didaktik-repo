@@ -23,6 +23,7 @@ related:
   - "[[constructive-alignment]]"
   - "[[explorable-explanations-im-unterricht]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
+  - "[[generative-learning-aktivitaeten]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

@@ -47,6 +47,7 @@ related:
   - "[[rag-tutoring-systeme]]"
   - "[[lernortkooperation-transfer]]"
   - "[[neurodidaktik-programmieren]]"
+  - "[[generative-learning-aktivitaeten]]"
   - "[[notional-machines]]"
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"

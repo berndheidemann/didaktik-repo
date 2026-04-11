@@ -15,6 +15,7 @@ related:
   - "[[direct-manipulation-lernumgebungen]]"
   - "[[poe-methode]]"
   - "[[live-coding-lehrmethode]]"
+  - "[[interactive-fiction-twine]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-08

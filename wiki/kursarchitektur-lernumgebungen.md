@@ -16,6 +16,7 @@ related:
   - "[[lerner-modell-mastery-tracking]]"
   - "[[differenzierung-inklusion]]"
   - "[[anchored-instruction]]"
+  - "[[interactive-fiction-twine]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07

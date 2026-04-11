@@ -15,6 +15,7 @@ related:
   - "[[contrasting-cases]]"
   - "[[primm-methode]]"
   - "[[poe-methode]]"
+  - "[[interactive-fiction-twine]]"
 evidenzgrad: quasi-experimentell
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]

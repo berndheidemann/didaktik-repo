@@ -21,6 +21,7 @@ related:
   - "[[ki-kompetenzrahmen-schule]]"
   - "[[lernortkooperation-transfer]]"
   - "[[cognitive-task-analysis]]"
+  - "[[interactive-fiction-twine]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

@@ -36,6 +36,7 @@ related:
   - "[[poe-methode]]"
   - "[[ki-tutoring-evidenzlage]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
+  - "[[interactive-fiction-twine]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]

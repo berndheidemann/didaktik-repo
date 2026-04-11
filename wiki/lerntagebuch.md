@@ -16,6 +16,7 @@ related:
   - "[[computational-action]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[lernortkooperation-transfer]]"
+  - "[[generative-learning-aktivitaeten]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit]

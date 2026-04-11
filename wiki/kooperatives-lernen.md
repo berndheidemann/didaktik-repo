@@ -19,6 +19,7 @@ related:
   - "[[misconception-analyse]]"
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[retrieval-practice]]"
+  - "[[generative-learning-aktivitaeten]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren, bewerten]

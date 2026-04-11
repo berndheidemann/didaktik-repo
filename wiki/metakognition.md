@@ -25,6 +25,7 @@ related:
   - "[[neurodidaktik-programmieren]]"
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
+  - "[[generative-learning-aktivitaeten]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
