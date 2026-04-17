@@ -24,10 +24,12 @@ related:
   - "[[explorable-explanations-im-unterricht]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[subgoal-labeling]]"
+  - "[[testitem-konstruktion-digital]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-04-14
 summary: >
   Referenz-Katalog von 21 interaktiven Aufgabentypen für digitale Lernumgebungen
   mit Bloom-Einordnung, Produktionsaufwand und LLM-Upgrade-Potenzial. Plus
@@ -123,7 +125,7 @@ Dieser Artikel ist bewusst als **Referenz-Katalog** angelegt, auf den andere Art
 
 ## Varianten
 
-Im Wesentlichen sind die 21 Typen bereits die Varianten. Zu jedem Typ gibt es Untervarianten (z.B. Cloze strukturiert vs. frei, MC single vs. multi), die man in der konkreten Implementierung wählt.
+Im Wesentlichen sind die 21 Typen bereits die Varianten. Zu jedem Typ gibt es Untervarianten (z.B. Cloze strukturiert vs. frei vs. **Subgoal-Cloze** mit Lücken auf Ebene funktionaler Teilschritte nach [[subgoal-labeling]], MC single vs. multi), die man in der konkreten Implementierung wählt.
 
 ## Zeitbedarf
 

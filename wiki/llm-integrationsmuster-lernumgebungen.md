@@ -28,6 +28,7 @@ related:
   - "[[retrieval-practice]]"
   - "[[selbstgesteuertes-lernen]]"
   - "[[ki-tutoring-evidenzlage]]"
+  - "[[subgoal-labeling]]"
   - "[[ki-kompetenzrahmen-schule]]"
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
   - "[[ki-tool-auswahl-berufsschule]]"

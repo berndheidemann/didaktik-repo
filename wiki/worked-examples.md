@@ -3,6 +3,7 @@ title: Worked Examples (Lösungsbeispiele)
 type: methode
 tags: [kognitive-belastung, lernmaterial-gestaltung, programmierung, fading, uebungsaufgaben, parsons-problems]
 related:
+  - "[[direct-instruction-rosenshine]]"
   - "[[cognitive-load-theory]]"
   - "[[scaffolding]]"
   - "[[interaktive-lernumgebungen]]"
@@ -38,12 +39,13 @@ related:
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[subgoal-labeling]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 sozialform: [einzelarbeit, partner]
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-04-14
 summary: >
   Vollständig ausgearbeitete Lösungen zum Studieren statt eigenes Problemlösen,
   um kognitive Belastung bei Novizen zu reduzieren (Sweller & Cooper, 1985) —
@@ -114,6 +116,18 @@ Parsons Problems sind eine empirisch belegte Zwischenstufe im Fading-Pfad: **Wor
 
 **Für den Agent:** Fading-Stufen lassen sich aus einem Lösungscode programmatisch generieren — mischen, Distraktoren beimischen, Tokens/Blöcke entfernen. Vgl. Fading-Sequenz unter [[scaffolding]].
 
+### Code-Completion als Prüfungsformat
+
+Worked Examples mit entfernten Teilen lassen sich über das Fading hinaus auch **summativ** einsetzen: Lernende erhalten einen weitgehend vorgegebenen Code, in dem gezielt einzelne Tokens, Zeilen oder Subgoal-Blöcke fehlen, und füllen diese aus. In QTI bildet `fill_in_blank_multi` (mehrere Lücken mit eigenen Antwort-Regeln) das Format nativ ab. Vorteil gegenüber freiem Code: Der Stimulus kontrolliert Struktur und Scope; die Bewertung ist automatisch und objektiv.
+
+Die Kernentscheidung ist, **was** geblankt wird:
+- **Token-Cloze** (einzelne Schlüsselwörter, Operatoren, Methodennamen) → prüft erinnern/verstehen.
+- **Zeilen-Cloze** (eine ganze Anweisung fehlt) → prüft anwenden, wenn der Kontext den Zweck erzwingt.
+- **Subgoal-Cloze** (ein funktionaler Teilschritt — "Eingabe validieren", "Ergebnis aggregieren" — als zusammenhängender Block) → prüft anwenden/analysieren und aktiviert die Schema-Struktur nach [[subgoal-labeling]]. Morrison, Margulieux, Ericson & Guzdial (2016) zeigten, dass Subgoal-Labels in Parsons Problems Transfer und Lösungsrate erhöhen; der Befund überträgt sich auf Code-Completion als enge Schwester.
+- **Faded Parsons** (Sortieren + Lücken kombiniert) — Weinman, Fox & Hearst (2021, CHI): reduziert Abbrüche gegenüber freiem Schreiben bei gleicher Lernwirkung; eignet sich als Brücke zwischen Parsons und reinem Cloze.
+
+Für Prüfungen in itsLearning ist Zeilen- oder Subgoal-Cloze oft die beste Wahl, wenn echte Programmierkompetenz aus organisatorischen Gründen nicht über Performance-Tasks geprüft werden kann (siehe [[kompetenzfeststellung-programmierung]]). Gestaltungsregel: Lücken so wählen, dass **eine eindeutige, schreibweisen-stabile Antwort** existiert — sonst explodiert die Antwort-Regex-Liste. Für Konstruktionsregeln siehe [[testitem-konstruktion-digital]].
+
 ## Zeitbedarf
 
 - **Vorbereitung:** Mittel (Annotationen erstellen)
@@ -158,4 +172,6 @@ Ein Agent kann Worked Examples adaptiv einsetzen:
 - Barbieri, C. A. et al. (2023). A Meta-Analysis of the Worked Examples Effect on Mathematics Performance. Educational Psychology Review, 35(1), Article 11.
 - Margulieux, L. E., Morrison, B. B. & Decker, A. (2020). Reducing Withdrawal and Failure Rates in Introductory Programming with Subgoal Labeled Worked Examples. Int. Journal of STEM Education, 7, Article 19.
 - Denny, P., Luxton-Reilly, A. & Simon, B. (2008). Evaluating a new exam question: Parsons problems. ICER 2008.
+- Morrison, B. B., Margulieux, L. E., Ericson, B. & Guzdial, M. (2016). Subgoals Help Students Solve Parsons Problems. *SIGCSE 2016*, 42-47.
+- Weinman, N., Fox, A. & Hearst, M. A. (2021). Improving Instruction of Programming Patterns with Faded Parsons Problems. *CHI 2021*.
 - Ericson, B. J., Denny, P., Prather, J., Duran, R., Hellas, A., Leinonen, J., Miller, C. S., Morrison, B. B., Pearce, J. L. & Rodger, S. H. (2022). Parsons Problems and Beyond: Systematic Literature Review. ITiCSE-WGR 2022.

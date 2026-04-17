@@ -12,6 +12,7 @@ related:
   - "[[ki-native-lernumgebungen]]"
   - "[[evaluation-lernumgebungen]]"
   - "[[ki-tutoring-evidenzlage]]"
+  - "[[subgoal-labeling]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]

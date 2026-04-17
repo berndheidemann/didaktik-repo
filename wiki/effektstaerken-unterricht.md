@@ -3,6 +3,8 @@ title: "Effektstärken: Was wirkt im Unterricht?"
 type: evidenz
 tags: [meta-analyse, effektstaerke, visible-learning, evidenzbasiert, entscheidungshilfe]
 related:
+  - "[[direct-instruction-rosenshine]]"
+  - "[[unterrichtsphasen-artikulation]]"
   - "[[formatives-assessment]]"
   - "[[scaffolding]]"
   - "[[worked-examples]]"

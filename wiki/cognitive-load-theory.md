@@ -3,6 +3,8 @@ title: Cognitive Load Theory
 type: theorie
 tags: [kognitive-belastung, instruktionsdesign, arbeitsgedaechtnis, lernmaterial-gestaltung, challenge-point]
 related:
+  - "[[aktivierung-lehrervortrag]]"
+  - "[[direct-instruction-rosenshine]]"
   - "[[worked-examples]]"
   - "[[scaffolding]]"
   - "[[interaktive-lernumgebungen]]"
@@ -37,6 +39,9 @@ related:
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[subgoal-labeling]]"
+  - "[[explorable-explanations-im-unterricht]]"
+  - "[[testitem-konstruktion-digital]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

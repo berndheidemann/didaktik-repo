@@ -3,6 +3,7 @@ title: Handlungsorientierter Unterricht
 type: theorie
 tags: [handlungsorientierung, lernfeldkonzept, kompetenzorientierung, vollstaendige-handlung, rahmenlehrplan]
 related:
+  - "[[unterrichtsphasen-artikulation]]"
   - "[[constructive-alignment]]"
   - "[[blooms-taxonomie]]"
   - "[[selbstgesteuertes-lernen]]"

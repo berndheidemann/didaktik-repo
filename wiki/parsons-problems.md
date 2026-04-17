@@ -17,6 +17,8 @@ related:
   - "[[spaced-repetition-algorithmen]]"
   - "[[spaced-repetition-scheduler-bauen]]"
   - "[[notional-machines]]"
+  - "[[subgoal-labeling]]"
+  - "[[testitem-konstruktion-digital]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]

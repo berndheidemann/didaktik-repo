@@ -3,6 +3,7 @@ title: Multimedia-Gestaltungsprinzipien nach Mayer
 type: theorie
 tags: [multimedia-learning, instruktionsdesign, mayer, ctml, video-design, accessibility, referenz]
 related:
+  - "[[aktivierung-lehrervortrag]]"
   - "[[cognitive-load-theory]]"
   - "[[interaktive-lernumgebungen]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
@@ -16,6 +17,8 @@ related:
   - "[[direct-manipulation-lernumgebungen]]"
   - "[[neurodidaktik-programmieren]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[subgoal-labeling]]"
+  - "[[explorable-explanations-im-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 evidenzgrad: meta-analyse

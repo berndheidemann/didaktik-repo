@@ -3,6 +3,7 @@ title: Cognitive Apprenticeship
 type: theorie
 tags: [expertenwissen, modellierung, think-aloud, live-coding, wissenstransfer]
 related:
+  - "[[direct-instruction-rosenshine]]"
   - "[[scaffolding]]"
   - "[[pair-programming-unterricht]]"
   - "[[code-review-unterricht]]"

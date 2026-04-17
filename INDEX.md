@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 78 | **Letzte Aktualisierung:** 2026-04-11
+**Artikel:** 83 | **Letzte Aktualisierung:** 2026-04-17
 
 ---
 
@@ -42,11 +42,13 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[neurodidaktik-programmieren]] — fMRI-Befunde zu Code-Verstehen: fronto-parietales Netzwerk, Sprachareale, Implikationen für Sequenzierung und Scaffolding
 - [[notional-machines]] — Mentale Modelle der Programmausführung (du Boulay 1986, Sorva 2013): Warum falsche Notional Machines die häufigste Fehlerquelle sind
 - [[generative-learning-aktivitaeten]] — Fiorella & Mayers SOI-Framework mit acht generativen Lernstrategien (Summarizing, Mapping, Drawing, Imagining, Self-Testing, Self-Explaining, Teaching, Enacting) als Aufgabengenerator
+- [[unterrichtsphasen-artikulation]] — Phasenmodelle (Herbart/Rein, Roth, Meyer, Vollständige Handlung) als Rückgrat jeder Unterrichtsstunde und Präsentation
 
 ### Methoden & Formate
 - [[code-review-unterricht]] — Strukturierte Peer Code Reviews als Lernmethode mit Rubrics und PR-Workflows
 - [[flipped-classroom]] — Theorie vor dem Unterricht, aktives Lernen im Unterricht nach Bergmann & Sams (2012)
 - [[formatives-assessment]] — Assessment FOR Learning mit Effektstärken von d = 0,4-0,7 nach Black & Wiliam (1998)
+- [[testitem-konstruktion-digital]] — Evidenzbasierte Regeln für automatisch auswertbare Testitems (MC/MR/Fill-in/Matching/Order/T-F) nach Haladyna et al. (2002)
 - [[gamification-it-unterricht]] — Spielelemente (Escape Rooms, Hackathons, Coding Challenges) im IT-Unterricht
 - [[lerntagebuch]] — Schriftliche Reflexion des Lernprozesses mit Prompts nach Zimmermans Phasenmodell
 - [[lernsituationen-gestalten]] — Methodik zur Entwicklung von Lernsituationen aus Lernfeldern des Rahmenlehrplans
@@ -70,12 +72,14 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[pruefungsvorbereitung-lernstrategie]] — Lernwissenschaftlich fundierte IHK-AP1/AP2-Vorbereitung mit 6-Wochen-Plan
 - [[misconception-analyse]] — Methodik für Identifikation, Kategorisierung und Intervention bei Fehlvorstellungen (Chi, Vosniadou, POE, Bridging Analogies)
 - [[parsons-problems]] — Code-Puzzles mit Distraktoren (Ericson et al. 2022): gleiche Lernwirkung wie freies Schreiben bei halber Zeit und niedrigerer kognitiver Last
+- [[subgoal-labeling]] — Teilziel-Labels für Worked Examples und Tutorials: Chunking reduziert kognitive Last, verbessert Transfer, senkt Dropout (d ≈ 0,44; Margulieux et al. 2020)
 - [[spaced-repetition-algorithmen]] — Vier Scheduler-Familien (Leitner, SM-2, FSRS, Half-Life Regression) mit Pseudocode — Algorithmen-Katalog
 - [[poe-methode]] — Predict-Observe-Explain (White & Gunstone 1992) als generische Methode für Nicht-Code-Kontexte (Netzwerk, Security, DB-Verhalten)
 - [[browser-ide-gestuetzte-tutorials]] — Format für schrittweise Programmier-Tutorials mit Null-Setup-Einstieg; Tools (TutorialKit, Codespaces) als Beispiele
 - [[cognitive-task-analysis]] — Systematische Extraktion impliziten Expertenwissens (Clark & Feldon 2008) als Grundlage für Worked Examples, Scaffolding und Lernsituationen (d = 1,29)
 - [[live-coding-lehrmethode]] — Live Coding mit Think-Aloud und Deliberate Mistakes als Modeling-Methode (Rubin 2013, Raj 2018, Nederbragt 2020)
 - [[interactive-fiction-twine]] — Choice-based Branching Narratives (Twine, Ink) für DSGVO-Dilemmata, Phishing und Incident Response; DSGVO-konform (Client-only HTML)
+- [[aktivierung-lehrervortrag]] — Katalog von Mikromethoden (Murmelphase, Think-Pair-Share, Minutenpapier, ConcepTest, Retrieval-Einschub) mit Primärquellen und Evidenz
 
 ### Evidenz & Forschung
 - [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
@@ -84,6 +88,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[ki-tutoring-evidenzlage]] — Kritischer Evidenzüberblick 2024-2026: Bastani (PNAS) belegt −17% Klausur ohne Guardrails; Performance ≠ Lernen
 - [[ki-erfahrungsberichte-berufliche-bildung]] — Ausgezeichnete Praxisprojekte: BIBB Hermann-Schmidt-Preis 2025 (Uni Augsburg, Berufskolleg Troisdorf), KI-Schulpreis 2025 mit Transferpotenzial
 - [[deskilling-ki-codegenerierung]] — RCT-Evidenz (Coppock 2025, Bastani 2025): 17 % Leistungsabfall durch KI-Codegenerierung ohne Guardrails; didaktische Gegenstrategien
+- [[direct-instruction-rosenshine]] — Rosenshines zehn Prinzipien evidenzbasierter Instruktion (2012) als Raster für wirksamen Lehrervortrag
 
 ### Praxis & Erfahrung
 - [[ki-gestuetztes-tutoring]] — Erfahrungsberichte zu LLM-basierten Tutoring-Systemen im Programmierunterricht
@@ -129,6 +134,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[browser-ide-gestuetzte-tutorials]] — Browser-SQL-Sandbox ohne Setup für schnellen Einstieg
 - [[neurodidaktik-programmieren]] — fMRI-Befunde: Code-Lesen beansprucht Sprach- und Exekutivnetzwerk — Konsequenzen für Sequenzierung und Bezeichner
 - [[notional-machines]] — Korrekte mentale Modelle der Programmausführung als Fundament für Variablen, Schleifen, Referenzen
+- [[subgoal-labeling]] — Teilziel-Labels in SQL-Worked-Examples und Parsons Problems für strukturiertes Chunking
 - [[live-coding-lehrmethode]] — SQL-Queries live entwickeln mit Deliberate Mistakes (falscher JOIN, fehlende GROUP BY)
 
 ### LF6: Serviceanfragen bearbeiten
@@ -152,6 +158,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[explorable-explanations-im-unterricht]] — Ciechanowskis "Internet from First Principles" + "How HTTPS Works" als Einstieg
 - [[browser-ide-gestuetzte-tutorials]] — TutorialKit/WebContainers für Node.js-REST-API-Tutorials ohne lokales Setup
 - [[live-coding-lehrmethode]] — REST-API-Endpoint live bauen mit Think-Aloud zu HTTP-Statuscodes
+- [[subgoal-labeling]] — Teilziel-Labels für REST-Handler-Tutorials (Route → Validierung → Logik → Response)
 
 ### LF10-12: Projekte planen, durchführen und auswerten
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Projektstruktur
@@ -196,6 +203,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[lernortkooperation-transfer]] — Transferdidaktik und Kooperation zwischen Berufsschule und Betrieb
 - [[neurodidaktik-programmieren]] — Neurowissenschaftliche Fundierung von Programmierunterricht
 - [[cognitive-task-analysis]] — Systematische Extraktion impliziten Expertenwissens als Grundlage für Lernmaterialien
+- [[subgoal-labeling]] — Teilziel-Labels als universelles Strukturierungsprinzip für Worked Examples, Tutorials und Parsons Problems
 
 ---
 
@@ -263,6 +271,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[computational-action]] — Lernende bauen Werkzeuge mit echtem Nutzen in ihrer Community
 - [[engagement-theory]] — Relate-Create-Donate erzwingt aktives Handeln mit echtem Adressaten
 - [[live-coding-lehrmethode]] — Partizipatives Live Coding aktiviert durch Mitprogrammieren und Predict-Pausen
+- [[aktivierung-lehrervortrag]] — Mikromethoden (Murmelphase, Think-Pair-Share, Minutenpapier, Retrieval-Einschub) unterbrechen Vortrag für aktives Denken
 
 ### Aufgaben- und Materialdesign
 - [[cognitive-load-theory]] — Extrinsische Belastung minimieren, lernförderliche maximieren
@@ -283,6 +292,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[browser-ide-gestuetzte-tutorials]] — Null-Setup-Tutorials mit lauffähigem Code als Anwendungsphase
 - [[neurodidaktik-programmieren]] — fMRI-basierte Begründung für sprechende Bezeichner, Code-Lesen vor Code-Schreiben, multimodale Darstellung
 - [[generative-learning-aktivitaeten]] — Acht evidenzbasierte Aufgabentypen (Drawing, Mapping, Self-Explaining, Teaching, Enacting …) jenseits von "Code schreiben" als Widget-Generator
+- [[direct-instruction-rosenshine]] — Rosenshines zehn Prinzipien: kleine Schritte, Modeling, Checks for Understanding, Scaffolding, hohe Erfolgsquote
 
 ### Debugging und Fehlerkultur
 - [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz
@@ -304,6 +314,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[misconception-analyse]] — Concept Inventories und Diagnostic Items mit Distraktor-Engineering
 - [[pruefungsvorbereitung-lernstrategie]] — Kalibrierungs-Tracking als formative Diagnose vor Prüfungen
 - [[kompetenzfeststellung-programmierung]] — Summative Assessment: Portfolio, Prozess, Fachgespräch
+- [[testitem-konstruktion-digital]] — Konstruktionsregeln für QTI-Items mit Cue-Vermeidung und Misconception-basierten Distraktoren
 
 ### Selbstständiges Lernen fördern
 - [[selbstgesteuertes-lernen]] — Drei-Phasen-Modell zur Förderung eigenständiger Lernkompetenz
@@ -378,3 +389,5 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[constructive-alignment]] — Alignment-Check für Lernziele, Aktivitäten und Prüfung
 - [[anchored-instruction]] — Narrativer Anker (Fiktivfirma) als lernfeldübergreifender Planungsrahmen
 - [[lernortkooperation-transfer]] — Systematische Verzahnung von Berufsschule und Betrieb als Planungsrahmen
+- [[unterrichtsphasen-artikulation]] — Einstieg/Erarbeitung/Sicherung/Transfer als Rückgrat jeder Stunde und Präsentation
+- [[direct-instruction-rosenshine]] — Zehn Prinzipien evidenzbasierter Instruktion als Sequenzierungsraster

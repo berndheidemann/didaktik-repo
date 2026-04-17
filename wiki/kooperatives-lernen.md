@@ -3,6 +3,7 @@ title: Kooperatives Lernen — Methoden-Katalog
 type: methode
 tags: [kooperatives-lernen, gruppenarbeit, peer-learning, methoden-katalog, jigsaw, think-pair-share, kagan, katalog]
 related:
+  - "[[aktivierung-lehrervortrag]]"
   - "[[pair-programming-unterricht]]"
   - "[[peer-instruction]]"
   - "[[code-review-unterricht]]"

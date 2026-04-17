@@ -37,6 +37,7 @@ related:
   - "[[ki-tutoring-evidenzlage]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
   - "[[interactive-fiction-twine]]"
+  - "[[explorable-explanations-im-unterricht]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]

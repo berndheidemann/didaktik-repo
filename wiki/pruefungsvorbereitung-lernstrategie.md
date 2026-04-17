@@ -19,6 +19,7 @@ related:
   - "[[kooperatives-lernen]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[testitem-konstruktion-digital]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-08

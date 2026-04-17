@@ -3,6 +3,7 @@ title: Lernsituationen gestalten
 type: methode
 tags: [lernsituation, lernfeldkonzept, unterrichtsplanung, handlungsorientierung, rahmenlehrplan, udl, authentisches-lernen]
 related:
+  - "[[unterrichtsphasen-artikulation]]"
   - "[[handlungsorientierter-unterricht]]"
   - "[[constructive-alignment]]"
   - "[[blooms-taxonomie]]"

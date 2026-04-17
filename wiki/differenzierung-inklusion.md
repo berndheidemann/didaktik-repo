@@ -18,6 +18,7 @@ related:
   - "[[multimedia-gestaltungsprinzipien]]"
   - "[[parsons-problems]]"
   - "[[ki-gestuetztes-tutoring]]"
+  - "[[subgoal-labeling]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-08

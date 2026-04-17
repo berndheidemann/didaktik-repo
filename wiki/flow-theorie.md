@@ -17,6 +17,7 @@ related:
   - "[[kursarchitektur-lernumgebungen]]"
   - "[[zeitmanagement-selbstorganisation]]"
   - "[[direct-manipulation-lernumgebungen]]"
+  - "[[explorable-explanations-im-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

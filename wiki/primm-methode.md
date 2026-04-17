@@ -23,6 +23,7 @@ related:
   - "[[spaced-repetition-algorithmen]]"
   - "[[poe-methode]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[subgoal-labeling]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[neurodidaktik-programmieren]]"

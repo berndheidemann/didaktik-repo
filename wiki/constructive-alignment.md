@@ -3,6 +3,7 @@ title: Constructive Alignment
 type: theorie
 tags: [lernziele, assessment, unterrichtsplanung, kompetenzorientierung]
 related:
+  - "[[unterrichtsphasen-artikulation]]"
   - "[[blooms-taxonomie]]"
   - "[[pair-programming-unterricht]]"
   - "[[selbstgesteuertes-lernen]]"
@@ -23,6 +24,7 @@ related:
   - "[[ki-kompetenzrahmen-schule]]"
   - "[[lernortkooperation-transfer]]"
   - "[[cognitive-task-analysis]]"
+  - "[[testitem-konstruktion-digital]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07

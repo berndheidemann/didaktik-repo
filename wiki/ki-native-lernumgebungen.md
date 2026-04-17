@@ -29,6 +29,7 @@ related:
   - "[[ki-tool-auswahl-berufsschule]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[rag-tutoring-systeme]]"
+  - "[[subgoal-labeling]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

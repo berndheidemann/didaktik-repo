@@ -21,6 +21,7 @@ related:
   - "[[spaced-repetition-scheduler-bauen]]"
   - "[[notional-machines]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[testitem-konstruktion-digital]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-08

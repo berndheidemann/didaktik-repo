@@ -3,6 +3,8 @@ title: Scaffolding und Zone der nächsten Entwicklung
 type: theorie
 tags: [lernunterstuetzung, zpd, fading, differenzierung, vygotsky, parsons-problems, challenge-point, concreteness-fading]
 related:
+  - "[[direct-instruction-rosenshine]]"
+  - "[[unterrichtsphasen-artikulation]]"
   - "[[cognitive-load-theory]]"
   - "[[worked-examples]]"
   - "[[selbstgesteuertes-lernen]]"
@@ -51,6 +53,7 @@ related:
   - "[[notional-machines]]"
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
+  - "[[subgoal-labeling]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]

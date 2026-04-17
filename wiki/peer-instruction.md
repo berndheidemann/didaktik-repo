@@ -3,6 +3,8 @@ title: Peer Instruction
 type: methode
 tags: [peer-learning, concepTests, aktivierung, abstimmung, diskussion]
 related:
+  - "[[aktivierung-lehrervortrag]]"
+  - "[[direct-instruction-rosenshine]]"
   - "[[flipped-classroom]]"
   - "[[formatives-assessment]]"
   - "[[retrieval-practice]]"
@@ -18,6 +20,7 @@ related:
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[wissensretention-programmierung]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[testitem-konstruktion-digital]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]

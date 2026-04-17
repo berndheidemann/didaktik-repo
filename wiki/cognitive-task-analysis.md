@@ -15,6 +15,7 @@ related:
   - "[[constructive-alignment]]"
   - "[[formatives-assessment]]"
   - "[[lernortkooperation-transfer]]"
+  - "[[subgoal-labeling]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner]

@@ -28,6 +28,7 @@ related:
   - "[[deskilling-ki-codegenerierung]]"
   - "[[neurodidaktik-programmieren]]"
   - "[[notional-machines]]"
+  - "[[subgoal-labeling]]"
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
 audience: [FIAE, FIDP]

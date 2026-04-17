@@ -20,6 +20,7 @@ related:
   - "[[browser-ide-gestuetzte-tutorials]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[notional-machines]]"
+  - "[[subgoal-labeling]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

@@ -16,6 +16,7 @@ related:
   - "[[primm-methode]]"
   - "[[poe-methode]]"
   - "[[interactive-fiction-twine]]"
+  - "[[explorable-explanations-im-unterricht]]"
 evidenzgrad: quasi-experimentell
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]

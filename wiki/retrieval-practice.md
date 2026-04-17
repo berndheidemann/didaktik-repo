@@ -3,6 +3,8 @@ title: Retrieval Practice und Microlearning
 type: methode
 tags: [retrieval-practice, spaced-repetition, microlearning, interleaving, code-katas]
 related:
+  - "[[aktivierung-lehrervortrag]]"
+  - "[[direct-instruction-rosenshine]]"
   - "[[productive-failure]]"
   - "[[formatives-assessment]]"
   - "[[worked-examples]]"
@@ -26,6 +28,7 @@ related:
   - "[[use-modify-create]]"
   - "[[spaced-repetition-scheduler-bauen]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[testitem-konstruktion-digital]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden]

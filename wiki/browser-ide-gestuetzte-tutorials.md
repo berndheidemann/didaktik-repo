@@ -15,6 +15,7 @@ related:
   - "[[productive-failure]]"
   - "[[datenschutz-lernumgebungen]]"
   - "[[ki-tool-auswahl-berufsschule]]"
+  - "[[subgoal-labeling]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 sozialform: [einzelarbeit, partner]
