@@ -2,79 +2,99 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Baue ein Modul `presentation/` im privaten Repo `berndheidemann/skill-lernsituation`, das reveal.js-HTML-Präsentationen für Lehrervortrag generiert (Consolidation und Sicherung). Modus B (Aufsatz auf gebaute Lernsituation) ist Hauptfall, Modus A (standalone) fallback.
+**Goal:** Baue ein neues privates Repo `berndheidemann/skill-praesentation`, das reveal.js-HTML-Präsentationen für Lehrervortrag generiert (Consolidation und Sicherung). Modus B (Aufsatz auf gebaute Lernsituation) ist Hauptfall, Modus A (standalone) fallback.
 
-**Architecture:** Modul innerhalb des bestehenden skill-lernsituation-Repos mit eigener SKILL.md-Trigger-Definition. Gemeinsame `references/` (didaktische-grundlagen, sprachsensibel, design-system). Reveal.js + Tailwind + Vanilla-JS-Primitives. 4-Phasen-Workflow (0 Debrief, 1 Kontext, 2 Outline mit Lehrer-Gate, 3 HTML-Generierung, 4 QA mit Mini-Kramer-Check).
+**Architecture:** Eigenständiger Skill-Repo (analog zu `skill-lernsituation`), mit eigener SKILL.md-Trigger-Definition. Referenzen aus dem Lernsituation-Skill werden _nicht_ geteilt — die benötigten Auszüge werden initial kopiert und dann unabhängig gepflegt. Reveal.js + Tailwind-Design-Tokens + Vanilla-JS-Primitives. 4-Phasen-Workflow (0 Debrief, 1 Kontext, 2 Outline mit Lehrer-Gate, 3 HTML-Generierung, 4 QA mit Mini-Kramer-Check).
 
-**Tech Stack:** Reveal.js 5.x (MIT, self-hosted in `template/vendor/`), Tailwind CSS CLI (standalone binary oder via CDN Play), Vanilla JavaScript ES6+. Kein Build-Step für v1. Outputs sind statisches HTML + CSS + JS zum Doppelklick-Öffnen.
+**Tech Stack:** Reveal.js 5.x (MIT, self-hosted in `template/vendor/`), Tailwind-Design-Tokens als plain CSS, Vanilla JavaScript ES6+. Kein Build-Step für v1. Outputs sind statisches HTML + CSS + JS zum Doppelklick-Öffnen.
 
 **Spec:** `docs/superpowers/specs/2026-04-17-skill-praesentation-design.md` im didaktik-repo.
 
-**Arbeitsverzeichnis:** Alle Pfade relativ zum Root des `skill-lernsituation`-Repos. Plan geht davon aus, dass der Ausführende das Repo lokal geklont und in einem Worktree arbeitet.
+**Arbeitsverzeichnis:** Alle Pfade relativ zum Root des neuen `skill-praesentation`-Repos (z.B. `~/projects/skill-praesentation/`).
+
+**Ausführungsmodus:** Inline, task-weise mit Pausen zwischen Tasks. Kein Subagent-Einsatz — die Tasks sind überwiegend "Datei X mit vorgegebenem Inhalt schreiben", was Subagent-Overhead nicht rechtfertigt.
 
 ---
 
-## Task 0: Setup und Arbeitsverzeichnis
+## Task 0: Setup und neues Repo
 
 **Files:**
-- Create: `presentation/` (Verzeichnis)
+- Create: `~/projects/skill-praesentation/` (neues Repo)
 
-- [ ] **Step 0.1: Repo klonen oder Worktree anlegen**
+- [ ] **Step 0.1: Neues lokales Repo anlegen**
 
-Falls skill-lernsituation nicht lokal vorliegt:
 ```bash
-git clone git@github.com:berndheidemann/skill-lernsituation.git ~/projects/skill-lernsituation
-cd ~/projects/skill-lernsituation
+mkdir -p ~/projects/skill-praesentation
+cd ~/projects/skill-praesentation
+git init -b main
 ```
 
-Falls bereits vorhanden, Worktree für dieses Feature:
+- [ ] **Step 0.2: Verzeichnisstruktur anlegen**
+
 ```bash
-cd ~/projects/skill-lernsituation
-git worktree add ../skill-lernsituation-presentation feat/presentation
-cd ../skill-lernsituation-presentation
+mkdir -p prompts specs references template/{css,js,vendor}
 ```
 
-- [ ] **Step 0.2: Modul-Verzeichnisstruktur anlegen**
+Erwartet: Unterordner `prompts/`, `specs/`, `references/`, `template/css/`, `template/js/`, `template/vendor/`.
+
+- [ ] **Step 0.3: .gitignore schreiben**
 
 ```bash
-mkdir -p presentation/{prompts,specs,references,template/{css,js,vendor}}
-touch presentation/.gitkeep
+cat > .gitignore <<'EOF'
+# Lokale Arbeitsverzeichnisse (generierte Präsentationen)
+praesentation-*/
+*.pdf
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
 ```
 
-Erwartet: Leeres `presentation/` mit Unterordnern `prompts/`, `specs/`, `references/`, `template/css/`, `template/js/`, `template/vendor/`.
-
-- [ ] **Step 0.3: Reveal.js vendoren**
+- [ ] **Step 0.4: Reveal.js vendoren**
 
 ```bash
-cd presentation/template/vendor
+cd template/vendor
 curl -L -o reveal.js.zip https://github.com/hakimel/reveal.js/archive/refs/tags/5.1.0.zip
 unzip reveal.js.zip
 mv reveal.js-5.1.0 reveal.js
 rm reveal.js.zip
 # nur die benötigten Dateien behalten:
-cd reveal.js && ls
-# keep: dist/ plugin/ LICENSE
+cd reveal.js
 rm -rf css/ js/ test/ examples/ gulpfile.js package.json .github/ demo.html README.md CONTRIBUTING.md index.html
-cd ../../../..
+cd ../../..
 ```
 
-Erwartet: `presentation/template/vendor/reveal.js/dist/` und `plugin/` vorhanden, plus `LICENSE`.
+Erwartet: `template/vendor/reveal.js/dist/` und `plugin/` vorhanden, plus `LICENSE`.
 
-- [ ] **Step 0.4: Commit**
+- [ ] **Step 0.5: Initial Commit**
 
 ```bash
-git add presentation/
-git commit -m "feat(presentation): scaffold module structure + vendor reveal.js 5.1.0"
+git add .gitignore template/vendor/
+git commit -m "chore: scaffold repo + vendor reveal.js 5.1.0"
 ```
+
+- [ ] **Step 0.6: GitHub-Repo erstellen und pushen**
+
+```bash
+gh repo create berndheidemann/skill-praesentation --private --source=. --push
+```
+
+Erwartet: Repo existiert auf GitHub, main-Branch gepusht.
 
 ---
 
 ## Task 1: Template — Reveal.js-Skelett
 
 **Files:**
-- Create: `presentation/template/index.html`
-- Create: `presentation/template/css/design-tokens.css`
-- Create: `presentation/template/css/praesentation.css`
+- Create: `template/index.html`
+- Create: `template/css/design-tokens.css`
+- Create: `template/css/praesentation.css`
 
 - [ ] **Step 1.1: `template/index.html` schreiben**
 
@@ -223,7 +243,7 @@ Komplette Datei:
 - [ ] **Step 1.4: Smoke-Test — Template öffnet im Browser**
 
 ```bash
-cd presentation/template
+cd template
 python3 -m http.server 8080 &
 ```
 
@@ -232,7 +252,7 @@ python3 -m http.server 8080 &
 - [ ] **Step 1.5: Commit**
 
 ```bash
-git add presentation/template/index.html presentation/template/css/
+git add template/index.html template/css/
 git commit -m "feat(presentation): add reveal.js template skeleton with design tokens"
 ```
 
@@ -241,7 +261,7 @@ git commit -m "feat(presentation): add reveal.js template skeleton with design t
 ## Task 2: Primitives-JavaScript
 
 **Files:**
-- Create: `presentation/template/js/primitives.js`
+- Create: `template/js/primitives.js`
 
 - [ ] **Step 2.1: `primitives.js` schreiben — Grundgerüst + Timer**
 
@@ -326,7 +346,7 @@ Füge in `template/index.html` zwischen `<!-- SLIDES HIER -->` temporär ein:
 - [ ] **Step 2.3: Smoke-Test — Timer läuft**
 
 ```bash
-cd presentation/template
+cd template
 python3 -m http.server 8080 &
 ```
 
@@ -337,7 +357,7 @@ Im Browser öffnen, Slide anzeigen. Erwartet: Timer zählt von 0:30 auf 0:00 run
 - [ ] **Step 2.4: Commit**
 
 ```bash
-git add presentation/template/js/ presentation/template/index.html
+git add template/js/ template/index.html
 git commit -m "feat(presentation): add timer + presenter-helper primitives JS"
 ```
 
@@ -346,7 +366,7 @@ git commit -m "feat(presentation): add timer + presenter-helper primitives JS"
 ## Task 3: Slide-Primitives-Dokumentation
 
 **Files:**
-- Create: `presentation/references/slide-primitives.md`
+- Create: `references/slide-primitives.md`
 
 - [ ] **Step 3.1: `slide-primitives.md` anlegen mit Einleitung und TitleSlide**
 
@@ -499,7 +519,7 @@ Flexibler Generaltyp: Einordnung, Worked Example, Transfer-Signal, SectionDivide
 - [ ] **Step 3.6: Commit**
 
 ```bash
-git add presentation/references/slide-primitives.md
+git add references/slide-primitives.md
 git commit -m "docs(presentation): add slide-primitives reference"
 ```
 
@@ -508,7 +528,7 @@ git commit -m "docs(presentation): add slide-primitives reference"
 ## Task 4: Speaker-Notes-Muster
 
 **Files:**
-- Create: `presentation/references/speaker-notes-muster.md`
+- Create: `references/speaker-notes-muster.md`
 
 - [ ] **Step 4.1: Datei schreiben**
 
@@ -562,7 +582,7 @@ Ein Satz, warum diese Slide an dieser Stelle ist. Bezugsquelle aus Didaktik-Repo
 - [ ] **Step 4.2: Commit**
 
 ```bash
-git add presentation/references/speaker-notes-muster.md
+git add references/speaker-notes-muster.md
 git commit -m "docs(presentation): add speaker-notes pattern reference"
 ```
 
@@ -571,9 +591,9 @@ git commit -m "docs(presentation): add speaker-notes pattern reference"
 ## Task 5: Phasenmodell-Specs
 
 **Files:**
-- Create: `presentation/specs/phasenmodell-consolidation.md`
-- Create: `presentation/specs/phasenmodell-sicherung.md`
-- Create: `presentation/specs/integration-lernsituation.md`
+- Create: `specs/phasenmodell-consolidation.md`
+- Create: `specs/phasenmodell-sicherung.md`
+- Create: `specs/integration-lernsituation.md`
 
 - [ ] **Step 5.1: `phasenmodell-consolidation.md` schreiben**
 
@@ -756,7 +776,7 @@ Diese `context.md` ist Input für Phase 2 Outline.
 - [ ] **Step 5.4: Commit**
 
 ```bash
-git add presentation/specs/
+git add specs/
 git commit -m "docs(presentation): add phasenmodell + integration specs"
 ```
 
@@ -765,12 +785,12 @@ git commit -m "docs(presentation): add phasenmodell + integration specs"
 ## Task 6: Phase-Prompts
 
 **Files:**
-- Create: `presentation/prompts/phase-0-debrief.md`
-- Create: `presentation/prompts/phase-1-context.md`
-- Create: `presentation/prompts/phase-2-outline.md`
-- Create: `presentation/prompts/phase-3-slides.md`
-- Create: `presentation/prompts/phase-4-qa.md`
-- Create: `presentation/prompts/kramer-mini-review.md`
+- Create: `prompts/phase-0-debrief.md`
+- Create: `prompts/phase-1-context.md`
+- Create: `prompts/phase-2-outline.md`
+- Create: `prompts/phase-3-slides.md`
+- Create: `prompts/phase-4-qa.md`
+- Create: `prompts/kramer-mini-review.md`
 
 - [ ] **Step 6.1: `phase-0-debrief.md`**
 
@@ -1110,7 +1130,7 @@ Schreibe `slides-batch-{{VON}}-{{BIS}}.html` — nur die `<section>`-Blöcke, ke
 - [ ] **Step 6.8: Commit**
 
 ```bash
-git add presentation/prompts/
+git add prompts/
 git commit -m "docs(presentation): add phase prompts + subagent + kramer review"
 ```
 
@@ -1119,7 +1139,7 @@ git commit -m "docs(presentation): add phase prompts + subagent + kramer review"
 ## Task 7: SKILL.md — Orchestrator
 
 **Files:**
-- Create: `presentation/SKILL.md`
+- Create: `SKILL.md`
 
 - [ ] **Step 7.1: `SKILL.md` schreiben**
 
@@ -1260,7 +1280,7 @@ PDF-Export: URL mit `?print-pdf`, dann drucken als PDF.
 - [ ] **Step 7.2: Commit**
 
 ```bash
-git add presentation/SKILL.md
+git add SKILL.md
 git commit -m "feat(presentation): add SKILL.md orchestration"
 ```
 
@@ -1269,8 +1289,8 @@ git commit -m "feat(presentation): add SKILL.md orchestration"
 ## Task 8: README + Disclaimer
 
 **Files:**
-- Create: `presentation/template/README.md`
-- Create: `presentation/README.md`
+- Create: `template/README.md`
+- Create: `README.md`
 
 - [ ] **Step 8.1: `template/README.md` (Bedienhinweise für die generierte Präsentation)**
 
@@ -1312,12 +1332,12 @@ Mehr dazu: Didaktik-Repo `fehlerkultur-im-unterricht.md`.
 Persona-reviewed (Mini-Kramer), kein Echttest mit Klasse. Vor Schüler-Einsatz mindestens einmal mit einer realen Klasse durchlaufen und post-hoc bewerten.
 ```
 
-- [ ] **Step 8.2: `presentation/README.md` (für Skill-Entwickler)**
+- [ ] **Step 8.2: `README.md` (für Skill-Entwickler)**
 
 ```markdown
-# skill-praesentation (Modul)
+# skill-praesentation
 
-HTML-Präsentationen für Lehrervortrag in der IT-Berufsschule — Modul im `skill-lernsituation`-Repo.
+HTML-Präsentationen für Lehrervortrag in der IT-Berufsschule.
 
 **Purpose v1:** Consolidation nach Lernsituation, Sicherung/Recap zu Stundenbeginn.
 
@@ -1348,7 +1368,7 @@ Manuelle Dry-Runs:
 - [ ] **Step 8.3: Commit**
 
 ```bash
-git add presentation/README.md presentation/template/README.md
+git add README.md template/README.md
 git commit -m "docs(presentation): add user + developer READMEs"
 ```
 
@@ -1375,7 +1395,7 @@ Test-Case: "Baue Präsentation, Modus A"
 - Phase 4a+4b laufen
 - Phase 4c: manuell Browser öffnen, Timer läuft, ConcepTest-Fragments funktionieren
 
-Behebe alle gefundenen Probleme. Dokumentiere in `presentation/TESTING.md`.
+Behebe alle gefundenen Probleme. Dokumentiere in `TESTING.md`.
 
 - [ ] **Step 9.2: Modus-B-Dry-Run (falls Lernsituation vorhanden)**
 
@@ -1391,53 +1411,42 @@ Behebe Probleme.
 - [ ] **Step 9.3: Commit (Test-Fixes)**
 
 ```bash
-git add presentation/
+git add .
 git commit -m "fix(presentation): end-to-end dry run fixes"
 ```
 
 ---
 
-## Task 10: PR und Merge
+## Task 10: Tag und Release
 
-- [ ] **Step 10.1: PR erstellen**
+- [ ] **Step 10.1: Alle pending Commits nach `main` pushen**
 
 ```bash
-git push -u origin feat/presentation
-gh pr create --title "feat: skill-praesentation module (v1)" --body "$(cat <<'EOF'
-## Summary
-- Neues Modul `presentation/` im skill-lernsituation-Repo
-- Generiert Reveal.js-HTML-Präsentationen für Lehrervortrag
-- Zwei Purposes: Consolidation nach Lernsituation (Hauptfall), Sicherung/Recap
-- Hybrid-Modus: standalone oder aufgesetzt auf existierendes LS-Projekt
-
-## Architektur
-4-Phasen-Workflow mit Lehrer-Debrief (Phase 0), Modus-A/B-Kontext (Phase 1),
-Outline mit Lehrer-Gate (Phase 2), HTML-Generierung (Phase 3), QA mit
-Mini-Kramer-Review (Phase 4).
-
-5 Slide-Primitives (Title, Arbeitsauftrag mit Timer, Merksatz mit Sprachgerüst,
-ConcepTest mit Misconception-Distraktoren, Content).
-
-## Test plan
-- [x] Manueller Modus-A-Dry-Run (SQL JOINs, LF5)
-- [ ] Manueller Modus-B-Dry-Run (numpy-lernsituation)
-- [ ] Kramer-Mini-Review besteht auf generierter Präsentation
-- [ ] Browser-Smoke-Test (Timer, Fragments, Presenter-View)
-
-## Spec
-docs/superpowers/specs/2026-04-17-skill-praesentation-design.md (im didaktik-repo)
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-EOF
-)"
+cd ~/projects/skill-praesentation
+git push
 ```
 
-- [ ] **Step 10.2: Nach Review und Merge: Worktree aufräumen**
+- [ ] **Step 10.2: v1.0.0-Tag setzen**
 
 ```bash
-cd ~/projects/skill-lernsituation
-git worktree remove ../skill-lernsituation-presentation
-git branch -d feat/presentation
+git tag -a v1.0.0 -m "v1.0.0 — initial release
+
+Features:
+- 4-Phasen-Workflow mit Lehrer-Debrief, Kontext, Outline (mit Gate),
+  HTML-Generierung, QA mit Mini-Kramer-Review
+- 5 Slide-Primitives (Title, Arbeitsauftrag mit Timer, Merksatz mit
+  Sprachgerüst, ConcepTest mit Misconception-Distraktoren, Content)
+- Zwei Purposes: Consolidation nach Lernsituation, Sicherung/Recap
+- Hybrid-Modus: standalone oder aufgesetzt auf skill-lernsituation-Projekt
+
+Spec: https://github.com/berndheidemann/didaktik-repo/blob/main/docs/superpowers/specs/2026-04-17-skill-praesentation-design.md"
+git push --tags
+```
+
+- [ ] **Step 10.3: GitHub-Release erstellen**
+
+```bash
+gh release create v1.0.0 --title "v1.0.0 — initial release" --notes-from-tag
 ```
 
 ---
@@ -1447,7 +1456,7 @@ git branch -d feat/presentation
 **Spec-Abdeckung:**
 - [x] Scope (Consolidation + Sicherung) — Tasks 5.1/5.2
 - [x] Stack (Reveal.js + Tailwind + Vanilla JS) — Tasks 0.3, 1.x
-- [x] Modul-Platzierung in skill-lernsituation — Tasks 0.1/0.2
+- [x] Eigenständiges Repo berndheidemann/skill-praesentation — Tasks 0.1/0.6
 - [x] 5 Slide-Primitives (Title, Arbeitsauftrag, Merksatz, ConcepTest, Content) — Task 3
 - [x] Phase 0–4-Workflow — Tasks 6.x + 7
 - [x] Hybrid-Modus A/B — Tasks 6.2, 7.1
@@ -1459,7 +1468,7 @@ git branch -d feat/presentation
 - [x] PDF-Export-Fähigkeit — Reveal.js nativ, dokumentiert in README
 
 **Offene Lücken:**
-- Das Design-Tokens-CSS ist initial vereinfacht (nicht 1:1 aus skill-lernsituation/references/design-system.md kopiert). Nach Task 1.2: Tokens ggf. erweitern, sobald `../references/design-system.md` im Ziel-Repo gelesen werden kann. Nicht blockierend für v1.
+- Das Design-Tokens-CSS ist initial vereinfacht (Minimal-Tokens in Task 1.2). Bei Bedarf können später Tokens aus `skill-lernsituation/references/design-system.md` via `gh api` nachgezogen werden, um visuelle Konsistenz zu Lernsituationen zu erhöhen. Nicht blockierend für v1.
 - Fachliche Korrektheits-Prüfung von Worked-Examples/Merksätzen: im Skill nur als Warnung in Speaker Notes, keine automatische Prüfung. Akzeptiert in Spec §8.
 
 **Typen-Konsistenz:** Primitive-Klassennamen (`slide-title`, `slide-arbeitsauftrag`, `slide-merksatz`, `slide-conceptest`, `slide-content`) werden in CSS (Task 1.3), JS-Selektoren (Task 2.1) und Primitive-Templates (Task 3) einheitlich verwendet. Timer-Attribute `data-duration` konsistent.
