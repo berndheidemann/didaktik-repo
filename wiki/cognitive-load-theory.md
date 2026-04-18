@@ -42,6 +42,7 @@ related:
   - "[[subgoal-labeling]]"
   - "[[explorable-explanations-im-unterricht]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[self-explanation]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

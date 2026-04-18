@@ -51,6 +51,8 @@ related:
   - "[[cognitive-task-analysis]]"
   - "[[generative-learning-aktivitaeten]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[feedback-lernumgebungen]]"
+  - "[[llm-as-grader]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]

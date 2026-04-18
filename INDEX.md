@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 83 | **Letzte Aktualisierung:** 2026-04-17
+**Artikel:** 86 | **Letzte Aktualisierung:** 2026-04-18
 
 ---
 
@@ -42,6 +42,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[neurodidaktik-programmieren]] — fMRI-Befunde zu Code-Verstehen: fronto-parietales Netzwerk, Sprachareale, Implikationen für Sequenzierung und Scaffolding
 - [[notional-machines]] — Mentale Modelle der Programmausführung (du Boulay 1986, Sorva 2013): Warum falsche Notional Machines die häufigste Fehlerquelle sind
 - [[generative-learning-aktivitaeten]] — Fiorella & Mayers SOI-Framework mit acht generativen Lernstrategien (Summarizing, Mapping, Drawing, Imagining, Self-Testing, Self-Explaining, Teaching, Enacting) als Aufgabengenerator
+- [[self-explanation]] — Chi 1989 / Bisra 2018 (g=0.55): Prompted Self-Explanation als generative Verarbeitung und empirisch gestütztes Gegenmittel gegen Cognitive Offloading durch KI-Tools
+- [[feedback-lernumgebungen]] — Hattie & Timperley 4-Level (Task/Process/Self-Regulation/Self), Wisniewski 2020 (ḡ=0.48, High-Information d=0.99) und LLM-Guardrails für Lernumgebungs-Design
 - [[unterrichtsphasen-artikulation]] — Phasenmodelle (Herbart/Rein, Roth, Meyer, Vollständige Handlung) als Rückgrat jeder Unterrichtsstunde und Präsentation
 
 ### Methoden & Formate
@@ -89,6 +91,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[ki-erfahrungsberichte-berufliche-bildung]] — Ausgezeichnete Praxisprojekte: BIBB Hermann-Schmidt-Preis 2025 (Uni Augsburg, Berufskolleg Troisdorf), KI-Schulpreis 2025 mit Transferpotenzial
 - [[deskilling-ki-codegenerierung]] — RCT-Evidenz (Coppock 2025, Bastani 2025): 17 % Leistungsabfall durch KI-Codegenerierung ohne Guardrails; didaktische Gegenstrategien
 - [[direct-instruction-rosenshine]] — Rosenshines zehn Prinzipien evidenzbasierter Instruktion (2012) als Raster für wirksamen Lehrervortrag
+- [[llm-as-grader]] — Systematic Review 2025: GPT-4 mit Rubric-Engineering erreicht untere Hälfte des menschlichen Inter-Rater-Korridors (QWK 0.75–0.90); formativ einsetzbar, summativ nur mit Human-Final-Sign-Off
 
 ### Praxis & Erfahrung
 - [[ki-gestuetztes-tutoring]] — Erfahrungsberichte zu LLM-basierten Tutoring-Systemen im Programmierunterricht
@@ -204,6 +207,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[neurodidaktik-programmieren]] — Neurowissenschaftliche Fundierung von Programmierunterricht
 - [[cognitive-task-analysis]] — Systematische Extraktion impliziten Expertenwissens als Grundlage für Lernmaterialien
 - [[subgoal-labeling]] — Teilziel-Labels als universelles Strukturierungsprinzip für Worked Examples, Tutorials und Parsons Problems
+- [[feedback-lernumgebungen]] — Design-Rahmen für jedes automatisierte Feedback (Hattie-Levels, Narciss-ITF, LLM-Guardrails)
+- [[self-explanation]] — Pflicht-Widget in KI-gestützten Lernumgebungen gegen Cognitive Offloading
+- [[llm-as-grader]] — Governance-Pattern "LLM-first, Human-final" für skalierbare Freitext- und Code-Bewertung
 
 ---
 
@@ -315,6 +321,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[pruefungsvorbereitung-lernstrategie]] — Kalibrierungs-Tracking als formative Diagnose vor Prüfungen
 - [[kompetenzfeststellung-programmierung]] — Summative Assessment: Portfolio, Prozess, Fachgespräch
 - [[testitem-konstruktion-digital]] — Konstruktionsregeln für QTI-Items mit Cue-Vermeidung und Misconception-basierten Distraktoren
+- [[feedback-lernumgebungen]] — Hattie-4-Level-Modell und Wisniewski-Meta-Analyse als Design-Rahmen für automatisiertes Feedback inklusive LLM-Guardrails
+- [[llm-as-grader]] — Automatisierte Bewertung von Short-Answer und Code mit Rubric-Engineering, Reasoning-First-Prompts und Human-Review-Tier
 
 ### Selbstständiges Lernen fördern
 - [[selbstgesteuertes-lernen]] — Drei-Phasen-Modell zur Förderung eigenständiger Lernkompetenz
@@ -325,6 +333,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[flipped-classroom]] — Pre-Class-Phase erfordert und fördert Selbstregulation
 - [[lerntagebuch]] — Schriftliche Reflexion fördert Metakognition und Selbstregulation
 - [[self-determination-theory]] — Autonomie als Basis für Selbststeuerung
+- [[self-explanation]] — Generative Erklärstrategien als Schutz vor "Illusion of Understanding" und Cognitive Offloading
 
 ### Motivation und Engagement
 - [[gamification-it-unterricht]] — Spielelemente für Motivation und Engagement
@@ -352,6 +361,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[deskilling-ki-codegenerierung]] — RCT-Evidenz zu Skill-Erosion und fünf Gegenstrategien (UMC, PRIMM, KI-freie Phasen, Scaffolding, Debugging)
 - [[rag-tutoring-systeme]] — RAG-Architektur für domänenspezifische KI-Tutoren mit Halluzinationskontrolle
 - [[live-coding-lehrmethode]] — KI-gestütztes Live Coding: Copilot-Vorschläge kritisch analysieren als Unterrichtsmethode
+- [[feedback-lernumgebungen]] — LLM-Feedback-Evidenz (Dai 2023, Phung 2024): Task-Ebene gut, Self-Regulation praktisch nie — Guardrails gegen Überlob und Halluzination
+- [[self-explanation]] — Pflicht-Widget nach KI-Antwort als empirisches Gegenmittel zum Offloading-Effekt (Gerlich 2025, −17% Konzeptverständnis bei ungeleitetem AI-Gebrauch)
+- [[llm-as-grader]] — Rubric-Engineering, EiPE + Code Generation Based Grading, Governance-Pattern LLM-first/Human-final
 
 ### Wissensretention / Nachhaltiges Lernen
 - [[retrieval-practice]] — Testing Effect, Spaced Repetition und Interleaving für langfristiges Behalten

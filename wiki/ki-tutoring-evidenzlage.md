@@ -20,6 +20,9 @@ related:
   - "[[ki-tool-auswahl-berufsschule]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[rag-tutoring-systeme]]"
+  - "[[feedback-lernumgebungen]]"
+  - "[[self-explanation]]"
+  - "[[llm-as-grader]]"
 evidenzgrad: rct
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]

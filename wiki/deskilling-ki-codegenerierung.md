@@ -16,6 +16,7 @@ related:
   - "[[metakognition]]"
   - "[[affektive-dimensionen]]"
   - "[[live-coding-lehrmethode]]"
+  - "[[self-explanation]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten, analysieren]
 evidenzgrad: rct

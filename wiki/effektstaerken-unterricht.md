@@ -24,6 +24,7 @@ related:
   - "[[kooperatives-lernen]]"
   - "[[pair-programming-unterricht]]"
   - "[[ki-tutoring-evidenzlage]]"
+  - "[[feedback-lernumgebungen]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]

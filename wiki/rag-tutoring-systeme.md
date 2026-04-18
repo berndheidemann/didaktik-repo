@@ -13,6 +13,7 @@ related:
   - "[[lerner-modell-mastery-tracking]]"
   - "[[scaffolding]]"
   - "[[formatives-assessment]]"
+  - "[[llm-as-grader]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-10

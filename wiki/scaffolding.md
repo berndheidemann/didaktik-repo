@@ -54,6 +54,7 @@ related:
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
   - "[[subgoal-labeling]]"
+  - "[[feedback-lernumgebungen]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]

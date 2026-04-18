@@ -26,6 +26,8 @@ related:
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[feedback-lernumgebungen]]"
+  - "[[self-explanation]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]

@@ -17,6 +17,7 @@ related:
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
   - "[[lernortkooperation-transfer]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[llm-as-grader]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

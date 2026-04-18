@@ -17,6 +17,8 @@ related:
   - "[[ki-kompetenzrahmen-schule]]"
   - "[[ki-tool-auswahl-berufsschule]]"
   - "[[rag-tutoring-systeme]]"
+  - "[[feedback-lernumgebungen]]"
+  - "[[llm-as-grader]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

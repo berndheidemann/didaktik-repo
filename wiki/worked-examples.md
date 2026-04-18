@@ -40,6 +40,7 @@ related:
   - "[[cognitive-task-analysis]]"
   - "[[generative-learning-aktivitaeten]]"
   - "[[subgoal-labeling]]"
+  - "[[self-explanation]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]

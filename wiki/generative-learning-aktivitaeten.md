@@ -18,6 +18,7 @@ related:
   - "[[misconception-analyse]]"
   - "[[primm-methode]]"
   - "[[selbstgesteuertes-lernen]]"
+  - "[[self-explanation]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: verstehen
 evidenzgrad: meta-analyse

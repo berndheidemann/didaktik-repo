@@ -16,6 +16,7 @@ related:
   - "[[ki-tool-auswahl-berufsschule]]"
   - "[[rag-tutoring-systeme]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[llm-as-grader]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

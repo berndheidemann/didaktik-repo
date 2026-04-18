@@ -29,6 +29,8 @@ related:
   - "[[deskilling-ki-codegenerierung]]"
   - "[[rag-tutoring-systeme]]"
   - "[[live-coding-lehrmethode]]"
+  - "[[feedback-lernumgebungen]]"
+  - "[[self-explanation]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit]

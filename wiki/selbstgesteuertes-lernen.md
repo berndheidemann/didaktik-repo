@@ -30,6 +30,7 @@ related:
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
   - "[[lernortkooperation-transfer]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[feedback-lernumgebungen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

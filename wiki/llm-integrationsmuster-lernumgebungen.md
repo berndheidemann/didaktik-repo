@@ -34,6 +34,8 @@ related:
   - "[[ki-tool-auswahl-berufsschule]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[rag-tutoring-systeme]]"
+  - "[[feedback-lernumgebungen]]"
+  - "[[llm-as-grader]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit]

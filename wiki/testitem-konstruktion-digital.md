@@ -15,6 +15,7 @@ related:
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[cognitive-load-theory]]"
   - "[[evaluation-lernumgebungen]]"
+  - "[[llm-as-grader]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren]
 evidenzgrad: meta-analyse

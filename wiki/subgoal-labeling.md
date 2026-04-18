@@ -19,6 +19,7 @@ related:
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[differenzierung-inklusion]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
+  - "[[self-explanation]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 sozialform: [einzelarbeit, partner]

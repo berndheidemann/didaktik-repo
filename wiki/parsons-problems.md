@@ -19,6 +19,7 @@ related:
   - "[[notional-machines]]"
   - "[[subgoal-labeling]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[self-explanation]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
