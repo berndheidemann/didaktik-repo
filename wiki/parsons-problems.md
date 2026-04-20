@@ -20,6 +20,9 @@ related:
   - "[[subgoal-labeling]]"
   - "[[testitem-konstruktion-digital]]"
   - "[[self-explanation]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[icap-framework]]"
+  - "[[mastery-learning]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]

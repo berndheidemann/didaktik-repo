@@ -32,6 +32,9 @@ related:
   - "[[deskilling-ki-codegenerierung]]"
   - "[[neurodidaktik-programmieren]]"
   - "[[interactive-fiction-twine]]"
+  - "[[fachgespraech-didaktik]]"
+  - "[[imposter-phaenomen-it-azubis]]"
+  - "[[belonging-interventionen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-07

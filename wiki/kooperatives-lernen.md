@@ -21,6 +21,7 @@ related:
   - "[[pruefungsvorbereitung-lernstrategie]]"
   - "[[retrieval-practice]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[icap-framework]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren, bewerten]

@@ -24,6 +24,11 @@ related:
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
   - "[[lernortkooperation-transfer]]"
   - "[[interactive-fiction-twine]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[mastery-learning]]"
+  - "[[fachgespraech-didaktik]]"
+  - "[[ihk-pruefungskatalog-2025]]"
+  - "[[abschlussprojekt-begleitung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

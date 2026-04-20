@@ -21,6 +21,7 @@ related:
   - "[[deskilling-ki-codegenerierung]]"
   - "[[notional-machines]]"
   - "[[subgoal-labeling]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

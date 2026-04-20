@@ -29,6 +29,9 @@ related:
   - "[[spaced-repetition-scheduler-bauen]]"
   - "[[generative-learning-aktivitaeten]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[desirable-difficulties]]"
+  - "[[interleaving]]"
+  - "[[mastery-learning]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden]

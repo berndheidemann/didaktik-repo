@@ -26,6 +26,8 @@ related:
   - "[[generative-learning-aktivitaeten]]"
   - "[[subgoal-labeling]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[icap-framework]]"
+  - "[[interleaving]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

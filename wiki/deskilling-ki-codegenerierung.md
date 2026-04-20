@@ -17,6 +17,12 @@ related:
   - "[[affektive-dimensionen]]"
   - "[[live-coding-lehrmethode]]"
   - "[[self-explanation]]"
+  - "[[abschlussprojekt-begleitung]]"
+  - "[[imposter-phaenomen-it-azubis]]"
+  - "[[ki-nutzungsregeln-unterricht]]"
+  - "[[ki-integritaet-pruefungsleistung]]"
+  - "[[kritische-ki-bewertungskompetenz]]"
+  - "[[ki-prompt-handwerk]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten, analysieren]
 evidenzgrad: rct

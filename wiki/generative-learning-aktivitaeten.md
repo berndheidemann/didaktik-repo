@@ -19,6 +19,8 @@ related:
   - "[[primm-methode]]"
   - "[[selbstgesteuertes-lernen]]"
   - "[[self-explanation]]"
+  - "[[icap-framework]]"
+  - "[[desirable-difficulties]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: verstehen
 evidenzgrad: meta-analyse

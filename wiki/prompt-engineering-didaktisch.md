@@ -19,6 +19,7 @@ related:
   - "[[rag-tutoring-systeme]]"
   - "[[feedback-lernumgebungen]]"
   - "[[llm-as-grader]]"
+  - "[[ki-prompt-handwerk]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

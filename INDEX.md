@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 86 | **Letzte Aktualisierung:** 2026-04-18
+**Artikel:** 102 | **Letzte Aktualisierung:** 2026-04-20
 
 ---
 
@@ -13,6 +13,11 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[cognitive-load-theory]] — Begrenzte Arbeitsgedächtniskapazität als Grundlage für Lernmaterial-Gestaltung nach Sweller (1988)
 - [[constructive-alignment]] — Abstimmung von Lernzielen, Aktivitäten und Prüfung nach Biggs (1996)
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung und Lernfeldkonzept als Kern der deutschen Berufsbildung
+- [[vier-komponenten-instruktionsdesign]] — 4C/ID (Van Merriënboer): Learning Tasks, Supportive Info, JIT, Part-Task Practice mit Sawtooth-Fading über Task Classes (g ≈ 0,76)
+- [[icap-framework]] — Chi & Wylie: Passive < Active < Constructive < Interactive als Klassifikator für kognitives Engagement; starke Design-Heuristik, kritisch als Diagnose
+- [[desirable-difficulties]] — Bjorks Dachkonzept (Storage/Retrieval Strength, Fluency Illusion): Spacing, Interleaving, Retrieval, Variation, Generation, reduziertes Feedback
+- [[mastery-learning]] — Bloom/Guskey: Kompetenz konstant, Zeit variabel; Zyklus aus Instruktion, Diagnose, Correctives, Re-Test (Hattie d ≈ 0,58)
+- [[imposter-phaenomen-it-azubis]] — Clance & Imes (1978) in Tech verstärkt (52 % Software Engineers): Evidenz-basierte Interventionen für Berufsschule
 - [[interaktive-lernumgebungen]] — Gestaltungsprinzipien für Lernumgebungen mit aktivem Handeln, Feedback und adaptiven Lernpfaden
 - [[scaffolding]] — Temporäre Lernunterstützung in der Zone der nächsten Entwicklung nach Vygotsky (1978)
 - [[selbstgesteuertes-lernen]] — Lernende planen, überwachen und reflektieren ihren Lernprozess nach Zimmerman (1989)
@@ -82,6 +87,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[live-coding-lehrmethode]] — Live Coding mit Think-Aloud und Deliberate Mistakes als Modeling-Methode (Rubin 2013, Raj 2018, Nederbragt 2020)
 - [[interactive-fiction-twine]] — Choice-based Branching Narratives (Twine, Ink) für DSGVO-Dilemmata, Phishing und Incident Response; DSGVO-konform (Client-only HTML)
 - [[aktivierung-lehrervortrag]] — Katalog von Mikromethoden (Murmelphase, Think-Pair-Share, Minutenpapier, ConcepTest, Retrieval-Einschub) mit Primärquellen und Evidenz
+- [[rubric-design]] — Bewertungsraster entwickeln: Kriterien, Performance-Levels, Descriptoren; analytisch vs. holistisch vs. Single-Point
+- [[fachgespraech-didaktik]] — Oral Assessment als Anti-AI-Cheating-Strategie und AP2-Kernformat: Fragehierarchie, Wait Time, Trainingsformate
+- [[explain-in-plain-english]] — Lister et al. 2004: Code in einem Satz auf Relational-Level erklären; SOLO-Rubric und AP2-Trainingsformat
 
 ### Evidenz & Forschung
 - [[effektstaerken-unterricht]] — Hattie's Visible Learning + CS-spezifische Effektstärken als Entscheidungshilfe
@@ -92,6 +100,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[deskilling-ki-codegenerierung]] — RCT-Evidenz (Coppock 2025, Bastani 2025): 17 % Leistungsabfall durch KI-Codegenerierung ohne Guardrails; didaktische Gegenstrategien
 - [[direct-instruction-rosenshine]] — Rosenshines zehn Prinzipien evidenzbasierter Instruktion (2012) als Raster für wirksamen Lehrervortrag
 - [[llm-as-grader]] — Systematic Review 2025: GPT-4 mit Rubric-Engineering erreicht untere Hälfte des menschlichen Inter-Rater-Korridors (QWK 0.75–0.90); formativ einsetzbar, summativ nur mit Human-Final-Sign-Off
+- [[interleaving]] — Meta-Analyse Brunmair & Richter (g = 0,42): wirksam bei ähnlichen Kategorien, kontraproduktiv bei Novizen — Hybrid-Strategie als Konsens
 
 ### Praxis & Erfahrung
 - [[ki-gestuetztes-tutoring]] — Erfahrungsberichte zu LLM-basierten Tutoring-Systemen im Programmierunterricht
@@ -101,6 +110,12 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[explorable-explanations-im-unterricht]] — Kuratierter Katalog IT-relevanter Explorables (Ciechanowski, Olah, Red Blob, Visualgo) mit didaktischer Einbettung
 - [[ki-tool-auswahl-berufsschule]] — Entscheidungs-Rubrics: wann client-only, wann Landes-Chatbot (telli/fobizz), wann kommerziell? Inkl. DSGVO-Pfad
 - [[rag-tutoring-systeme]] — RAG-Architektur (Embedding, Vektordatenbank, Prompt-Injection) für domänenspezifische KI-Tutoren mit Halluzinationsreduktion
+- [[ihk-pruefungskatalog-2025]] — Diff-Liste zur Neuauflage 2025: Struktogramm/PAP raus, UML/BPMN/TDD/Scrum rein, KI-Grundlagen (FIDP) verbindlich
+- [[ki-nutzungsregeln-unterricht]] — Rot/Gelb/Grün-Zonen-Modell als operative Klassenpolicy mit Aufgaben-Header, Klassenkontrakt und Regelbruch-Gesprächsleitfaden
+- [[ki-integritaet-pruefungsleistung]] — Detektion scheitert (Liang 61 % FP, Weber-Wulff 2023); Alternativen: Prozess-Portfolio, Viva Voce, IHK-Deklarationspraxis
+- [[kritische-ki-bewertungskompetenz]] — 5-Schritt-Verifikations-Routine, Halluzinations-Typologie für Code (Liu 2024), Bias-Erkennung und Unterrichtsformate
+- [[ki-prompt-handwerk]] — CLEAR-Heuristik (Lo 2023), sechs Pair-mit-KI-Modi, Iterationsprotokoll und Anti-Patterns für den Alltag — abgegrenzt zu Prompt-Engineering
+- [[abschlussprojekt-begleitung]] — Strukturierter 14-Wochen-Workflow für die AP2-Projektphase: Themenberatung, Dokuphase, Probepräsentation, Fishbowl-Fachgespräch
 
 ---
 
@@ -164,6 +179,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[subgoal-labeling]] — Teilziel-Labels für REST-Handler-Tutorials (Route → Validierung → Logik → Response)
 
 ### LF10-12: Projekte planen, durchführen und auswerten
+- [[abschlussprojekt-begleitung]] — Begleitungs-Workflow für das IHK-AP2-Abschlussprojekt (50 % der AP2-Note)
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Projektstruktur
 - [[lernsituationen-gestalten]] — Umfassende Lernsituationen für projektbasiertes Arbeiten
 - [[anchored-instruction]] — Durchgehende Fiktivfirma als narrativer Anker über mehrere Projekte hinweg
@@ -210,6 +226,10 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[feedback-lernumgebungen]] — Design-Rahmen für jedes automatisierte Feedback (Hattie-Levels, Narciss-ITF, LLM-Guardrails)
 - [[self-explanation]] — Pflicht-Widget in KI-gestützten Lernumgebungen gegen Cognitive Offloading
 - [[llm-as-grader]] — Governance-Pattern "LLM-first, Human-final" für skalierbare Freitext- und Code-Bewertung
+- [[ki-nutzungsregeln-unterricht]] — Operative Zonen-Policy über alle Lernfelder; Verknüpfung zu IHK-Deklarationspflicht im AP2
+- [[ki-integritaet-pruefungsleistung]] — Warum keine Detektoren — stattdessen Prozess-Nachweise und mündliche Verteidigung über alle Prüfungskontexte
+- [[kritische-ki-bewertungskompetenz]] — Azubi prüft KI-Output systematisch: 5-Schritt-Check vor Übernahme, gegen Overreliance und "Trap of AI Literacy"
+- [[ki-prompt-handwerk]] — Alltagsroutinen für Azubis im Betrieb: CLEAR-Merkheuristik, Fünf-Zeilen-Kontext-Regel, Mode-Switching (Rubber Ducking bis Sparring)
 
 ---
 
@@ -222,6 +242,20 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[lernsituationen-gestalten]] — Kompetenzen in authentische Lernsituationen übersetzen
 - [[ki-kompetenzrahmen-schule]] — KI-Kompetenz als eigenes Lernziel — Synopse der Rahmenwerke
 - [[lernortkooperation-transfer]] — Abstimmung von Lernzielen über Lernortgrenzen hinweg (Berufsschule/Betrieb)
+- [[vier-komponenten-instruktionsdesign]] — Whole-Task-Blueprint für komplexe Berufskompetenzen, kompatibel zu Lernsituationen
+- [[rubric-design]] — Kompetenzorientierte Bewertung nur machbar mit sauber gebauten Rubrics (Kriterien aus Lernzielen, Descriptoren mit Verhaltensankern)
+- [[ihk-pruefungskatalog-2025]] — Verbindliche Kompetenzbereiche und Operatoren-Raster als Referenz für das Constructive Alignment im Unterricht
+- [[icap-framework]] — ICAP-Klassifikation jeder Aktivität (P/A/C/I) als Meta-Layer für Unterrichtsplanung und Widget-Entwicklung
+- [[desirable-difficulties]] — Hub für Spacing, Interleaving, Retrieval, Variation, Generation als curriculare Gesamtstrategie gegen Fluency Illusion
+- [[interleaving]] — Mixed Practice über Lernfelder für AP1/AP2-Vorbereitung und Diskrimination ähnlicher Konstrukte
+- [[mastery-learning]] — Didaktischer Rahmen für Selbstlernplattformen mit Gated Progression und Correctives-Zyklus (Abgrenzung zu Mastery Tracking)
+- [[rubric-design]] — Methodische Grundlage für Bewertung offener Aufgaben; Voraussetzung für LLM-Grader und kompetenzorientierte Prüfungen
+- [[fachgespraech-didaktik]] — IHK-Fachgespräch-Training über alle Lernfelder: Fragehierarchie, Wait Time, Fishbowl-Simulation, Mündliche Minute
+- [[explain-in-plain-english]] — Code-Reading-Assessment auf Abstraktionsebene — wöchentlich einsetzbar, starker Prädiktor für Programmierkompetenz
+- [[ihk-pruefungskatalog-2025]] — Curriculare Referenz für AP1/AP2 ab 2025; Material-Update-Liste und Operatoren-Mapping
+- [[abschlussprojekt-begleitung]] — Didaktische Begleitung des IHK-Abschlussprojekts als systematischer 14-Wochen-Prozess
+- [[imposter-phaenomen-it-azubis]] — Hochstapler-Gefühl als Dropout-Risikofaktor in Tech; unterrichtstaugliche Normalisierung und Interventionen
+- [[belonging-interventionen]] — Walton & Cohen: 60-Min-Prozedur halbierte Achievement Gap über 3 Jahre; drei Scripts für Berufsschulpraxis
 
 ### Dropout-Prävention / Affektive Dimension
 - [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset, Zugehörigkeit als stärkste Prädiktoren
@@ -229,6 +263,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[productive-failure]] — Nur wirksam in Growth-Mindset-Kultur
 - [[self-determination-theory]] — Erfüllung der drei Basic Needs als Dropout-Schutz
 - [[computational-action]] — Identitätsarbeit und Empowerment für bislang nicht engagierte Lernende
+- [[imposter-phaenomen-it-azubis]] — Clance & Imes in Tech (52 % Prävalenz): Normalisierung, Fehler-Narration, Portfolio-Evidenz als Interventionen
+- [[belonging-interventionen]] — 60-Min-Intervention mit dokumentierten Langzeiteffekten für DaZ-Azubis, weibliche FIAE, First-Generation
 
 ### Heterogenität / Differenzierung
 - [[differenzierung-inklusion]] — Klammer-Artikel: UDL, Tomlinson, Neurodiversität, Nachteilsausgleich, WCAG
@@ -245,6 +281,10 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[use-modify-create]] — Strukturelle Differenzierung durch drei Anspruchsstufen
 - [[primm-methode]] — Phasenstruktur, in der Lernende auf unterschiedlichen Tiefen verweilen
 - [[parsons-problems]] — Distraktor-Dichte als unsichtbare Höhenverstellung ohne Niveau-Etikett
+- [[vier-komponenten-instruktionsdesign]] — Sawtooth-Fading von Worked Example → Completion → Conventional Problem innerhalb jeder Task Class
+- [[mastery-learning]] — Zeit variabel statt Kompetenz variabel — strukturelle Differenzierung durch individuelle Masterung
+- [[imposter-phaenomen-it-azubis]] — Minority-Stress + Stereotype Threat für Frauen, DaZ-Azubis und First-Generation — Belonging als Hebel
+- [[belonging-interventionen]] — Re-Attribution als wirksamer Kurz-Hebel für Minority-Status-Azubis — drei Scripts mit Kontextbedingung
 
 ### Kooperatives Lernen / Soziale Dimension
 - [[kooperatives-lernen]] — Methoden-Dach-Artikel mit Jigsaw, Think-Pair-Share, Reziprokes Lehren, Gallery Walk
@@ -253,6 +293,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[code-review-unterricht]] — Peer-Feedback auf Code
 - [[peer-instruction]] — Strukturierte Peer-Diskussion über Konzepte
 - [[engagement-theory]] — Relate-Create-Donate als Kerntriade kollaborativen Lernens
+- [[icap-framework]] — Interactive-Modus verlangt Ko-Konstruktion mit Begründungspflicht — Kriterium gegen Schein-Gruppenarbeit
 
 ### Expertenwissen vermitteln
 - [[cognitive-task-analysis]] — Implizites Expertenwissen systematisch extrahieren (Expert Blind Spot, ACTA-Methode)
@@ -266,6 +307,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[neurodidaktik-programmieren]] — Neuronale Expertise-Marker im fMRI begründen Subskill-Progression
 - [[notional-machines]] — Listers Stufenmodell (Tracing → Explaining → Writing) als Roadmap zur Expertise
 - [[live-coding-lehrmethode]] — Think-Aloud beim Programmieren macht Expertenwissen sichtbar (Modeling)
+- [[explain-in-plain-english]] — Listers Ladder (Lesen → Tracen → Erklären → Schreiben) als Diagnose- und Trainingsinstrument für abstrakte Code-Komprehension
 
 ### Aktivierung / Handlungsorientierung
 - [[handlungsorientierter-unterricht]] — Vollständige Handlung als Unterrichtsprinzip
@@ -278,6 +320,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[engagement-theory]] — Relate-Create-Donate erzwingt aktives Handeln mit echtem Adressaten
 - [[live-coding-lehrmethode]] — Partizipatives Live Coding aktiviert durch Mitprogrammieren und Predict-Pausen
 - [[aktivierung-lehrervortrag]] — Mikromethoden (Murmelphase, Think-Pair-Share, Minutenpapier, Retrieval-Einschub) unterbrechen Vortrag für aktives Denken
+- [[icap-framework]] — Entscheidungsbaum P → A → C → I und Up-grading-Patterns für jede Unterrichtsaktivität
 
 ### Aufgaben- und Materialdesign
 - [[cognitive-load-theory]] — Extrinsische Belastung minimieren, lernförderliche maximieren
@@ -299,6 +342,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[neurodidaktik-programmieren]] — fMRI-basierte Begründung für sprechende Bezeichner, Code-Lesen vor Code-Schreiben, multimodale Darstellung
 - [[generative-learning-aktivitaeten]] — Acht evidenzbasierte Aufgabentypen (Drawing, Mapping, Self-Explaining, Teaching, Enacting …) jenseits von "Code schreiben" als Widget-Generator
 - [[direct-instruction-rosenshine]] — Rosenshines zehn Prinzipien: kleine Schritte, Modeling, Checks for Understanding, Scaffolding, hohe Erfolgsquote
+- [[vier-komponenten-instruktionsdesign]] — Supportive Info, JIT und Part-Task Practice als Kategorien für Materialtypen; Learning Tasks als Aufgabenserien
+- [[icap-framework]] — ICAP-Klassifikation als Meta-Layer über Widget-/Aufgabenkatalogen mit Design-Heuristik "erst C, wenn Output über Input hinausgeht"
+- [[interleaving]] — Mischungsdichte, Wechselstrategien und Kategorie-Ähnlichkeit als Dimensionen für Aufgabenserie-Design
 
 ### Debugging und Fehlerkultur
 - [[debugging-als-kompetenz]] — Debugging als eigenständige, lehrbare Kompetenz
@@ -308,6 +354,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[poe-methode]] — Predict-Observe-Explain als Diagnose-Instrument für Misconceptions
 - [[notional-machines]] — Falsche Notional Machines als Wurzel der meisten Programmier-Misconceptions — Diagnostik per Code-Tracing
 - [[live-coding-lehrmethode]] — Deliberate Mistakes und Live-Debugging als Fehlerkultur-Modellierung
+- [[kritische-ki-bewertungskompetenz]] — Halluzinations-Typen in Code (fabrizierte APIs, veraltete Syntax, Security-Anti-Patterns) und Verifikations-Routinen als Schüler-Kompetenz
+- [[ki-prompt-handwerk]] — Prompting als Handwerk (nicht Engineering): Anti-Patterns (ChatGPT-Dump, Single-Shot-Optimismus) und Output-Refactoring
 
 ### Feedback und Lernstandsdiagnostik
 - [[formatives-assessment]] — Fünf Schlüsselstrategien für Assessment FOR Learning
@@ -323,6 +371,11 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[testitem-konstruktion-digital]] — Konstruktionsregeln für QTI-Items mit Cue-Vermeidung und Misconception-basierten Distraktoren
 - [[feedback-lernumgebungen]] — Hattie-4-Level-Modell und Wisniewski-Meta-Analyse als Design-Rahmen für automatisiertes Feedback inklusive LLM-Guardrails
 - [[llm-as-grader]] — Automatisierte Bewertung von Short-Answer und Code mit Rubric-Engineering, Reasoning-First-Prompts und Human-Review-Tier
+- [[mastery-learning]] — Feedback + Correctives als didaktischer Zyklus; Regel "Correctives müssen kognitiv anders sein als Original-Instruktion"
+- [[rubric-design]] — Kriterien-Entwicklung, Descriptor-Design mit Verhaltensanchors, Reliabilitäts- und Bias-Kontrolle (Cohen's Kappa, QWK)
+- [[fachgespraech-didaktik]] — Oral Assessment mit Rubric, Wait Time und Follow-up-Strategien als KI-resistentes Prüfungsformat
+- [[explain-in-plain-english]] — EiPE mit SOLO-Rubric als diagnostisches Instrument; Autograding via LLM (Fowler 2021: ~88% Accuracy)
+- [[ki-integritaet-pruefungsleistung]] — Prozess-Portfolio, mündliche Verteidigung und Deklarationspraxis als Detektions-Alternative
 
 ### Selbstständiges Lernen fördern
 - [[selbstgesteuertes-lernen]] — Drei-Phasen-Modell zur Förderung eigenständiger Lernkompetenz
@@ -334,6 +387,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[lerntagebuch]] — Schriftliche Reflexion fördert Metakognition und Selbstregulation
 - [[self-determination-theory]] — Autonomie als Basis für Selbststeuerung
 - [[self-explanation]] — Generative Erklärstrategien als Schutz vor "Illusion of Understanding" und Cognitive Offloading
+- [[desirable-difficulties]] — Fluency-Illusion-Countermeasures und Meta-Framing für Lernende, die "schweres Üben" ablehnen
+- [[abschlussprojekt-begleitung]] — Projektphase als Selbstregulations-Kompetenz: Begleitung durch fragendes Review statt Korrektur
 
 ### Motivation und Engagement
 - [[gamification-it-unterricht]] — Spielelemente für Motivation und Engagement
@@ -345,6 +400,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[engagement-theory]] — Relate-Create-Donate als Designcheckliste
 - [[low-floor-high-ceiling]] — Schwache und starke Lernende gleichermaßen begeistern
 - [[interactive-fiction-twine]] — Branching Narratives als Low-Cost-Motivator: Entscheidung erleben statt abfragen
+- [[belonging-interventionen]] — Zugehörigkeits-Uncertainty als Motivations-Killer; brief social-belonging intervention als operationalisierter Hebel
 
 ### KI im Unterricht
 - [[ki-gestuetztes-tutoring]] — Stufenmodell für den Einsatz von KI-Tutoring-Systemen
@@ -364,6 +420,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[feedback-lernumgebungen]] — LLM-Feedback-Evidenz (Dai 2023, Phung 2024): Task-Ebene gut, Self-Regulation praktisch nie — Guardrails gegen Überlob und Halluzination
 - [[self-explanation]] — Pflicht-Widget nach KI-Antwort als empirisches Gegenmittel zum Offloading-Effekt (Gerlich 2025, −17% Konzeptverständnis bei ungeleitetem AI-Gebrauch)
 - [[llm-as-grader]] — Rubric-Engineering, EiPE + Code Generation Based Grading, Governance-Pattern LLM-first/Human-final
+- [[fachgespraech-didaktik]] — KI-gestützte Prüfer-Simulation (Realtime-Voice) als Trainingspartner für AP2-Fachgespräch — DSGVO-bewusst eingesetzt
+- [[imposter-phaenomen-it-azubis]] — LLM-Ära als Imposter-Beschleuniger ("Copilot kann das eh besser"); didaktische Gegenstrategien
+- [[icap-framework]] — Warum Overt-Klassifikation allein keine Lerndiagnose ist: formatives Assessment als empirisch tragfähiger Ersatz (Thurn et al. 2023)
 
 ### Wissensretention / Nachhaltiges Lernen
 - [[retrieval-practice]] — Testing Effect, Spaced Repetition und Interleaving für langfristiges Behalten
@@ -372,6 +431,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[spaced-repetition-algorithmen]] — Algorithmen-Katalog mit Pseudocode
 - [[spaced-repetition-scheduler-bauen]] — Implementierungs-Praxis für SR-Scheduler (AP1-Trainer-Designbeispiel)
 - [[deskilling-ki-codegenerierung]] — Evidenz zu Skill-Erosion durch KI-Codegenerierung und Interventionsstrategien
+- [[desirable-difficulties]] — Bjorks SS/RS-Modell, Performance-Learning-Dissoziation und operativer Katalog für nachhaltiges Lernen
+- [[interleaving]] — Diskrimination verwechselbarer Konstrukte durch Mix (g = 0,42) — Grenzen bei Novizen und disparaten Inhalten
 
 ### Plattform- und Systemdesign
 - [[learning-engineering]] — Prinzipien für den Aufbau datengetriebener Lernsysteme
@@ -391,6 +452,9 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[ki-tool-auswahl-berufsschule]] — Entscheidungsrubrics, die Architekturentscheidungen vorbereiten (client-only vs. API vs. Landes-Chatbot)
 - [[browser-ide-gestuetzte-tutorials]] — Format als architektonische Alternative zu selbstgehosteten Code-Sandboxes
 - [[rag-tutoring-systeme]] — RAG als Enabling Technology für domänenspezifische KI-Tutoren (Architektur, Tech-Stack, Evidenz)
+- [[desirable-difficulties]] — Curriculare Gesamtstrategie (Spacing, Interleaving, Retrieval, Generation) als Plattform-Designprinzip
+- [[interleaving]] — Scheduler-Design mit Criterion-basierter Kategorie-Rotation und Hybrid-Strategie (Blocked start, interleaved follow-up)
+- [[mastery-learning]] — Gated Progression, Feedback-Correctives-Zyklus, Item-Banken mit Isomorphen als didaktischer Rahmen für Plattform-Architektur
 
 ### Lernzielformulierung
 - [[blooms-taxonomie]] — Sechs Kompetenzstufen mit Operatoren für Lernziele
@@ -403,3 +467,5 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[lernortkooperation-transfer]] — Systematische Verzahnung von Berufsschule und Betrieb als Planungsrahmen
 - [[unterrichtsphasen-artikulation]] — Einstieg/Erarbeitung/Sicherung/Transfer als Rückgrat jeder Stunde und Präsentation
 - [[direct-instruction-rosenshine]] — Zehn Prinzipien evidenzbasierter Instruktion als Sequenzierungsraster
+- [[vier-komponenten-instruktionsdesign]] — 4C/ID als Blueprint für ganze Lernsituations-Serien mit Task Classes und Sawtooth-Fading
+- [[ihk-pruefungskatalog-2025]] — Curriculum-Update 2025: welche Materialien archivieren, welche neu bauen (UML, BPMN, TDD, KI)

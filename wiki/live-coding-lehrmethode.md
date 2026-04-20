@@ -17,6 +17,8 @@ related:
   - "[[neurodidaktik-programmieren]]"
   - "[[pair-programming-unterricht]]"
   - "[[code-review-unterricht]]"
+  - "[[icap-framework]]"
+  - "[[fachgespraech-didaktik]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [plenum, einzelarbeit]

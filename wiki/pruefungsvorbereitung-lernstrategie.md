@@ -20,6 +20,12 @@ related:
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[spaced-repetition-scheduler-bauen]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[desirable-difficulties]]"
+  - "[[interleaving]]"
+  - "[[fachgespraech-didaktik]]"
+  - "[[ihk-pruefungskatalog-2025]]"
+  - "[[abschlussprojekt-begleitung]]"
+  - "[[ki-nutzungsregeln-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-08

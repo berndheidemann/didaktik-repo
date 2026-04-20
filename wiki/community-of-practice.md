@@ -17,6 +17,8 @@ related:
   - "[[expertise-entwicklung]]"
   - "[[sprachsensibler-it-unterricht]]"
   - "[[lernortkooperation-transfer]]"
+  - "[[imposter-phaenomen-it-azubis]]"
+  - "[[belonging-interventionen]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 created: 2026-04-07

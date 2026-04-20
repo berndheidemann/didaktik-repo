@@ -36,6 +36,7 @@ related:
   - "[[rag-tutoring-systeme]]"
   - "[[feedback-lernumgebungen]]"
   - "[[llm-as-grader]]"
+  - "[[fachgespraech-didaktik]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit]

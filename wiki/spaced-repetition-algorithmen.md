@@ -15,6 +15,9 @@ related:
   - "[[primm-methode]]"
   - "[[worked-examples]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[desirable-difficulties]]"
+  - "[[interleaving]]"
+  - "[[mastery-learning]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-09

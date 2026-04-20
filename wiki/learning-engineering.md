@@ -20,6 +20,8 @@ related:
   - "[[spaced-repetition-algorithmen]]"
   - "[[threshold-concepts]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[desirable-difficulties]]"
+  - "[[mastery-learning]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07

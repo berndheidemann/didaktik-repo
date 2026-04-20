@@ -23,6 +23,7 @@ related:
   - "[[feedback-lernumgebungen]]"
   - "[[self-explanation]]"
   - "[[llm-as-grader]]"
+  - "[[ki-nutzungsregeln-unterricht]]"
 evidenzgrad: rct
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]

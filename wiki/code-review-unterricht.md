@@ -21,6 +21,13 @@ related:
   - "[[expertise-entwicklung]]"
   - "[[wissensretention-programmierung]]"
   - "[[live-coding-lehrmethode]]"
+  - "[[icap-framework]]"
+  - "[[rubric-design]]"
+  - "[[fachgespraech-didaktik]]"
+  - "[[explain-in-plain-english]]"
+  - "[[abschlussprojekt-begleitung]]"
+  - "[[kritische-ki-bewertungskompetenz]]"
+  - "[[ki-prompt-handwerk]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [partner, gruppe]

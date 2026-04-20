@@ -17,6 +17,9 @@ related:
   - "[[selbstgesteuertes-lernen]]"
   - "[[spaced-repetition-scheduler-bauen]]"
   - "[[rag-tutoring-systeme]]"
+  - "[[desirable-difficulties]]"
+  - "[[interleaving]]"
+  - "[[mastery-learning]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07

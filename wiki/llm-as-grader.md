@@ -12,6 +12,8 @@ related:
   - "[[evaluation-lernumgebungen]]"
   - "[[feedback-lernumgebungen]]"
   - "[[rag-tutoring-systeme]]"
+  - "[[rubric-design]]"
+  - "[[explain-in-plain-english]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 evidenzgrad: meta-analyse

@@ -39,6 +39,8 @@ related:
   - "[[interactive-fiction-twine]]"
   - "[[explorable-explanations-im-unterricht]]"
   - "[[self-explanation]]"
+  - "[[desirable-difficulties]]"
+  - "[[interleaving]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]

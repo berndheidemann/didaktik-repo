@@ -15,6 +15,9 @@ related:
   - "[[blooms-taxonomie]]"
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
   - "[[ki-tool-auswahl-berufsschule]]"
+  - "[[ki-nutzungsregeln-unterricht]]"
+  - "[[kritische-ki-bewertungskompetenz]]"
+  - "[[ki-prompt-handwerk]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, bewerten]
 created: 2026-04-09

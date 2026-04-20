@@ -13,6 +13,9 @@ related:
   - "[[ki-erfahrungsberichte-berufliche-bildung]]"
   - "[[browser-ide-gestuetzte-tutorials]]"
   - "[[evaluation-lernumgebungen]]"
+  - "[[ki-nutzungsregeln-unterricht]]"
+  - "[[kritische-ki-bewertungskompetenz]]"
+  - "[[ki-prompt-handwerk]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit]

@@ -13,6 +13,13 @@ related:
   - "[[ki-tutoring-evidenzlage]]"
   - "[[productive-failure]]"
   - "[[cognitive-load-theory]]"
+  - "[[icap-framework]]"
+  - "[[desirable-difficulties]]"
+  - "[[fachgespraech-didaktik]]"
+  - "[[explain-in-plain-english]]"
+  - "[[ki-nutzungsregeln-unterricht]]"
+  - "[[kritische-ki-bewertungskompetenz]]"
+  - "[[ki-prompt-handwerk]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-18

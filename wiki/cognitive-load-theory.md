@@ -43,6 +43,10 @@ related:
   - "[[explorable-explanations-im-unterricht]]"
   - "[[testitem-konstruktion-digital]]"
   - "[[self-explanation]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[icap-framework]]"
+  - "[[desirable-difficulties]]"
+  - "[[interleaving]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-07

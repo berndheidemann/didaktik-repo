@@ -41,6 +41,12 @@ related:
   - "[[generative-learning-aktivitaeten]]"
   - "[[subgoal-labeling]]"
   - "[[self-explanation]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[icap-framework]]"
+  - "[[desirable-difficulties]]"
+  - "[[interleaving]]"
+  - "[[mastery-learning]]"
+  - "[[imposter-phaenomen-it-azubis]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]

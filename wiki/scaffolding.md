@@ -55,6 +55,10 @@ related:
   - "[[cognitive-task-analysis]]"
   - "[[subgoal-labeling]]"
   - "[[feedback-lernumgebungen]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[mastery-learning]]"
+  - "[[rubric-design]]"
+  - "[[imposter-phaenomen-it-azubis]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]

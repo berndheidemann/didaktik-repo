@@ -53,6 +53,13 @@ related:
   - "[[testitem-konstruktion-digital]]"
   - "[[feedback-lernumgebungen]]"
   - "[[llm-as-grader]]"
+  - "[[icap-framework]]"
+  - "[[mastery-learning]]"
+  - "[[rubric-design]]"
+  - "[[fachgespraech-didaktik]]"
+  - "[[explain-in-plain-english]]"
+  - "[[ki-nutzungsregeln-unterricht]]"
+  - "[[ki-integritaet-pruefungsleistung]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]

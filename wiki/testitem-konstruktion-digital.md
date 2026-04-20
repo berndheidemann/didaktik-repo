@@ -16,6 +16,10 @@ related:
   - "[[cognitive-load-theory]]"
   - "[[evaluation-lernumgebungen]]"
   - "[[llm-as-grader]]"
+  - "[[rubric-design]]"
+  - "[[ihk-pruefungskatalog-2025]]"
+  - "[[ki-integritaet-pruefungsleistung]]"
+  - "[[kritische-ki-bewertungskompetenz]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren]
 evidenzgrad: meta-analyse

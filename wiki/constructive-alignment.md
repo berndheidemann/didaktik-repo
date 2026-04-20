@@ -25,6 +25,10 @@ related:
   - "[[lernortkooperation-transfer]]"
   - "[[cognitive-task-analysis]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[mastery-learning]]"
+  - "[[rubric-design]]"
+  - "[[ihk-pruefungskatalog-2025]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-07

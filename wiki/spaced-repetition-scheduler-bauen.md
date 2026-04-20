@@ -15,6 +15,8 @@ related:
   - "[[parsons-problems]]"
   - "[[primm-methode]]"
   - "[[worked-examples]]"
+  - "[[desirable-difficulties]]"
+  - "[[interleaving]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-09

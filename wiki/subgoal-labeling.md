@@ -20,6 +20,8 @@ related:
   - "[[differenzierung-inklusion]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[self-explanation]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[icap-framework]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden]
 sozialform: [einzelarbeit, partner]

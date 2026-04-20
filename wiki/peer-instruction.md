@@ -21,6 +21,8 @@ related:
   - "[[wissensretention-programmierung]]"
   - "[[generative-learning-aktivitaeten]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[icap-framework]]"
+  - "[[explain-in-plain-english]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]

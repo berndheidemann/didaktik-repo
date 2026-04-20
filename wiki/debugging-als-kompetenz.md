@@ -28,6 +28,9 @@ related:
   - "[[notional-machines]]"
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
+  - "[[explain-in-plain-english]]"
+  - "[[kritische-ki-bewertungskompetenz]]"
+  - "[[ki-prompt-handwerk]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit, partner]

@@ -28,6 +28,12 @@ related:
   - "[[generative-learning-aktivitaeten]]"
   - "[[feedback-lernumgebungen]]"
   - "[[self-explanation]]"
+  - "[[desirable-difficulties]]"
+  - "[[interleaving]]"
+  - "[[fachgespraech-didaktik]]"
+  - "[[abschlussprojekt-begleitung]]"
+  - "[[imposter-phaenomen-it-azubis]]"
+  - "[[kritische-ki-bewertungskompetenz]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]

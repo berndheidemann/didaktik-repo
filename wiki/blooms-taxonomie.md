@@ -28,6 +28,11 @@ related:
   - "[[retrieval-practice]]"
   - "[[ki-kompetenzrahmen-schule]]"
   - "[[testitem-konstruktion-digital]]"
+  - "[[icap-framework]]"
+  - "[[rubric-design]]"
+  - "[[explain-in-plain-english]]"
+  - "[[ihk-pruefungskatalog-2025]]"
+  - "[[ki-nutzungsregeln-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren, bewerten, erschaffen]
 created: 2026-04-07

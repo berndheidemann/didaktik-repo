@@ -16,6 +16,7 @@ related:
   - "[[code-review-unterricht]]"
   - "[[peer-instruction]]"
   - "[[spaced-repetition-scheduler-bauen]]"
+  - "[[desirable-difficulties]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]

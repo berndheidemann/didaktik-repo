@@ -18,6 +18,14 @@ related:
   - "[[lernortkooperation-transfer]]"
   - "[[testitem-konstruktion-digital]]"
   - "[[llm-as-grader]]"
+  - "[[mastery-learning]]"
+  - "[[rubric-design]]"
+  - "[[fachgespraech-didaktik]]"
+  - "[[explain-in-plain-english]]"
+  - "[[ihk-pruefungskatalog-2025]]"
+  - "[[abschlussprojekt-begleitung]]"
+  - "[[ki-nutzungsregeln-unterricht]]"
+  - "[[ki-integritaet-pruefungsleistung]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

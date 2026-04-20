@@ -14,6 +14,7 @@ related:
   - "[[subgoal-labeling]]"
   - "[[effektstaerken-unterricht]]"
   - "[[cognitive-apprenticeship]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 evidenzgrad: meta-analyse

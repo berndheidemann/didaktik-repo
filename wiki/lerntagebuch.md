@@ -17,6 +17,10 @@ related:
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[lernortkooperation-transfer]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[abschlussprojekt-begleitung]]"
+  - "[[ki-integritaet-pruefungsleistung]]"
+  - "[[kritische-ki-bewertungskompetenz]]"
+  - "[[ki-prompt-handwerk]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit]

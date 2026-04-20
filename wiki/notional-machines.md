@@ -15,6 +15,7 @@ related:
   - "[[parsons-problems]]"
   - "[[use-modify-create]]"
   - "[[direct-manipulation-lernumgebungen]]"
+  - "[[explain-in-plain-english]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 created: 2026-04-10

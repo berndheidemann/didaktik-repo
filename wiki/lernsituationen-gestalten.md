@@ -23,6 +23,11 @@ related:
   - "[[lernortkooperation-transfer]]"
   - "[[cognitive-task-analysis]]"
   - "[[interactive-fiction-twine]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[rubric-design]]"
+  - "[[ihk-pruefungskatalog-2025]]"
+  - "[[abschlussprojekt-begleitung]]"
+  - "[[ki-nutzungsregeln-unterricht]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]

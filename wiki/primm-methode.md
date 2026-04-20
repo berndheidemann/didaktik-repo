@@ -30,6 +30,9 @@ related:
   - "[[notional-machines]]"
   - "[[live-coding-lehrmethode]]"
   - "[[generative-learning-aktivitaeten]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[icap-framework]]"
+  - "[[explain-in-plain-english]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [partner, gruppe, einzelarbeit]

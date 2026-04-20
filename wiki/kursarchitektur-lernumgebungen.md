@@ -17,6 +17,8 @@ related:
   - "[[differenzierung-inklusion]]"
   - "[[anchored-instruction]]"
   - "[[interactive-fiction-twine]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[mastery-learning]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 created: 2026-04-07

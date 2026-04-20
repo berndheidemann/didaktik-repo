@@ -12,6 +12,7 @@ related:
   - "[[anchored-instruction]]"
   - "[[interaktive-lernumgebungen]]"
   - "[[fehlerkultur-im-unterricht]]"
+  - "[[icap-framework]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren, bewerten]
 sozialform: [einzelarbeit, partner, plenum]

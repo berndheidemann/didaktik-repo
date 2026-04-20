@@ -11,6 +11,7 @@ related:
   - "[[kooperatives-lernen]]"
   - "[[direct-instruction-rosenshine]]"
   - "[[unterrichtsphasen-artikulation]]"
+  - "[[icap-framework]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 sozialform: [einzelarbeit, partner, plenum]

@@ -31,6 +31,8 @@ related:
   - "[[subgoal-labeling]]"
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[explain-in-plain-english]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren, bewerten]
 created: 2026-04-07

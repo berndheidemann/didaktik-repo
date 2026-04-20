@@ -25,6 +25,9 @@ related:
   - "[[pair-programming-unterricht]]"
   - "[[ki-tutoring-evidenzlage]]"
   - "[[feedback-lernumgebungen]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
+  - "[[mastery-learning]]"
+  - "[[rubric-design]]"
 evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]

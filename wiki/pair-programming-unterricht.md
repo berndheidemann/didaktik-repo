@@ -24,6 +24,12 @@ related:
   - "[[effektstaerken-unterricht]]"
   - "[[expertise-entwicklung]]"
   - "[[live-coding-lehrmethode]]"
+  - "[[icap-framework]]"
+  - "[[rubric-design]]"
+  - "[[imposter-phaenomen-it-azubis]]"
+  - "[[belonging-interventionen]]"
+  - "[[ki-integritaet-pruefungsleistung]]"
+  - "[[ki-prompt-handwerk]]"
 evidenzgrad: meta-analyse
 audience: [FIAE]
 taxonomiestufe: [anwenden, analysieren]

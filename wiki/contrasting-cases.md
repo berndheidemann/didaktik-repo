@@ -13,6 +13,8 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[formatives-assessment]]"
   - "[[anchored-instruction]]"
+  - "[[desirable-difficulties]]"
+  - "[[interleaving]]"
 evidenzgrad: quasi-experimentell
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren, bewerten]

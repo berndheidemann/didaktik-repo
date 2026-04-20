@@ -16,6 +16,7 @@ related:
   - "[[formatives-assessment]]"
   - "[[lernortkooperation-transfer]]"
   - "[[subgoal-labeling]]"
+  - "[[vier-komponenten-instruktionsdesign]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner]
