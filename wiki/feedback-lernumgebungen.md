@@ -16,6 +16,7 @@ related:
   - "[[prompt-engineering-didaktisch]]"
   - "[[mastery-learning]]"
   - "[[rubric-design]]"
+  - "[[llm-as-grader]]"
   - "[[fachgespraech-didaktik]]"
   - "[[abschlussprojekt-begleitung]]"
   - "[[imposter-phaenomen-it-azubis]]"
