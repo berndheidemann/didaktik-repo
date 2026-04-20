@@ -11,7 +11,6 @@ related:
   - "[[worked-examples]]"
   - "[[expertise-entwicklung]]"
   - "[[scaffolding]]"
-  - "[[neurodidaktik-programmieren]]"
   - "[[parsons-problems]]"
   - "[[use-modify-create]]"
   - "[[direct-manipulation-lernumgebungen]]"
@@ -121,7 +120,6 @@ Wer "3" antwortet, hat eine Kopie-statt-Referenz-Notional-Machine — ein klares
 - [[worked-examples]] — Annotierte Beispiele machen die korrekte Notional Machine beobachtbar
 - [[expertise-entwicklung]] — Tracing → Explaining → Writing als NM-Aufbauprozess
 - [[scaffolding]] — Gestufte Notional Machines als konzeptuelles Scaffolding
-- [[neurodidaktik-programmieren]] — fMRI: Code-Verstehen belastet Arbeitsgedächtnis, NM entlastet
 - [[parsons-problems]] — Sortieraufgaben erzwingen mentale Ausführung bei reduzierter Last
 - [[use-modify-create]] — Tracing-Progression: lesen → anpassen → erstellen
 - [[direct-manipulation-lernumgebungen]] — Tracing-Widgets als Direct-Manipulation-Umsetzung

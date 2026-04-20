@@ -6,7 +6,6 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[learning-engineering]]"
   - "[[self-determination-theory]]"
-  - "[[flow-theorie]]"
   - "[[low-floor-high-ceiling]]"
   - "[[productive-failure]]"
   - "[[selbstgesteuertes-lernen]]"
@@ -161,7 +160,6 @@ Ein Entwickler, der eine Lernumgebung aufbaut oder umbaut, sollte:
 - [[interaktive-lernumgebungen]] — dieser Artikel ist die Architektur-Ebene über den dortigen Gestaltungsprinzipien
 - [[learning-engineering]] — Mastery-Gate und Knowledge Graph sind die Architektur-Implementierungen der dortigen Plattform-Prinzipien
 - [[self-determination-theory]] — Architekturwahl entscheidet primär über Autonomie-Erleben
-- [[flow-theorie]] — Pacing und Tension Curves sind Architektur-Themen, nicht Aufgaben-Themen
 - [[low-floor-high-ceiling]] — Hub-and-Spoke ist die Architektur, in der LFHC-Aufgaben zur Geltung kommen
 - [[productive-failure]] — funktioniert nur in Mastery- oder Sandbox-Architekturen
 - [[selbstgesteuertes-lernen]] — setzt Architekturen mit Wahlmöglichkeiten voraus

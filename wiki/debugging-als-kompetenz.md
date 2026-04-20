@@ -24,7 +24,6 @@ related:
   - "[[gamification-it-unterricht]]"
   - "[[poe-methode]]"
   - "[[deskilling-ki-codegenerierung]]"
-  - "[[neurodidaktik-programmieren]]"
   - "[[notional-machines]]"
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"

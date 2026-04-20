@@ -1,7 +1,7 @@
 ---
 title: Affektive Dimensionen des Programmierenlernens
 type: theorie
-tags: [motivation, selbstwirksamkeit, growth-mindset, angst, dropout, inklusion, mastery-goals]
+tags: [motivation, selbstwirksamkeit, growth-mindset, angst, dropout, inklusion, mastery-goals, flow, challenge-skill-balance]
 related:
   - "[[selbstgesteuertes-lernen]]"
   - "[[scaffolding]]"
@@ -12,7 +12,6 @@ related:
   - "[[cognitive-apprenticeship]]"
   - "[[community-of-practice]]"
   - "[[wissensretention-programmierung]]"
-  - "[[flow-theorie]]"
   - "[[self-determination-theory]]"
   - "[[computational-action]]"
   - "[[sprachsensibler-it-unterricht]]"
@@ -75,6 +74,16 @@ Walton & Cohen (2011): Eine einstündige Intervention (Lesen/Schreiben über "Zu
 
 Drei Grundbedürfnisse für intrinsische Motivation: **Autonomie** (Wahlmöglichkeiten), **Kompetenzerleben** (Aufgaben in der ZPD, vgl. [[scaffolding]]) und **soziale Eingebundenheit** (Lerngemeinschaft, vgl. [[pair-programming-unterricht]]). Sind alle drei erfüllt, entsteht intrinsische Motivation — die nachhaltigste Form. [[gamification-it-unterricht]] wirkt nur, wenn es diese Bedürfnisse anspricht, nicht durch reine Punktevergabe.
 
+### Flow und Challenge-Skill-Balance (Csíkszentmihályi, 1990)
+
+Flow ist der Zustand völliger Versenkung — die Tätigkeit fühlt sich an, als würde sie sich von selbst tun. Er entsteht im schmalen Korridor zwischen *Langeweile* (Aufgabe zu leicht) und *Angst* (Aufgabe zu schwer) — die Herausforderung muss das wahrgenommene Können knapp übersteigen. Programmieren ist neben Sport und Musik einer der häufigsten Flow-Auslöser im Alltag, weil Compiler und Tests sofortiges, eindeutiges Feedback liefern. Fong, Zaleski & Leach (2015) bestätigen in einer Meta-Analyse über 28 Studien den Effekt der Challenge-Skill-Balance auf Flow-Erleben mit mittlerer Effektstärke.
+
+**Kernkomponenten im Programmierunterricht:** Klare Microgoals ("Funktion X soll für Input Y den Wert Z liefern"), Feedback unter 3 Sekunden (REPL, Test-Watcher, Hot Reload), ungestörte Blöcke ≥ 25 Minuten, Kontrollgefühl durch IDE-Geläufigkeit, autotelisches Framing ("weil es ein cooles Werkzeug ergibt" statt "weil es in der Prüfung kommt").
+
+**Flow-Killer im Berufsschulunterricht:** Unterbrechungen alle 10 Minuten (Klassengespräch, Tafelbild), niveaufalsche Einheitsaufgaben, verzögertes Feedback bis zur nächsten Stunde, Performance-Druck statt Mastery-Framing. **Flow-Verstärker:** [[low-floor-high-ceiling]]-Aufgaben (jede:r findet eigenen Channel), Test-driven Lernen, Doppelstunden-Blöcke, adaptive Schwierigkeit in interaktiven Lernumgebungen.
+
+Flow steht nicht im Widerspruch zu [[cognitive-load-theory]]: Bei Novizen ist das Können niedrig — also auch die Herausforderung niedrig. Flow ist nicht "schwer", sondern "passend schwer". Challenge-Skill-Balance wächst diagonal mit Expertise.
+
 ### Achievement Goals: Mastery vs. Performance
 
 Dweck (1986) und Elliot & McGregor (2001) unterscheiden zwei Zielorientierungen, die Lernende verfolgen können: **Mastery Goals** zielen auf Verständnis und Kompetenzzuwachs ("Ich will das wirklich kapieren"), **Performance Goals** auf Vergleich und Anerkennung ("Ich will besser sein als die anderen").
@@ -122,3 +131,5 @@ Ein Agent kann die affektive Dimension aktiv gestalten:
 - Connolly, C. et al. (2009). An Exploration of Programming Anxiety amongst CS Students. Proceedings of PPIG 2009.
 - Dweck, C. S. (1986). Motivational processes affecting learning. American Psychologist, 41(10), 1040-1048.
 - Elliot, A. J. & McGregor, H. A. (2001). A 2 × 2 achievement goal framework. Journal of Personality and Social Psychology, 80(3), 501-519.
+- Csíkszentmihályi, M. (1990). Flow: The Psychology of Optimal Experience. Harper & Row.
+- Fong, C. J., Zaleski, D. J. & Leach, J. K. (2015). The challenge-skill balance and antecedents of flow: A meta-analytic investigation. Journal of Positive Psychology, 10(5), 425-446.

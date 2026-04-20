@@ -15,7 +15,6 @@ related:
   - "[[datenschutz-lernumgebungen]]"
   - "[[differenzierung-inklusion]]"
   - "[[direct-manipulation-lernumgebungen]]"
-  - "[[neurodidaktik-programmieren]]"
   - "[[generative-learning-aktivitaeten]]"
   - "[[subgoal-labeling]]"
   - "[[explorable-explanations-im-unterricht]]"

@@ -12,7 +12,6 @@ related:
   - "[[community-of-practice]]"
   - "[[pair-programming-unterricht]]"
   - "[[low-floor-high-ceiling]]"
-  - "[[flow-theorie]]"
   - "[[intrinsic-integration]]"
   - "[[engagement-theory]]"
   - "[[computational-action]]"
@@ -113,7 +112,6 @@ Ein Agent kann SDT operationalisieren:
 - [[community-of-practice]] — Verbundenheit als Strukturprinzip
 - [[pair-programming-unterricht]] — Verbundenheit konkret in Methode gegossen
 - [[low-floor-high-ceiling]] — Wide Walls erfüllt Autonomie strukturell
-- [[flow-theorie]] — Kompetenzerleben überlappt mit Flow
 - [[anchored-instruction]] — Kontextstabilität unterstützt Kompetenz- und Verbundenheits-Erleben
 
 ## Quellen

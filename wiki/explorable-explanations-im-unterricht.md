@@ -12,7 +12,6 @@ related:
   - "[[productive-failure]]"
   - "[[anchored-instruction]]"
   - "[[flipped-classroom]]"
-  - "[[flow-theorie]]"
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 sozialform: [einzelarbeit, partner]
@@ -161,7 +160,6 @@ Wer ein eigenes Explorable-Format in eine selbst gebaute Lernumgebung integriere
 - [[productive-failure]] — Exploration ist eine milde Form des "erst scheitern, dann instruieren"
 - [[anchored-instruction]] — Explorable als Anker für eine längere Lernsituation
 - [[flipped-classroom]] — Explorable als Pre-Class-Material
-- [[flow-theorie]] — Challenge-Skill-Balance durch getaktete Mikro-Interaktionen
 
 ## Quellen
 

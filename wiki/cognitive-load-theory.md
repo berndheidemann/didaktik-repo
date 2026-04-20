@@ -19,7 +19,6 @@ related:
   - "[[peer-instruction]]"
   - "[[retrieval-practice]]"
   - "[[threshold-concepts]]"
-  - "[[flow-theorie]]"
   - "[[primm-methode]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[immersive-simulationen]]"

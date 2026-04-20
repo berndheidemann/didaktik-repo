@@ -22,7 +22,6 @@ related:
   - "[[contrasting-cases]]"
   - "[[learning-engineering]]"
   - "[[poe-methode]]"
-  - "[[neurodidaktik-programmieren]]"
   - "[[notional-machines]]"
   - "[[cognitive-task-analysis]]"
 audience: [FIAE, FIDP]

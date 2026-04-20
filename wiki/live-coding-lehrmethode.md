@@ -14,7 +14,6 @@ related:
   - "[[expertise-entwicklung]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[deskilling-ki-codegenerierung]]"
-  - "[[neurodidaktik-programmieren]]"
   - "[[pair-programming-unterricht]]"
   - "[[code-review-unterricht]]"
   - "[[icap-framework]]"
@@ -134,7 +133,6 @@ Lernende mit starken [[metakognition|metakognitiven]] Fähigkeiten profitieren v
 - [[expertise-entwicklung]] -- Experten-Novizen-Unterschiede sichtbar machen
 - [[ki-gestuetztes-tutoring]] -- KI-Tools als Gegenstand kritischer Analyse
 - [[deskilling-ki-codegenerierung]] -- KI-freie Phasen als Gegenstrategie
-- [[neurodidaktik-programmieren]] -- fMRI-Befunde begründen schrittweises Vorgehen
 - [[pair-programming-unterricht]] -- Partizipatives Live Coding als Vorstufe
 - [[code-review-unterricht]] -- Live Refactoring als Brücke zu Code Review
 

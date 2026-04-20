@@ -22,7 +22,6 @@ related:
   - "[[primm-methode]]"
   - "[[deskilling-ki-codegenerierung]]"
   - "[[lernortkooperation-transfer]]"
-  - "[[neurodidaktik-programmieren]]"
   - "[[live-coding-lehrmethode]]"
   - "[[cognitive-task-analysis]]"
   - "[[generative-learning-aktivitaeten]]"

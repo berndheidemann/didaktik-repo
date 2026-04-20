@@ -4,7 +4,6 @@ type: methode
 tags: [zeitmanagement, selbstorganisation, pomodoro, kanban, effort-estimation, prokrastination, ap2-projektarbeit, deep-work, katalog]
 related:
   - "[[selbstgesteuertes-lernen]]"
-  - "[[flow-theorie]]"
   - "[[productive-failure]]"
   - "[[affektive-dimensionen]]"
   - "[[metakognition]]"
@@ -95,7 +94,7 @@ Die Situation muss **konkret, beobachtbar, wiederkehrend** sein — kein "wenn i
 
 **Problem:** Programmieren und Lernen brauchen ungestörte Konzentration, aber jede Push-Notification zerlegt den mentalen Stack. Mark et al. (2008): Nach einer Unterbrechung dauert es im Schnitt **23 Minuten und 15 Sekunden**, bis man zum unterbrochenen Task zurückkehrt.
 
-**Umsetzung:** 90-120-Minuten-Blöcke im Kalender reservieren, 2x pro Woche ein solcher Block für AP2-Projektarbeit. Handy aus, Browser ohne Tabs, Discord zu. Ritual zum Einstieg (Tee, Kopfhörer, bestimmter Ort) senkt Startkosten. Deep Work ist die **Infrastruktur**, die [[flow-theorie]] erst möglich macht.
+**Umsetzung:** 90-120-Minuten-Blöcke im Kalender reservieren, 2x pro Woche ein solcher Block für AP2-Projektarbeit. Handy aus, Browser ohne Tabs, Discord zu. Ritual zum Einstieg (Tee, Kopfhörer, bestimmter Ort) senkt Startkosten. Deep Work ist die **Infrastruktur**, die [[affektive-dimensionen|Flow]] erst möglich macht.
 
 **Typische Fehler:** Deep Work mit Social-Media-Tab im Hintergrund. Zu viele Blöcke planen (2-4 pro Woche sind ambitioniert).
 
@@ -175,7 +174,6 @@ Setup initial: 1-2 h für Personal Kanban, Pomodoro-Timer, Kalender-Blöcke. Lau
 ## Verwandte Konzepte
 
 - [[selbstgesteuertes-lernen]] — Zimmerman-SRL liefert die *Theorie*; dieser Artikel die *Werkzeuge* für die Ressourcenmanagement-Komponente
-- [[flow-theorie]] — Deep Work Blocks + Pomodoro sind die *Infrastruktur*, die Flow ermöglicht
 - [[productive-failure]] — Spacing und Interleaving sind Desirable Difficulties im persönlichen Lernplan
 - [[affektive-dimensionen]] — Prokrastination ist primär affektiv; Kanban "Done"-Spalte erzeugt Mastery Experiences
 - [[metakognition]] — Weekly Review und Schätz-vs-Ist-Vergleich sind metakognitive Routinen

@@ -11,7 +11,6 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[productive-failure]]"
   - "[[self-determination-theory]]"
-  - "[[flow-theorie]]"
   - "[[primm-methode]]"
   - "[[use-modify-create]]"
   - "[[computational-action]]"
@@ -38,6 +37,16 @@ summary: >
 
 Eine gute Aufgabe braucht einen *niedrigen Boden* (jede:r kann sofort einsteigen, ohne Erklärung), eine *hohe Decke* (selbst Fortgeschrittene können Stunden produktiv vertiefen) und *breite Wände* (viele unterschiedliche Lösungswege und Produktformen sind möglich). Das Prinzip wird Seymour Papert zugeschrieben (im Kontext von Logo), auch wenn die Formulierung "Low Floor, High Ceiling" in *Mindstorms* (1980) nicht wörtlich vorkommt. Mitchel Resnick und Brian Silverman (2005) haben es für Scratch und das MIT Media Lab explizit ausformuliert und um die Wide-Walls-Dimension erweitert. Es ist das wirksamste Einzelprinzip gegen das Heterogenitätsproblem im IT-Unterricht — *eine* Aufgabe statt drei Niveaustufen.
 
+## Einordnung: LFHC vs. Differenzierung im Allgemeinen
+
+LFHC ist **ein** Aufgabendesign-Muster innerhalb des breiteren Rahmens aus [[differenzierung-inklusion]] (UDL, Tomlinson, Nachteilsausgleich, WCAG). Abgrenzung:
+
+- [[differenzierung-inklusion]] ist der **Dach-Rahmen** — strategische Perspektiven (Content/Process/Product/Environment nach Tomlinson), rechtliche Rahmen (SGB IX), Neurodiversität und Barrierefreiheit. Betrifft Unterrichtsplanung als Ganzes.
+- **LFHC** ist ein **operatives Muster für die einzelne Aufgabe** — wie ein Arbeitsauftrag so zugeschnitten wird, dass schwache und starke Lernende parallel produktiv arbeiten, ohne auf drei Niveaustufen aufgeteilt zu werden. Ergebnis auf Aufgabenebene.
+- [[scaffolding]] liefert die *Stützen* (Worked Example, Hinweis, Spoiler) innerhalb einer LFHC-Aufgabe.
+
+Kurz: `differenzierung-inklusion` = Warum und welcher Rahmen, `low-floor-high-ceiling` = Wie auf Aufgabenebene, `scaffolding` = Wie auf Unterstützungs-Ebene.
+
 ## Beschreibung
 
 ### Low Floor — der niedrige Einstieg
@@ -61,7 +70,7 @@ Die dritte Dimension: Diverse *Pfade* zur Lösung und diverse *Produktformen*. E
 | "Schwache" Aufgabe stigmatisiert | Alle arbeiten am gleichen Problem |
 | Aufwand: dreifache Aufgabenerstellung | Aufwand: gutes Aufgabendesign einmal |
 
-Das ist auch der Grund, warum LFHC-Aufgaben mit [[productive-failure]] und [[flow-theorie]] besonders gut harmonieren — die Schwierigkeit justiert sich am Lernenden, nicht am Aufgabenetikett.
+Das ist auch der Grund, warum LFHC-Aufgaben mit [[productive-failure]] und [[affektive-dimensionen|Flow]] besonders gut harmonieren — die Schwierigkeit justiert sich am Lernenden, nicht am Aufgabenetikett.
 
 ## Bezug zur IT-Ausbildung
 
@@ -103,7 +112,6 @@ Ein Agent kann LFHC systematisch in jede generierte Aufgabe einbauen:
 - [[lernsituationen-gestalten]] — LFHC als Designprinzip für ganze Lernsituationen
 - [[productive-failure]] — Hohe Decke ermöglicht produktives Scheitern für die Starken
 - [[self-determination-theory]] — Wide Walls erfüllt das Autonomie-Bedürfnis
-- [[flow-theorie]] — LFHC erlaubt jedem Lernenden seinen eigenen Flow-Channel
 - [[primm-methode]] — Floor-Sicherung über Predict/Run/Investigate
 - [[use-modify-create]] — Strukturierte LFHC-Progression für Code-Aufgaben
 - [[parsons-problems]] — Distraktor-Dichte als unsichtbare Höhenverstellung

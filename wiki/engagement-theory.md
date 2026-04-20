@@ -12,7 +12,6 @@ related:
   - "[[gamification-it-unterricht]]"
   - "[[immersive-simulationen]]"
   - "[[self-determination-theory]]"
-  - "[[flow-theorie]]"
   - "[[intrinsic-integration]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[kooperatives-lernen]]"
@@ -103,7 +102,6 @@ Ein Agent kann Engagement Theory als 30-Sekunden-Designcheckliste anwenden:
 - [[gamification-it-unterricht]] — Hackathons sind oft natürliche RCD-Container
 - [[immersive-simulationen]] — CTFs als Donate-fähige Showcases
 - [[self-determination-theory]] — Empirisch tiefere Schwesterntheorie, komplementär nutzen
-- [[flow-theorie]] — Echte Adressaten erhöhen Engagement und damit Flow-Wahrscheinlichkeit
 - [[intrinsic-integration]] — Donate ist eine Form, externes Engagement intrinsisch zu integrieren
 - [[anchored-instruction]] — Der Anker trägt das "Relate" über lange Zeiträume
 - [[direct-manipulation-lernumgebungen]] — Direct Manipulation ist eine Form des "Create" — aktives Hervorbringen statt Auswählen

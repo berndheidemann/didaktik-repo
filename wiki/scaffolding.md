@@ -27,7 +27,6 @@ related:
   - "[[productive-failure]]"
   - "[[threshold-concepts]]"
   - "[[low-floor-high-ceiling]]"
-  - "[[flow-theorie]]"
   - "[[primm-methode]]"
   - "[[use-modify-create]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
@@ -48,7 +47,6 @@ related:
   - "[[deskilling-ki-codegenerierung]]"
   - "[[rag-tutoring-systeme]]"
   - "[[lernortkooperation-transfer]]"
-  - "[[neurodidaktik-programmieren]]"
   - "[[generative-learning-aktivitaeten]]"
   - "[[notional-machines]]"
   - "[[live-coding-lehrmethode]]"
@@ -116,7 +114,7 @@ Signale für Fading-Bereitschaft: konsistent korrekte Ergebnisse, selbstständig
 
 ### Challenge Point Framework
 
-Guadagnoli & Lee (2004) führten **funktionale Schwierigkeit** ein: Die Lernwirksamkeit einer Aufgabe ergibt sich aus der nominalen Schwierigkeit *im Verhältnis zum* individuellen Skill-Stand. Eine objektiv mittelschwere Aufgabe ist für Novizen überfordernd, für Experten unterfordernd — nur die *relative* Schwierigkeit zählt. Ursprünglich aus der Motorik-Lernforschung, breit auf kognitive Domänen übertragen. Verwandt zu [[flow-theorie]] (Challenge-Skill-Balance).
+Guadagnoli & Lee (2004) führten **funktionale Schwierigkeit** ein: Die Lernwirksamkeit einer Aufgabe ergibt sich aus der nominalen Schwierigkeit *im Verhältnis zum* individuellen Skill-Stand. Eine objektiv mittelschwere Aufgabe ist für Novizen überfordernd, für Experten unterfordernd — nur die *relative* Schwierigkeit zählt. Ursprünglich aus der Motorik-Lernforschung, breit auf kognitive Domänen übertragen. Verwandt zu [[affektive-dimensionen|Flow]] (Challenge-Skill-Balance).
 
 **Für den Agent:** KI berechnet den Challenge Point aus Performance (Lösungsraten, Zeit, Fehlertypen) und Aufgabenattributen und kalibriert Aufgaben individuell statt klassenweit.
 
@@ -171,7 +169,6 @@ Ein Agent kann Scaffolding dynamisch anpassen:
 - [[worked-examples]] — Fading als Scaffolding-Strategie
 - [[selbstgesteuertes-lernen]] — Metakognitives Scaffolding fördert Selbstregulation
 - [[pair-programming-unterricht]] — Navigator als soziales Scaffold
-- [[flow-theorie]] — Challenge-Skill-Balance verwandt zum Challenge Point Framework
 - [[parsons-problems]] — Eigener Methoden-Artikel mit Distraktor-Varianten und Evidenz
 - [[contrasting-cases]] — Vergleichsmatrix als Scaffolding für den Abstraktionsprozess
 

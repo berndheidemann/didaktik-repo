@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 102 | **Letzte Aktualisierung:** 2026-04-20
+**Artikel:** 101 | **Letzte Aktualisierung:** 2026-04-20
 
 ---
 
@@ -28,9 +28,8 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[threshold-concepts]] — Schwellenkonzepte (Rekursion, Referenzen) und Notional Machines als Schlüssel zum Verständnis
 - [[cognitive-apprenticeship]] — Expertenwissen sichtbar machen durch Modeling, Coaching, Articulation und Reflection
 - [[expertise-entwicklung]] — Dreyfus-Modell und Subskill-Progression (Tracing → Explaining → Writing → Designing)
-- [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset und Zugehörigkeit als Dropout-Prävention
+- [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset, SDT, Flow/Challenge-Skill-Balance und Zugehörigkeit als Dropout-Prävention
 - [[low-floor-high-ceiling]] — Aufgaben mit niedrigem Einstieg und offener Decke (Papert/Resnick/NRICH) für heterogene Gruppen
-- [[flow-theorie]] — Csíkszentmihályis Modell optimalen Engagements in der Challenge-Skill-Balance
 - [[self-determination-theory]] — Ryan & Deci: Autonomie, Kompetenz, Verbundenheit als Basis intrinsischer Motivation
 - [[intrinsic-integration]] — Habgood & Ainsworth: Lerninhalt als Kernmechanik statt Gamification-Aufsatz
 - [[computational-action]] — Tissenbaum/Sheldon/Abelson: Von Computational Thinking zu Werkzeugen mit echtem Nutzen
@@ -44,7 +43,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[anchored-instruction]] — Durchgehender narrativer Anker (CTGV/Bransford, Jasper Woodbury) als Alternative zu isolierten Beispielen
 - [[direct-manipulation-lernumgebungen]] — HCI-Designprinzip (Shneiderman, Hutchins/Hollan/Norman) für Lernwidgets: kein Submit, sofortige Reaktion, Reversibilität
 - [[lernortkooperation-transfer]] — Kooperationsstufenmodell (Euler) und Transferdidaktik für die duale IT-Ausbildung
-- [[neurodidaktik-programmieren]] — fMRI-Befunde zu Code-Verstehen: fronto-parietales Netzwerk, Sprachareale, Implikationen für Sequenzierung und Scaffolding
+- [[neurodidaktik-programmieren]] — fMRI-Evidenz-Reservoir: Multiple-Demand-Netzwerk statt Sprachareale, Expertise = differenziertere Muster; untermauert CLT/Scaffolding-Empfehlungen
 - [[notional-machines]] — Mentale Modelle der Programmausführung (du Boulay 1986, Sorva 2013): Warum falsche Notional Machines die häufigste Fehlerquelle sind
 - [[generative-learning-aktivitaeten]] — Fiorella & Mayers SOI-Framework mit acht generativen Lernstrategien (Summarizing, Mapping, Drawing, Imagining, Self-Testing, Self-Explaining, Teaching, Enacting) als Aufgabengenerator
 - [[self-explanation]] — Chi 1989 / Bisra 2018 (g=0.55): Prompted Self-Explanation als generative Verarbeitung und empirisch gestütztes Gegenmittel gegen Cognitive Offloading durch KI-Tools
@@ -213,7 +212,6 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[ki-native-lernumgebungen]] — Multi-Agent-Tutoring und adaptive Aufgabengenerierung
 - [[learning-engineering]] — Knowledge Graph der Lernfelder mit Mastery-Tracking
 - [[low-floor-high-ceiling]] — Universelles Aufgabendesignprinzip für heterogene Klassen
-- [[flow-theorie]] — Challenge-Skill-Balance als Justierkriterium für jede Übung
 - [[self-determination-theory]] — Autonomie, Kompetenz, Verbundenheit als Grundlage jeder Lernsituation
 - [[intrinsic-integration]] — Lerninhalt muss in die Kernmechanik der Aufgabe eingewebt sein
 - [[ki-kompetenzrahmen-schule]] — KI-Kompetenz als lernfeldübergreifendes Querschnittsziel (AILit, UNESCO, KMK)
@@ -334,7 +332,6 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[aufgabentypen-interaktive-lernumgebungen]] — Referenz-Katalog mit 21 Widget-Typen und Entscheidungshilfe Lernziel → Typ
 - [[low-floor-high-ceiling]] — Einstieg niedrig, Decke offen, Wide Walls für diverse Produktformen
 - [[intrinsic-integration]] — Lernziel als Kernmechanik verankern, nicht als Reward ankleben
-- [[flow-theorie]] — Aufgaben in individueller Challenge-Skill-Balance halten
 - [[parsons-problems]] — Code-Puzzles mit Distraktoren als evidenzstarke Zwischenstufe im Fading-Pfad
 - [[contrasting-cases]] — Parallele Fall-Paare statt Einzelfall als Designmuster für Transfer
 - [[direct-manipulation-lernumgebungen]] — Designprinzip für Widgets: kontinuierliche Repräsentation, Reversibilität, sofortige Wirkung
@@ -398,7 +395,6 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[gamification-it-unterricht]] — Spielelemente für Motivation und Engagement
 - [[pair-programming-unterricht]] — Kooperatives Arbeiten gegen Isolation beim Programmieren
 - [[self-determination-theory]] — Stärkste empirische Basis für intrinsische Motivation
-- [[flow-theorie]] — Optimales Engagement durch Challenge-Skill-Balance
 - [[intrinsic-integration]] — Warum manche Gamification wirkt und andere nicht
 - [[computational-action]] — Identität und Empowerment als Motivationsquellen
 - [[engagement-theory]] — Relate-Create-Donate als Designcheckliste
@@ -451,7 +447,6 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[evaluation-lernumgebungen]] — Wie man die Wirksamkeit einer selbst gebauten Lernumgebung valide misst
 - [[datenschutz-lernumgebungen]] — Privacy by Design als Architekturprinzip für Schul-Lernumgebungen
 - [[intrinsic-integration]] — Designkriterium für interaktive Systeme: Lernziel = Kernmechanik
-- [[flow-theorie]] — Technische Anforderungen für Flow: Microgoals, Instant Feedback, adaptive Progression
 - [[direct-manipulation-lernumgebungen]] — HCI-Interaktionsprinzip als Fundament für Live-Editor, Linked-View und Parameter-Slider
 - [[anchored-instruction]] — Persistente Systemlandschaft und wiederkehrende Personen als Architektur-Muster
 - [[spaced-repetition-algorithmen]] — Scheduler-Baustein neben Aufgaben-Engine und Feedback-System

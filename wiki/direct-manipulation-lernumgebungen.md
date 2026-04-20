@@ -7,7 +7,6 @@ related:
   - "[[multimedia-gestaltungsprinzipien]]"
   - "[[aufgabentypen-interaktive-lernumgebungen]]"
   - "[[cognitive-load-theory]]"
-  - "[[flow-theorie]]"
   - "[[immersive-simulationen]]"
   - "[[intrinsic-integration]]"
   - "[[engagement-theory]]"
@@ -48,7 +47,7 @@ Shneiderman definierte Direct Manipulation über drei Eigenschaften:
 
 ### Hutchins/Hollan/Norman: die kognitive Ergänzung (1985)
 
-Hutchins, Hollan und Norman lieferten 1985 die kognitive Grundierung über zwei Dimensionen: **Distance** (der mentale Aufwand von Absicht zur Aktion — "Gulf of Execution" — und von Reaktion zur Interpretation — "Gulf of Evaluation") und **Engagement** (das Gefühl, direkt mit dem Objekt zu interagieren statt mit einem Vermittler). Beide Dimensionen sind lernrelevant: Ein Lernobjekt, mit dem die Lernende direkt ringen kann, wird konkreter als eines hinter einer Submit-Schranke. Vgl. die Flow-Voraussetzungen in [[flow-theorie]].
+Hutchins, Hollan und Norman lieferten 1985 die kognitive Grundierung über zwei Dimensionen: **Distance** (der mentale Aufwand von Absicht zur Aktion — "Gulf of Execution" — und von Reaktion zur Interpretation — "Gulf of Evaluation") und **Engagement** (das Gefühl, direkt mit dem Objekt zu interagieren statt mit einem Vermittler). Beide Dimensionen sind lernrelevant: Ein Lernobjekt, mit dem die Lernende direkt ringen kann, wird konkreter als eines hinter einer Submit-Schranke. Vgl. die Flow-Voraussetzungen in [[affektive-dimensionen|Flow]].
 
 ### Grade der Direktheit — eine Skala
 
@@ -123,7 +122,6 @@ Ein Agent, der Lernwidgets entwirft oder bewertet, kann Direct Manipulation oper
 - [[multimedia-gestaltungsprinzipien]] — Spatial Contiguity stützt den räumlichen Zusammenhang von Eingabe und Wirkung
 - [[aufgabentypen-interaktive-lernumgebungen]] — Live-Editor, Linked-View, Parameter-Slider als DM-konforme Aufgabentypen
 - [[cognitive-load-theory]] — Reduzierte Execution-/Evaluation-Distance senkt extrinsische Last
-- [[flow-theorie]] — DM liefert die technischen Voraussetzungen für Flow
 - [[immersive-simulationen]] — Simulationen ohne DM sind animierte Videos
 - [[intrinsic-integration]] — Kernmechanik muss direkt manipulativ sein, sonst wird sie umgangen
 - [[fehlerkultur-im-unterricht]] — Reversibilität ist praktizierte Fehlerkultur im Interface

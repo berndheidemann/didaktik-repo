@@ -18,7 +18,6 @@ related:
   - "[[learning-engineering]]"
   - "[[productive-failure]]"
   - "[[low-floor-high-ceiling]]"
-  - "[[flow-theorie]]"
   - "[[self-determination-theory]]"
   - "[[primm-methode]]"
   - "[[intrinsic-integration]]"

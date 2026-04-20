@@ -9,7 +9,6 @@ related:
   - "[[interaktive-lernumgebungen]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[debugging-als-kompetenz]]"
-  - "[[flow-theorie]]"
   - "[[self-determination-theory]]"
   - "[[engagement-theory]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
@@ -67,7 +66,7 @@ Im Kontrast: Spreadsheet-Übungen, in denen ein echtes Problem (Budget für die 
 
 ### Verbindung zu Flow und SDT
 
-Intrinsic Integration ist die Voraussetzung dafür, dass [[flow-theorie]] und [[self-determination-theory]] in einer gamifizierten Aufgabe greifen. Extrinsische Belohnungen verschieben die Motivation auf die Belohnung — sobald sie wegfällt, kollabiert das Engagement (Crowding-Out). Intrinsisch integrierte Aufgaben tragen sich selbst.
+Intrinsic Integration ist die Voraussetzung dafür, dass [[affektive-dimensionen|Flow]] und [[self-determination-theory]] in einer gamifizierten Aufgabe greifen. Extrinsische Belohnungen verschieben die Motivation auf die Belohnung — sobald sie wegfällt, kollabiert das Engagement (Crowding-Out). Intrinsisch integrierte Aufgaben tragen sich selbst.
 
 ## Bezug zur IT-Ausbildung
 
@@ -106,7 +105,6 @@ Ein Agent kann Intrinsic Integration als Designkriterium anwenden:
 - [[interaktive-lernumgebungen]] — Architekturvoraussetzung für intrinsisch integrierte Aufgaben
 - [[ki-gestuetztes-tutoring]] — KI als Hilfe innerhalb der Tätigkeit, nicht als Quiz-Master
 - [[debugging-als-kompetenz]] — Debugging ist intrinsisch integriertes Lernen par excellence
-- [[flow-theorie]] — Intrinsic Integration schafft die Bedingungen für Flow
 - [[self-determination-theory]] — Crowding-Out als empirischer Beleg für die Wichtigkeit intrinsischer Integration
 - [[engagement-theory]] — "Donate"-Phase als externe Erfolgsbedingung wirkt intrinsisch
 - [[anchored-instruction]] — Anker liefert den Kontext; Intrinsic Integration stellt sicher, dass die Aufgaben im Anker das Lernziel auch treffen

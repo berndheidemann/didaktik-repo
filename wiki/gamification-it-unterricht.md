@@ -11,7 +11,6 @@ related:
   - "[[meta-analysen-cs-education]]"
   - "[[affektive-dimensionen]]"
   - "[[immersive-simulationen]]"
-  - "[[flow-theorie]]"
   - "[[self-determination-theory]]"
   - "[[intrinsic-integration]]"
   - "[[computational-action]]"
