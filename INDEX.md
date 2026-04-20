@@ -116,6 +116,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[kritische-ki-bewertungskompetenz]] — 5-Schritt-Verifikations-Routine, Halluzinations-Typologie für Code (Liu 2024), Bias-Erkennung und Unterrichtsformate
 - [[ki-prompt-handwerk]] — CLEAR-Heuristik (Lo 2023), sechs Pair-mit-KI-Modi, Iterationsprotokoll und Anti-Patterns für den Alltag — abgegrenzt zu Prompt-Engineering
 - [[abschlussprojekt-begleitung]] — Strukturierter 14-Wochen-Workflow für die AP2-Projektphase: Themenberatung, Dokuphase, Probepräsentation, Fishbowl-Fachgespräch
+- [[belonging-interventionen]] — Walton & Cohen (2011, Science): 60-Min-Intervention halbiert Achievement Gap; drei Scripts für DaZ-Azubis, weibliche FIAE, First-Generation
 
 ---
 
@@ -321,6 +322,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[live-coding-lehrmethode]] — Partizipatives Live Coding aktiviert durch Mitprogrammieren und Predict-Pausen
 - [[aktivierung-lehrervortrag]] — Mikromethoden (Murmelphase, Think-Pair-Share, Minutenpapier, Retrieval-Einschub) unterbrechen Vortrag für aktives Denken
 - [[icap-framework]] — Entscheidungsbaum P → A → C → I und Up-grading-Patterns für jede Unterrichtsaktivität
+- [[meta-analysen-cs-education]] — Freeman et al. 2014: Active Learning senkt Durchfallquoten um 55 %; Evidenz zu Peer Instruction, Pair Programming
 
 ### Aufgaben- und Materialdesign
 - [[cognitive-load-theory]] — Extrinsische Belastung minimieren, lernförderliche maximieren
@@ -341,6 +343,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[browser-ide-gestuetzte-tutorials]] — Null-Setup-Tutorials mit lauffähigem Code als Anwendungsphase
 - [[neurodidaktik-programmieren]] — fMRI-basierte Begründung für sprechende Bezeichner, Code-Lesen vor Code-Schreiben, multimodale Darstellung
 - [[generative-learning-aktivitaeten]] — Acht evidenzbasierte Aufgabentypen (Drawing, Mapping, Self-Explaining, Teaching, Enacting …) jenseits von "Code schreiben" als Widget-Generator
+- [[subgoal-labeling]] — Teilziel-Labels in Worked Examples und Tutorials: Chunking reduziert kognitive Last und verbessert Transfer (d ≈ 0,44)
 - [[direct-instruction-rosenshine]] — Rosenshines zehn Prinzipien: kleine Schritte, Modeling, Checks for Understanding, Scaffolding, hohe Erfolgsquote
 - [[vier-komponenten-instruktionsdesign]] — Supportive Info, JIT und Part-Task Practice als Kategorien für Materialtypen; Learning Tasks als Aufgabenserien
 - [[icap-framework]] — ICAP-Klassifikation als Meta-Layer über Widget-/Aufgabenkatalogen mit Design-Heuristik "erst C, wenn Output über Input hinausgeht"
@@ -376,6 +379,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[fachgespraech-didaktik]] — Oral Assessment mit Rubric, Wait Time und Follow-up-Strategien als KI-resistentes Prüfungsformat
 - [[explain-in-plain-english]] — EiPE mit SOLO-Rubric als diagnostisches Instrument; Autograding via LLM (Fowler 2021: ~88% Accuracy)
 - [[ki-integritaet-pruefungsleistung]] — Prozess-Portfolio, mündliche Verteidigung und Deklarationspraxis als Detektions-Alternative
+- [[effektstaerken-unterricht]] — Hatties d-Werte als Entscheidungshilfe: Feedback d=0,70, formatives Assessment als stärkste Hebel gegenüber Oberflächenmerkmalen
 
 ### Selbstständiges Lernen fördern
 - [[selbstgesteuertes-lernen]] — Drei-Phasen-Modell zur Förderung eigenständiger Lernkompetenz
@@ -423,6 +427,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[fachgespraech-didaktik]] — KI-gestützte Prüfer-Simulation (Realtime-Voice) als Trainingspartner für AP2-Fachgespräch — DSGVO-bewusst eingesetzt
 - [[imposter-phaenomen-it-azubis]] — LLM-Ära als Imposter-Beschleuniger ("Copilot kann das eh besser"); didaktische Gegenstrategien
 - [[icap-framework]] — Warum Overt-Klassifikation allein keine Lerndiagnose ist: formatives Assessment als empirisch tragfähiger Ersatz (Thurn et al. 2023)
+- [[ki-nutzungsregeln-unterricht]] — Rot/Gelb/Grün-Zonen-Policy als operative Klassen-Regel; Aufgaben-Header und Regelbruch-Gesprächsleitfaden
 
 ### Wissensretention / Nachhaltiges Lernen
 - [[retrieval-practice]] — Testing Effect, Spaced Repetition und Interleaving für langfristiges Behalten
@@ -433,6 +438,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[deskilling-ki-codegenerierung]] — Evidenz zu Skill-Erosion durch KI-Codegenerierung und Interventionsstrategien
 - [[desirable-difficulties]] — Bjorks SS/RS-Modell, Performance-Learning-Dissoziation und operativer Katalog für nachhaltiges Lernen
 - [[interleaving]] — Diskrimination verwechselbarer Konstrukte durch Mix (g = 0,42) — Grenzen bei Novizen und disparaten Inhalten
+- [[wissensretention-programmierung]] — Skill Decay bei Programmierwissen: Syntax schnell, algorithmisches Denken langsamer; Spacing-Strategien
 
 ### Plattform- und Systemdesign
 - [[learning-engineering]] — Prinzipien für den Aufbau datengetriebener Lernsysteme

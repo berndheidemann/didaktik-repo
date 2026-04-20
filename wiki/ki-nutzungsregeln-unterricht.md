@@ -1,7 +1,7 @@
 ---
 title: "KI-Nutzungsregeln im Unterricht — Zonen-Modell für Berufsschule"
 type: praxis
-tags: [ki-policy, classroom-management, zonen-modell, aias, ampel, kmk, ihk, regelbruch]
+tags: [ki-policy, classroom-management, zonen-modell, aias, ampel, kmk, ihk, regelbruch, referenz]
 related:
   - "[[ki-kompetenzrahmen-schule]]"
   - "[[ki-tool-auswahl-berufsschule]]"
