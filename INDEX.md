@@ -136,7 +136,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[interactive-fiction-twine]] — DSGVO-Dilemma "Ex-Mitarbeiter-Account" und Incident-Response-Story als Branching Narrative
 
 ### LF5: Software zur Verwaltung von Daten anpassen
-- [[pair-programming-unterricht]]
+- [[pair-programming-unterricht]] — Driver/Navigator bei SQL- und CRUD-Aufgaben für Wissenstransfer
 - [[interaktive-lernumgebungen]] — Interaktive SQL-Übungsumgebungen für Datenbankaufgaben
 - [[worked-examples]] — Schrittweise Query-Entwicklung mit Zwischenergebnissen
 - [[cognitive-load-theory]] — Isolated Elements: SQL-Klauseln einzeln, dann kombinieren
@@ -150,7 +150,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[direct-manipulation-lernumgebungen]] — Live-SQL-Editor mit sofortiger Ergebnistabelle ohne Submit-Button
 - [[explorable-explanations-im-unterricht]] — Interaktive JOIN-Visualisierungen (sql-joins.leopard.in.ua) als Einstieg
 - [[browser-ide-gestuetzte-tutorials]] — Browser-SQL-Sandbox ohne Setup für schnellen Einstieg
-- [[neurodidaktik-programmieren]] — fMRI-Befunde: Code-Lesen beansprucht Sprach- und Exekutivnetzwerk — Konsequenzen für Sequenzierung und Bezeichner
+- [[neurodidaktik-programmieren]] — fMRI-Evidenz: Arbeitsgedächtnislast steigt mit Vokabulargröße; Argument für sprechende Bezeichner und Code-Lesen vor Code-Schreiben
 - [[notional-machines]] — Korrekte mentale Modelle der Programmausführung als Fundament für Variablen, Schleifen, Referenzen
 - [[subgoal-labeling]] — Teilziel-Labels in SQL-Worked-Examples und Parsons Problems für strukturiertes Chunking
 - [[live-coding-lehrmethode]] — SQL-Queries live entwickeln mit Deliberate Mistakes (falscher JOIN, fehlende GROUP BY)
@@ -165,7 +165,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[interactive-fiction-twine]] — Ticket-Eskalation und Kundendialog als Entscheidungs-Szenario (Pretexting, ITIL)
 
 ### LF8: Daten systemübergreifend bereitstellen
-- [[pair-programming-unterricht]]
+- [[pair-programming-unterricht]] — REST-Entwicklung im Paar: Rollenwechsel zwischen Endpoint-Design und Client-Integration
 - [[interaktive-lernumgebungen]] — API-Sandbox zum Entwickeln und Testen von REST-Endpoints
 - [[flipped-classroom]] — REST-Grundlagen per Tutorial, API-Entwicklung im Unterricht
 - [[code-review-unterricht]] — Peer Review von REST-API-Endpoints
@@ -243,21 +243,19 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[lernortkooperation-transfer]] — Abstimmung von Lernzielen über Lernortgrenzen hinweg (Berufsschule/Betrieb)
 - [[vier-komponenten-instruktionsdesign]] — Whole-Task-Blueprint für komplexe Berufskompetenzen, kompatibel zu Lernsituationen
 - [[rubric-design]] — Kompetenzorientierte Bewertung nur machbar mit sauber gebauten Rubrics (Kriterien aus Lernzielen, Descriptoren mit Verhaltensankern)
-- [[ihk-pruefungskatalog-2025]] — Verbindliche Kompetenzbereiche und Operatoren-Raster als Referenz für das Constructive Alignment im Unterricht
+- [[ihk-pruefungskatalog-2025]] — Verbindliche Kompetenzbereiche und Operatoren-Raster ab 2025 als Referenz für Constructive Alignment
 - [[icap-framework]] — ICAP-Klassifikation jeder Aktivität (P/A/C/I) als Meta-Layer für Unterrichtsplanung und Widget-Entwicklung
 - [[desirable-difficulties]] — Hub für Spacing, Interleaving, Retrieval, Variation, Generation als curriculare Gesamtstrategie gegen Fluency Illusion
 - [[interleaving]] — Mixed Practice über Lernfelder für AP1/AP2-Vorbereitung und Diskrimination ähnlicher Konstrukte
 - [[mastery-learning]] — Didaktischer Rahmen für Selbstlernplattformen mit Gated Progression und Correctives-Zyklus (Abgrenzung zu Mastery Tracking)
-- [[rubric-design]] — Methodische Grundlage für Bewertung offener Aufgaben; Voraussetzung für LLM-Grader und kompetenzorientierte Prüfungen
 - [[fachgespraech-didaktik]] — IHK-Fachgespräch-Training über alle Lernfelder: Fragehierarchie, Wait Time, Fishbowl-Simulation, Mündliche Minute
 - [[explain-in-plain-english]] — Code-Reading-Assessment auf Abstraktionsebene — wöchentlich einsetzbar, starker Prädiktor für Programmierkompetenz
-- [[ihk-pruefungskatalog-2025]] — Curriculare Referenz für AP1/AP2 ab 2025; Material-Update-Liste und Operatoren-Mapping
 - [[abschlussprojekt-begleitung]] — Didaktische Begleitung des IHK-Abschlussprojekts als systematischer 14-Wochen-Prozess
 - [[imposter-phaenomen-it-azubis]] — Hochstapler-Gefühl als Dropout-Risikofaktor in Tech; unterrichtstaugliche Normalisierung und Interventionen
 - [[belonging-interventionen]] — Walton & Cohen: 60-Min-Prozedur halbierte Achievement Gap über 3 Jahre; drei Scripts für Berufsschulpraxis
 
 ### Dropout-Prävention / Affektive Dimension
-- [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset, Zugehörigkeit als stärkste Prädiktoren
+- [[affektive-dimensionen]] — Selbstwirksamkeit, Growth Mindset, SDT, Flow und Zugehörigkeit als stärkste Prädiktoren
 - [[scaffolding]] — Frustrationskontrolle als Scaffolding-Funktion
 - [[productive-failure]] — Nur wirksam in Growth-Mindset-Kultur
 - [[self-determination-theory]] — Erfüllung der drei Basic Needs als Dropout-Schutz
