@@ -85,7 +85,7 @@ Van Merriënboer und Kirschner (2018) konkretisieren das Modell in zehn Schritte
 
 - **Costa, Miranda & Melo (2022):** Meta-Analyse, Gesamteffekt **d = 0,79** auf Performance, robust über Fachgebiet und Outcome-Typ; stärker in Higher Education.
 - **Neck et al. (2025):** Systematisches Review (55 Studien, 2004–2024) mit Multilevel-Meta-Analyse (12 Studien, 32 Effekte): Gesamt **g = 0,76** (p = 0,014). Studien mit expliziter Beschreibung aller vier Komponenten: **g = 1,33**, ohne: g = 0,39. Domäne Skilled Trades g ≈ 2,1, Education g ≈ 0,4, Medizin inkonsistent. Zentrale Kritik: nur 54 % der Publikationen beschreiben alle vier Komponenten vollständig — Replikationslücke.
-- **Kosten**: 4C/ID verlangt hohen Designaufwand und Coaching-Zeit (Frerejean & Van Merriënboer, 2019). Keine "quick wins" — Curriculum-Umbau, nicht Einzelstunden-Intervention.
+- **Kosten**: 4C/ID verlangt hohen Designaufwand und Coaching-Zeit (Frerejean et al., 2019). Keine "quick wins" — Curriculum-Umbau, nicht Einzelstunden-Intervention.
 
 ## Bezug zur IT-Ausbildung
 
@@ -151,7 +151,7 @@ Ein Agent oder eine Lehrkraft kann 4C/ID für eine Lernsituation "REST-API entwi
 - Van Merriënboer, J. J. G. & Kirschner, P. A. (2018). *Ten steps to complex learning: A systematic approach to four-component instructional design* (3rd ed.). Routledge.
 - Van Merriënboer, J. J. G. & Sweller, J. (2005). Cognitive load theory and complex learning: Recent developments and future directions. *Educational Psychology Review, 17*(2), 147–177. https://doi.org/10.1007/s10648-005-3951-0
 - Costa, J. M., Miranda, G. L. & Melo, M. (2022). Four-component instructional design (4C/ID) model: A meta-analysis on use and effect. *Learning Environments Research, 25*(2), 445–463. https://doi.org/10.1007/s10984-021-09373-y
-- Neck, A. et al. (2025). Implementing the four-component instructional design model in professional development programs: A systematic review. *Frontiers in Education, 10*, 1631375. https://doi.org/10.3389/feduc.2025.1631375
+- Neck, M., Leuders, T., & Reinhold, F. (2025). Implementing the Four-Component Instructional Design Model in Professional Development Programs with a Focus on Teachers: A Systematic Review. *Frontiers in Education, 10*, 1631375. https://doi.org/10.3389/feduc.2025.1631375
 - Frerejean, J., Van Merriënboer, J. J. G., Kirschner, P. A., Roex, A., Aertgeerts, B. & Marcellis, M. (2019). Designing instruction for complex learning: 4C/ID in higher education. *European Journal of Education, 54*(4), 513–524. https://doi.org/10.1111/ejed.12363
 - Paas, F. & Van Merriënboer, J. J. G. (2020). Cognitive-load theory: Methods to manage working memory load in the learning of complex tasks. *Current Directions in Psychological Science, 29*(4), 394–398. https://doi.org/10.1177/0963721420922183
 - Kremer, H.-H., & Sloane, P. F. E. (2001). *Lernfelder implementieren* (Wirtschaftspädagogisches Forum, Bd. 10). Paderborn: Eusl-Verlag.

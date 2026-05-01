@@ -44,7 +44,7 @@ Dieser Artikel liefert das *Wie* auf Meta-Ebene — komplementär zu [[llm-integ
 
 ### Pattern 1: Layered System Prompt
 
-**Problem:** Monolithische Prompts mischen "wer bist du" mit "was darfst du nicht" und "wie soll der Output aussehen" — LLMs übergewichten die Mitte und verlieren End- und Anfangsregeln nicht zuverlässig (Lost-in-the-Middle, Liu et al. 2024).
+**Problem:** Monolithische Prompts mischen "wer bist du" mit "was darfst du nicht" und "wie soll der Output aussehen" — LLMs nutzen Inhalte in der Mitte langer Kontexte deutlich schwächer als an Anfang und Ende (Lost-in-the-Middle-U-Kurve, Liu et al. 2024). Wichtige Regeln gehören also an den Anfang oder ans Ende, nicht in den Mittelteil.
 
 **Technik:** Feste Reihenfolge in fünf Blöcken, jeder mit eigener Überschrift:
 
@@ -245,12 +245,12 @@ Ein Agent oder Entwickler, der LLM-basierte Lernfunktionen baut, sollte:
 
 ## Quellen
 
-- Anthropic. (2024). *Prompt engineering overview.* Anthropic Documentation. https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering
+- Anthropic. (2024). *Prompt engineering overview.* Anthropic Documentation. https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
 - Denny, P., Prather, J., Becker, B. A., Finnie-Ansley, J., Hellas, A., Leinonen, J., Luxton-Reilly, A., Reeves, B. N., Santos, E. A., & Sarsa, S. (2024). Computing Education in the Era of Generative AI. *Communications of the ACM, 67*(2), 56–67.
 - Denny, P., Kumar, V., & Giacaman, N. (2023). Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language. *Proceedings of SIGCSE 2023.* arXiv:2210.15157.
 - Greshake, K., Abdelnabi, S., Mishra, S., Endres, C., Holz, T., & Fritz, M. (2023). Not what you've signed up for: Compromising real-world LLM-integrated applications with indirect prompt injection. *Proceedings of AISec*, 79-90.
 - Liffiton, M., Sheese, B. E., Savelka, J., & Denny, P. (2023). CodeHelp: Using large language models with guardrails for scalable support in programming classes. *Proceedings of Koli Calling*.
 - Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., & Liang, P. (2024). Lost in the middle: How language models use long contexts. *Transactions of the ACL*, 12, 157-173.
 - Mollick, E. R., & Mollick, L. (2023). *Assigning AI: Seven approaches for students, with prompts.* Wharton Working Paper.
-- Schulhoff, S., Ilie, M., Balepur, N., et al. (2024). The Prompt Report: A systematic survey of prompting techniques. *arXiv:2406.06608*.
+- Schulhoff, S., Ilie, M., Balepur, N., et al. (2024). The Prompt Report: A Systematic Survey of Prompt Engineering Techniques. *arXiv:2406.06608*.
 - Google DeepMind (2024, v2: 2025-11). *Towards Responsible Development of Generative AI for Education* (LearnLM Whitepaper). https://storage.googleapis.com/deepmind-media/LearnLM/LearnLM_paper.pdf

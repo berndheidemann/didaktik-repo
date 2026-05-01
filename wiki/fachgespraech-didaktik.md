@@ -56,7 +56,7 @@ Mündliche Prüfungen waren lange ein Nischenformat — mit der Welle generative
 
 ### Evidenzlage Oral Assessment
 
-- **Joughin (1998)** liefert den klassischen Rahmen mit sechs Dimensionen: Primary Content, Interaction, Authenticity, Structure, Examiners, Orality.
+- **Joughin (1998)** liefert den klassischen Rahmen mit sechs Dimensionen: Primary Content, Interaction, Authenticity, Structure, Examiner, Orality.
 - **Huxham, Campbell & Westwood (2012):** Studierende bereiten sich für Orals gründlicher vor und performen teilweise besser als schriftlich — bei erhöhter Nervosität. Risiko: Benachteiligung introvertierter oder nicht-muttersprachlicher Lernender.
 - **Ohmann (2019)** etabliert Oral Exams in der CS-Education-Forschung (SIGCSE 2019).
 - **Ohmann & Novak (SIGCSE TS 2025)** "A Multi-Institutional Assessment of Oral Exams in Software Courses" — Oral Exams sind als Final Assessment bei kleineren Gruppen praktikabel und reliabel, solange transparente Rubric und Übungsgelegenheiten vorab vorhanden sind.
