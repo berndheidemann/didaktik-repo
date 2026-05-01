@@ -22,7 +22,7 @@ related:
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-05-01
 summary: >
   Van Merriënboers Blueprint-Modell für komplexe Lernprogramme (1997, 2018):
   Learning Tasks, Supportive Information, Just-in-Time-Information und
@@ -154,4 +154,4 @@ Ein Agent oder eine Lehrkraft kann 4C/ID für eine Lernsituation "REST-API entwi
 - Neck, A. et al. (2025). Implementing the four-component instructional design model in professional development programs: A systematic review. *Frontiers in Education, 10*, 1631375. https://doi.org/10.3389/feduc.2025.1631375
 - Frerejean, J., Van Merriënboer, J. J. G., Kirschner, P. A., Roex, A., Aertgeerts, B. & Marcellis, M. (2019). Designing instruction for complex learning: 4C/ID in higher education. *European Journal of Education, 54*(4), 513–524. https://doi.org/10.1111/ejed.12363
 - Paas, F. & Van Merriënboer, J. J. G. (2020). Cognitive-load theory: Methods to manage working memory load in the learning of complex tasks. *Current Directions in Psychological Science, 29*(4), 394–398. https://doi.org/10.1177/0963721420922183
-- Kremer, H.-H. & Sloane, P. F. E. (2001). Lernfelder implementieren. *bwp@ Berufs- und Wirtschaftspädagogik – online, 4*.
+- Kremer, H.-H., & Sloane, P. F. E. (2001). *Lernfelder implementieren* (Wirtschaftspädagogisches Forum, Bd. 10). Paderborn: Eusl-Verlag.

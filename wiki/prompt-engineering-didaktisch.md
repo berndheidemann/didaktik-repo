@@ -24,7 +24,7 @@ related:
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-05-01
 summary: >
   Wie man stabile, hallucination-arme, rollenstabile didaktische Prompts baut.
   Acht Patterns (Layered System Prompt, Ground-Truth-Injection, Persona-Anchor,
@@ -246,7 +246,8 @@ Ein Agent oder Entwickler, der LLM-basierte Lernfunktionen baut, sollte:
 ## Quellen
 
 - Anthropic. (2024). *Prompt engineering overview.* Anthropic Documentation. https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering
-- Denny, P., Kumar, V., & Giacaman, N. (2024). Computing education in the era of generative AI. *Communications of the ACM*, 67(2), 56-67.
+- Denny, P., Prather, J., Becker, B. A., Finnie-Ansley, J., Hellas, A., Leinonen, J., Luxton-Reilly, A., Reeves, B. N., Santos, E. A., & Sarsa, S. (2024). Computing Education in the Era of Generative AI. *Communications of the ACM, 67*(2), 56–67.
+- Denny, P., Kumar, V., & Giacaman, N. (2023). Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language. *Proceedings of SIGCSE 2023.* arXiv:2210.15157.
 - Greshake, K., Abdelnabi, S., Mishra, S., Endres, C., Holz, T., & Fritz, M. (2023). Not what you've signed up for: Compromising real-world LLM-integrated applications with indirect prompt injection. *Proceedings of AISec*, 79-90.
 - Liffiton, M., Sheese, B. E., Savelka, J., & Denny, P. (2023). CodeHelp: Using large language models with guardrails for scalable support in programming classes. *Proceedings of Koli Calling*.
 - Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., & Liang, P. (2024). Lost in the middle: How language models use long contexts. *Transactions of the ACL*, 12, 157-173.

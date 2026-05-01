@@ -18,7 +18,7 @@ related:
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-05-01
 summary: >
   Wie Retrieval-Augmented Generation (RAG) domänenspezifische KI-Tutoren
   ermöglicht, die Halluzinationen reduzieren und auf schulischen Fachinhalten
@@ -35,7 +35,7 @@ Retrieval-Augmented Generation (RAG) löst das zentrale Problem beim Einsatz von
 
 ## Kontext
 
-RAG wurde 2020 von Lewis et al. eingeführt und ist seit 2023 Standardansatz für domänenspezifische LLM-Anwendungen. Zwei aktuelle Surveys belegen die Dynamik: Swacha & Gracel (2025, 47 Studien) und Li et al. (2025, 51 Studien). Konsens: RAG überwindet die Hauptbarriere — Halluzinationen — und macht domänenspezifische Tutoren für Einzelentwickler realisierbar. Für Lehrkräfte ist RAG die Brücke zwischen "ich habe gute Materialien" und "mein KI-Tutor kennt sie" (vgl. [[ki-gestuetztes-tutoring]]).
+RAG wurde 2020 von Lewis et al. eingeführt und ist seit 2023 Standardansatz für domänenspezifische LLM-Anwendungen. Zwei aktuelle Surveys belegen die Dynamik: Swacha & Gracel (2025, 47 Studien) und Li et al. (2025, systematischer Survey für Education Application). Konsens: RAG überwindet die Hauptbarriere — Halluzinationen — und macht domänenspezifische Tutoren für Einzelentwickler realisierbar. Für Lehrkräfte ist RAG die Brücke zwischen "ich habe gute Materialien" und "mein KI-Tutor kennt sie" (vgl. [[ki-gestuetztes-tutoring]]).
 
 ## Durchführung
 
@@ -66,11 +66,11 @@ Für schulische Tutoren ist RAG fast immer die richtige Wahl.
 
 ### Evidenz aus der Forschung
 
-**Surveys:** Swacha & Gracel (2025, 47 Studien) und Li et al. (2025, 51 Studien) bestätigen unabhängig: RAG verbessert faktische Genauigkeit und ermöglicht dynamische Wissensaktualisierung. 37 der 47 Studien bei Swacha stammen aus 2024 — das Feld wächst rasant.
+**Surveys:** Swacha & Gracel (2025, 47 Studien) und Li et al. (2025, systematischer Survey) bestätigen unabhängig: RAG verbessert faktische Genauigkeit und ermöglicht dynamische Wissensaktualisierung. 37 der 47 Studien bei Swacha stammen aus 2024 — das Feld wächst rasant.
 
-**Halluzinationsreduktion:** Shuster et al. (2021, EMNLP) zeigten als erste, dass Retrieval-Augmentierung Halluzinationen substantiell reduziert. Aktuelle Zahlen: RAG mit kuratierten Quellen erreicht 2-18 % Halluzinationsrate vs. bis zu 39 % ohne RAG (PMC, 2025). MEGA-RAG erzielte >40 % Reduktion gegenüber Baseline (Li et al., 2025).
+**Halluzinationsreduktion:** Shuster et al. (2021, EMNLP) demonstrierten die Reduktion von Halluzinationen durch Retrieval-Augmentierung im Conversation-Setting (parallel zu Lewis-RAG und REALM 2020). Aktuelle Zahlen — als Domänen-Indikatoren, nicht als generische RAG-Effektivität: In einer Cancer-Information-Studie (JMIR Cancer 2025, n_QA klein) sank die Halluzinationsrate von 39 % (ohne RAG) auf 18 % (Google-Search-RAG) bzw. 2 % (Cancer-Information-Service-RAG). Im Public-Health-Kontext (Xu et al. 2025, Frontiers) berichtet das MEGA-RAG-Framework >40 % Reduktion gegenüber PubMed-Baselines. Übertragbarkeit auf Bildungsdomänen ist plausibel, aber nicht direkt belegt.
 
-**Konkretes System — LPITutor:** Shahzad et al. (2025, PeerJ Computer Science) entwickelten ein RAG-basiertes personalisiertes Tutoring-System, das dynamisch Erklärungen generiert, Quellenzitate für jede Antwort anzeigt und in Genauigkeit, Klarheit und Schwierigkeitsanpassung positiv evaluiert wurde.
+**Konkretes System — LPITutor:** Liu et al. (2025, PeerJ Computer Science, e2991) entwickelten ein RAG-basiertes personalisiertes Tutoring-System, das dynamisch Erklärungen generiert, Quellenzitate für jede Antwort anzeigt und in Genauigkeit, Klarheit und Schwierigkeitsanpassung positiv evaluiert wurde.
 
 ### Einschränkungen
 
@@ -133,8 +133,9 @@ Ein Agent oder eine Lehrkraft, die einen RAG-Tutor baut:
 
 - Lewis, P. et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. *NeurIPS*, 33, 9459-9474.
 - Shuster, K. et al. (2021). Retrieval Augmentation Reduces Hallucination in Conversation. *Findings of EMNLP 2021*, 3784-3803.
-- Swacha, J. & Gracel, K. (2025). RAG Chatbots for Education: A Survey of Applications. *Applied Sciences*, 15(8), 4234.
-- Li, Z. et al. (2025). Retrieval-Augmented Generation for Educational Application: A Systematic Survey. *Computers and Education: AI*, 8, 100578.
-- Shahzad, K. et al. (2025). LPITutor: An LLM Based Personalized ITS Using RAG. *PeerJ Computer Science*, 11, e2991.
-- Li, S. et al. (2025). MEGA-RAG: Mitigating Hallucinations via Multi-Evidence Guided Answer Refinement. *Frontiers in Public Health*, 13, 1635381.
+- Swacha, J., & Gracel, M. (2025). RAG Chatbots for Education: A Survey of Applications. *Applied Sciences, 15*(8), 4234.
+- Li, Z., Wang, Z., Wang, W., Hung, K., Xie, H., & Wang, F. L. (2025). Retrieval-Augmented Generation for Educational Application: A Systematic Survey. *Computers and Education: Artificial Intelligence, 8*, 100417.
+- Liu, Z., Agrawal, P., Singhal, S., Madaan, V., Kumar, M., & Verma, P. K. (2025). LPITutor: An LLM Based Personalized ITS Using RAG. *PeerJ Computer Science, 11*, e2991.
+- Xu, S., Yan, Z., Dai, C., & Wu, F. (2025). MEGA-RAG: A Retrieval-Augmented Generation Framework with Multi-Evidence Guided Answer Refinement for Mitigating Hallucinations of LLMs in Public Health. *Frontiers in Public Health, 13*, 1635381.
+- JMIR Cancer (2025). Comparison of RAG Configurations for Cancer Information Chatbots. *JMIR Cancer, 11*, e70176. PMC12425422.
 - Bastani, H. et al. (2025). Generative AI Without Guardrails Can Harm Learning. *PNAS*. DOI: 10.1073/pnas.2422633122
