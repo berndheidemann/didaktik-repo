@@ -3,6 +3,7 @@ title: Worked Examples (Lösungsbeispiele)
 type: methode
 tags: [kognitive-belastung, lernmaterial-gestaltung, programmierung, fading, uebungsaufgaben, parsons-problems]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[direct-instruction-rosenshine]]"
   - "[[cognitive-load-theory]]"
   - "[[scaffolding]]"

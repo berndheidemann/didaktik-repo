@@ -3,6 +3,7 @@ title: "Evidenzlage KI-Tutoring: Was wirkt wirklich?"
 type: evidenz
 tags: [ki-tutoring, llm, meta-analyse, rct, guardrails, evidenzbasiert, kritisch, referenz]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[ki-native-lernumgebungen]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"

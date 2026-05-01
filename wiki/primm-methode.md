@@ -3,6 +3,7 @@ title: PRIMM — Predict, Run, Investigate, Modify, Make
 type: methode
 tags: [programmieren-lernen, code-tracing, scaffolding, sentance, raspberry-pi]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[worked-examples]]"
   - "[[scaffolding]]"
   - "[[peer-instruction]]"

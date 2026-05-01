@@ -3,6 +3,7 @@ title: "Deskilling durch KI-Codegenerierung — didaktische Gegenstrategien"
 type: evidenz
 tags: [deskilling, ki-codegenerierung, skill-erosion, copilot, llm, metakognition, scaffolding, evidenzbasiert]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[ki-tutoring-evidenzlage]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[use-modify-create]]"

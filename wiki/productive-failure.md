@@ -3,6 +3,7 @@ title: Productive Failure und Desirable Difficulties
 type: theorie
 tags: [lernwiderstand, spacing, interleaving, retrieval-practice, transfer, kognitive-belastung, productive-struggle]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[cognitive-load-theory]]"
   - "[[worked-examples]]"
   - "[[scaffolding]]"

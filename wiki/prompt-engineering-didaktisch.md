@@ -3,6 +3,7 @@ title: Prompt-Engineering für didaktische Zwecke
 type: methode
 tags: [llm, prompt-engineering, ki-tutoring, structured-output, guardrails, rollen-stabilitaet, lernumgebungs-design, referenz]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[ki-native-lernumgebungen]]"
   - "[[ki-gestuetztes-tutoring]]"

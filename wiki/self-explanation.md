@@ -3,6 +3,7 @@ title: "Self-Explanation Effect — Generative Verarbeitung als Gegenmittel gege
 type: theorie
 tags: [self-explanation, generative-lernstrategie, chi, cognitive-offloading, ki]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[worked-examples]]"
   - "[[generative-learning-aktivitaeten]]"
   - "[[metakognition]]"
@@ -70,7 +71,7 @@ Renkl (2014, "Toward an Instructionally Oriented Theory of Example-Based Learnin
 Seit LLM-Assistenten zum Alltag gehören, ist ein neues Risiko empirisch belegt: **Cognitive Offloading** — Lernende delegieren geistige Arbeit an die KI und verfehlen dadurch den generativen Verarbeitungs-Effekt, den Lernen braucht.
 
 - **Gerlich (2025, *Societies* 15(1), 6):** N = 666, signifikant negative Korrelation zwischen AI-Tool-Nutzungsfrequenz und kritischem Denken, **vermittelt über Cognitive Offloading**.
-- **RCT in *Computers & Education: AI* (2025):** Unbeschränkter AI-Zugang → +48 % korrekte Antworten in Aufgaben, aber **−17 % Konzeptverständnis** im Post-Test. Vorangestelltes Pretesting mildert den Effekt.
+- **Bastani et al. (2025, *PNAS*):** Feld-Experiment, n≈1000 türkische Oberstufen-Mathe. Unbeschränkter GPT-4-Zugang → +48 % Performance während der Übung, aber **−17 % Klausurleistung** ohne KI im Post-Test ("Krücken-Effekt"). Tutor-Variante mit Guardrails (Musterlösungen + lehrer-designte Hint-Inputs + "Hints statt Lösungen"-Direktive) neutralisiert den Schaden, ohne zusätzlichen Lernzuwachs zu erzeugen.
 - **Singh et al. (2025, *CHI* Tools for Thought Workshop, arXiv:2502.12447):** Empfehlen explizit *metacognitive provocations* — Prompts, die Nutzer zwingen, LLM-Outputs zu hinterfragen, Alternativen zu prüfen.
 - **"From Offloading to Engagement" (*Data* 2025, 10(11), 172):** Strukturiertes Prompting, das Selbsterklärungen einfordert, reduziert Offloading signifikant. Ungeleiteter AI-Gebrauch nicht.
 - **OpenAI ChatGPT Study Mode (2025):** Produktseitig setzt Khan-Academy-Style sokratische Fragen + Selbstreflexions-Prompts statt Direktantworten — das Prinzip wird zum Feature.
@@ -162,5 +163,6 @@ Self-Explanation ersetzt weder Feedback (siehe [[feedback-lernumgebungen]]) noch
 - Ericson, B. J., Morrison, B., et al. (2020). Evaluation of Parsons Problems with Menu-Based Self-Explanation Prompts in a Mobile Python Tutor. *International Journal of AI in Education*.
 - Singh, A., Taneja, K., Guan, Z., & Ghosh, A. (2025). Protecting Human Cognition in the Age of AI. *CHI'25 Tools for Thought Workshop*. arXiv:2502.12447.
 - Gerlich, M. (2025). AI Tools in Society: Cognitive Offloading and Critical Thinking. *Societies*, 15(1), 6.
+- Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Mariman, R. (2025). Generative AI Without Guardrails Can Harm Learning: Evidence from High School Mathematics. *PNAS*. DOI: 10.1073/pnas.2422633122
 - Barbieri, C. A. et al. (2023). The Worked Example and Expertise Reversal Effect in Math Learning: A Meta-Analysis. *Educational Psychology Review*.
 - Denny, P. et al. (2024). Explaining Code with a Purpose. *ITiCSE 2024*. arXiv:2403.06050.

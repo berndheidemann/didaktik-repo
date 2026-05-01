@@ -3,6 +3,7 @@ title: Debugging als Kompetenz
 type: methode
 tags: [debugging, fehlersuche, problemloesung, troubleshooting, programmierung]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[threshold-concepts]]"
   - "[[cognitive-apprenticeship]]"
   - "[[formatives-assessment]]"

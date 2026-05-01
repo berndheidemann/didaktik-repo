@@ -3,6 +3,7 @@ title: "Subgoal Labeling — Teilziel-Labels für Programmieraufgaben"
 type: methode
 tags: [kognitive-belastung, worked-examples, transfer, scaffolding, lernmaterial-gestaltung, programmierung, retention]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[direct-instruction-rosenshine]]"
   - "[[worked-examples]]"
   - "[[cognitive-load-theory]]"

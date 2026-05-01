@@ -3,6 +3,7 @@ title: Metakognition
 type: theorie
 tags: [metakognition, lernstrategien, selbstregulation, calibration, self-explanation, reflexion, flavell, referenz]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[selbstgesteuertes-lernen]]"
   - "[[lerntagebuch]]"
   - "[[debugging-als-kompetenz]]"

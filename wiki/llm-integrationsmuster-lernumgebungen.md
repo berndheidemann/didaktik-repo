@@ -3,6 +3,7 @@ title: LLM-Integrationsmuster für interaktive Lernumgebungen
 type: methode
 tags: [llm, ki-tutoring, interaktive-lernumgebungen, prompt-engineering, patterns, lernumgebungs-design, katalog]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[ki-native-lernumgebungen]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[interaktive-lernumgebungen]]"

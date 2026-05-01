@@ -2,7 +2,7 @@
 
 Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen für die IT-Berufsausbildung (FIAE/FIDP).
 
-**Artikel:** 101 | **Letzte Aktualisierung:** 2026-04-20
+**Artikel:** 102 | **Letzte Aktualisierung:** 2026-04-30
 
 ---
 
@@ -46,7 +46,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[neurodidaktik-programmieren]] — Ivanova/Liu 2020, Peitek 2021: Code-Verstehen nutzt fronto-parietales Logik-Netzwerk, nicht Sprachareale; Expertise = differenziertere neuronale Muster. Abgrenzung: Evidenz für bestehende CLT-Regeln, kein neues Didaktik-Framework
 - [[notional-machines]] — du Boulay 1986, Sorva 2013: Vereinfachtes mentales Modell von Code-Ausführung (Variablen, Sequenz, Kontrollfluss). Falsche Notional Machines = 80% der Anfänger-Misconceptions. Abgrenzung: [[threshold-concepts]] behandelt Transformation nach Verständnis
 - [[generative-learning-aktivitaeten]] — Fiorella & Mayer 2015/2016 (SOI-Modell, Wittrock-Tradition): 8 Strategien mit Evidenz — Drawing g=0,69, Self-Explaining g=0,55, Teaching +16% Retention (Protégé-Effekt)
-- [[self-explanation]] — Chi et al. 1989, Bisra et al. 2018 (64 Studien, g = 0.55): Sich selbst erklären erzeugt "example-independent knowledge". Bisra: "generative processing" als direkt wirksame Gegenmaßnahme zu KI-Offloading (−17% Verständnis ohne Self-Explanation nach KI-Output; Gerlich 2025). Abgrenzung: [[generative-learning-aktivitaeten]] ist Katalog, Self-Explanation ist eine Strategie
+- [[self-explanation]] — Chi et al. 1989, Bisra et al. 2018 (64 Studien, g = 0.55): Sich selbst erklären erzeugt "example-independent knowledge"; "generative processing" als direkt wirksame Gegenmaßnahme zu KI-Offloading. Bastani 2025 RCT: −17% Klausurleistung bei ungeschütztem KI-Zugriff; Gerlich 2025 Survey (n=666): KI-Nutzungsfrequenz korreliert negativ mit kritischem Denken via Cognitive Offloading. Abgrenzung: [[generative-learning-aktivitaeten]] ist Katalog, Self-Explanation ist eine Strategie
 - [[feedback-lernumgebungen]] — Hattie & Timperley 2007 + Wisniewski 2020 (ḡ=0,48, 435 Studien): Task/Process wirken, Self-Lob d=0,24 schadet; Kluger & DeNisi: 1/3 aller Feedbacks verschlechtern Leistung
 - [[unterrichtsphasen-artikulation]] — Deutsche Phasenmodelle: Herbart/Rein (1900er, 5 Stufen) → Roth (1957, Einstieg/Erarbeitug/Sicherung) → Meyer (1987, komplex) → Vollständige Handlung (KMK 2007, Planen/Ausführen/Kontrollieren). Alle strukturieren Zeit. Abgrenzung: [[direct-instruction-rosenshine]] ist die angelsächsische Variante (10 Prinzipien statt Phasen)
 
@@ -67,6 +67,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[primm-methode]] — Sentance et al. 2016: Predict (Output vorhersagen) → Run (Code ausführen) → Investigate (Code-Logik verstehen) → Modify (Änderung) → Make (eigener Code). 5-Phasen-Scaffolding für Programmieren. Abgrenzung: [[poe-methode]] ist 3 Phasen und nicht-Code; PRIMM spezialisiert auf Code-Tracing
 - [[use-modify-create]] — Lee et al. 2011: Use (Artefakt/API nutzen) → Modify (Änderung) → Create (neu schreiben). Scaffolded Progression in jeder Lerneinheit. Differenzierung unsichtbar: Novize verweilt bei Modify, Experte springt zu Create. Abgrenzung: [[primm-methode]] ist 5 Phasen, UMC ist 3 Stufen; beide nutzen Scaffolding
 - [[llm-integrationsmuster-lernumgebungen]] — 4 Muster: Adversary (Gegnerische Kritik), Sokratischer Tutor (Fragen statt Antworten), Rubric-Evaluator (Hattie-Ebenen), Case Generator (Dynamische Szenarien); je mit Prompt-Skelett + Failure Modes
+- [[hint-engineering-llm-tutoring]] — 5-stufige Hint-Hierarchie für LLM-Tutoren (Aktivierung → Orientierung → Strategie → Subgoal-Pseudocode → Code-Skelett → Bottom-Out mit Pflicht-Self-Explanation); Adaption der Cognitive-Tutor-Tradition (Aleven/Koedinger) auf Prompt-Engineering; Antwort auf Bastanis −17 %
 - [[prompt-engineering-didaktisch]] — Architektur-Patterns für stabile didaktische LLM-Prompts: Layered System, Ground-Truth-Injection, Persona-Anchor, Structured Output, Injection-Sandbox, Temperature-Tuning. Ziel: Reproduzierbarkeit statt Kreativität. Abgrenzung: [[llm-integrationsmuster-lernumgebungen]] sind 4 Anwendungsfälle, prompt-engineering ist das Wie
 - [[evaluation-lernumgebungen]] — Pragmatisches Gegenstück zu [[learning-engineering]]: 3–5 Playtests mit Think-Aloud + Pre-/Post pro Iteration nach Barab & Squire (DBR) — für eine Klasse, ohne Ethics Board
 - [[aufgabentypen-interaktive-lernumgebungen]] — Ericson 2022 (Parsons), Fiorella 2017 (SOI): Katalog von 21 Typen mit Bloom-Zuordnung (Erinnern bis Erschaffen), Produktionsaufwand und LLM-Upgrade (Free-Text+Rubric d ≈ 0,7 mit Guardrails)
@@ -136,6 +137,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[interactive-fiction-twine]] — Ex-Mitarbeiter-USB-Export und Admin-Passwort-Anfrage: Entscheidung erleben statt abfragen — consequential Feedback in Client-only-HTML
 
 ### LF5: Software zur Verwaltung von Daten anpassen
+*An dieser Schule: strukturierte Programmierung, OOP, OO-Designprinzipien (SOLID); Abschluss-Projekt: bestehende Software erweitern mit erster DB-Anbindung. SQL-Beispiele unten gehören didaktisch eher zu LF8.*
 - [[pair-programming-unterricht]] — SQL: Driver schreibt Query, Navigator erklärt Logik; oder CRUD-Endpoint-Pair: einer schreibt Route, einer Tests. Synchronisiert Mentale Modelle real-time
 - [[interaktive-lernumgebungen]] — Browser-SQL-Editor mit Query-Feedback, Ergebnistabelle und Konzept-Übungen (JOIN, GROUP BY, Subquery) im Zero-Setup-Kontext.
 - [[worked-examples]] — SQL mit Steps: "Finde Kunden, die > 1000€ gekauft haben". Step 1: "SELECT * FROM orders"; Ergebnis: 500 Zeilen. Step 2: "WHERE total > 1000"; Ergebnis: 120 Zeilen. Step 3: "GROUP BY customer_id". Jeder Step hat Zwischenergebnis als Feedback
@@ -154,6 +156,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[notional-machines]] — Mentales Modell der sequentiellen Programmausführung, Variablenspeicherung, Kontrollstrukturen — Diagnose: Code-Tracing mit Python Tutor als Visualization
 - [[subgoal-labeling]] — SQL-Query (Worked Example oder Parsons): Step 1: "Tabellen identifizieren" | Step 2: "JOIN-Bedingung schreiben" | Step 3: "WHERE-Filter" | Step 4: "GROUP-BY-Spalten". Labels helfen Chunking, ohne Syntax zu vereinfachen
 - [[live-coding-lehrmethode]] — SQL live entwickeln mit Deliberate Mistakes: falscher JOIN-Typ, fehlendes GROUP BY — Fehlersuche öffentlich durchführen.
+- [[hint-engineering-llm-tutoring]] — Refactoring-Tutor zu SOLID-Verletzungen: Stufe 0 fragt "welche Verantwortungen?", Stufe 4 zeigt Skelett der refaktorierten Struktur, Bottom-Out nur mit Pflicht-Reflexion zur SRP-Verletzung
 
 ### LF6: Serviceanfragen bearbeiten
 - [[constructive-alignment]] — LF6: Ziel "Ticket analysieren und priorisieren" → Aktivität "Fallstudien mit Kriterien-Vergleich" (nicht nur Leseheft) → Prüfung "Echtes Ticket bewerten mit Rubric" (nicht Multiple Choice)
@@ -165,6 +168,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[interactive-fiction-twine]] — ITIL-Eskalation per Pretexting-Dialog: Anrufer gibt sich als Geschäftsführer aus — verzweigte Folgen für Priorisierung und Identitätsprüfung
 
 ### LF8: Daten systemübergreifend bereitstellen
+*An dieser Schule: Datenbank-Einstieg (SQL, ERD) + Backend (REST-API mit Spring Boot). SQL-Methodenideen aus LF5-Block oben hier mitdenken.*
 - [[pair-programming-unterricht]] — REST API-Entwicklung: Pair A entwirft Endpoint mit Validation, Pair B baut Client; dann Rollenwechsel. Verhindert Silos, erzwingt Kommunikation über Contracts
 - [[interaktive-lernumgebungen]] — REST-Sandbox mit Request-Builder, Response-Diff und Postman-ähnlichem Validator für Endpoint-Design und Auth-Header-Üben.
 - [[flipped-classroom]] — HTTP-Verben, Statuscodes und Payload-Basics per Tutorial; Endpoint-Design und Pair Programming im Unterricht
@@ -177,8 +181,10 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[browser-ide-gestuetzte-tutorials]] — LF8: REST-Endpoint-Konstruktion im Browser (Node.js via StackBlitz), Step 1 Use, Step 2 Modify, Step 3 Create; Transfer: lokale IDE (Kompetenz Env-Setup auch nötig)
 - [[live-coding-lehrmethode]] — REST-Endpoint live bauen mit Think-Aloud zu Validierung, Auth und HTTP-Statuscode-Wahl (201 vs. 200 vs. 204).
 - [[subgoal-labeling]] — REST-Handler Tutorial mit Labels: "1. Route registrieren" (app.post) → "2. Request validieren" (schema) → "3. Geschäftslogik" (db.query) → "4. Response-Format" (json). Jedes Label ein expliziter Mikro-Schritt
+- [[hint-engineering-llm-tutoring]] — SQL-Tutor mit Hint-Eskalation für JOIN-/GROUP-BY-Probleme; REST-Tutor für Statuscode-Wahl (201 vs. 200) — Stufe 1 "Was bedeutet der Code?", Stufe 3 Pseudocode für Validierungslogik
 
 ### LF10-12: Projekte planen, durchführen und auswerten
+*An dieser Schule getrennt: **LF10** = Frontend-Lernfeld (UI/UX, modernes Web-Framework wie React/Angular). **LF11** = Prüfungsvorbereitung (UML, SQL-Wiederholung + Fortgeschrittenes, Testing, AP-Trainer). **LF12** = großes Abschlussprojekt in größeren Gruppen. Methoden unten primär für LF12; für LF10 zusätzlich [[interaktive-lernumgebungen]], [[direct-manipulation-lernumgebungen]]; für LF11 [[retrieval-practice]], [[spaced-repetition-algorithmen]], [[interleaving]].*
 - [[abschlussprojekt-begleitung]] — LF10-12: Peer-Feedback zu Antragsentwürfen, strukturierte Dokureviews, Probe-Präsentation, Fishbowl-Fachgespräch — 50 % der AP2-Gewichtung
 - [[handlungsorientierter-unterricht]] — Sechs-Phasen-Zyklus als Scrum-Rückgrat: informieren = Discovery, planen/entscheiden = Sprint Planning, bewerten = Retrospektive
 - [[lernsituationen-gestalten]] — Projektbasierte Lernsituationen für LF10-12: vollständige Handlung über mehrere Unterrichtswochen als Gerüst (ISB Bayern, BW, Sachsen).
@@ -194,6 +200,7 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[engagement-theory]] — Projekt-Auditor: gibt es echtes Team (R), neues Artefakt (C), externen Adressaten (D)? Donate ist der am häufigsten fehlende Schritt — „für die Schublade" vermeiden
 - [[use-modify-create]] — Projektkurve über Semester: W1-2 Use (Fremd-Code), W3-6 Modify (verstehen, anpassen), W7-12 Create (eigenes Features). Nicht: W1-6 Lehre, W7-12 Projekt
 - [[live-coding-lehrmethode]] — Refactoring-Session live mit Clean-Code-Regeln als Modeling: Smell identifizieren, Test absichern, Schritt für Schritt umformen.
+- [[hint-engineering-llm-tutoring]] — LF11: Hint-Tutor für AP2-SQL-Drill, Bottom-Out-Sperre erst nach 3 Versuchen (entspricht Prüfungs-Realität). LF12: optionale Sparring-Instanz neben Copilot mit Schalter — bringt Phase 3 aus [[ki-gestuetztes-tutoring]] in die Praxis
 
 ### Lernfeldübergreifend
 - [[blooms-taxonomie]] — Lernfeldübergreifend: Konkrete Formulierung (nicht "verstehen", sondern "HTTP-Statuscode 404 in Worten erklären"); Prüfung auf Stufen-Mismatch (Ziel Analysieren, aber Quiz nur Erinnern)
@@ -416,12 +423,13 @@ Dieses Repository enthält agent-optimierte Artikel zu didaktischen Grundlagen f
 - [[rag-tutoring-systeme]] — RAG-Architektur (Embedding → Vektorsuche → Prompt-Injection) für domänenspezifische Tutoren: Halluzinationen unter der Marke blanker LLM-Aufrufe (zwei Surveys mit 47 bzw. 51 Studien).
 - [[live-coding-lehrmethode]] — KI-Live-Coding-Session: Copilot-Vorschläge akzeptieren, ablehnen oder umformulieren — kritische Output-Bewertung als Unterrichtsmethode, nicht als separate Lektion.
 - [[feedback-lernumgebungen]] — Dai 2023 + Phung 2024: LLMs liefern Task zuverlässig, Process teilweise, Self-Regulation praktisch nie; „no praise for person"-Prompt als verpflichtender Guardrail
-- [[self-explanation]] — Gerlich 2025 RCT: KI-Tutor + Self-Explanation-Prompt = Effekt g ≈ 0.5; KI-Tutor ohne = g ≈ −0.3 (Offloading-Effekt). Guardrail ist minimal, Effekt massiv
+- [[self-explanation]] — Bisra 2018 Meta-Analyse (64 Studien, g≈0,55): generative Verarbeitung als robust wirksame Strategie; Pflicht-Erklär-Prompt nach KI-Output ist eines der wenigen empirisch gestützten Gegenmittel gegen Offloading-Tendenz (Gerlich 2025 Survey n=666 dokumentiert die Tendenz, Bastani 2025 RCT belegt den Schadenseffekt ohne Guardrails)
 - [[llm-as-grader]] — Wu 2025 / Jiang 2024: Rubric-Engineering + EiPE + Code-Generation-Based Grading + Governance-Pattern LLM-first/Human-final als Gesamtpaket — Discriminator zu naivem GPT-Einsatz als Bewerter.
 - [[fachgespraech-didaktik]] — Realtime-Voice-LLM als Sparringspartner für AP2-Training; Prüferbank aus Präsentations-PDF + Rubric — DSGVO-Pfad über lokale Modelle
 - [[imposter-phaenomen-it-azubis]] — LLM-Beschleuniger: „Copilot kann das eh besser" als neue Attributionsfalle; KI-freie Phasen + Prozess-Portfolio machen eigenen Beitrag sichtbar
 - [[icap-framework]] — Kritik Thurn et al. 2023: sichtbares Verhalten ≠ kognitives Engagement; Covert Thinkers in P-Modus können lernen, sichtbar I ohne Tiefe — formatives Assessment bleibt Goldstandard
 - [[ki-nutzungsregeln-unterricht]] — Rot/Gelb/Grün-Zonen-Modell: Aufgaben-Header pro Aufgabe, Klassenkontrakt, Regelbruch-Gesprächsleitfaden — Alternative zu Verbot und Laissez-faire.
+- [[hint-engineering-llm-tutoring]] — Operationalisierung des "Hints statt Lösungen"-Prinzips als 5-stufige Hierarchie mit Eskalations-Hygiene; direkte Antwort auf Bastanis −17 %; Discriminator zu Sokratischem Tutor (dort Misconception, hier Aufgaben-Stuck).
 
 ### Wissensretention / Nachhaltiges Lernen
 - [[retrieval-practice]] — Testing Effect (Abrufen > Restudying): Quizzes am Ende jeder LF, nicht nur Klausur. Spacing: First Quiz Tag 1, dann Tag 7, dann Woche 3. Interleaving: alte Fragen (Netzwerk) in neue Quizzes (Security). Effektstärke konsistent g ≈ 0,8

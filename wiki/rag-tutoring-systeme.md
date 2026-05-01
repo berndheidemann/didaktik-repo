@@ -3,6 +3,7 @@ title: "RAG-basierte Tutoring-Systeme: Architektur und Evidenz"
 type: praxis
 tags: [rag, ki-tutoring, llm, halluzination, vektordatenbank, wissensmanagement, architektur]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[llm-integrationsmuster-lernumgebungen]]"
   - "[[ki-gestuetztes-tutoring]]"
   - "[[ki-native-lernumgebungen]]"

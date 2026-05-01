@@ -3,6 +3,7 @@ title: Scaffolding und Zone der nächsten Entwicklung
 type: theorie
 tags: [lernunterstuetzung, zpd, fading, differenzierung, vygotsky, parsons-problems, challenge-point, concreteness-fading]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[direct-instruction-rosenshine]]"
   - "[[unterrichtsphasen-artikulation]]"
   - "[[cognitive-load-theory]]"

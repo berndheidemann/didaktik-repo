@@ -3,6 +3,7 @@ title: KI-gestütztes Tutoring im Programmierunterricht
 type: praxis
 tags: [ki-tutoring, programmierung, llm, feedback, differenzierung]
 related:
+  - "[[hint-engineering-llm-tutoring]]"
   - "[[scaffolding]]"
   - "[[formatives-assessment]]"
   - "[[interaktive-lernumgebungen]]"
