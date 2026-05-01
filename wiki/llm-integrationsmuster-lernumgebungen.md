@@ -42,7 +42,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit]
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-05-01
 summary: >
   Vier wiederverwendbare Muster, um LLMs als didaktisches Element in interaktive
   Lernumgebungen einzubauen: Adversary Partner, Sokratischer Tutor, Rubric-Evaluator
@@ -265,6 +265,6 @@ Der Kern-Shift: Die Lehrkraft schreibt nicht mehr *Inhalte*, sondern *Beurteilun
 - Mollick, E. & Mollick, L. (2023). Assigning AI: Seven Approaches for Students, with Prompts. Wharton Working Paper.
 - Hattie, J. & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research*, 77(1), 81-112.
 - Duolingo (2025). *Video Call with Lily: A Randomized Controlled Trial of Conversational AI for Language Learning*. Duolingo Whitepaper (N=567, 30 Tage, Versant-Test prä/post).
-- Lee, D. et al. (2025). PatientSim: A Persona-Driven Simulator for Clinical Conversations. *arXiv:2505.17818*.
+- Kyung, D., Chung, H., Bae, S., Kim, J., Sohn, J. H., Kim, T., Kim, S. K., & Choi, E. (2025). PatientSim: A Persona-Driven Simulator for Realistic Doctor-Patient Interactions. *arXiv:2505.17818* (NeurIPS 2025 Datasets & Benchmarks).
 - Nursing Simulation Debriefing Scoping Review. *PMC9912432* (2023).
 - Role-Play Cognitive and Emotional Impact Study (2025). *Frontiers in Psychology*, Vol. 16.

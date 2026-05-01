@@ -186,7 +186,7 @@ Der Kern-Shift: Die Lehrkraft schreibt nicht mehr Hints, sondern definiert die *
 - [[llm-integrationsmuster-lernumgebungen]] — Sokratischer Tutor (Muster 2) ist die Misconception-Variante; Hint-Engineering ist die Stuck-Variante
 - [[prompt-engineering-didaktisch]] — generelle Prompt-Patterns; Hint-Engineering ist eines davon vollständig ausgearbeitet
 - [[scaffolding]] — theoretischer Rahmen (Vygotsky); Hint-Engineering ist die LLM-spezifische Implementierung mit Fading
-- [[deskilling-ki-codegenerierung]] — Coppock 2025 zeigt das Problem; Hint-Engineering ist eine konkrete Gegenstrategie
+- [[deskilling-ki-codegenerierung]] — Shen & Tamkin (Anthropic 2026) zeigt das Problem; Hint-Engineering ist eine konkrete Gegenstrategie
 - [[self-explanation]] — Pflicht-Reflexion in Stufe 5 als Bottom-Out-Schutz
 - [[subgoal-labeling]] — Margulieux: Subgoal-Labels in Stufe 3 (Pseudocode) operationalisiert
 - [[worked-examples]] — Bottom-Out-Hint ist die dynamische Variante eines Worked Examples

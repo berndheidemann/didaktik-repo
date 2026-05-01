@@ -18,7 +18,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 evidenzgrad: meta-analyse
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-05-01
 summary: >
   Systematic Reviews (Wu et al. 2025 MDPI, Jiang et al. L@S 2024) zeigen für LLM-Grading von Short-Answer-Aufgaben Spitzenwerte QWK=0.99 mit sauberer Rubric, aber starke Spreizung bis r=0.38 ohne. GPT-4 erreicht untere Hälfte des menschlichen Inter-Rater-Korridors (0.70–0.85). Reasoning-First + Anker-Beispiele + analytische Rubric sind Pflicht. "Explain in Plain English" (Denny 2024) ist ideale Assessment-Form, weil LLMs natürliche Sprache und optionale Code-Generation-Based-Grading kombinieren können. Governance-Pattern: "LLM-first, Human-final" — formativ ok, summativ nur mit Human-Review.
 ---
@@ -36,7 +36,7 @@ Aggregation aus einem systematischen Review und mehreren Primärstudien 2023–2
 - **Wu et al. (2025), Systematic Review**, *MDPI Applied Sciences* 15(10) — 49 peer-reviewed Studien 2018–2024 zu LLM-Powered Automated Assessment
 - **Jiang et al. (2024)**, *L@S 2024* — GPT-4 Short-Answer Scoring auf ASAP-SAS, 10 Prompts
 - **Cohn et al. (2024)**, Science-Formative, Chain-of-Thought-Effekt
-- **Zhang et al. GradeOpt (2024/2025)**, arXiv 2410.02165 + EDM 2025 — Multi-Agent
+- **Chu et al. GradeOpt (2024/2025)**, arXiv 2410.02165 + EDM 2025 — Multi-Agent
 - **Phung et al. (2023/2024)**, EDM/LAK — GPT-4 Code-Feedback
 - **Denny et al. (2024)**, ITiCSE + L@S — Explain-in-Plain-English (EiPE)
 - **Smith IV & Zilles (2024)**, SIGCSE — Code Generation Based Grading (CGBG)
@@ -75,7 +75,7 @@ Wu et al. (2025) berichten stark gespreizte Ergebnisbandbreite:
 
 ### Multi-Agent-Grading
 
-**GradeOpt (Zhang et al., arXiv 2410.02165, EDM 2025)**: Drei Agenten (Grader, Reflector, Refiner) optimieren Rubric-Guidelines selbst via Self-Reflection. Übertrifft Single-Agent-Baselines domänenübergreifend. Nachfolger **GradeHITL** integriert Human-in-the-Loop ins Rubric-Optimization-Looping. Verwandte Ansätze: **AutoSCORE** (strukturierte Komponenten-Erkennung), **LLM-Rubric** (ACL 2024, multidimensional kalibriert).
+**GradeOpt (Chu et al., arXiv 2410.02165, EDM 2025)**: Drei Agenten (Grader, Reflector, Refiner) optimieren Rubric-Guidelines selbst via Self-Reflection. Übertrifft Single-Agent-Baselines domänenübergreifend. Nachfolger **GradeHITL** integriert Human-in-the-Loop ins Rubric-Optimization-Looping. Verwandte Ansätze: **AutoSCORE** (strukturierte Komponenten-Erkennung), **LLM-Rubric** (ACL 2024, multidimensional kalibriert).
 
 Multi-Agent reduziert **Varianz** messbar, hilft aber nicht gegen systematische Bias (längenpräferierend, Fluency-over-Facts).
 
@@ -98,7 +98,7 @@ Mehrere in der aktuellen Literatur systematisch dokumentierte Fehlerquellen:
 - **Oberflächen-Sanktionierung:** Stil/Fluency übergewichtet, fundamentale Defekte (Fehlkonzepte, Halbsatz-Logik-Lücken) untergewichtet.
 - **Prompt-Sensitivität:** Gleiche Antwort → andere Scores bei leichter Umformulierung oder Reihenfolge-Änderung der Items.
 - **Score-Drift:** GPT-4 tendenziell strenger, GPT-3.5 milder als Menschen.
-- **Deutsch vs. Englisch:** Dialekt- und Sprach-Bias dokumentiert (arXiv 2411.10954, Indic-EiPE 2024). Deutsche Fachsprache mit anglizistischen Code-Begriffen ist Risiko-Zone — Kalibrierung auf deutschen Musterantworten nötig.
+- **Deutsch vs. Englisch:** Dialekt- und Sprach-Bias bei LLM-Bewertung ist generell dokumentiert (Sap et al. 2019 für Race-Bias, Faisal et al. 2024 für dialektale Toxizität). Deutsche Fachsprache mit anglizistischen Code-Begriffen ist Risiko-Zone — Kalibrierung auf deutschen Musterantworten nötig. Empirische CS-Education-Befunde für Deutsch fehlen.
 - **Rechtliche Grauzone (summativ):** Prüfungsrelevanz, DSGVO, Einspruchsrecht. Formative Nutzung in Übungsphasen deutlich unproblematischer.
 
 Übertragbarkeit auf Berufsausbildung: Englischsprachige CS-Ed-Studien sind die primäre Quelle. Deutschsprachige Validierung fehlt; ein einfacher Weg ist, den eigenen Fixture-Goldstandard mit 20–30 Antworten zu bauen und daran zu kalibrieren.
@@ -194,11 +194,11 @@ Nie den Schülern einen LLM-Score als "Note" präsentieren. Immer "Einschätzung
 - Wu, Z. et al. (2025). Large Language Model-Powered Automated Assessment: A Systematic Review. *Applied Sciences*, 15(10), 5683.
 - Jiang, Y. et al. (2024). Short answer scoring with GPT-4. *L@S 2024*.
 - Cohn, C. et al. (2024). Applying LLMs and Chain-of-Thought for Automatic Scoring. *Computers & Education: Artificial Intelligence*.
-- Zhang, S. et al. (2024/2025). GradeOpt: LLM-Powered Automatic Grading Framework. arXiv:2410.02165 / *EDM 2025*.
+- Chu, Y., Li, H., Yang, K., et al. (2024/2025). GradeOpt: LLM-Powered Automatic Grading Framework. arXiv:2410.02165 / *EDM 2025*.
 - Phung, T. et al. (2024). Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors. *LAK 2024*.
 - Denny, P. et al. (2024). Explaining Code with a Purpose. *ITiCSE 2024*. arXiv:2403.06050.
 - Smith IV, D. H., & Zilles, C. (2024). Code Generation Based Grading. *SIGCSE 2024*.
 - Stahl, M. et al. (2024). From Automation to Augmentation. arXiv:2401.06431.
 - Murphy, L., Fitzgerald, S., et al. (2012). 'Explain in plain English' questions revisited. *SIGCSE 2012*.
-- "Rubric Is All You Need" (2025). *ICER 2025*. arXiv:2503.23989.
+- Pathak, A., Gandhi, R., Uttam, V., et al. (2025). Rubric Is All You Need: Improving LLM-based Code Evaluation With Question-Specific Rubrics. *ICER 2025*. arXiv:2503.23989.
 - LLM-Rubric: Multidimensional Calibrated Evaluation (2024). *ACL 2024*.

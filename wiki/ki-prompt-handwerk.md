@@ -20,7 +20,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren]
 sozialform: [einzelarbeit, partner]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-05-01
 summary: >
   Prompt-Handwerk statt Prompt-Engineering: Alltagsroutinen für Azubis, die
   KI-Tools im Betrieb produktiv und verantwortungsvoll einsetzen wollen.
@@ -190,7 +190,7 @@ Klassenweit werden gute Prompts pro Aufgabentyp gesammelt (SQL-Query, Regex, Dok
 - **Denny et al. (2024, SIGCSE):** "Prompt Problems" als neuer Aufgabentyp — Schüler schreiben natürlichsprachige Prompts für visuell gegebene Aufgaben. Tool Promptly wertet gegen Testsuite aus. Positive Engagement-Effekte in CS1/CS2.
 - **Denny et al. (2024, ITiCSE):** "Explaining Code with a Purpose" — Verbindung von Code-Comprehension und Prompting.
 - **Anthropic Education Report (2025):** 574.000 analysierte Conversations, vier Nutzungsmuster — *Collaborative* schlägt *Direct* in Lerneffekt.
-- **Prompt Programming (arXiv 2503.04267, 2025):** Dialog-basiertes Problem-Solving skaliert für Edukationskontexte.
+- **Pădurean et al., "Prompt Programming" (arXiv 2503.04267, ITiCSE 2025):** Dialog-basiertes Problem-Solving im CS1-Kontext, Plattform-Studie mit >900 Studierenden.
 
 ## Verwandte Konzepte
 

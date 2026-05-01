@@ -16,7 +16,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 sozialform: [einzelarbeit, partner]
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-05-01
 summary: >
   Explorable Explanations (Bret Victor 2011) als kuratierbares Format für
   IT-Didaktik. Engagement-Vorteil belegt, Lerntransfer nicht sauber nachgewiesen.
@@ -54,7 +54,7 @@ Die Bewegung ist klein und nicht skaliert. Der zentrale Hub explorabl.es sammelt
 Die Evidenzlage ist **schwächer, als das Format optisch verspricht**:
 
 - **Engagement-Vorteil belegt.** ECCE 2023 "Impact of Scrollytelling on Reading Experience": signifikant höhere Werte für "entertaining", "stimulating", "engaging" gegenüber statischem Text. Das ist reproduzierbar.
-- **Lern-Outcome unklar.** Eine Studie zu Scrollytelling-basierten Datenschutzerklärungen (arXiv 2024) fand bessere UX und niedrigere cognitive load — aber **identische Comprehension-Accuracy** gegenüber klassischer Textform. Das ist der nüchterne Befund.
+- **Lern-Outcome unklar.** Eine Studie zu Scrollytelling-basierten Datenschutzerklärungen (Méndez & Such, CHI 2026) fand bessere UX und niedrigere cognitive load — aber **identische Comprehension-Accuracy** gegenüber klassischer Textform. Das ist der nüchterne Befund.
 - **Keine sauberen RCTs** auf Wissenstransfer, die Explorables direkt gegen statischen Text oder Video vergleichen. Meta-Analysen zu "experiential learning" (Burch 2019, +0,5 SD) sind zu weit weg vom spezifischen Format, um belastbar übertragen zu werden.
 
 **Was das heißt:** Explorables wirken motivational und reduzieren die Eintrittshürde zu komplexen Themen — aber sie sind **kein nachgewiesener Ersatz für Üben und Retrieval Practice**. Sie gehören in die Eröffnungsphase einer Lernsituation, nicht in die Vertiefungsphase. Das ist eine wichtige Einordnung für ein evidenzbasiertes Repo — das Format zu überverkaufen, wäre unseriös.
@@ -170,4 +170,4 @@ Wer ein eigenes Explorable-Format in eine selbst gebaute Lernumgebung integriere
 - Ciechanowski, B. Blog mit umfangreichen interaktiven Artikeln. https://ciechanow.ski/
 - Patel, A. *Red Blob Games*. Interaktive Algorithmus-Erklärungen. https://www.redblobgames.com/
 - Zhang, Y. et al. (2023). Impact of Scrollytelling on Reading Experience and User Engagement. *Proceedings of ECCE 2023*.
-- Scrollytelling for Privacy Policies Study (2024). *arXiv:2603.04367*.
+- Méndez, G. G., & Such, J. (2026). Scrollytelling as an Alternative Format for Privacy Policies. *CHI 2026*. arXiv:2603.04367.

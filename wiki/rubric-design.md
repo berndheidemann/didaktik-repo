@@ -25,7 +25,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner, gruppe]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-05-01
 summary: >
   Methodik für den Bau von Bewertungsrastern: Kriterien, Performance-Levels
   und Descriptoren. Abgrenzung analytisch/holistisch/Single-Point (Gonzalez),
@@ -100,7 +100,7 @@ Kalibrierungs-Sessions im Lehrerteam (2 Stunden, 10 Arbeiten gemeinsam bewerten,
 
 - **Jonsson & Svingby (2007):** Rubrics erhöhen Reliabilität konsistent; Validitätsfrage offen. Exemplars und Training der Rater sind die größten Hebel.
 - **Panadero & Jonsson (2013, 2023):** Rubrics haben substantielle *formative* Effekte (Self-Regulation, Self-Efficacy, Academic Performance) — wenn Lernende sie **vor** Abgabe kennen und zur Selbstbewertung nutzen.
-- **Dhulipalla et al. (2025, ICER):** Frage-spezifische Rubrics schlagen frage-agnostische beim LLM-gestützten Code-Scoring.
+- **Pathak et al. (2025, ICER):** Frage-spezifische Rubrics schlagen frage-agnostische beim LLM-gestützten Code-Scoring.
 
 ## Bezug zur IT-Ausbildung
 
@@ -171,7 +171,7 @@ Diese Rubric funktioniert für [[code-review-unterricht]], Projektabgaben, [[pai
 - Jonsson, A. & Svingby, G. (2007). The use of scoring rubrics: Reliability, validity and educational consequences. *Educational Research Review, 2*(2), 130–144.
 - Panadero, E. & Jonsson, A. (2013). The use of scoring rubrics for formative assessment purposes revisited: A review. *Educational Research Review, 9*, 129–144.
 - Panadero, E., Jonsson, A., Pinedo, L. & Fernández-Castilla, B. (2023). Effects of rubrics on academic performance, self-regulated learning, and self-efficacy: A meta-analytic review. *Educational Psychology Review, 35*, 113.
-- Dhulipalla, A. et al. (2025). Rubric is all you need: Improving LLM-based code evaluation with question-specific rubrics. *ICER 2025.*
+- Pathak, A., Gandhi, R., Uttam, V., et al. (2025). Rubric Is All You Need: Improving LLM-based Code Evaluation With Question-Specific Rubrics. *ICER 2025.* arXiv:2503.23989.
 - Landis, J. R. & Koch, G. G. (1977). The measurement of observer agreement for categorical data. *Biometrics, 33*(1), 159–174.
 - Gonzalez, J. (2014). Meet the single point rubric. *Cult of Pedagogy.*
 - Yavuz, F. (2025). Utilizing large language models for EFL essay grading: Reliability and validity in rubric-based assessments. *British Journal of Educational Technology.*

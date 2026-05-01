@@ -21,7 +21,7 @@ related:
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-05-01
 summary: >
   Das Imposter-Phänomen (Clance & Imes 1978) ist in Tech-Domänen besonders
   verbreitet (52 % Software Engineers "frequent-to-intense"). Für Azubis
@@ -59,7 +59,7 @@ Clance & Imes prägten 1978 den Begriff an einer Stichprobe erfolgreicher Frauen
 
 ### Warum Tech besonders betroffen ist
 
-Eine Studie an 2.665 Software Engineers (Guenther et al., arXiv 2023): **52,7 % frequent-to-intense Imposter-Erleben**. Die Treiber sind strukturell:
+Eine Studie an 2.665 Software Engineers (Guenes et al., arXiv 2023): **52,7 % frequent-to-intense Imposter-Erleben**. Die Treiber sind strukturell:
 
 | Treiber | Wirkung |
 |---|---|
@@ -177,6 +177,6 @@ Lehrkräfte sind keine Therapeuten. Wenn Imposter-Erleben mit Depressivität, Pa
 - Huecker, M. R., Shreffler, J., McKeny, P. T. & Davis, D. (2022). Imposter phenomenon. *StatPearls.*
 - Steele, C. M. (1997). A threat in the air: How stereotypes shape intellectual identity and performance. *American Psychologist, 52*(6), 613–629.
 - Margolis, J. (2008). *Stuck in the shallow end: Education, race, and computing.* MIT Press.
-- Guenther, P. et al. (2023). Impostor phenomenon in software engineers. *arXiv:2312.03966.*
+- Guenes, P. et al. (2023). Impostor phenomenon in software engineers. *arXiv:2312.03966.*
 - Rohrmann, S. (2019). Hochstapler-Phänomen. *Psychotherapeut, 64*(3), 313–323.
 - Walton, G. M. & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451.
