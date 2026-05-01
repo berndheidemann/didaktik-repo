@@ -19,7 +19,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 evidenzgrad: meta-analyse
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-05-01
 summary: >
   Barak Rosenshines zehn Prinzipien evidenzbasierter Instruktion (2012) synthetisieren
   Kognitionswissenschaft, Prozess-Produkt-Forschung und Cognitive-Supports-Studien.
@@ -70,14 +70,18 @@ Rosenshines Schlüsselaussagen mit O-Ton (American Educator 36(1), 2012):
 
 ## Effektstärke
 
-Direkte Effektstärke auf die Prinzipien als Paket existiert nicht. Näherungsgrößen aus Meta-Analysen:
+Direkte Effektstärke auf die Prinzipien als Paket existiert nicht. Näherungsgrößen aus Meta-Analysen — Edition pro Wert ausgewiesen, weil Hatties Werte zwischen *Visible Learning* (2009) / Online-Aktualisierung 2018 und der MetaX-2023-Datenbank teils erheblich schwanken:
 
-- **Direct Instruction insgesamt:** d ≈ 0,59 (Hattie, *Visible Learning*, 2009/2023). Einordnung: mittel bis groß; deutlich über Hatties 0,40-Schwelle.
-- **Teacher Clarity:** d ≈ 0,75.
-- **Feedback:** d ≈ 0,70.
-- **Worked Examples (als Kerntechnik zu Prinzip 4):** d ≈ 0,57 (Hattie).
+| Konstrukt | Hattie 2009/18 | MetaX 2023 |
+|---|---|---|
+| **Direct Instruction insgesamt** | 0,59 | 0,56 |
+| **Teacher Clarity** | 0,75 | 0,85 |
+| **Feedback** | 0,70 | **0,50** |
+| **Worked Examples** (Kerntechnik zu Prinzip 4) | 0,57 | 0,47 |
 
-**Wichtige Einschränkung:** Lortie-Forgues & Inglis (2019, *Educational Researcher*) und Evans & Yuan (2022) zeigen in Re-Analysen deutlich niedrigere Effektstärken für Direct Instruction (d ≈ 0,06–0,07). Hatties Methode, Meta-Analysen ungewichtet zu mitteln, ist methodisch umstritten. Die "d ≈ 0,6"-Angabe sollte daher nicht als Punktwert, sondern als Richtungssignal gelesen werden.
+Einordnung: alle vier Konstrukte liegen über Hatties 0,40-Schwelle, das didaktische Richtungssignal bleibt stabil. Aber: Feedback hat sich in MetaX 2023 deutlich relativiert — Hattie selbst hat seine Feedback-Aussage in den letzten Jahren entsprechend verfeinert (siehe [[feedback-lernumgebungen]]).
+
+**Wichtige methodische Einschränkung:** Lortie-Forgues & Inglis (2019, *Educational Researcher*) zeigen am Beispiel großer Bildungs-RCTs (EEF, NCEE), dass deren mittlere Effektstärke nur d ≈ 0,06 mit weiten Konfidenzintervallen beträgt — d.h. ein erheblicher Teil rigoros designter Bildungs-Interventionen ist statistisch kaum informativ. Das ist *kein* Direct-Instruction-spezifischer Re-Analyse-Befund, sondern gilt für Bildungs-RCTs allgemein und relativiert in der Sekundärliteratur Hatties Hochwerte. Hatties Methode, Meta-Analysen ungewichtet zu mitteln, wird darüber hinaus von O'Neill (2012), Wecker et al. (2017) und Bergeron (2017) inhaltlich kritisiert. Die "d ≈ 0,6"-Angabe sollte daher nicht als Punktwert, sondern als Richtungssignal gelesen werden.
 
 ## Limitationen
 
@@ -130,5 +134,5 @@ Ein Skill, der Lehrerpräsentationen strukturiert, sollte Rosenshine als inneres
 - Sherrington, T. (2019). *Rosenshine's Principles in Action*. John Catt Educational. ISBN 978-1-912906-20-8.
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why Minimal Guidance During Instruction Does Not Work. *Educational Psychologist*, 41(2), 75–86.
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and Achievement in Problem-Based and Inquiry Learning. *Educational Psychologist*, 42(2), 99–107.
-- Hattie, J. (2009, 2. Aufl. 2023). *Visible Learning*. Routledge. https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/
-- Lortie-Forgues, H., & Inglis, M. (2019). Rigorous Large-Scale Educational RCTs Are Often Uninformative. *Educational Researcher*.
+- Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge. — sowie *Visible Learning: The Sequel* (2023, Routledge) als Nachfolge-Band. Aktuelle Werte: visiblelearningmetax.com.
+- Lortie-Forgues, H., & Inglis, M. (2019). Rigorous Large-Scale Educational RCTs Are Often Uninformative. *Educational Researcher*, 48(3), 158–166.

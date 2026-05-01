@@ -32,11 +32,13 @@ evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [bewerten]
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-05-01
 summary: >
-  Hatties Visible Learning (2009/2023) und CS-spezifische Meta-Analysen
-  zeigen: Feedback (d=0,70), formatives Assessment (d=0,68) und Worked
-  Examples (d=0,57) wirken am stärksten — Technologie allein (d=0,23) nicht.
+  Hatties Visible Learning und CS-spezifische Meta-Analysen zeigen:
+  Feedback, formatives Assessment und Worked Examples wirken stark —
+  Technologie allein (d=0,23) nicht. Hatties Werte sind zwischen 2009/2018
+  und MetaX 2023 teils erheblich verschoben (Feedback 0,70 → 0,50,
+  Deliberate Practice 0,79 → 0,49); die Tabelle weist die Edition pro Zelle aus.
 ---
 
 # Effektstärken: Was wirkt im Unterricht?
@@ -57,20 +59,24 @@ Hatties Daten umfassen alle Altersgruppen, Fächer und Kontexte weltweit. CS-spe
 
 ### Top-Interventionen für IT-Unterricht
 
-| Intervention | Effektstärke (d) | Wiki-Artikel |
-|---|---|---|
-| **Deliberate Practice** | 0,79 | [[retrieval-practice]], [[expertise-entwicklung]] |
-| **Teacher Clarity** (Lernziele + Erfolgskriterien) | 0,75 | [[constructive-alignment]] |
-| **Feedback** (task/process/self-regulation) | 0,70 | [[formatives-assessment]] |
-| **Formative Evaluation** | 0,68 | [[formatives-assessment]] |
-| **Spaced Practice** | 0,60 | [[retrieval-practice]], [[productive-failure]] |
-| **Metakognitive Strategien** | 0,60 | [[selbstgesteuertes-lernen]], [[lerntagebuch]] |
-| **Worked Examples** | 0,57 | [[worked-examples]] |
-| **Scaffolding** | 0,54 | [[scaffolding]] |
-| **Peer Instruction (CS)** | ~0,50 | [[peer-instruction]] |
-| **Gamification** | 0,36-0,49 | [[gamification-it-unterricht]] |
-| **Flipped Classroom** | 0,35 | [[flipped-classroom]] |
-| **Pair Programming** | 0,31 | [[pair-programming-unterricht]] |
+| Intervention | Hattie 2009/18 | MetaX 2023 | Wiki-Artikel |
+|---|---|---|---|
+| **Deliberate Practice** | 0,79 | **0,49** | [[retrieval-practice]], [[expertise-entwicklung]] |
+| **Teacher Clarity** (Lernziele + Erfolgskriterien) | 0,75 | **0,85** | [[constructive-alignment]] |
+| **Feedback** (task/process/self-regulation) | 0,70 | **0,50** | [[formatives-assessment]] |
+| **Formative Evaluation** | 0,68 | — | [[formatives-assessment]] |
+| **Spaced Practice** | 0,60 | — | [[retrieval-practice]], [[productive-failure]] |
+| **Metakognitive Strategien** | 0,60 | — | [[selbstgesteuertes-lernen]], [[lerntagebuch]] |
+| **Worked Examples** | 0,57 | **0,47** | [[worked-examples]] |
+| **Scaffolding** | 0,54 | — | [[scaffolding]] |
+| **Peer Instruction (CS)** | ~0,50 | — | [[peer-instruction]] |
+| **Gamification** | 0,36–0,49 | — | [[gamification-it-unterricht]] |
+| **Flipped Classroom** | 0,35 | — | [[flipped-classroom]] |
+| **Pair Programming**\* | 0,31 | — | [[pair-programming-unterricht]] |
+
+\* Pair Programming hat in MetaX keine eigene Influence — Wert stammt aus Hannay et al. (2009)-Meta-Analyse, nicht aus Hattie selbst.
+
+**Edition-Hinweis:** Die Spalte "Hattie 2009/18" zitiert Werte aus *Visible Learning* (2009) plus der Online-Aktualisierung (Stand 2017/18). "MetaX 2023" sind die aktuellen Werte aus visiblelearningmetax.com, die zusätzliche Meta-Analysen einschließen. Mehrere zentrale Werte haben sich erheblich verändert — besonders **Feedback (0,70 → 0,50)** und **Deliberate Practice (0,79 → 0,49)**. Bei didaktischer Argumentation: entweder den aktuellen MetaX-Wert verwenden oder die Edition explizit nennen.
 
 ### Schwache Interventionen (populär aber wenig Effekt)
 
