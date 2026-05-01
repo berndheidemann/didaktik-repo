@@ -38,7 +38,7 @@ evidenzgrad: meta-analyse
 audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-05-01
 summary: >
   Flavell (1979): Metakognition als Wissen über und Steuerung der eigenen
   Kognition — mit zwei Dimensionen (Wissen, Regulation) und drei Regulations-
@@ -98,7 +98,7 @@ Nach Schraw & Moshman (1995), strukturell identisch mit Zimmermans SRL-Phasen:
 **Calibration** = Übereinstimmung zwischen *wahrgenommener* und *tatsächlicher* Kompetenz. Schlecht kalibrierte Lernende wissen nicht, was sie nicht wissen.
 
 - **Dunning-Kruger-Effekt** (Kruger & Dunning 1999): Lernende mit geringer Kompetenz überschätzen sich systematisch — ihnen fehlt das metakognitive Wissen, um ihre Lücken zu erkennen. Erst wachsende Kompetenz macht die eigenen Schwächen sichtbar.
-- **Overconfidence beim Programmieren** (Prather et al. 2020): CS1-Lernende überschätzen massiv ihre Fähigkeit, Code zu erklären — selbst bei Code, den sie nicht korrekt tracen können.
+- **Overconfidence beim Programmieren** (Gorson & O'Rourke, ICER 2020; vgl. Prather et al. 2020 für eine systematische Review der CS1-Metakognitions-Literatur): CS1-Lernende überschätzen massiv ihre Fähigkeit, Code zu erklären — selbst bei Code, den sie nicht korrekt tracen können.
 - **Illusion of Understanding:** Beim Lesen von Tutorials fühlt sich vieles "klar" an, bis man selbst schreiben soll. Das ist ein metakognitives Versagen, kein Wissensdefizit.
 
 **Interventionen zur besseren Calibration:**
@@ -137,7 +137,7 @@ Der KMK-Rahmenlehrplan formuliert "selbstgesteuertes Handeln" als explizites Zie
 
 ### Evidenz
 
-- **Hattie (Visible Learning):** Metakognitive Strategien d ≈ **0,60** — konsistent in den Top-20-Interventionen. Hattie & Donoghue (2016) differenzieren nach Substrategien (Planning 0,80; Monitoring 0,71; Evaluation 0,75).
+- **Hattie (Visible Learning):** Metakognitive Strategien d ≈ **0,60** (visible-learning.org Ranking 2018) — konsistent in den Top-20-Interventionen. Hattie & Donoghue (2016, *npj Science of Learning*) differenzieren weiter nach Substrategien; im Volltext bestätigt ist u.a. *self-monitoring* d ≈ 0,71, weitere Substrategien-Werte erfordern zellengenaue Tabellen-Lektüre.
 - **Self-Explanation (Chi et al. 1989/1994):** d ≈ 0,55–0,80 je nach Implementierung, besonders groß bei prozeduralen Domänen.
 - **Dignath & Büttner (2008, Meta-Analyse):** metakognitive Trainings Sekundarbereich d = 0,54 auf Leistung, d = 0,73 als ungewichteter Gesamt-Effekt (nicht spezifisch auf Strategienutzung beschränkt).
 
@@ -184,4 +184,5 @@ Ein Agent oder eine Lehrkraft kann Metakognition operationalisieren:
 - Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
 - Hattie, J., & Donoghue, G. M. (2016). Learning strategies: A synthesis and conceptual model. *npj Science of Learning*, 1, 16013.
 - Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students. *Metacognition and Learning*, 3(3), 231-264.
-- Prather, J., Becker, B. A., Craig, M., Denny, P., Loksa, D., & Margulieux, L. (2020). What do we think we think we are doing? Metacognition and self-regulation in programming. *Proceedings of ICER 2020*, 2-13.
+- Prather, J., Becker, B. A., Craig, M., Denny, P., Loksa, D., & Margulieux, L. (2020). What do we think we think we are doing? Metacognition and self-regulation in programming. *Proceedings of ICER 2020*, 2-13. (Systematic Review der CS1-Metakognitions-Literatur, keine Primärempirie.)
+- Gorson, J., & O'Rourke, E. (2020). Why do CS1 students think they're bad at programming? Investigating self-efficacy and self-assessments at three universities. *Proceedings of ICER 2020.*

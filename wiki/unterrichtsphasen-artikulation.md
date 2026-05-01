@@ -14,7 +14,7 @@ related:
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-05-01
 summary: >
   Überblick der etablierten Phasenmodelle der Unterrichtsplanung (Herbart/Rein, Roth,
   Hilbert Meyer, Vollständige Handlung) als Rückgrat jeder Unterrichtsstunde und
@@ -92,7 +92,7 @@ Der Übergang von Erarbeitung zu Sicherung ist didaktisch der kritischste Punkt 
 
 ## Ergebnissicherung: Formate
 
-Die Ergebnissicherung gilt didaktisch als theoretisch untererforschter Bereich (Uni Potsdam Methodenpool); die etablierten Formate sind praxisstark, aber nicht streng empirisch fundiert:
+Die Ergebnissicherung ist didaktisch verbreitet, aber empirisch dünn untersucht — Uni Potsdam Methodenpool sammelt etablierte Formate ohne Wirksamkeits-Vergleichsstudien:
 
 - **Tafelbild** — Ergebnis-, Systematisierungs- oder Arbeitstafelbild; visualisiert Struktur
 - **Merksatz** — ein bis zwei Sätze, hervorgehoben, einprägsam formuliert
@@ -107,14 +107,16 @@ Die Wahl hängt vom Inhaltstyp ab: Fakten → Merksatz/Lückentext; Prozess → 
 
 ## Empirische Evidenz — indirekt
 
-Es gibt keine Studie, die speziell Roths oder Meyers Phasenmodelle als Kontrollbedingung prüft. Die Evidenz ist indirekt über verwandte Konstrukte vermittelt (Hattie, *Visible Learning*, Routledge 2009/2023):
+Es gibt keine Studie, die speziell Roths oder Meyers Phasenmodelle als Kontrollbedingung prüft. Die Evidenz ist indirekt über verwandte Konstrukte vermittelt (Hattie, *Visible Learning*) — Edition pro Wert ausgewiesen, weil mehrere Werte zwischen 2009/2018 und MetaX 2023 deutlich verschoben sind:
 
-- **Teacher Clarity** (Klarheit der Lehrperson) — d ≈ 0,75
-- **Direct Instruction** — d ≈ 0,59
-- **Classroom Discussion** — d ≈ 0,82
-- **Feedback** — d ≈ 0,70
+| Konstrukt | Hattie 2009/18 | MetaX 2023 |
+|---|---|---|
+| **Teacher Clarity** | 0,75 | 0,85 |
+| **Direct Instruction** | 0,59 | 0,56 |
+| **Classroom Discussion** | 0,82 | (stabil) |
+| **Feedback** | 0,70 | **0,50** |
 
-Alle vier sind Merkmale, die strukturiert phasierte Stunden begünstigen. Das rechtfertigt das Phasenmodell als Planungsraster, nicht als mechanisches Schema. Die Hattie-Effektstärken werden methodisch kritisiert (Lortie-Forgues & Inglis 2019) — das Phasenmodell sollte also als didaktische Heuristik, nicht als evidenzbasierte Intervention verkauft werden.
+Alle vier sind Merkmale, die strukturiert phasierte Stunden begünstigen. Das rechtfertigt das Phasenmodell als Planungsraster, nicht als mechanisches Schema. Methodisch ist Hatties ungewichtetes Mitteln umstritten (O'Neill 2012, Wecker et al. 2017, Bergeron 2017); zudem zeigen Lortie-Forgues & Inglis (2019), dass große Bildungs-RCTs im Schnitt nur d ≈ 0,06 mit weiten Konfidenzintervallen liefern — das relativiert in der Sekundärliteratur Hatties Hochwerte (kein DI-spezifischer Re-Analyse-Befund). Das Phasenmodell sollte also als didaktische Heuristik, nicht als evidenzbasierte Intervention verkauft werden.
 
 ## Bezug zur IT-Ausbildung
 
@@ -158,5 +160,5 @@ Für Consolidation nach einer Lernsituation liegt der Schwerpunkt auf Sicherung 
 - Meyer, H. (1987). *UnterrichtsMethoden I/II*. Frankfurt/M.: Cornelsen Scriptor.
 - Meyer, H. & Junghans, C. (2022). *Praxisbuch Meyer — Unterrichtsmethoden I Theorieband* (20. Aufl.). Cornelsen. ISBN 978-3-589-20604-9.
 - KMK (2007). *Handreichung für die Erarbeitung von Rahmenlehrplänen der KMK für den berufsbezogenen Unterricht in der Berufsschule*. https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2007/2007_09_01-Handreich-Rlpl-Berufsschule.pdf
-- Hattie, J. (2009, 2. Aufl. 2023). *Visible Learning*. Routledge. https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/
+- Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge. — sowie *Visible Learning: The Sequel* (2023, Routledge) als Nachfolge-Band. Aktuelle Werte: visiblelearningmetax.com.
 - Uni Potsdam — Methodenpool Ergebnissicherung. https://www.uni-potsdam.de/de/meprooek/index/methodenpool/unterrichtsphasen/ergebnissicherung

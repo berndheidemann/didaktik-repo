@@ -77,7 +77,7 @@ Für Azubis übersetzt: vier bis fünf Zeilen Kontext, dann die eigentliche Task
 
 ### Sechs Pair-mit-KI-Modi
 
-GitHubs "Rubber Duck"-Review-Agent (2025) macht deutlich: KI-Nutzung ist **modusabhängig**. Wer immer im selben Modus prompt, verschenkt den Großteil der Wirksamkeit. Sechs Modi für die Alltagspraxis:
+KI-Nutzung ist **modusabhängig**: dieselbe Person, dieselbe Aufgabe, anderer Prompt-Modus erzeugt unterschiedliche Ergebnisse. Wer immer im selben Modus prompt, verschenkt den Großteil der Wirksamkeit. Sechs Modi für die Alltagspraxis:
 
 | Modus | Wann? | Prompt-Start |
 |---|---|---|
@@ -92,7 +92,7 @@ GitHubs "Rubber Duck"-Review-Agent (2025) macht deutlich: KI-Nutzung ist **modus
 
 ### Anti-Patterns
 
-Die häufigsten Fehler bei Azubis (Anthropic Education Report 2025 bestätigt empirisch ~47 % "Direct"-Nutzung ohne kognitive Beteiligung):
+Die häufigsten Fehler bei Azubis (Anthropic Education Report 2025 dokumentiert empirisch ~47 % "Direct"-Nutzung — Lösung statt Erklärung; Anthropic enthält sich explizit einer Lerneffekt-Bewertung):
 
 | Anti-Pattern | Problem | Gegenmittel |
 |---|---|---|
@@ -189,7 +189,7 @@ Klassenweit werden gute Prompts pro Aufgabentyp gesammelt (SQL-Query, Regex, Dok
 
 - **Denny et al. (2024, SIGCSE):** "Prompt Problems" als neuer Aufgabentyp — Schüler schreiben natürlichsprachige Prompts für visuell gegebene Aufgaben. Tool Promptly wertet gegen Testsuite aus. Positive Engagement-Effekte in CS1/CS2.
 - **Denny et al. (2024, ITiCSE):** "Explaining Code with a Purpose" — Verbindung von Code-Comprehension und Prompting.
-- **Anthropic Education Report (2025):** 574.000 analysierte Conversations, vier Nutzungsmuster — *Collaborative* schlägt *Direct* in Lerneffekt.
+- **Anthropic Education Report (2025):** 574.000 analysierte Conversations, vier Nutzungsmuster (~23–29 % je); ~47 % aller Conversations folgen "Direct"-Patterns (Lösung statt Erklärung). Anthropic enthält sich explizit einer Lerneffekt-Bewertung — die Studie ist Nutzungs-, nicht Wirksamkeitsanalyse.
 - **Pădurean et al., "Prompt Programming" (arXiv 2503.04267, ITiCSE 2025):** Dialog-basiertes Problem-Solving im CS1-Kontext, Plattform-Studie mit >900 Studierenden.
 
 ## Verwandte Konzepte
@@ -214,7 +214,6 @@ Klassenweit werden gute Prompts pro Aufgabentyp gesammelt (SQL-Query, Regex, Dok
 - Anthropic. (2025). *Anthropic Education Report: How university students use Claude.*
 - Denny, P., Leinonen, J., Prather, J., Luxton-Reilly, A., Amarouche, T., Becker, B. A. & Reeves, B. N. (2024). Prompt problems: A new programming exercise for the generative AI era. *Proceedings of SIGCSE 2024.*
 - Denny, P., Smith, D. H., Fowler, M., Prather, J., Becker, B. A. & Leinonen, J. (2024). Explaining code with a purpose: An integrated approach for developing code comprehension and prompting skills. *Proceedings of ITiCSE 2024.*
-- GitHub. (2025). GitHub Copilot CLI adds Rubber Duck review agent.
 - Hoffman, R. (2023). *Impromptu: Amplifying our humanity through AI.* Dallepedia.
 - Lo, L. S. (2023). The CLEAR path: A framework for enhancing information literacy through prompt engineering. *The Journal of Academic Librarianship, 49*(4), 102720.
 - OpenAI. (2024). *Prompt engineering guide.*
