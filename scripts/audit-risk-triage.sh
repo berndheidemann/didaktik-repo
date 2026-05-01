@@ -16,6 +16,8 @@
 #   +3 für Self-Citation-Cluster (Autor-Initial + Nachname mehrfach in Quellen-Block) — Hot-Spot v3
 #   +2 für arXiv-IDs ohne CrossRef-DOI — Hot-Spot v3
 #   +2 für §-Verweise (Verordnungs-Paragraphen) — Hot-Spot v3
+#   +5 pro n=/N=-Studienbox ohne Inline-Cite (Autor JJJJ) — Hot-Spot v5 (fabrizierte Mini-Studien-Boxen)
+#   +5 wenn >2 nicht-westliche Erstautor-Initialen in Quellenliste — Hot-Spot v5 (Erstautor-Misattribution-Risiko)
 #   -3 wenn ausschließlich kanonische Theorie (Vygotsky, Bloom 1956, Piaget) ohne neue Zahlen
 
 set -euo pipefail
@@ -163,6 +165,29 @@ for file in "$WIKI_DIR"/*.md; do
   if [[ ${selfcite:-0} -gt 0 ]]; then
     score=$((score + 3))
     reasons="${reasons}selfcite:${selfcite} "
+  fi
+
+  # v5 Hot-Spot: Studien-Boxen mit n=/N=-Zahl ohne identifizierbare Quelle
+  # Heuristik: Jede n=/N=-Stelle im Body, deren Quellenliste nicht das passende DOI/arXiv-ID enthält.
+  # Vereinfachung: zähle n=/N=-Stellen, ziehe Stellen mit Klammer-Cite "(Autor JJJJ)" in derselben Zeile ab.
+  nzahl_count=$(grep -coE '[nN][[:space:]]*[≈=][[:space:]]*[0-9]+' "$file" || true)
+  if [[ $nzahl_count -gt 0 ]]; then
+    # Wieviele dieser Zeilen haben KEIN (Autor JJJJ)-Inline-Cite?
+    nzahl_unbelegt=$(grep -E '[nN][[:space:]]*[≈=][[:space:]]*[0-9]+' "$file" 2>/dev/null \
+      | grep -cvE '\([A-ZÄÖÜ][a-zA-ZäöüßA-ZÄÖÜ&,. ]+, ?(19|20)[0-9]{2}\)' || true)
+    if [[ ${nzahl_unbelegt:-0} -gt 0 ]]; then
+      score=$((score + 5))
+      reasons="${reasons}n-unbelegt:${nzahl_unbelegt} "
+    fi
+  fi
+
+  # v5 Hot-Spot: nicht-westliche Erstautoren-Häufung in Quellen-Block (chinesisch/koreanisch/südasiatisch)
+  # Heuristik: Erstautoren-Initial-Pattern wie "Lee, X.", "Kim, X.", "Liu, X." etc. — Häufung > 2 erhöht Risiko
+  asian_lastnames=$(awk '/^##.*Quellen|^##.*Literatur|^##.*Belege/,EOF' "$file" 2>/dev/null \
+    | grep -coE '\b(Lee|Kim|Park|Choi|Cho|Yang|Jang|Liu|Xu|Zhang|Li|Chen|Wang|Wu|Chu|Xiao|Singh|Patel|Sharma|Kumar|Pathak|Gupta), [A-Z]\.' || true)
+  if [[ ${asian_lastnames:-0} -gt 2 ]]; then
+    score=$((score + 5))
+    reasons="${reasons}asia-erstautor:${asian_lastnames} "
   fi
 
   # Bereits auditiert?

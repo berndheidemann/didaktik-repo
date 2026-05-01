@@ -162,17 +162,42 @@ Plane 25-35 Min. KEIN File schreiben.
 
 ## Bekannte Halluzinations-Muster (für Domain-Hints)
 
-Aus Pass-1+Pass-2+v3-Audits robust gesichert:
+Aus Pass-1+Pass-2+v3-Audits + Cross-Repo-Sweeps robust gesichert (Stand 2026-05-01, 22 auditierte Artikel + 2 Sweeps, ~250 Citations):
 
-1. **Erstautor-Misattribution** (häufigster Fehlertyp) — besonders bei arXiv-Preprints und CHI-/ICER-Papers. Initial-Konfusion (z.B. "Yang, J." aus "Janghee Cho" mit Phantom-Nachname).
-2. **Hybridisierte Citations** — Titel von Paper A + Stichprobe/Venue/Autoren von Paper B.
-3. **Effektstärken-Generationenfehler** — d-Wert wird Quelle X zugeschrieben, ist aber aus früherer Meta-Analyse, die X nur referenziert (Cepeda → Donovan, Roediger&Butler → Rowland).
-4. **Hot-Spot-Inversion** — zentrale These ist genau das Gegenteil der zitierten Quelle (Barbieri 2023 SE-negativer-Moderator als positiver dargestellt).
-5. **Hattie-Edition-Drift** — 2009-Werte unter "2009/2023"-Header ohne Edition-Disclosure.
-6. **Studientyp-Klassifikationsfehler** — Surveys als RCTs, theoretische Reviews als Längsschnitt-Empirie, Einzelstudien als Meta-Analysen.
-7. **Strukturierte Tabellen mit erfundenen Kategorien** — HalluCode 5 statt 3 Kategorien, IHK-Bereichsnamen aus FIAusbV paraphrasiert statt übernommen.
-8. **Falsche arXiv/DOI mit komplett anderem Paper-Inhalt** — arXiv-ID stimmt, Inhalt ist anderer Forschungsbereich.
-9. **Fabrizierte Direkt-Zitate aus dt. Verwaltungstexten** — KMK-Direktzitat in dieser Form nicht reproduzierbar; "§ 17 MPO-IT" als Norm nicht etabliert.
-10. **Quelle widerspricht sich selbst** — zitierte Sekundärquelle widerlegt eigene Behauptung (Freudenberg-Preisträger steht in eigener idw-online-Quelle).
-11. **Self-Citation als unabhängige Evidenz** — Gerlich-Doppel-Cite ohne Offenlegung.
-12. **Begriffsverwechslung mit veralteter VO** — "Betrieblicher Auftrag" als Begriff der Vor-2020-VO.
+1. **Erstautor-Misattribution bei nicht-westlichen Namen** (häufigster Fehlertyp, jetzt 6× systematisch dokumentiert) — Lee/Kyung (PatientSim), Zhang/Chu (GradeOpt), Dhulipalla/Pathak (Rubric Is All You Need), Liu/Shahzad (LPITutor), Xu/Li (MEGA-RAG), Stahl/Xiao (From Automation to Augmentation). Pattern: chinesischer/koreanischer/südasiatischer Erstautor wird durch häufigeren oder westlich klingenden Namen "normalisiert"; Initial bleibt oft erhalten. Verifikation Pflicht: arXiv-Page direkt aufrufen + CrossRef-Erstautor-Abgleich.
+2. **Hybrid-Citations (echter Titel + falsche Autoren)** (jetzt 4× systematisch) — Lancaster/Cotton SIGITE 2023, Denny CACM 2024, Denny ITiCSE 2024, Jang KJME 2023. DOI-Lookup fängt diese NICHT, weil DOI fehlt oder zu echtem Paper mit anderen Autoren führt. Gegenmittel: Autorenliste UND Titel UND Venue jeweils einzeln gegen CrossRef prüfen.
+3. **Fabrizierte Studien-Boxen mit konkreten n-Zahlen ohne DOI/URL** (NEU, Welle 5, 4× in ki-native-lernumgebungen + retrieval-practice + mastery-learning) — Pattern: konkrete Institution + konkretes Jahr + konkrete n-Zahl + konkrete Effekt-Richtung, aber ohne identifizierbare Publikation. Sound-Bites, die in der Literatur nicht existieren ("UT Austin Fall 2024 n≈200 Copilot-first", "Georgia Tech Goel n≈150 Multi-Agent"). Gegenmittel: WebSearch ×3 für Existenznachweis bei jeder n-Zahl ohne Quelle.
+4. **Body-vs-Quellenliste-Inkonsistenz** (NEU, Welle 5) — Beispiel Ohmann/Soosai Raj: Quellenliste hatte Single-Author korrekt, Body erwähnte Phantom-Co-Autor. Gegenmittel: Body-Cite-Tokens (`Autor JJJJ`) gegen Quellenliste-Einträge in Layer 3 abgleichen.
+5. **Effektstärken-Generationenfehler** — d-Wert wird Quelle X zugeschrieben, ist aber aus früherer Meta-Analyse, die X nur referenziert (Cepeda → Donovan, Roediger&Butler → Rowland, Hattie/Donoghue Substrategien → Donker 2014 als Sekundärzitat).
+6. **Hot-Spot-Inversion** — zentrale These ist genau das Gegenteil der zitierten Quelle, oder Quelle macht die These explizit nicht (Anthropic Education Report Lerneffekt, Lortie-Forgues als "Hattie-Methodenkritik", Liu "Lost in the Middle" semantisch invertiert).
+7. **Hattie-Edition-Drift** — 2009/2018-Werte unter "2009/2023"-Header ohne Edition-Disclosure. Besonders Feedback (0,70 alt → MetaX 2023: 0,50, >40 % Drift) und Deliberate Practice (0,79 → 0,49). Edition pro Wert in Tabellen ausweisen.
+8. **Studientyp-Klassifikationsfehler** — Surveys als RCTs, theoretische Reviews als Längsschnitt-Empirie, Einzelstudien als Meta-Analysen, Position-Papers als Evidenz-Quelle, Buch-Marketing-Claims als peer-reviewte Effekte.
+9. **Strukturierte Tabellen mit erfundenen Kategorien/Stufen** — HalluCode 5 statt 3 Kategorien, IHK-Bereichsnamen aus FIAusbV paraphrasiert statt übernommen, UNESCO Teachers Framework "4 Stufen" (sind 3), erfundene Schulart-Trennungen (Bayern fobizz für berufliche Schulen).
+10. **Falsche arXiv/DOI mit komplett anderem Paper-Inhalt** — arXiv-ID stimmt, Inhalt ist anderer Forschungsbereich (arXiv:2411.10954 als "Indic-EiPE" — ist tatsächlich "Dialectal Toxicity Detection").
+11. **Fabrizierte Direkt-Zitate / Misattribution aus dt. Verwaltungstexten** — KMK-Direktzitat in dieser Form nicht reproduzierbar; "§ 17 MPO-IT" als Norm nicht etabliert; "BfDI Orientierungshilfe KI" → tatsächlich DSK; Methodenpool-Aussagen, die nicht in der Quelle stehen.
+12. **Quelle widerspricht sich selbst** — zitierte Sekundärquelle widerlegt eigene Behauptung (Freudenberg-Preisträger steht in eigener idw-online-Quelle).
+13. **Self-Citation als unabhängige Evidenz** — Gerlich-Doppel-Cite ohne Offenlegung.
+14. **Begriffsverwechslung mit veralteter VO** — "betrieblicher Auftrag" als Begriff der Vor-2020-FIAusbV; "FIAusbV Update 2025" suggeriert Verordnungsnovelle (real ist nur Prüfungskatalog-Update).
+15. **Datierungs-Drift bei Verwaltungs- und Tool-Updates** — fabrizierte Update-Jahre (EC Ethical Guidelines "aktualisiert 2024", real 03/2026); "telli flächendeckend Ende 2025" überdehnt; veraltete Tabellen ("im Rollout" für seit Monaten produktive Tools).
+16. **Inhalts-Überschreibung von Quellen-Genres** — Position-Paper als Beleg für konkrete Praxis-Empfehlung; Survey-Abstract-Snippet als generische Effektivitäts-Aussage; Domänen-Studie (z.B. Public Health) als universelle Aussage übertragen.
+17. **Verwechslung KMK ↔ Bildungs-MK** — seit Strukturreform Juni 2024 (Völklingen) ist die Bildungsministerkonferenz die Nachfolge-Konferenz für Bildungsthemen. Beschlüsse ab 10.10.2024 stammen formal von der Bildungs-MK; "KMK" wird als Marke weiter genutzt, ist aber technisch ungenau.
+
+## Triage-Score-Schwäche und Folge-Empfehlungen
+
+**Empirische Beobachtung (Welle 5):** Niedriger Risk-Score (22-23) korreliert NICHT mit niedrigerer CRIT-Rate. Welle 3+4 (Score 27-40) hatten zusammen 1 CRIT, Welle 5 (Score 22-23) hatte 5 CRITs.
+
+**Erklärung:** Niedriger-Score-Artikel wurden bei der Erstellung weniger sorgfältig geprüft — fabrizierte Mini-Studien-Boxen häufen sich dort.
+
+**Empfehlungen für Triage-Script-Erweiterung:**
+- +5 Bonus bei ≥3 nicht-westlichen Erstautoren ohne CrossRef-DOI
+- +3 Bonus bei ≥2 arXiv-Citations ohne explizite arXiv-ID-Verifikation
+- +5 Bonus bei n=/N= ohne identifizierbare Publikation in Quellenliste (Heuristik: jede `[nN] ?[≈=] ?[0-9]+`-Stelle gegen Quellenliste-DOI/arXiv-ID matchen)
+- +3 Bonus bei "Vorläufige Evidenz"- oder "Studie zeigt"-Boxen ohne Erstautor-Cite
+
+## Subagent-Konflikt-Auflösung
+
+Wenn zwei Subagenten zur selben Citation widersprüchliche Severity-Urteile fällen (Beispiel Welle 5: Hattie/Donoghue Substrategien — Subagent A "nicht reproduzierbar", Subagent B "explizit im Volltext"), nicht blind dem späteren folgen, sondern:
+
+1. Direkter WebFetch zur Originalquelle (PMC oder Verlagswebsite) als Tiebreaker.
+2. Falls auch das nicht klärt: Self-Consistency-Pass (3× v3-Audit auf der Citation, Mehrheits-Vote).
+3. Falls Volltext nicht zugänglich: konservativ MINOR statt MAJOR und im Korrektur-Backlog als "verifikationsbedürftig" markieren.
