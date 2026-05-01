@@ -49,6 +49,12 @@ ALREADY_AUDITED[ki-prompt-handwerk.md]=1
 ALREADY_AUDITED[llm-integrationsmuster-lernumgebungen.md]=1
 ALREADY_AUDITED[unterrichtsphasen-artikulation.md]=1
 ALREADY_AUDITED[metakognition.md]=1
+# v3 Welle 4 (2026-05-01) — Hattie/KI-Praxis/Verwaltung
+ALREADY_AUDITED[kooperatives-lernen.md]=1
+ALREADY_AUDITED[ki-tool-auswahl-berufsschule.md]=1
+ALREADY_AUDITED[ki-kompetenzrahmen-schule.md]=1
+ALREADY_AUDITED[rubric-design.md]=1
+ALREADY_AUDITED[desirable-difficulties.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
