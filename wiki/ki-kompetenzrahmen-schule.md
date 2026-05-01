@@ -21,7 +21,7 @@ related:
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, bewerten]
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-05-01
 summary: >
   Synopse der wichtigsten KI-Kompetenzrahmen (OECD/EC AILit 2025, UNESCO 2024,
   DigComp 2.2, KMK) und deren Mapping auf den Rahmenlehrplan Fachinformatiker.
@@ -103,7 +103,7 @@ Die vier AILit-Domänen lassen sich pragmatisch auf bestehende Lernfelder abbild
 | AILit-Domäne | Natürlicher Einbau in Lernfeld(er) FIAE | Konkrete Ankerpunkte |
 |---|---|---|
 | **Engaging with AI** (kritisch einordnen) | LF 2 (Arbeitsplatz), LF 6 (Serviceanfragen), LF 7 (Geschäftsprozesse) | Tool-Evaluation, KI-Output auf Halluzinationen prüfen, Bias in Support-Antworten |
-| **Creating with AI** (produktiv nutzen) | LF 5 (SQL/Daten), LF 8 (APIs), LF 10a (Objektorientierung) | Prompting als Programmier-Hilfstechnik, Copilot-Einsatz mit "Explain before use" |
+| **Creating with AI** (produktiv nutzen) | LF 5 (SQL/Daten), LF 8 (APIs), LF 10a (Benutzerschnittstellen gestalten und entwickeln) | Prompting als Programmier-Hilfstechnik, Copilot-Einsatz mit "Explain before use" |
 | **Managing AI** (verantworten) | LF 4 (Schutzbedarf), LF 6 (Kundenkommunikation), LF 11 (Projekt) | Datenschutz bei LLM-Prompts, Urheberrechts-Fragen, Kundenberatung "Wann KI, wann nicht" |
 | **Designing AI** (Grundverständnis) | LF 10c (nur FR Daten), Projektarbeit LF 11/12 | ML-Grundlagen, Training vs. Inferenz, Prompt-Engineering als Systemdesign |
 
@@ -111,7 +111,7 @@ Die vier AILit-Domänen lassen sich pragmatisch auf bestehende Lernfelder abbild
 
 ### Der unsichtbare Teil: Lehrer-Kompetenz
 
-Der **UNESCO Teachers Framework** ist die einzige Quelle, die Lehrer-Kompetenz explizit strukturiert. Die fünf Dimensionen — Human-centred mindset, Ethics, AI Foundations, Pedagogy, Professional Learning — sind nicht nur inhaltlich wichtig, sondern auch politisch nützlich: Sie liefern Argumente für Fortbildung, für Arbeitsentlastung während Einarbeitungsphasen und für Vernetzung mit Kolleg:innen. Die vier Progressionsstufen (Acquire → Deepen → Create → Lead) entsprechen der Dreyfus-Progression (vgl. [[expertise-entwicklung]]) und sind als Selbsteinschätzungswerkzeug direkt einsetzbar.
+Der **UNESCO Teachers Framework** ist die einzige Quelle, die Lehrer-Kompetenz explizit strukturiert. Die fünf Dimensionen — Human-centred mindset, Ethics, AI Foundations, Pedagogy, Professional Learning — sind nicht nur inhaltlich wichtig, sondern auch politisch nützlich: Sie liefern Argumente für Fortbildung, für Arbeitsentlastung während Einarbeitungsphasen und für Vernetzung mit Kolleg:innen. Die drei Progressionsstufen (Acquire → Deepen → Create) lassen sich grob auf die ersten drei Stufen der Dreyfus-Progression abbilden (vgl. [[expertise-entwicklung]]) und sind als Selbsteinschätzungswerkzeug direkt einsetzbar.
 
 ## Praktische Anwendung
 
@@ -149,7 +149,7 @@ Diese Fragen bleiben offen und werden voraussichtlich erst mit dem nächsten Rah
 - UNESCO (2024). *AI Competency Framework for Teachers*. Paris: UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-teachers
 - UNESCO (2024). *AI Competency Framework for Students*. Paris: UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-students
 - Vuorikari, R., Kluzer, S., &amp; Punie, Y. (2022). *DigComp 2.2: The Digital Competence Framework for Citizens*. EUR 31006 EN, Publications Office of the European Union, Luxembourg. JRC128415.
-- Europäische Kommission (2022, aktualisiert 2024). *Ethical Guidelines on the Use of Artificial Intelligence and Data in Teaching and Learning for Educators*.
+- Europäische Kommission (2022; 2. Version 03/2026). *Ethical Guidelines on the Use of Artificial Intelligence and Data in Teaching and Learning for Educators*.
 - KMK (2024). *Handlungsempfehlung für die Bildungsverwaltung zum Umgang mit KI in schulischen Bildungsprozessen*. Beschluss vom 10.10.2024.
 - KMK (2016, Ergänzung 2021). *Bildung in der digitalen Welt — Strategie der Kultusministerkonferenz*.
 - KMK (2025). *Jahresbericht Bildung in der digitalen Welt 2024-2025*. Dezember 2025.

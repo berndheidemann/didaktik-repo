@@ -21,7 +21,7 @@ related:
 audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-05-01
 summary: >
   Bjorks Dachkonzept (1994): Lernbedingungen, die kurzfristig die Performance
   senken, aber langfristig Retention und Transfer erhöhen. Spacing, Interleaving,
@@ -156,3 +156,11 @@ FIAE/FIDP sind hochgradig Retention- und Transfer-kritisch: Azubis brauchen in A
 - Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. *Psychological Bulletin, 140*(6), 1432–1463.
 - Agarwal, P. K. & Bain, P. M. (2019). *Powerful teaching: Unleash the science of learning.* Jossey-Bass.
 - Lipowsky, F., Richter, T., Borromeo Ferri, R., Ebersbach, M. & Hänze, M. (2015). Wünschenswerte Erschwernisse beim Lernen. *Schulpädagogik heute, 11*(6), 1–10.
+- Adesope, O. O., Trevisan, D. A. & Sundararajan, N. (2017). Rethinking the use of tests: A meta-analysis of practice testing. *Review of Educational Research, 87*(3), 659–701.
+- Brunmair, M. & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052.
+- Bertsch, S., Pesta, B. J., Wiscott, R. & McDaniel, M. A. (2007). The generation effect: A meta-analytic review. *Memory & Cognition, 35*(2), 201–210.
+- Schmidt, R. A. & Bjork, R. A. (1992). New conceptualizations of practice: Common principles in three paradigms suggest new concepts for training. *Psychological Science, 3*(4), 207–217.
+- Butler, A. C., Karpicke, J. D. & Roediger, H. L. (2007). The effect of type and timing of feedback on learning from multiple-choice tests. *Journal of Experimental Psychology: Applied, 13*(4), 273–281.
+- Kalyuga, S. (2007). Expertise reversal effect and its implications for learner-tailored instruction. *Educational Psychology Review, 19*(4), 509–539.
+- Hwang, H. (2025). Undesirable difficulty of interleaved practice: The importance of initial blocked practice for declarative knowledge development in low-achieving adolescents. *Language Learning.* https://doi.org/10.1111/lang.12659 (Korean L2-Englisch-Vokabular bei Vocational-Highschool — Generalisation auf Azubi-Kontext nicht direkt belegt.)
+- Son, L. K. & Simon, D. A. (2012). Distributed learning: Data, metacognition, and educational implications. *Educational Psychology Review, 24*(3), 379–399.

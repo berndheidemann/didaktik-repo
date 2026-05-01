@@ -62,7 +62,7 @@ Top-down aus Lernzielen ([[constructive-alignment]]): Lernziel → beobachtbares
 
 - **messbar und beobachtbar** — keine "Kreativität" ohne Operationalisierung
 - **unabhängig** — keine doppelt zählenden Kriterien ("Lesbarkeit" + "sauberer Code" sind oft dasselbe)
-- **3–5 Kriterien** optimal. Über 7 überlastet Rater und senkt Inter-Rater-Reliabilität (Jonsson & Svingby 2007)
+- **3–5 Kriterien** optimal (Popham 1997 als praktische Empfehlung; Jonsson & Svingby 2007 zeigen, dass mehr Performance-Levels die Reliabilität senken können)
 
 ### Descriptor-Design — der häufigste Fehler
 
@@ -174,4 +174,4 @@ Diese Rubric funktioniert für [[code-review-unterricht]], Projektabgaben, [[pai
 - Pathak, A., Gandhi, R., Uttam, V., et al. (2025). Rubric Is All You Need: Improving LLM-based Code Evaluation With Question-Specific Rubrics. *ICER 2025.* arXiv:2503.23989.
 - Landis, J. R. & Koch, G. G. (1977). The measurement of observer agreement for categorical data. *Biometrics, 33*(1), 159–174.
 - Gonzalez, J. (2014). Meet the single point rubric. *Cult of Pedagogy.*
-- Yavuz, F. (2025). Utilizing large language models for EFL essay grading: Reliability and validity in rubric-based assessments. *British Journal of Educational Technology.*
+- Yavuz, F., Çelik, Ö., & Yavaş Çelik, G. (2025). Utilizing large language models for EFL essay grading: An examination of reliability and validity in rubric-based assessments. *British Journal of Educational Technology, 56*, 150–166.

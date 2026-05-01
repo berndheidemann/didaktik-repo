@@ -20,7 +20,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten]
 sozialform: [einzelarbeit]
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-05-01
 summary: >
   Entscheidungs-Rubrics für die Tool-Wahl beim Bau KI-gestützter Lernumgebungen
   an deutschen Berufsschulen. Wann selbst bauen (client-only), wann Schul-Chatbot
@@ -44,7 +44,7 @@ Dieser Artikel **ergänzt und doppelt nicht** [[datenschutz-lernumgebungen]] —
 Wer als Berufsschul-Lehrkraft KI in eine Lernumgebung einbauen will, steht strukturell vor einer von drei Optionen:
 
 1. **Client-only-Eigenbau.** Eine selbst entwickelte Web-App oder Lernumgebung, die rein im Browser der Lernenden läuft. LLM-Zugriff (falls nötig) über einen vom Lerner selbst eingegebenen API-Schlüssel oder ganz ohne Cloud-LLM (etwa mit WebLLM, lokalen Ollama-Instanzen oder Client-seitigen kleinen Modellen). **Maximum an Kontrolle, Minimum an Reichweite für Nicht-Technik-Lehrkräfte.**
-2. **Landes- oder Schul-Chatbot.** Nutzung der vom Land bereitgestellten KI-Infrastruktur: **telli** (FWU, seit Ende 2025 flächendeckend), **fobizz** (in RLP, Sachsen, MV, Sachsen-Anhalt via Landeslizenz), **schulKI**, **ByCS-KI** (Bayern), **fAIrChat** (BW-Pilot). **Mittlere Kontrolle, maximale DSGVO-Sicherheit in Kombination mit Schulträger-Rückendeckung, geringster pädagogischer Konfigurationsspielraum.**
+2. **Landes- oder Schul-Chatbot.** Nutzung der vom Land bereitgestellten KI-Infrastruktur: **telli** (FWU, sukzessiver Rollout in 16 Ländern seit Juni 2025; Bremen war erstes Bundesland, Stand April 2026 in den meisten Ländern produktiv), **fobizz** (in RLP, Sachsen, MV, Sachsen-Anhalt via Landeslizenz), **schulKI**, **ByCS-KI** (Bayern), **fAIrChat** (BW-Pilot). **Mittlere Kontrolle, maximale DSGVO-Sicherheit in Kombination mit Schulträger-Rückendeckung, geringster pädagogischer Konfigurationsspielraum.**
 3. **Kommerzielle API oder Plattform.** Direkte Einbindung von OpenAI, Anthropic, Google Gemini APIs; oder kommerzielle EdTech-Plattformen wie Perusall, Khanmigo, Duolingo Max. **Maximum an Features, Minimum an DSGVO-Sicherheit ohne sorgfältige Prüfung.**
 
 Jeder dieser drei Pfade ist in bestimmten Szenarien der richtige — die Frage ist: welches Szenario liegt vor?
@@ -145,7 +145,7 @@ Die Tabelle ist ausdrücklich **kein Dogma**. Sie ist ein Ausgangspunkt, der in 
 
 - **Grundverständnis DSGVO** — insbesondere Auftragsverarbeitung, Drittlandübermittlung, Einwilligung. Siehe [[datenschutz-lernumgebungen]].
 - **Kontakt zum Schul-Datenschutzbeauftragten** — viele Tool-Entscheidungen lassen sich nicht ohne DSB treffen. Der DSB ist Verbündeter, nicht Bremser.
-- **Überblick über Landes-Infrastruktur** — Welche Landeslizenzen gibt es in deinem Bundesland? Ist telli bei euch schon live? Gibt es eine fobizz-Lizenz? Für Berufsschulen gelten teilweise andere Regelungen als für allgemeinbildende Schulen (Bayern behält z.B. fobizz explizit für berufliche Schulen, telli für allgemeinbildende).
+- **Überblick über Landes-Infrastruktur** — Welche Landeslizenzen gibt es in deinem Bundesland? Ist telli bei euch schon live? Gibt es eine fobizz-Lizenz? Für Berufsschulen gelten teilweise andere Regelungen als für allgemeinbildende Schulen — die konkrete Lage variiert pro Land und Schulträger.
 - **Klare Lernziel-Formulierung** — ohne explizites Lernziel ist jede Tool-Entscheidung willkürlich.
 
 ## Varianten
@@ -188,20 +188,24 @@ Für einen Agent oder eine Lehrkraft, die vor einer Tool-Entscheidung steht:
 
 Diese Landschaft ist volatil. Die folgende Übersicht ist ein Schnappschuss und wird veralten.
 
-| Bundesland | Landes-Tool | Status | Zielgruppe |
+| Bundesland | Landes-Tool | Status | Anmerkung |
 |---|---|---|---|
-| Bayern | **telli** + **ByCS-KI** | seit 15.12.2025 flächendeckend | telli für allgemeinbildende Schulen, **fobizz bleibt für berufliche Schulen** |
-| NRW | **telli** + **LOGINEO NRW LMS** | Dez 2025 Rollout (3-stufig) | schulübergreifend, inkl. Berufskollegs |
+| Bayern | **telli** + **ByCS-KI** | seit 15.12.2025 für alle Schularten | fobizz wird kommunal über Medien-/KI-Budget finanziert (z.B. München, Nürnberg) — keine Schulart-Reservierung |
+| NRW | **telli** + **LOGINEO NRW LMS** | seit 05.12.2025 (3-stufig: Berufskollegs, allgemeinbildende, Grundschulen) | inkl. Berufskollegs |
 | RLP | **fobizz** | Lizenz verlängert bis Juli 2026 | schulübergreifend |
 | Sachsen, MV, Sachsen-Anhalt | **fobizz** | Landeslizenz | schulübergreifend |
-| Schleswig-Holstein | **telli** | seit November 2025 | schulübergreifend |
-| Saarland, Brandenburg, BW, Hessen | **telli** | im Rollout | schulübergreifend |
-| BW | **fAIrChat** (Pilot) + **fobizz** via Budget | Pilotphase | schulübergreifend |
+| Schleswig-Holstein | **telli** | seit November 2025 produktiv | schulübergreifend |
+| Hessen + BW | **telli** | seit 01.10.2025 produktiv | schulübergreifend |
+| Bremen | **telli** | seit Juni 2025 produktiv (erstes Bundesland) | schulübergreifend |
+| Niedersachsen | **telli** | landesweit eingeführt | schulübergreifend |
+| Brandenburg | **telli** (vorher bbb_KI) | seit Oktober 2025 | schulübergreifend |
+| Saarland | **telli** | seit 02.12.2025 produktiv | schulübergreifend |
+| BW (zusätzlich) | **fAIrChat** (Moodle-KI) | Pilot seit Februar 2024 | parallel zu telli, kein Ersatz |
 
 **Zuverlässige Fixpunkte**:
 - **telli** und **fobizz** sind die beiden dominanten, DSGVO-konformen Schul-KI-Lösungen 2026 in Deutschland.
 - Die konkrete Verfügbarkeit und das Kostenmodell ändern sich pro Bundesland und pro Jahr.
-- **Für Berufsschulen** ist die Rechtslage teils komplexer als für allgemeinbildende Schulen (siehe Bayern-Regelung).
+- **Für Berufsschulen** kann die Rechtslage komplexer sein (Schulträger sind oft Landkreise/kreisfreie Städte mit eigenem Datenschutz-Setup) — konkrete Lage pro Standort prüfen.
 
 **Aktuelle Informationen immer über die zuständigen Landesinstitute und die Schulträger einholen** — dieser Artikel ist kein Ersatz für die aktuelle Landesvorgabe.
 
