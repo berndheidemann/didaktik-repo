@@ -63,6 +63,12 @@ ALREADY_AUDITED[fachgespraech-didaktik.md]=1
 ALREADY_AUDITED[rag-tutoring-systeme.md]=1
 ALREADY_AUDITED[prompt-engineering-didaktisch.md]=1
 ALREADY_AUDITED[ki-native-lernumgebungen.md]=1
+# v3 Welle 6 (2026-05-01) — EiPE/Belonging/Tutoring/Twine/Evaluation
+ALREADY_AUDITED[explain-in-plain-english.md]=1
+ALREADY_AUDITED[evaluation-lernumgebungen.md]=1
+ALREADY_AUDITED[interactive-fiction-twine.md]=1
+ALREADY_AUDITED[ki-gestuetztes-tutoring.md]=1
+ALREADY_AUDITED[belonging-interventionen.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
