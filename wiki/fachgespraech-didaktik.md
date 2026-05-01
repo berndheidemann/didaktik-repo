@@ -28,7 +28,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, analysieren, bewerten]
 sozialform: [einzelarbeit, partner, plenum]
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-05-01
 summary: >
   Mündliche Assessments als didaktische Methode und als Prüfungsformat.
   IHK-Fachgespräch (AP2, 50% der Projektnote) ist der deutsche Kern-Anwendungsfall,
@@ -42,25 +42,25 @@ summary: >
 
 ## Kernidee
 
-Mündliche Prüfungen waren lange ein Nischenformat — mit der Welle generativer KI werden sie seit 2024 international wiederentdeckt, weil ChatGPT keine Fachgespräche unter Zeitdruck führt. Das **IHK-Fachgespräch in AP2** ist das deutsche Kern-Anwendungsfeld: 15 Minuten Präsentation des betrieblichen Auftrags plus etwa 15 Minuten Fachgespräch vor einem Prüfungsausschuss, zusammen 50 % der Projektnote. Didaktisch funktioniert Fachgespräch nur, wenn es **regelmäßig, in niedrigen Stakes und mit Rubric** im Unterricht geübt wird — sonst wird es zur Stressprüfung, in der auch kompetente Azubis scheitern.
+Mündliche Prüfungen waren lange ein Nischenformat — mit der Welle generativer KI werden sie seit 2024 international wiederentdeckt, weil ChatGPT keine Fachgespräche unter Zeitdruck führt. Das **IHK-Fachgespräch in AP2** ist das deutsche Kern-Anwendungsfeld: bis zu 15 Minuten Präsentation der betrieblichen Projektarbeit plus etwa 15 Minuten Fachgespräch vor einem Prüfungsausschuss, zusammen 50 % der Bewertung dieses Prüfungsbereichs. Didaktisch funktioniert Fachgespräch nur, wenn es **regelmäßig, in niedrigen Stakes und mit Rubric** im Unterricht geübt wird — sonst wird es zur Stressprüfung, in der auch kompetente Azubis scheitern.
 
 ## Beschreibung
 
-### IHK-Fachgespräch AP2 (Fachinformatiker, VO 2020, Update 2025)
+### IHK-Fachgespräch AP2 (Fachinformatiker, FIAusbV 2020)
 
-- **Format:** Präsentation 12–15 Min des betrieblichen Auftrags oder IT-Projekts, gefolgt von etwa 15 Min Fachgespräch; gemeinsam 30 Min.
-- **Prüfungsausschuss:** drei Personen, davon ein Berufsschullehrer plus zwei Berufspraktiker aus Arbeitgeber- und Arbeitnehmerseite.
+- **Format:** Präsentation der betrieblichen Projektarbeit höchstens 15 Min (§20 FIAusbV), gefolgt von etwa 15 Min Fachgespräch; gemeinsam 30 Min.
+- **Prüfungsausschuss:** drei Personen, davon ein Berufsschullehrer plus zwei Berufspraktiker aus Arbeitgeber- und Arbeitnehmerseite (BBiG §40).
 - **Bewertungsdimensionen:** Fach-, Methoden- und Sozialkompetenz. Der PA agiert als fachkundiges Publikum und erwartet **begründete Entscheidungen** und **dargelegte Alternativen**, nicht nur Beschreibungen.
-- **Update 2025:** Neuer Prüfungskatalog FIAE konkretisiert Kompetenzbereiche (UML und BPMN verbindlich, Struktogramm/PAP optional).
+- **Prüfungskatalog 2025 (AKA/IHK):** Kompetenzbereiche neu konkretisiert. Für FIAE: UML und BPMN verbindlich, Struktogramm/PAP entfallen. Das ist eine Anpassung des Prüfungskatalogs, keine Novelle der FIAusbV (die Verordnung selbst gilt unverändert seit 2020).
 - **Typische Azubi-Schwächen:** Fachtermini vermeiden, monologische Antworten ohne Struktur, Blackout bei Rückfragen, "Nennen statt Erklären", Unsicherheit bei "Warum-nicht-anders"-Fragen.
 
 ### Evidenzlage Oral Assessment
 
 - **Joughin (1998)** liefert den klassischen Rahmen mit sechs Dimensionen: Primary Content, Interaction, Authenticity, Structure, Examiners, Orality.
 - **Huxham, Campbell & Westwood (2012):** Studierende bereiten sich für Orals gründlicher vor und performen teilweise besser als schriftlich — bei erhöhter Nervosität. Risiko: Benachteiligung introvertierter oder nicht-muttersprachlicher Lernender.
-- **Ohmann & Soosai Raj (2019)** etablieren Oral Exams in der CS-Education-Forschung.
-- **Novak & Ohmann (SIGCSE 2025)** "A Multi-Institutional Assessment of Oral Exams in Software Courses" — Oral Exams sind als Final Assessment bei kleineren Gruppen praktikabel und reliabel, solange transparente Rubric und Übungsgelegenheiten vorab vorhanden sind.
-- **Lancaster & Cotton (2023)** empfehlen Oral Assessment explizit als KI-Cheating-Mitigation.
+- **Ohmann (2019)** etabliert Oral Exams in der CS-Education-Forschung (SIGCSE 2019).
+- **Ohmann & Novak (SIGCSE TS 2025)** "A Multi-Institutional Assessment of Oral Exams in Software Courses" — Oral Exams sind als Final Assessment bei kleineren Gruppen praktikabel und reliabel, solange transparente Rubric und Übungsgelegenheiten vorab vorhanden sind.
+- **Cotton, Cotton & Shipway (2023)** "Chatting and Cheating" diskutieren Oral Assessment u.a. als Antwort auf ChatGPT-bedingte Integritätsprobleme.
 - **Rowe (1986)** "Wait Time": 3–5 Sekunden Pause nach Fragen produzieren messbar tiefere Antworten und mehr Volunteers — Lehrkräfte warten ohne Training typischerweise unter einer Sekunde.
 
 ### Design-Prinzipien
@@ -150,11 +150,12 @@ Das Fachgespräch erzeugt hohen affektiven Stress. Bandura-orientiertes Gegenmit
 
 - Joughin, G. (1998). Dimensions of oral assessment. *Assessment & Evaluation in Higher Education, 23*(4), 367–378.
 - Huxham, M., Campbell, F. & Westwood, J. (2012). Oral versus written assessments: A test of student performance and attitudes. *Assessment & Evaluation in Higher Education, 37*(1), 125–136.
-- Novak, E. & Ohmann, P. (2025). A multi-institutional assessment of oral exams in software courses. *Proceedings of SIGCSE TS 2025.* ACM. https://doi.org/10.1145/3641554.3701848
-- Ohmann, P. (2019). An assessment of oral exams in introductory CS. *Proceedings of SIGCSE 2019.* ACM.
-- Fenton, A. (2025). Reconsidering the use of oral exams and assessments. *Educational Researcher.*
-- Lancaster, T. & Cotton, D. (2023). AI meets AI: Artificial intelligence and academic integrity. *Proceedings of SIGITE 2023.* ACM.
+- Ohmann, P., & Novak, E. (2025). A Multi-Institutional Assessment of Oral Exams in Software Courses. *Proceedings of SIGCSE TS 2025.* ACM. https://doi.org/10.1145/3641554.3701848
+- Ohmann, P. (2019). An Assessment of Oral Exams in Introductory CS. *Proceedings of SIGCSE 2019.* ACM. https://doi.org/10.1145/3287324.3287489
+- Fenton, A. (2025). Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future. *Educational Researcher, 54*(7), 430–436.
+- Cotton, D. R. E., Cotton, P. A., & Shipway, J. R. (2023). Chatting and Cheating: Ensuring Academic Integrity in the Era of ChatGPT. *Innovations in Education and Teaching International.*
 - Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43–50.
 - Dikaprio & Diem, C. D. (2024). How effective is Talkpal.ai in enhancing English proficiency? *Language, Technology, and Social Media, 2*(1).
 - Bandura, A. (1997). *Self-efficacy: The exercise of control.* Freeman.
-- Bundesinstitut für Berufsbildung. (2020; Update 2025). *Verordnung Fachinformatiker/-in (AO 2020) — Leitfaden.*
+- Verordnung über die Berufsausbildung in den Berufen der Informationstechnik (FIAusbV vom 28. Februar 2020), §20. https://www.gesetze-im-internet.de/fiausbv/
+- AKA/IHK (2025). Prüfungskatalog Fachinformatiker AP2 (Stand 2025).

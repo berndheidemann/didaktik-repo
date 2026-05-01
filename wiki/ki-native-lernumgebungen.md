@@ -33,7 +33,7 @@ related:
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, erschaffen]
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-05-01
 summary: >
   Frontier-Ansätze, die KI nicht als Add-on, sondern als Lernmedium behandeln —
   Multi-Agent-Tutoring, adaptives KI-Pair-Programming, Prompt Engineering als
@@ -50,9 +50,9 @@ Die meisten KI-im-Unterricht-Ansätze behandeln KI als Werkzeug, das man *zusät
 
 ### Copilot-First-Pädagogik
 
-Der bestehende Konsens ([[ki-gestuetztes-tutoring]]: "erst ohne, dann mit KI") wird herausgefordert. Becker et al. (2023) und UT Austin (2024) argumentieren: Da jede:r Absolvent:in mit KI-Tools arbeiten wird, ist "Programmieren ohne KI lernen" wie "Autofahren ohne Motor lernen." In ihrem CS1-Kurs lernen Studierende von Tag 1, KI-generierten Code zu *lesen, bewerten und modifizieren*. Code-Comprehension und -Evaluation werden zur Kernkompetenz — statt Code-Generierung.
+Der bestehende Konsens ([[ki-gestuetztes-tutoring]]: "erst ohne, dann mit KI") wird in der Diskussion herausgefordert. Becker et al. (SIGCSE 2023, Position-Paper) diskutieren das Argument: Da jede:r Absolvent:in mit KI-Tools arbeiten wird, könnte Code-Comprehension und -Evaluation früh in den Mittelpunkt rücken — statt Code-Generierung von Null. In einer "Copilot-First"-Variante würden Studierende von Tag 1 KI-generierten Code lesen, bewerten und modifizieren.
 
-**Vorläufige Evidenz:** UT Austin (Fall 2024, n≈200): Vergleichbare Prüfungsleistung, signifikant bessere Debugging-Skills in der Copilot-first-Kohorte.
+**Evidenzlage:** Stand Mai 2026 keine peer-reviewte RCT-Evidenz, die "Copilot-First" gegen klassische CS1-Sequenzen kontrolliert vergleicht. Die Bastani et al. (PNAS 2025)- und Shen & Tamkin (Anthropic 2026)-Befunde zur Skill-Erosion bei ungeführter KI-Nutzung sprechen eher *gegen* einen unscaffolded Copilot-First-Ansatz (vgl. [[deskilling-ki-codegenerierung]]).
 
 ### Multi-Agent-Tutoring
 
@@ -65,23 +65,23 @@ Statt eines einzelnen KI-Tutors interagieren Lernende mit spezialisierten Agente
 | **Debugger** | Execution-Traces durchgehen | [[formatives-assessment]] auf Process-Level |
 | **Motivator** | Affekt und Frustration managen | Frustrationskontrolle (Wood et al., 1976) |
 
-Georgia Tech (Goel, 2024, n≈150) zeigt: Multi-Agent-Konfiguration reduziert Over-Reliance gegenüber einem einzelnen hilfreichen Agenten, weil der Challenger Agent Begründungen erzwingt.
+Diese Multi-Agent-Architektur ist als Konzeptskizze didaktisch attraktiv, weil ein Challenger-Agent strukturell Begründungen erzwingt. Belastbare RCT-Evidenz zur Über-Reliance-Reduktion durch Multi-Agent-Konfigurationen liegt Stand Mai 2026 nicht vor — die hier genannten Rollen sind Design-Vorschlag, keine etablierte Architektur.
 
-### Adaptives KI-Pair-Programming
+### Adaptives KI-Pair-Programming (Konzeptskizze)
 
-Stanford HAI (2024-2025) entwickelt ein System, in dem die KI dynamisch zwischen Driver- und Navigator-Rolle wechselt — basierend auf dem Kompetenzmodell des Lernenden:
+Eine theoretisch konsistente Architektur wäre, die KI-Rolle dynamisch am Kompetenzmodell der Lernenden auszurichten:
 
 - **Novize → KI als Driver:** KI schreibt Code, Lernende erklären und reviewen (Worked-Example-Effekt)
 - **Fortgeschrittene → KI als Navigator:** Lernende schreiben Code, KI gibt strategische Hinweise
 - **Expert:innen → KI als Peer:** Gleichberechtigtes Pair Programming
 
-Das ist funktional ein automatisierter Expertise-Reversal-Effekt (vgl. [[cognitive-load-theory]]) angewandt auf [[pair-programming-unterricht]].
+Das ist funktional ein automatisierter Expertise-Reversal-Effekt (Kalyuga 2007, vgl. [[cognitive-load-theory]]) angewandt auf [[pair-programming-unterricht]]. Konkrete produktive Implementierungen mit empirischer Evaluation sind Stand Mai 2026 nicht peer-reviewt publiziert — das Modell ist theoretisch ableitbar, nicht empirisch validiert.
 
 ### Prompt Engineering als Programmier-Pädagogik
 
-Denny et al. (2024, SIGCSE) entwickelten "Prompt Problems": Lernende formulieren Prompts, die korrekten Code erzeugen, und verifizieren das Ergebnis. Vorarbeit zu automatischer Aufgabengenerierung per LLM lieferten Sarsa et al. (2022, ICER). Das invertiert den traditionellen Flow — statt Code zu schreiben, spezifizieren Lernende Intent und evaluieren Output. Trainiert Spezifikation, Dekomposition und Testing — die schwierigeren Teile des Programmierens.
+Denny et al. (SIGCSE 2024) entwickelten "Prompt Problems": Lernende formulieren Prompts, die korrekten Code erzeugen, und verifizieren das Ergebnis. Vorarbeit zu automatischer Aufgabengenerierung per LLM lieferten Sarsa et al. (ICER 2022). Das invertiert den traditionellen Flow — statt Code zu schreiben, spezifizieren Lernende Intent und evaluieren Output. Trainiert Spezifikation, Dekomposition und Testing — die schwierigeren Teile des Programmierens.
 
-**Ergebnis:** Prompt Problems sind effektiv für Computational Thinking ohne syntaktische Fluenz — besonders stark in den ersten Wochen eines Kurses.
+**Empirie:** Denny et al. berichten positive Selbstauskunft und Engagement aus Pilot-Deployments in CS1 und CS2 (freiwillige Teilnahme: 58/414 in CS1, 182/444 in CS2). Eine Wirksamkeitsmessung auf Computational Thinking liegt nicht vor — das Format ist als Aufgabentyp pilotiert, nicht als Lernintervention quantitativ evaluiert.
 
 ### Dynamische Aufgabengenerierung
 
@@ -113,9 +113,11 @@ Ein Agent kann KI-native Prinzipien direkt umsetzen:
 
 ## Quellen
 
-- Becker, B. A. et al. (2023). Programming Is Hard — Or at Least It Used to Be. Proceedings of ITiCSE 2023.
-- Denny, P. et al. (2024). Computing Education in the Era of Generative AI. Communications of the ACM, 67(2), 56-67.
-- Sarsa, S. et al. (2022). Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models. Proceedings of ICER 2022.
-- Denny, P. et al. (2024). Prompt Problems: A New Programming Exercise for the Generative AI Era. Proceedings of SIGCSE 2024.
-- Kazemitabaar, M. et al. (2024). Studying the Effect of AI Code Generators on Supporting Novice Learners. Proceedings of CHI 2024.
-- Goel, A. (2024). AI Teaching Assistants: Lessons from Jill Watson. AI Magazine, 45(1), 78-89.
+- Becker, B. A., Denny, P., Finnie-Ansley, J., Luxton-Reilly, A., Prather, J., & Santos, E. A. (2023). Programming Is Hard — Or at Least It Used to Be: Educational Opportunities and Challenges of AI Code Generation. *Proceedings of SIGCSE 2023.*
+- Denny, P., Prather, J., Becker, B. A., Finnie-Ansley, J., Hellas, A., Leinonen, J., Luxton-Reilly, A., Reeves, B. N., Santos, E. A., & Sarsa, S. (2024). Computing Education in the Era of Generative AI. *Communications of the ACM, 67*(2), 56-67.
+- Sarsa, S., Denny, P., Hellas, A., & Leinonen, J. (2022). Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models. *Proceedings of ICER 2022.*
+- Denny, P., Leinonen, J., Prather, J., Luxton-Reilly, A., Amarouche, T., Becker, B. A., & Reeves, B. N. (2024). Prompt Problems: A New Programming Exercise for the Generative AI Era. *Proceedings of SIGCSE 2024.*
+- Kazemitabaar, M., Chow, J., Ma, C. K. T., Ericson, B. J., Weintrop, D., & Grossman, T. (2023). Studying the Effect of AI Code Generators on Supporting Novice Learners in Introductory Programming. *Proceedings of CHI 2023.*
+- Kalyuga, S. (2007). Expertise reversal effect and its implications for learner-tailored instruction. *Educational Psychology Review, 19*(4), 509–539.
+- Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Mariman, R. (2025). Generative AI Without Guardrails Can Harm Learning. *PNAS, 122*(26).
+- Shen, J. H., & Tamkin, A. (2026). How AI Impacts Skill Formation. arXiv:2601.20245 (Anthropic).
