@@ -55,6 +55,12 @@ ALREADY_AUDITED[ki-tool-auswahl-berufsschule.md]=1
 ALREADY_AUDITED[ki-kompetenzrahmen-schule.md]=1
 ALREADY_AUDITED[rubric-design.md]=1
 ALREADY_AUDITED[desirable-difficulties.md]=1
+# v3 Welle 5 (2026-05-01) — KI-/RAG/Verwaltung/4C-ID
+ALREADY_AUDITED[vier-komponenten-instruktionsdesign.md]=1
+ALREADY_AUDITED[fachgespraech-didaktik.md]=1
+ALREADY_AUDITED[rag-tutoring-systeme.md]=1
+ALREADY_AUDITED[prompt-engineering-didaktisch.md]=1
+ALREADY_AUDITED[ki-native-lernumgebungen.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
