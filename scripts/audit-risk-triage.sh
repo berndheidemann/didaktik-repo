@@ -43,6 +43,12 @@ ALREADY_AUDITED[mastery-learning.md]=1
 ALREADY_AUDITED[ihk-pruefungskatalog-2025.md]=1
 ALREADY_AUDITED[kritische-ki-bewertungskompetenz.md]=1
 ALREADY_AUDITED[ki-nutzungsregeln-unterricht.md]=1
+# v3 Welle 3 (2026-05-01) — KI-Methoden + Hattie-Hot-Spot
+ALREADY_AUDITED[hint-engineering-llm-tutoring.md]=1
+ALREADY_AUDITED[ki-prompt-handwerk.md]=1
+ALREADY_AUDITED[llm-integrationsmuster-lernumgebungen.md]=1
+ALREADY_AUDITED[unterrichtsphasen-artikulation.md]=1
+ALREADY_AUDITED[metakognition.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
