@@ -224,7 +224,7 @@ Diese Landschaft ist volatil. Die folgende Übersicht ist ein Schnappschuss und 
 
 ## Quellen
 
-- Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) (2024/2025). *Orientierungshilfen zu KI und Datenschutz*.
+- Datenschutzkonferenz (DSK) (2024). *Orientierungshilfe Künstliche Intelligenz und Datenschutz* (Beschluss vom 06.05.2024). — Plus BfDI (2025): Handreichung *KI in Behörden — Datenschutz von Anfang an mitdenken* (22.12.2025).
 - KMK (2024). *Handlungsempfehlung für die Bildungsverwaltung zum Umgang mit KI in schulischen Bildungsprozessen*. Beschluss vom 10.10.2024.
 - FWU (2025). *telli.schule — Bundesweiter Rollout*. https://telli.schule/
 - Bayerisches Staatsministerium für Unterricht und Kultus (2025). *KI für alle: Bayern stellt neue KI-Systeme für alle Schulen bereit*. https://www.km.bayern.de/

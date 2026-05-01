@@ -37,7 +37,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden]
 sozialform: [einzelarbeit]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-05-01
 summary: >
   Aktives Abrufen aus dem Gedächtnis (Testing Effect) und verteilte Kurzübungen
   stärken Langzeitbehalten und Transfer stärker als Wiederlesen oder Wiederholen —
@@ -64,7 +64,7 @@ Ebbinghaus' Vergessenskurve zeigt: Ohne Wiederholung geht Wissen exponentiell ve
 
 ### Interleaved Practice
 
-Statt Aufgaben nach Thema zu blocken (alle SQL, dann alle Python), werden Aufgabentypen gemischt. Das zwingt Lernende, zuerst zu identifizieren, *welcher* Aufgabentyp vorliegt — wie im echten IT-Alltag, wo Probleme nicht nach Lernfeld sortiert auftreten. Tafliovich et al. (2023) fanden signifikant bessere Prüfungsleistungen bei interleaved CS1-Kursen.
+Statt Aufgaben nach Thema zu blocken (alle SQL, dann alle Python), werden Aufgabentypen gemischt. Das zwingt Lernende, zuerst zu identifizieren, *welcher* Aufgabentyp vorliegt — wie im echten IT-Alltag, wo Probleme nicht nach Lernfeld sortiert auftreten. Die Brunmair-&-Richter-Meta-Analyse (2019, *Psychological Bulletin*) findet g ≈ 0,42 für Interleaving (heterogen über Domänen, vgl. [[interleaving]] und [[desirable-difficulties]]); für CS1 spezifisch ist die Evidenzlage dünn.
 
 ### Microlearning
 
@@ -136,7 +136,7 @@ Ein Agent kann Retrieval Practice systematisch integrieren:
 ## Quellen
 
 - Roediger, H. L. & Karpicke, J. D. (2006). Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention. Psychological Science, 17(3), 249-255.
-- Yang, C. et al. (2024). Retrieval Practice in Computer Science Education. Computers & Education, 210, Article 104963.
-- Tafliovich, A. et al. (2023). Interleaved Practice in CS1. Proceedings of ACM SIGCSE 2023.
+- Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052.
+- Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the Use of Tests: A Meta-Analysis of Practice Testing. *Review of Educational Research, 87*(3), 659–701.
 - Bjork, R. A. & Bjork, E. L. (2011). Making Things Hard on Yourself, But in a Good Way. In M. A. Gernsbacher et al. (Hrsg.), Psychology and the Real World (S. 56-64). Worth.
 - Settles, B. & Meeder, B. (2016). A Trainable Spaced Repetition Model for Language Learning. Proceedings of ACL 2016.

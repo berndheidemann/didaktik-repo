@@ -24,7 +24,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [erinnern, verstehen, anwenden, analysieren]
 evidenzgrad: meta-analyse
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-05-01
 summary: >
   Evidenzbasierte Regeln zur Konstruktion automatisch auswertbarer Testitems (MC, MR, Fill-in, Matching, Ordering, T/F) mit Fokus auf digitale LMS/QTI-Plattformen — Itemformat-Wahl nach Bloom-Stufe, Distraktor-Qualität aus Misconceptions, Vermeidung von Cueing-Artefakten.
 ---
@@ -103,7 +103,7 @@ Mit Szenario-Items (Vignetten, Code-Snippets) sind Apply/Analyze möglich; Evalu
 | Anwenden | Szenario-MC, Fill-in (numerisch/Code-Trace), Ordering | "Was passiert, wenn…?" |
 | Analysieren | Matching, Vignetten-MC, Fill-in-Multi über Code-Trace | Parsons Problems, Strukturen erkennen |
 | Bewerten | Mit MC kaum sinnvoll | Freitext oder Performance Task |
-| Erschaffen | Mit MC nicht möglich | Projekt, betrieblicher Auftrag |
+| Erschaffen | Mit MC nicht möglich | Projekt, betriebliche Projektarbeit |
 
 ### Code-spezifische Formate
 
@@ -181,7 +181,7 @@ Pragmatische Punkteverteilung in einem itsLearning-Test:
 - **~20 %** Parsons via `orderInteraction` — angewandtes Strukturwissen.
 - **~10 %** Matching — Konzept-Anwendungs-Verknüpfung.
 
-Echte Programmier-/Handlungskompetenz **außerhalb** des QTI-Tests prüfen (Projektarbeit, betriebliche Aufträge, Code-Review — siehe [[kompetenzfeststellung-programmierung]]).
+Echte Programmier-/Handlungskompetenz **außerhalb** des QTI-Tests prüfen (Projektarbeit, betriebliche Projektarbeit, Code-Review — siehe [[kompetenzfeststellung-programmierung]]).
 
 **itsLearning-spezifisch:** `<modalFeedback>` wird ignoriert — elaboriertes formatives Feedback (Shute, 2008) muss außerhalb der Items vermittelt werden (Musterlösung, Review-Sitzung). Das limitiert den formativen Wert automatisch ausgewerteter Tests; summative Abbildung von Faktenwissen bleibt legitim.
 

@@ -137,7 +137,7 @@ Der KMK-Rahmenlehrplan formuliert "selbstgesteuertes Handeln" als explizites Zie
 
 ### Evidenz
 
-- **Hattie (Visible Learning):** Metakognitive Strategien d ≈ **0,60** (visible-learning.org Ranking 2018) — konsistent in den Top-20-Interventionen. Hattie & Donoghue (2016, *npj Science of Learning*) differenzieren weiter nach Substrategien; im Volltext bestätigt ist u.a. *self-monitoring* d ≈ 0,71, weitere Substrategien-Werte erfordern zellengenaue Tabellen-Lektüre.
+- **Hattie (Visible Learning):** Metakognitive Strategien d ≈ **0,60** (visible-learning.org Ranking 2018) — konsistent in den Top-20-Interventionen. Hattie & Donoghue (2016, *npj Science of Learning*) referenzieren Donker et al. (2014) für Substrategien-Werte: Planning d ≈ 0,80; Monitoring d ≈ 0,71; Evaluation d ≈ 0,75. Die Zahlen stammen aus der Donker-Meta-Analyse, nicht aus Hattie/Donoghue selbst — bei Übernahme in didaktische Argumentation Originalquelle Donker zitieren.
 - **Self-Explanation (Chi et al. 1989/1994):** d ≈ 0,55–0,80 je nach Implementierung, besonders groß bei prozeduralen Domänen.
 - **Dignath & Büttner (2008, Meta-Analyse):** metakognitive Trainings Sekundarbereich d = 0,54 auf Leistung, d = 0,73 als ungewichteter Gesamt-Effekt (nicht spezifisch auf Strategienutzung beschränkt).
 
@@ -183,6 +183,7 @@ Ein Agent oder eine Lehrkraft kann Metakognition operationalisieren:
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18(3), 439-477.
 - Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
 - Hattie, J., & Donoghue, G. M. (2016). Learning strategies: A synthesis and conceptual model. *npj Science of Learning*, 1, 16013.
+- Donker, A. S., de Boer, H., Kostons, D., Dignath van Ewijk, C. C., & van der Werf, M. P. C. (2014). Effectiveness of learning strategy instruction on academic performance: A meta-analysis. *Educational Research Review, 11*, 1–26.
 - Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students. *Metacognition and Learning*, 3(3), 231-264.
 - Prather, J., Becker, B. A., Craig, M., Denny, P., Loksa, D., & Margulieux, L. (2020). What do we think we think we are doing? Metacognition and self-regulation in programming. *Proceedings of ICER 2020*, 2-13. (Systematic Review der CS1-Metakognitions-Literatur, keine Primärempirie.)
 - Gorson, J., & O'Rourke, E. (2020). Why do CS1 students think they're bad at programming? Investigating self-efficacy and self-assessments at three universities. *Proceedings of ICER 2020.*

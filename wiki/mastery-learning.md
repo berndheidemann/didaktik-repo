@@ -83,7 +83,7 @@ ML ist die *pädagogische Mikrostruktur*, CBE die *institutionelle Makrostruktur
 - **Hattie Visible Learning:** d ≈ 0,58 (2009) bzw. 0,67 (MetaX 2023) für Mastery Learning.
 - **Kulik, Kulik & Bangert-Drowns (1990):** Meta-Analyse von 108 Studien. Final-Exam +0,5 SD (vom 50. zum 70. Perzentil). PSI stärker als LFM. **Effekt größer bei schwächeren Lernenden** — damit ML ist primär Differenzierungs-Hebel.
 - **Slavin (1987), "Mastery Learning Reconsidered":** Kritik. Auf *standardisierten* Achievement-Tests kaum Effekt, nur auf experimenter-made Tests — Validitätsproblem, eventuell "Teaching to the test".
-- **Neuere Reviews (2020–2025):** Effekte 0,5–0,6, höher bei höheren Thresholds. Jang et al. (2023) in medizinischer Bildung: konsistent positiv.
+- **Neuere Reviews (2020–2025):** Effekte 0,5–0,6, höher bei höheren Thresholds. Winget & Persky (2023, AJPE) "A Practical Review of Mastery Learning": konsistent positive Effekte in der pharmazeutischen Ausbildung.
 - **Kosten:** ML-Klassen brauchen 10–20 % mehr Zeit pro Einheit — Stoffbreite versus Stofftiefe als klassischer Trade-off.
 
 ### Feedback und Correctives konkret
@@ -181,5 +181,5 @@ Corrective-Repertoire für IT-Unterricht:
 - Guskey, T. R. & Pigott, T. D. (1988). Research on group-based mastery learning programs: A meta-analysis. *Journal of Educational Research, 81*(4), 197–216.
 - Slavin, R. E. (1987). Mastery learning reconsidered. *Review of Educational Research, 57*(2), 175–213.
 - Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement.* Routledge.
-- Jang, S. et al. (2023). A practical review of mastery learning. *Korean Journal of Medical Education, 35*(1).
+- Winget, A. M., & Persky, A. M. (2023). A Practical Review of Mastery Learning. *American Journal of Pharmaceutical Education, 87*(5), 100043.
 - Helmke, A. (2017). *Unterrichtsqualität und Lehrerprofessionalität* (7. Aufl.). Klett/Kallmeyer.

@@ -198,7 +198,7 @@ Nie den Schülern einen LLM-Score als "Note" präsentieren. Immer "Einschätzung
 - Phung, T. et al. (2024). Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors. *LAK 2024*.
 - Denny, P. et al. (2024). Explaining Code with a Purpose. *ITiCSE 2024*. arXiv:2403.06050.
 - Smith IV, D. H., & Zilles, C. (2024). Code Generation Based Grading. *SIGCSE 2024*.
-- Stahl, M. et al. (2024). From Automation to Augmentation. arXiv:2401.06431.
+- Xiao, C. et al. (2024). From Automation to Augmentation: Large Language Models Elevating Essay Scoring Landscape. arXiv:2401.06431.
 - Murphy, L., Fitzgerald, S., et al. (2012). 'Explain in plain English' questions revisited. *SIGCSE 2012*.
 - Pathak, A., Gandhi, R., Uttam, V., et al. (2025). Rubric Is All You Need: Improving LLM-based Code Evaluation With Question-Specific Rubrics. *ICER 2025*. arXiv:2503.23989.
 - LLM-Rubric: Multidimensional Calibrated Evaluation (2024). *ACL 2024*.
