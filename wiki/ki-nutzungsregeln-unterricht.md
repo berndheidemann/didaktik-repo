@@ -25,7 +25,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden]
 evidenzgrad: praxisbericht
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-05-01
 summary: >
   Operative Klassen-Policy für KI-Nutzung statt Verbots- oder Laissez-faire-
   Muster. Rot/Gelb/Grün-Zonen-Modell nach Aufgabentyp mit Header-Template,
@@ -56,7 +56,7 @@ Das Muster ist einheitlich: **keine Detektions-Pflicht, aber Deklarationspflicht
 - **OECD/EC AILit Framework (Draft 2025, Final 2026, Basis für PISA 2029):** vier Domänen — *Engage / Create / Manage / Design with AI*.
 - **Perkins, Furze, Roe & MacVaugh (2024), AIAS v2:** Fünf-Stufen-Skala — 1. No AI, 2. AI Planning, 3. AI Assisted, 4. Full Collaboration, 5. AI Exploration. V2 verzichtet bewusst auf Ampel-Farben, um keine implizite Hierarchie zu suggerieren.
 - **College Board AP (2024/2025):** differenzierte Policies je Kurs — AP Art KI komplett verboten; AP CS KI erlaubt, aber Code-Erklärung Pflicht; AP Seminar Deklaration Pflicht.
-- **Anthropic Education Report (2025):** CS-Studierende führen 36,8 % aller Claude-Conversations (bei nur 5,4 % Bevölkerungsanteil). **Vier Nutzungstypen:** Direct Problem Solving, Direct Output Creation, Collaborative Problem Solving, Collaborative Output Creation — *augmentative* Nutzung (Collaborative) ist Kennzeichen von AI Fluency, *delegative* nicht.
+- **Anthropic Education Report (2025):** CS-Studierende führen 36,8 % aller Claude-Conversations (bei nur 5,4 % Bevölkerungsanteil). **Vier Nutzungstypen:** Direct Problem Solving, Direct Output Creation, Collaborative Problem Solving, Collaborative Output Creation. Anthropic enthält sich explizit einer Lerneffekt-Bewertung — die didaktische Lesart "augmentativ (Collaborative) ist Kennzeichen von AI Fluency, delegativ nicht" ist eine eigene didaktische Einschätzung, kein Anthropic-Befund.
 
 ### Warum ein 3-Zonen-Ampel-Modell für FIAE/FIDP
 

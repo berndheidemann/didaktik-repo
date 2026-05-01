@@ -25,13 +25,13 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 evidenzgrad: meta-analyse
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-05-01
 summary: >
   Didaktisches Rahmenkonzept nach Carroll (1963) und Bloom (1968): Kompetenz
   ist konstant, Zeit ist variabel. Lernende durchlaufen einen Zyklus aus
   Original-Instruktion, Diagnose, Correctives und Re-Test, bis ein Mastery-
-  Threshold (meist 80-90%) erreicht ist. Hattie d=0,58. Abgrenzung zu
-  Mastery Tracking (Algorithmen) und CBE (Systemebene).
+  Threshold (meist 80-90%) erreicht ist. Hattie 2009 d=0,58 / MetaX 2023 d=0,67.
+  Abgrenzung zu Mastery Tracking (Algorithmen) und CBE (Systemebene).
 ---
 
 # Mastery Learning (Bloom/Guskey)
@@ -80,7 +80,7 @@ ML ist die *pädagogische Mikrostruktur*, CBE die *institutionelle Makrostruktur
 
 ### Evidenzlage
 
-- **Hattie (2009)** Visible Learning: d ≈ 0,58 für Mastery Learning.
+- **Hattie Visible Learning:** d ≈ 0,58 (2009) bzw. 0,67 (MetaX 2023) für Mastery Learning.
 - **Kulik, Kulik & Bangert-Drowns (1990):** Meta-Analyse von 108 Studien. Final-Exam +0,5 SD (vom 50. zum 70. Perzentil). PSI stärker als LFM. **Effekt größer bei schwächeren Lernenden** — damit ML ist primär Differenzierungs-Hebel.
 - **Slavin (1987), "Mastery Learning Reconsidered":** Kritik. Auf *standardisierten* Achievement-Tests kaum Effekt, nur auf experimenter-made Tests — Validitätsproblem, eventuell "Teaching to the test".
 - **Neuere Reviews (2020–2025):** Effekte 0,5–0,6, höher bei höheren Thresholds. Jang et al. (2023) in medizinischer Bildung: konsistent positiv.

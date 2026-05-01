@@ -21,13 +21,13 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [analysieren, bewerten, erschaffen]
 sozialform: [einzelarbeit, partner]
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-05-01
 summary: >
   Systematische Methode zur Extraktion impliziten Expertenwissens (Clark, Feldon
   et al., 2008). CTA deckt 40–70 % der Entscheidungen und Cues auf, die Experten
   beim Unterrichten unbewusst auslassen (Expert Blind Spot). Die Ergebnisse fließen
   direkt in Worked Examples, Scaffolding und Lernsituationen für den
-  Programmierunterricht ein. Effektstärke d = 1,29 bei Hattie.
+  Programmierunterricht ein. Effektstärke gewichtet d ≈ 1,09 (MetaX 2023, ungewichtetes Mittel 1,29).
 ---
 
 # Cognitive Task Analysis (CTA) für Programmierunterricht
@@ -47,7 +47,7 @@ Ohne CTA fehlen typischerweise **40–70 % der Schlüsselschritte** in Instrukti
 ### Evidenzlage
 
 - **Meta-Analyse Tofel-Grehl & Feldon (2013):** Hedges' g = 0,87 gegenüber konventionell entwickelten Materialien (27 Studien).
-- **Hattie Visible Learning MetaX:** d = 1,29 — eine der höchsten Effektstärken (Durchschnitt: d = 0,40).
+- **Hattie Visible Learning MetaX 2023:** gewichteter Mittelwert d ≈ 1,09 (ungewichtet 1,29) — eine der höchsten Effektstärken (Hattie-Durchschnitt: d ≈ 0,40).
 - CTA ist keine eigenständige Lehrmethode, sondern verbessert die **Qualität jeder nachgelagerten Methode**: [[worked-examples]] werden vollständiger, [[scaffolding]] präziser, [[formatives-assessment]] trifft die kritischen Denkschritte.
 
 ## Durchführung

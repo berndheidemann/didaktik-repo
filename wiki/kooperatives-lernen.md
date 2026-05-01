@@ -27,7 +27,7 @@ audience: [FIAE, FIDP]
 taxonomiestufe: [verstehen, anwenden, analysieren, bewerten]
 sozialform: [partner, gruppe, plenum]
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-05-01
 summary: >
   Methoden-Katalog zu kooperativen Lernformen jenseits der Programmierung —
   Johnson & Johnsons fünf Grundpfeiler plus konkrete Methoden (Jigsaw,
@@ -166,6 +166,9 @@ Geeignet als [[constructive-alignment]]-konformer TLA für Bloom-Stufen "versteh
 ## Quellen
 
 - Aronson, E., Blaney, N., Stephan, C., Sikes, J., & Snapp, M. (1978). *The Jigsaw Classroom*. Sage.
+- Lyman, F. (1981). The responsive classroom discussion. In A. S. Anderson (Ed.), *Mainstreaming Digest*. College Park, MD: University of Maryland Press.
+- Rosenshine, B., & Meister, C. (1994). Reciprocal teaching: A review of the research. *Review of Educational Research, 64*(4), 479–530.
+- Johnson, D. W., & Johnson, R. T. (1979). Conflict in the classroom: Controversy and learning. *Review of Educational Research, 49*(1), 51–70.
 - Hattie, J. (2023). *Visible Learning: The Sequel*. Routledge.
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher*, 38(5), 365-379.
 - Johnson, D. W., Johnson, R. T., & Smith, K. A. (2014). Cooperative learning: Improving university instruction by basing practice on validated theory. *Journal on Excellence in College Teaching*, 25(3-4), 85-118.
