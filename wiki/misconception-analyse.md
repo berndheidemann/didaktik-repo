@@ -49,7 +49,7 @@ Dieser Artikel liefert die *Methodik* zum in [[threshold-concepts]] beschriebene
 
 ### Warum Misconceptions robust sind
 
-**Chi (2005, 2008) — Ontologische Kategorienfehler.** Chi unterscheidet drei ontologische Grundkategorien: **Matter** (Dinge mit Substanz), **Process** (Sequenzen, Ereignisse) und **Mental State**. Robuste Misconceptions entstehen, wenn Lernende ein Phänomen in die *falsche* Kategorie einordnen. Klassisches Beispiel aus der Physik: Wärme als "Substanz" (Matter) statt als "emergenter Prozess". Solche Fehlvorstellungen sind nicht durch mehr Erklärung korrigierbar — die ontologische Verortung trägt die ganze Bedeutungszuschreibung. Erst eine **Re-Kategorisierung** ("Wärme ist kein Stoff, sondern ein Prozess der Energieübertragung") löst sie auf.
+**Chi (2005, 2008) — Ontologische Kategorienfehler.** Chi unterscheidet drei ontologische Grundkategorien: **Entities** (Dinge mit Substanz, in Chis Diagrammen oft mit „Matter" / „Substances" als Subkategorie), **Processes** (Sequenzen, Ereignisse) und **Mental States**. Robuste Misconceptions entstehen, wenn Lernende ein Phänomen in die *falsche* Kategorie einordnen. Klassisches Beispiel aus der Physik: Wärme als "Substanz" (Matter) statt als "emergenter Prozess". Solche Fehlvorstellungen sind nicht durch mehr Erklärung korrigierbar — die ontologische Verortung trägt die ganze Bedeutungszuschreibung. Erst eine **Re-Kategorisierung** ("Wärme ist kein Stoff, sondern ein Prozess der Energieübertragung") löst sie auf.
 
 **Übertragung CS:** "Variable als Behälter" ist ein Matter-Modell — der korrekte ontologische Typ ist eine *Bindung* (eine Beziehung in einem Namensraum), also Process/Relation.
 

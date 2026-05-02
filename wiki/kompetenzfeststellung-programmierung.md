@@ -59,7 +59,7 @@ Lernende pflegen ein kuratiertes GitHub-Portfolio über die gesamte Ausbildung: 
 
 Nicht nur *was* Lernende produzieren, sondern *wie* sie es tun: IDE-Interaktionsmuster, Debugging-Verhalten, Commit-Sequenzen. KI-Plattformen können den gesamten Entwicklungsprozess instrumentieren und Prozess-Metriken generieren (vgl. [[ki-native-lernumgebungen]]).
 
-Jadud (2006) entwickelte den "Error Quotient" — ein Maß dafür, wie systematisch Lernende auf Compile-Fehler reagieren. Systematisches Debugging korreliert stark mit Lernerfolg.
+Jadud (2006) entwickelte den "Error Quotient" — ein Maß dafür, wie systematisch Lernende auf Compile-Fehler reagieren. Folge-Studien zeigen moderate, kontextabhängige Korrelationen mit Lernerfolg.
 
 ### Kompetenzbasierte Progression
 
@@ -67,14 +67,14 @@ Mastery-basiert statt zeitbasiert: Lernende weisen Kompetenz nach, bevor sie wei
 
 ### KI-integrierte Prüfungen
 
-Da Azubis beruflich mit KI-Tools arbeiten werden, müssen Prüfungen das adressieren:
+Da Azubis beruflich mit KI-Tools arbeiten werden, müssen Prüfungen das adressieren (vgl. Denny et al. 2024 zur Computing-Education-Diskussion in der Era of Generative AI):
 - **KI-erlaubte Prüfungen:** Bewertet wird, was Lernende mit KI-Output *tun* — evaluieren, debuggen, integrieren
 - **Prozess-sichtbare Prüfungen:** Die Interaktion mit KI ist selbst Bewertungsgegenstand
 - **Fachgespräch als Verifikation:** Mündliche Nachfrage prüft, ob Verständnis hinter dem Code steckt
 
 ## Ergebnisse
 
-Forschung (Nickolaus & Seeber, 2013) zeigt: Die Projekt-Komponente der IHK-Prüfung sagt Berufserfolg besser voraus als der schriftliche Teil. Continuous Assessment korreliert besser mit Langzeit-Retention als Einzelprüfungen (Baird et al., 2017). Portfolio-Assessment erfasst Wachstum und Iteration — Qualitäten, die kein Einzeltest messen kann.
+Die Forschung zur beruflichen Kompetenzdiagnostik (Nickolaus & Seeber, 2013) systematisiert Modellierung und Verfahren — sie liefert Methoden-Rahmen, aber keine spezifische prädiktive Validitätsstudie zur IHK-Prüfung; entsprechende empirische Befunde liegen primär aus den ASCOT-Studien des BIBB vor. Continuous Assessment wird in der Assessment-Forschung (Baird et al., 2014) als für Lernen wirksamer als Einzelprüfungen eingestuft. Portfolio-Assessment erfasst Wachstum und Iteration — Qualitäten, die kein Einzeltest messen kann.
 
 ## Lessons Learned
 
@@ -116,5 +116,5 @@ Ein Agent kann Kompetenzfeststellung unterstützen:
 
 - Jadud, M. C. (2006). Methods and Tools for Exploring Novice Compilation Behaviour. Proceedings of ICER 2006, 73-84.
 - Nickolaus, R. & Seeber, S. (2013). Berufliche Kompetenzen: Modellierung und Diagnostik. In A. Frey, U. Lissmann & B. Schwarz (Hrsg.), Handbuch berufspädagogischer Diagnostik (S. 166-195). Beltz.
-- Baird, J. et al. (2017). Assessment and Learning: State of the Field Review. Oxford University Centre for Educational Assessment.
+- Baird, J.-A., Hopfenbeck, T. N., Newton, P., Stobart, G. & Steen-Utheim, A. T. (2014). *Assessment and Learning: State of the Field Review*. Report commissioned by the Norwegian Knowledge Centre for Education.
 - Denny, P. et al. (2024). Computing Education in the Era of Generative AI. Communications of the ACM, 67(2), 56-67.

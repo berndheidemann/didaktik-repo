@@ -45,7 +45,7 @@ Sorva (2013) führte in seinem Review in den *ACM Transactions on Computing Educ
 
 ### Typische falsche Notional Machines
 
-Sorva (2018) und die ITiCSE-2020-Working-Group (Fincher et al., 2020) katalogisierten die häufigsten Fehlmodelle:
+Sorvas Forschungssynthese (Sorva 2013 ToCE; ergänzt durch das ITiCSE-2020-Notional-Machines-Working-Group-Report von Fincher et al. 2020) identifiziert wiederkehrende Fehlmodelle in der CS-Ed-Literatur:
 
 | Fehlmodell | Beschreibung | Konsequenz |
 |------------|-------------|------------|
@@ -60,11 +60,11 @@ Diese Fehlmodelle sind **kohärente alternative Konzepte**, nicht zufällige Feh
 
 ### Listers Stufenmodell: Tracing als Fundament
 
-Lister et al. (2004) zeigten in einer multinationalen Studie (7 Länder): Viele Studierende können am Ende ihres Einführungskurses weder den Output eines kurzen Snippets vorhersagen noch eine fehlende Zeile aus Optionen auswählen. Lister entwickelte ein Dreistufen-Modell: (1) Kann Code nicht tracen, (2) kann tracen, aber nur mechanisch, (3) kann abstrakt über Code schlussfolgern. Code-Tracing ist die **Grundvoraussetzung** aller höheren Programmierfähigkeiten.
+Lister et al. (2004) zeigten in einer multinationalen Studie (7 Länder): Viele Studierende können am Ende ihres Einführungskurses weder den Output eines kurzen Snippets vorhersagen noch eine fehlende Zeile aus Optionen auswählen. Lister/Corney/Teague (2011, ACE) entwickelten in der Folge ein Neo-Piagetian-Stufenmodell des Programmier-Reasonings: (1) Kann Code nicht tracen, (2) kann tracen, aber nur mechanisch, (3) kann abstrakt über Code schlussfolgern. Code-Tracing ist die **Grundvoraussetzung** aller höheren Programmierfähigkeiten.
 
 ### Visualisierungstools
 
-**Python Tutor** (pythontutor.com) ist mit 25+ Millionen Nutzer:innen in 180+ Ländern das verbreitetste Visualisierungstool (Guo, 2021). Es rendert Stack Frames, Heap-Objekte und Referenzpfeile schrittweise. Karnalim & Ayub (2018) fanden positive Effekte besonders bei fortgeschrittenen Themen. Wichtig: Visualisierung allein genügt nicht — Lernende brauchen aktive Aufgaben, die sie zwingen, die Darstellung zu *interpretieren*.
+**Python Tutor** (pythontutor.com) ist mit über 10 Millionen Nutzer:innen in über 180 Ländern (Stand 2021) das verbreitetste Visualisierungstool (Guo, 2021). Es rendert Stack Frames, Heap-Objekte und Referenzpfeile schrittweise. Karnalim & Ayub (2018) fanden positive Effekte besonders bei fortgeschrittenen Themen. Wichtig: Visualisierung allein genügt nicht — Lernende brauchen aktive Aufgaben, die sie zwingen, die Darstellung zu *interpretieren*.
 
 **Thonny** bietet einen integrierten Step-Through-Debugger. **UUhistle** (Sorva, 2012) geht weiter: Lernende simulieren die Ausführung selbst und erhalten Feedback auf ihre Simulation.
 
@@ -130,8 +130,9 @@ Wer "3" antwortet, hat eine Kopie-statt-Referenz-Notional-Machine — ein klares
 - Sorva, J. (2012). *Visual program simulation in introductory programming education* (Dissertation). Aalto University.
 - Sorva, J. (2013). Notional machines and introductory programming education. *ACM Transactions on Computing Education*, 13(2), 1-31.
 - Sorva, J. (2018). Misconceptions and the beginner programmer. In S. Sentance et al. (Hrsg.), *Computer Science Education* (S. 171-187). Bloomsbury.
-- Fincher, S. et al. (2020). Notional machines in computing education. *Proceedings of the Working Group Reports on ITiCSE*, 57-70. ACM.
+- Fincher, S. et al. (2020). Notional Machines in Computing Education: The Education of Attention. *Proceedings of the Working Group Reports on ITiCSE* (ITiCSE-WGR 2020), 21-50. ACM. https://doi.org/10.1145/3437800.3439202
 - Lister, R. et al. (2004). A multi-national study of reading and tracing skills in novice programmers. *ACM SIGCSE Bulletin*, 36(4), 119-150.
+- Lister, R., Corney, M., & Teague, D. (2011). Concrete and other Neo-Piagetian forms of reasoning in the novice programmer. *Proceedings of the 13th Australasian Computing Education Conference (ACE 2011)*, 99-107.
 - Guo, P. J. (2021). Ten million users and ten years later. *Proceedings of the 34th ACM UIST*, 1235-1251.
-- Karnalim, O. & Ayub, M. (2018). The effectiveness of a program visualization tool on introductory programming. *CommIT Journal*, 12(1), 33-44.
+- Karnalim, O. & Ayub, M. (2017). The Effectiveness of a Program Visualization Tool on Introductory Programming: A Case Study with PythonTutor. *CommIT (Communication and Information Technology) Journal*, 11(2), 67-76. https://doi.org/10.21512/commit.v11i2.3704
 - Chi, M. T. H. (2005). Commonsense conceptions of emergent processes. *Journal of the Learning Sciences*, 14(2), 161-199.

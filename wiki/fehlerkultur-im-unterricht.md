@@ -58,9 +58,9 @@ Die Dimensionen korrelieren positiv mit Mastery Goals, intrinsischer Motivation 
 
 ### Psychological Safety (Edmondson)
 
-Amy Edmondson (1999) definiert Psychological Safety als "shared belief held by members of a team that the team is safe for interpersonal risk-taking" — also die kollektive Überzeugung, dass man sich melden, widersprechen, eine dumme Frage stellen oder einen Fehler zugeben kann, **ohne sozial bestraft zu werden**.
+Amy Edmondson (1999) definiert Psychological Safety in einer Studie an 51 Manufacturing-Teams als "shared belief held by members of a team that the team is safe for interpersonal risk-taking" — also die kollektive Überzeugung, dass man sich melden, widersprechen, eine dumme Frage stellen oder einen Fehler zugeben kann, **ohne sozial bestraft zu werden**.
 
-Ihre ursprüngliche Krankenhaus-Studie zeigte eine kontraintuitive Pointe: **Bessere Teams meldeten mehr Medikationsfehler**, nicht weniger — nicht weil sie schlechter arbeiteten, sondern weil sie sich trauten, Fehler zu benennen.
+Ihre frühere Krankenhaus-Studie (Edmondson 1996, JABS) zeigte eine kontraintuitive Pointe: **Bessere Teams meldeten mehr Medikationsfehler**, nicht weniger — nicht weil sie schlechter arbeiteten, sondern weil sie sich trauten, Fehler zu benennen.
 
 **Google's Project Aristotle** (2012-2015, 180 Teams) identifizierte Psychological Safety als stärksten Einzelprädiktor für Teamperformance — stärker als Zusammensetzung, Seniorität oder individuelle Intelligenz (Duhigg 2016). Im Klassenraum: Eine Klasse mit hoher psychological safety meldet mehr Verständnisprobleme, stellt mehr "blöde" Fragen, zeigt mehr falsche Zwischenergebnisse — und lernt dadurch mehr. **Eine leise, höfliche Klasse ist in den meisten Fällen kein gutes Zeichen**, sondern eines für Risikovermeidung.
 
@@ -69,7 +69,7 @@ Ihre ursprüngliche Krankenhaus-Studie zeigte eine kontraintuitive Pointe: **Bes
 ### Konkrete Lehrerhandlungen
 
 1. **Eigene Fehler live zugeben und feiern** — Beim Live-Coding Tippfehler nicht heimlich korrigieren, sondern laut kommentieren: "Ah, Klassiker, ich hab hier `==` und `=` verwechselt." Modeling im Sinne von [[cognitive-apprenticeship]].
-2. **"Favorite Mistake" als feste Routine** (Leah Alcala): Bei Aufgabenbesprechung einen *falschen* Lösungsweg anonymisiert zeigen und die Klasse rekonstruieren lassen, *welcher Gedanke* zu diesem Fehler geführt hat.
+2. **"My Favorite No" als feste Routine** (Leah Alcala): Bei Aufgabenbesprechung einen *falschen* Lösungsweg anonymisiert zeigen und die Klasse rekonstruieren lassen, *welcher Gedanke* zu diesem Fehler geführt hat.
 3. **Keine negative Reaktion** — auch nicht leise. Kein Seufzen, "Nein, das hatten wir doch gerade...", kein Augenrollen. Neutraler, neugieriger Tonfall: "Erzähl mir, wie du darauf gekommen bist."
 4. **Warte-Zeit nach Fragen verlängern** — mindestens 5-7 Sekunden statt 1-2.
 5. **Fehler explizit trennen von Benotung** — "In dieser Phase wird nichts bewertet" muss wahr sein und wiederholt ausgesprochen werden.
@@ -105,7 +105,7 @@ Fehlerkultur heißt unter anderem, den Unterschied gemeinsam zu benennen. Ein Az
 
 1. **Selbst modellieren** — in der ersten Live-Coding-Sitzung absichtlich einen Fehler produzieren und laut den Debugging-Prozess verbalisieren.
 2. **Klassennormen aushandeln** in den ersten zwei Wochen, Plakat sichtbar aufhängen.
-3. **"Favorite Mistake" als wöchentliche Routine** bei Aufgabenbesprechungen etablieren.
+3. **"My Favorite No" als wöchentliche Routine** bei Aufgabenbesprechungen etablieren.
 4. **Peer-Spott einmalig ansprechen**, wenn er auftritt — ruhig, nicht moralisierend.
 5. **Bewertungsphasen klar trennen** und ankündigen.
 6. **Reason-Taxonomie gemeinsam erlernen** — nach ein paar Wochen "Slip/Lapse/Mistake" als gemeinsames Vokabular nutzen.
@@ -120,13 +120,13 @@ Fehlerkultur heißt unter anderem, den Unterschied gemeinsam zu benennen. Ein Az
 
 ## Varianten
 
-- **Minimal:** "Favorite Mistake" und Sprach-Umstellung ("interessant" statt "falsch").
+- **Minimal:** "My Favorite No" und Sprach-Umstellung ("interessant" statt "falsch").
 - **Mittel:** Plus explizite Klassennormen und Live-Coding mit bewussten Fehlern.
 - **Voll:** Plus Blameless Post-Mortems nach Projekten, Reason-Taxonomie als Klassen-Vokabular, regelmäßige Reflexion.
 
 ## Zeitbedarf
 
-Einführung in den ersten 2 Wochen: 3-4 kleine Aktivitäten à 10-15 Min. Laufend: 5 Min "Favorite Mistake" pro Woche, Reflexionsfrage am Stundenende. Der größte Aufwand ist nicht Zeit, sondern Konsistenz — einmaliges Sarkasmus-Ausrutschen reicht, um Wochen Arbeit zu zerstören.
+Einführung in den ersten 2 Wochen: 3-4 kleine Aktivitäten à 10-15 Min. Laufend: 5 Min "My Favorite No" pro Woche, Reflexionsfrage am Stundenende. Der größte Aufwand ist nicht Zeit, sondern Konsistenz — einmaliges Sarkasmus-Ausrutschen reicht, um Wochen Arbeit zu zerstören.
 
 ## Bezug zur IT-Ausbildung
 
@@ -143,7 +143,7 @@ IT ist für Fehlerkultur ein Sonderfall, weil Fehler dort **binär und öffentli
 
 1. **Eigene erste Lernsequenz inszenieren** — kein "perfekter Unterricht" am Anfang, sondern modellhaftes Fehler-Machen.
 2. **Klassennormen mit der Klasse aushandeln**, nicht dekretieren.
-3. **Wöchentliche "Favorite Mistake"-Routine** einführen — nicht optional.
+3. **Wöchentliche "My Favorite No"-Routine** einführen — nicht optional.
 4. **Anti-Pattern hart unterbinden**: Seufzen, Sarkasmus, "Das hatten wir doch" — eigene Disziplin.
 5. **Nach 6-8 Wochen messen**: Fragen wie "Melde ich mich, wenn ich unsicher bin?" anonym abfragen — Proxy für Psychological Safety.
 
@@ -174,9 +174,13 @@ IT ist für Fehlerkultur ein Sonderfall, weil Fehler dort **binär und öffentli
 ## Quellen
 
 - Steuer, G., Rosentritt-Brunn, G., & Dresel, M. (2013). Dealing with errors in mathematics classrooms: Structure and relevance of perceived error climate. *Contemporary Educational Psychology*, 38(3), 196-210.
+- Edmondson, A. C. (1996). Learning from Mistakes is Easier Said Than Done: Group and Organizational Influences on the Detection and Correction of Human Error. *Journal of Applied Behavioral Science*, 32(1), 5-28.
 - Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly*, 44(2), 350-383.
 - Edmondson, A. C. (2018). *The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth*. Wiley.
-- Tulis, M. (2013). Error management behavior in classrooms: Teachers' responses to student mistakes. *Learning and Instruction*, 27, 65-79.
+- Tulis, M. (2013). Error management behavior in classrooms: Teachers' responses to student mistakes. *Teaching and Teacher Education*, 33, 56-68. https://doi.org/10.1016/j.tate.2013.02.003
+- Alcala, L. (o. D.). *My Favorite No: Class Warm-Up Routine*. Teaching Channel. https://learn.teachingchannel.com/video/class-warm-up-routine
+- Beyer, B., Jones, C., Petoff, J. & Murphy, N. R. (Hrsg.) (2016). *Site Reliability Engineering: How Google Runs Production Systems*. O'Reilly. — Kapitel "Postmortem Culture: Learning from Failure". https://sre.google/sre-book/postmortem-culture/
+- Allspaw, J. (2012). *Blameless PostMortems and a Just Culture*. Etsy Code as Craft Blog. https://www.etsy.com/codeascraft/blameless-postmortems/
 - Van Dyck, C., Frese, M., Baer, M., & Sonnentag, S. (2005). Organizational error management culture and its impact on performance. *Journal of Applied Psychology*, 90(6), 1228-1240.
 - Reason, J. (1990). *Human Error*. Cambridge University Press.
 - Duhigg, C. (2016, February 25). What Google learned from its quest to build the perfect team. *The New York Times Magazine*.
