@@ -176,8 +176,9 @@ Dieser Artikel schließt den ironischen Kreis: Wer eine DSGVO-Lernumgebung baut,
 
 - Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung). Insbesondere Art. 4, 5, 6, 8, 9, 13, 15, 17, 25, 28, 30, 32, 35.
 - Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder (DSK) (2024). *Orientierungshilfe: Künstliche Intelligenz und Datenschutz*.
+- EuGH (2016). Urteil C-582/14 (Breyer/Bundesrepublik Deutschland), 19.10.2016 — Personenbezug dynamischer IP-Adressen.
 - EuGH (2020). Urteil C-311/18 (Schrems II).
 - EU-Kommission (2023). Durchführungsbeschluss (EU) 2023/1795 zum EU-US Data Privacy Framework.
 - Bayerischer Landesbeauftragter für den Datenschutz (BayLfD). *Datenschutz an bayerischen öffentlichen Schulen — Fragen und Antworten* (FAQ, fortlaufend gepflegt). https://www.datenschutz-bayern.de/datenschutzreform2018/FAQ_Schulen.pdf
 - Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) (2024). *32. Tätigkeitsbericht 2023*. https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Taetigkeitsberichte/32TB_23.html
-- Hoofnagle, C. J., van der Sloot, B., & Borgesius, F. Z. (2019). The European Union General Data Protection Regulation: What it is and what it means. *Information & Communications Technology Law*, 28(1), 65-98.
+- van der Sloot, B., Hoofnagle, C. J., & Zuiderveen Borgesius, F. J. (2019). The European Union General Data Protection Regulation: What it is and what it means. *Information & Communications Technology Law*, 28(1), 65-98. https://doi.org/10.1080/13600834.2019.1573501

@@ -103,13 +103,13 @@ mit `q` = Quality 0-5 (0=blackout, 3=knapp richtig, 5=perfekt). Bei q=5 wächst 
 
 Jarrett Ye entwickelte FSRS als ML-basierten Nachfolger von SM-2. Kern: Statt heuristischer Intervalle wird das DSR-Modell direkt parametrisiert und auf Reviewlog-Daten trainiert.
 
-**Zentrale Formel — Retrievability als Funktion der Stability:**
+**Zentrale Formel — Retrievability als Funktion der Stability** (FSRS-5/6, aktueller Anki-Stable-Default seit ~mid-2024):
 ```
-R(t, S) = (1 + t / (9 * S))^(-1)
+R(t, S) = (1 + (19/81) * t / S)^(-0.5)
 ```
-mit `t` = Tage seit letztem Review, `S` = aktuelle Stability. Bei `t = S` ist `R ≈ 0.9` — also: **Stability ist das Intervall, nach dem die Karte mit ~90% Wahrscheinlichkeit noch erinnert wird**. Diese Konvention macht das Tuning intuitiv.
+mit `t` = Tage seit letztem Review, `S` = aktuelle Stability. Per Konstruktion ist bei `t = S` der Retrievability-Wert `R ≈ 0.9` — also: **Stability ist das Intervall, nach dem die Karte mit ~90% Wahrscheinlichkeit noch erinnert wird**. (Frühere FSRS-3-Form `R = (1 + t/(9·S))^(-1)` hat die gleiche 90%-bei-t=S-Eigenschaft, ist aber durch FSRS-4.5/5/6 abgelöst.)
 
-Die Update-Regel berechnet die neue Stability als Funktion der alten, der Difficulty und der aktuellen Retrievability, mit ~17 Modellparametern, die per Backpropagation auf der historischen Reviewlog-Datei optimiert werden. Details siehe das [FSRS-Repo](https://github.com/open-spaced-repetition/fsrs4anki).
+Die Update-Regel berechnet die neue Stability als Funktion der alten, der Difficulty und der aktuellen Retrievability, mit aktuell **19 Modellparametern** (FSRS-5/6; FSRS-3/4 hatten 17), die per Backpropagation auf der historischen Reviewlog-Datei optimiert werden. Details siehe das [FSRS-Repo](https://github.com/open-spaced-repetition/fsrs4anki).
 
 **Praktisch für Solo-Devs:** Volles FSRS selbst implementieren ist aufwändig. Pragmatisch:
 1. **Phase 1 (kein Reviewlog):** Default-Parameter aus dem FSRS-Repo verwenden — sind schon ohne Tuning besser als SM-2.
