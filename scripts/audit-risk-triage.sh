@@ -117,6 +117,15 @@ ALREADY_AUDITED[lerner-modell-mastery-tracking.md]=1
 ALREADY_AUDITED[debugging-als-kompetenz.md]=1
 ALREADY_AUDITED[pruefungsvorbereitung-lernstrategie.md]=1
 ALREADY_AUDITED[zeitmanagement-selbstorganisation.md]=1
+# v3 Welle 14 (2026-05-02) — Zweite Welle Praxis-/Methoden-Sweep (Option B); 1 CRIT + 5 MAJOR + 3 MINOR
+# Welle-1-Pattern-#12-Hot-Spot reproduziert sich in datenschutz-Cluster (EDPB-Education-Guidelines fabriziert,
+# BayLfD-Orientierungshilfe + BfDI-Bildungssektor-TB misattribuiert). Conference-Cite-Hot-Spot bestätigt
+# (López-Pernas FIE→IEEE Access, Franklin SIGCSE 2017 vs 2020 Year-Drift, Lytle Inhalts-Reframing).
+ALREADY_AUDITED[datenschutz-lernumgebungen.md]=1
+ALREADY_AUDITED[spaced-repetition-algorithmen.md]=1
+ALREADY_AUDITED[gamification-it-unterricht.md]=1
+ALREADY_AUDITED[use-modify-create.md]=1
+ALREADY_AUDITED[aufgabentypen-interaktive-lernumgebungen.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
