@@ -33,8 +33,8 @@ fMRI-Studien seit 2014 zeigen: Code-Verstehen rekrutiert primär das **Multiple-
 ### Kernbefunde
 
 - **Siegmund et al. (2014, ICSE):** Code-Verstehen aktiviert fünf linkslateralisierte Regionen inkl. Broca-Areal — wurde zunächst als "Code ist Sprache" gedeutet.
-- **Ivanova et al. (2020, eLife) und Liu et al. (2020, eLife):** Revidieren das. Sprachareale reagieren schwach oder gar nicht; das **Multiple-Demand-Netzwerk** trägt die Last. `for`-Schleifen und `if`-Bedingungen sind über Aktivierungsmuster unterscheidbar.
-- **Peitek et al. (2021, eNeuro/ICSE):** Expertise = **differenziertere** kortikale Muster, nicht geringere Aktivierung. **Textlänge** trainiert Aufmerksamkeit, **Vokabulargröße** (Anzahl unterschiedlicher Bezeichner) belastet das Arbeitsgedächtnis messbar.
+- **Ivanova et al. (2020, eLife) und Liu et al. (2020, eLife):** Revidieren das. Sprachareale reagieren schwach oder gar nicht; das **Multiple-Demand-Netzwerk** trägt die Last. **Liu et al.** zeigen zusätzlich: `for`-Schleifen und `if`-Bedingungen sind in MD-Regionen (PFC, IPS, pMTG) über Multivariate Pattern Analysis unterscheidbar (~64-68% Klassifikations-Genauigkeit) — bei **Ivanova et al.** ist die MD-Antwort hingegen *strukturunabhängig* (sequenziell/for/if produzieren keine bedeutsam unterschiedlichen Signaturen).
+- **Ikutani et al. (2021, eNeuro):** Expertise = **differenziertere** kortikale Muster, nicht geringere Aktivierung — Expert:innen zeigen feiner abgestimmte Repräsentationen für Code-Strukturen. **Peitek et al. (2021, ICSE):** **Textlänge** trainiert Aufmerksamkeit, **Vokabulargröße** (Anzahl unterschiedlicher Bezeichner) belastet das Arbeitsgedächtnis messbar.
 - **JHU 2025:** Neural-Recycling-Hypothese — Dieselben fronto-parietalen Neurone, die vor dem Kurs Algorithmus-Beschreibungen verarbeiteten, aktivieren danach auch beim Python-Lesen. Das Gehirn recycelt vorhandene Logik-Repräsentationen.
 
 ## Bezug zur IT-Ausbildung
@@ -71,7 +71,7 @@ Wenn eine Lehrkraft bereits mit CLT, Scaffolding und Subskill-Progression arbeit
 
 - Ivanova, A. A. et al. (2020). Comprehension of Computer Code Relies Primarily on Domain-General Executive Brain Regions. *eLife*, 9, e58906.
 - Liu, Y. et al. (2020). Computer Code Comprehension Shares Neural Resources with Formal Logical Inference in the Fronto-Parietal Network. *eLife*, 9, e59340.
-- Peitek, N. et al. (2021). Expert Programmers Have Fine-Tuned Cortical Representations of Source Code. *eNeuro*, 8(1).
+- Ikutani, Y., Kubo, T., Nishida, S., Hata, H., Matsumoto, K., Ikeda, K. & Nishimoto, S. (2021). Expert Programmers Have Fine-Tuned Cortical Representations of Source Code. *eNeuro*, 8(1), ENEURO.0405-20.2020. https://doi.org/10.1523/ENEURO.0405-20.2020
 - Peitek, N. et al. (2021). Program Comprehension and Code Complexity Metrics: An fMRI Study. *ICSE '21*, 524–536.
 - Siegmund, J. et al. (2014). Understanding Understanding Source Code with Functional Magnetic Resonance Imaging. *ICSE '14*, 378–389.
 - Dehaene, S. & Cohen, L. (2007). Cultural Recycling of Cortical Maps. *Neuron*, 56(2), 209–217.
