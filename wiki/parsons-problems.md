@@ -51,7 +51,7 @@ Dale Parsons und Patricia Haden (Otago Polytechnic) stellten das Format 2006 auf
 
 - **Denny, Luxton-Reilly & Simon (2008):** Parsons-Aufgaben erzeugen vergleichbare Lernergebnisse wie freies Schreiben, benötigen aber **signifikant weniger Zeit** und frustrieren weniger.
 - **Ericson, Denny, Prather et al. (2022):** Systematische Literaturrecherche über 47 Studien. Befund: Parsons Problems sind für Lernende *effizienter* — gleiche Lernwirkung bei ≈ halbem Zeitaufwand und niedrigerer cognitive load (gemessen per NASA-TLX und selbstberichteter Belastung).
-- **Morrison, Margulieux, Ericson & Guzdial (2016):** Parsons mit Distraktoren sind Schreibübungen *überlegen*, wenn der Lerneffekt auf strukturelles Verständnis abzielt.
+- **Morrison, Margulieux, Ericson & Guzdial (2016):** Subgoal-Labels (vorgegeben oder selbst generiert) verbessern das Lösen von Parsons-Aufgaben deutlich. Zusätzlich zeigt die Studie, dass Parsons-Probleme als *Assessment* sensitiver sind als reines Code-Schreiben — sie machen Teilwissen sichtbar, das beim Schreiben verborgen bleibt.
 
 ### Warum das funktioniert (Cognitive Load-Erklärung)
 
@@ -169,5 +169,5 @@ Ein Agent kann Parsons-Aufgaben automatisch generieren und adaptiv steuern:
 - Parsons, D. & Haden, P. (2006). Parsons' Programming Puzzles: A Fun and Effective Learning Tool for First Programming Courses. *Australasian Computing Education Conference (ACE)*, 157-163.
 - Denny, P., Luxton-Reilly, A. & Simon, B. (2008). Evaluating a New Exam Question: Parsons Problems. *ICER '08*, 113-124.
 - Morrison, B. B., Margulieux, L. E., Ericson, B. & Guzdial, M. (2016). Subgoals Help Students Solve Parsons Problems. *SIGCSE '16*, 42-47.
-- Ericson, B. J., Denny, P., Prather, J., Duran, R., Hellas, A., Leinonen, J., Miller, C. S., Morrison, B. B., Pearce, J. L. & Rodger, S. H. (2022). Parsons Problems and Beyond: Systematic Literature Review and Future Directions. *ITiCSE-WGR '22*, 191-234.
+- Ericson, B. J., Denny, P., Prather, J., Duran, R., Hellas, A., Leinonen, J., Miller, C. S., Morrison, B. B., Pearce, J. L. & Rodger, S. H. (2022). Parsons Problems and Beyond: Systematic Literature Review and Empirical Study Designs. *ITiCSE-WGR '22*, 191-234. https://doi.org/10.1145/3571785.3574127
 - Weinman, N., Fox, A. & Hearst, M. A. (2021). Improving Instruction of Programming Patterns with Faded Parsons Problems. *CHI '21*.

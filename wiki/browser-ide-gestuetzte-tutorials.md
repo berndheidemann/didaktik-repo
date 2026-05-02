@@ -34,7 +34,7 @@ summary: >
 
 Ein browser-IDE-gestütztes Tutorial ist ein **schrittweise geführtes Programmier-Lernformat**, bei dem Code direkt im Browser lauffähig ist — ohne dass Lernende lokal eine IDE installieren, eine Runtime einrichten oder Dependencies verwalten müssen. Der Lerner liest einen Schritt, sieht Code, verändert Parameter, sieht die Konsequenz live, geht zum nächsten Schritt. Die Eintrittshürde ist auf "Tab öffnen" reduziert, die didaktische Struktur bleibt narrativ geführt. Das ist kein neues Tool, sondern ein **Muster** — die Tools (TutorialKit, WebContainers, GitHub Codespaces, JetBrains Classroom, LabEx) sind austauschbare Implementierungen.
 
-Dieser Artikel beschreibt das didaktische Muster und benennt die aktuellen Tool-Optionen als Beispiele, nicht als Empfehlung. Der Wert liegt in der Kenntnis der Stärken und Schwächen des Formats — Tools werden volatil bleiben (siehe Replit Teams for Education, Ende 2024 eingestellt).
+Dieser Artikel beschreibt das didaktische Muster und benennt die aktuellen Tool-Optionen als Beispiele, nicht als Empfehlung. Der Wert liegt in der Kenntnis der Stärken und Schwächen des Formats — Tools werden volatil bleiben (siehe Replit Teams for Education, eingestellt am 1. August 2024).
 
 ## Beschreibung
 
@@ -78,7 +78,7 @@ Die folgende Tabelle ist **eine Momentaufnahme, kein Kaufkatalog**. Die Tools we
 |---|---|---|---|
 | **TutorialKit** (StackBlitz, Open Source, MIT) | Astro-basiertes Framework für interaktive Step-by-Step-Tutorials mit Editor/Terminal/Preview | Hohe Gestaltungskontrolle, Open Source | Praktisch nur JS/Node-Ökosystem; kein Python/Go/Java; keine eingebaute Antwort-Validierung |
 | **StackBlitz WebContainers** | Node.js nativ im Browser via WASM, Basis für TutorialKit | Keine Server-Kosten, lokale Ausführung im Tab | Nur JS/Node voll; Python experimentell (WASI, kein pip); Go/Java/C#/PHP nicht; 30 Tabs = 30× Client-RAM |
-| **GitHub Codespaces + devcontainer.json** | Echte Cloud-VM im Browser, beliebige Sprachen über devcontainer-Definition | Sprach-agnostisch (Python, Java, Go, C#, beliebige Toolchains); professioneller Workflow | Kostenpflichtig nach 180 Core-Hours/Monat für Studierende; Education-Kontingent für Lehrkräfte noch Preview; Zugriff kann an GitHub-Account scheitern |
+| **GitHub Codespaces + devcontainer.json** | Echte Cloud-VM im Browser, beliebige Sprachen über devcontainer-Definition | Sprach-agnostisch (Python, Java, Go, C#, beliebige Toolchains); professioneller Workflow | Kostenpflichtig nach 180 Core-Hours/Monat im Pro-Tier (Studierende erhalten Pro-Zugang via Student Developer Pack); GitHub-Education-Kontingente für Lehrkräfte sind produktiv (Global Campus + Classroom-Org-Quoten); Zugriff kann an GitHub-Account scheitern |
 | **GitHub Classroom + Codespaces** | Classroom-Assignments mit automatischem Codespace-Start pro Student | Bewertung via Autograding + menschliches Review; PR-Workflow übertragbar auf Berufsleben | Setup-Aufwand für Lehrkraft; US-Hosting (DSGVO-Prüfung nötig) |
 | **JetBrains Classroom / Academy / Hyperskill** | Projekt-basierter Lernpfad mit IDE-Integration (lokal oder Web) | Kostenlos für Schulen; breite Sprach-Abdeckung; Schritt-für-Schritt-Struktur mit automatischer Validierung | Lokale IDE-Installation häufig nötig; Premium-Features kostenpflichtig |
 | **LabEx Teams for Education** | Cloud-basierte Hands-on-Labs, verschiedene Sprachen und DevOps-Themen | Kostenlos bis 100 Nutzer; breite Themen | Jung, unklare Langzeit-Perspektive; nicht-deutschsprachig |

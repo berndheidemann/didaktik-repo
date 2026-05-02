@@ -148,6 +148,7 @@ function recordReview(exerciseId: string, correct: boolean): void {
 
 ## Quellen
 
-- Ye, J. (2022). *Free Spaced Repetition Scheduler (FSRS): A Memory Model for Spaced Repetition Algorithms*. https://github.com/open-spaced-repetition/fsrs4anki
+- Ye, J., Su, J. & Cao, Y. (2022). A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling. *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (KDD '22), 4381-4390. https://doi.org/10.1145/3534678.3539081
+- Open Spaced Repetition (laufend). *FSRS — Free Spaced Repetition Scheduler* (Open-Source-Implementierung, aktuell FSRS-5/6 als Anki-Stable-Default seit ~mid-2024). https://github.com/open-spaced-repetition/fsrs4anki
 - Lindsey, R. V., Shroyer, J. D., Pashler, H., & Mozer, M. C. (2014). Improving students' long-term knowledge retention through personalized review. *Psychological Science*, 25(3), 639-647.
 - Settles, B., & Meeder, B. (2016). A trainable spaced repetition model for language learning. *Proceedings of ACL 2016*, 1848-1858.
