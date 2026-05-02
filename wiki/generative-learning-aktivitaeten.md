@@ -47,13 +47,13 @@ Fiorella und Mayer (2016) systematisieren im *Educational Psychology Review*:
 
 | Strategie | Aktivität | Kernevidenz |
 |---|---|---|
-| **Summarizing** | Kernaussagen in eigenen Worten | Moderate Wirkung, nur nach Training (Dunlosky et al., 2013) |
+| **Summarizing** | Kernaussagen in eigenen Worten | Geringe Utility, nur mit Training wirksam (Dunlosky et al., 2013, LOW-utility-Klasse) |
 | **Mapping** | Concept/Knowledge Maps bauen | Besonders bei Eigenkonstruktion (Nesbit & Adesope, 2006) |
 | **Drawing** | Skizzen zu Text/Prozess | g = 0,69, 53 Studien, 8.111 Pers. (Fiorella & Zhang, 2018) |
 | **Imagining** | Mentales Bild erzeugen | Transfer-/Retentionsgewinne, stärker in First-Person (Leopold & Mayer, 2015) |
 | **Self-Testing** | Abrufen üben | Siehe [[retrieval-practice]] — top-wirksam |
 | **Self-Explaining** | Warum-Fragen beantworten | g = 0,55, 64 Studien, 6.000 Pers. (Bisra et al., 2018) |
-| **Teaching** | Anderen erklären | +16 % Retention durch Teaching-Expectancy (Fiorella & Mayer, 2013) — *Protégé-Effekt* |
+| **Teaching** | Anderen erklären | Tatsächliches Lehren > bloße Teaching-Expectancy für Retention; Expectancy verbessert nur Comprehension (Fiorella & Mayer, 2013) — *Protégé-Effekt* |
 | **Enacting** | Inhalt gestisch/körperlich | Vergleichbar zu Beobachtung (Oppici et al., 2023), wirksam bei prozeduralen Inhalten |
 
 Die Strategien sind nicht additiv — zu viele auf einmal überlasten. Sie sind **Werkzeuge zur Aktivierung spezifischer SOI-Prozesse**.
@@ -94,7 +94,7 @@ Für [[interaktive-lernumgebungen]] lassen sich die acht Strategien als **Widget
 
 **Orchestrierung als SOI-Sequenz:** Select (Input + Summarizing) → Organize (Mapping oder Drawing) → Integrate (Self-Explaining oder Teaching, Abschluss Self-Testing). Metakognitive Schlussfrage im [[lerntagebuch]]: *"Welche Phase war am schwierigsten und warum?"* — Brücke zu [[selbstgesteuertes-lernen]].
 
-**Grenzen:** GLA sind wirkungslos ohne Instructional Support (Modellierung, Prompts, Rubrics; Fiorella & Mayer, 2015). Bei Novizen kann zu frühes Generieren den [[worked-examples|Worked-Example-Effekt]] unterlaufen (Expertise-Reversal). Drawing eignet sich für räumlich-strukturelle, Teaching für konzeptuelle, Enacting für prozedurale Inhalte. Summarizing wirkt nur mit Training (Dunlosky et al., 2013).
+**Grenzen:** GLA sind wirkungslos ohne Instructional Support (Modellierung, Prompts, Rubrics; Fiorella & Mayer, 2015). Bei Novizen kann zu frühes Generieren den [[worked-examples|Worked-Example-Effekt]] unterlaufen (Expertise-Reversal). Drawing eignet sich für räumlich-strukturelle, Teaching für konzeptuelle, Enacting für prozedurale Inhalte. Summarizing ist in Dunlosky et al. (2013) als LOW-utility-Technik klassifiziert und wirkt nur mit explizitem Training.
 
 ## Verwandte Konzepte
 

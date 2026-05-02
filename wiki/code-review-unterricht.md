@@ -89,7 +89,7 @@ Für KI-unterstütztes Review (Rubric-Evaluator aus [[llm-integrationsmuster-ler
 
 - **Pull-Request-Workflow (GitHub Classroom):** Lehrkraft erstellt Template-Repos, Lernende forken und erstellen PRs. Autograding via GitHub Actions prüft Tests automatisch, menschliches Review fokussiert auf Design und Lesbarkeit.
 - **Mob/Ensemble Programming:** 3-5 Personen, ein Rechner. Driver tippt, Navigator gibt Anweisungen, Rest beobachtet. Rotation alle 5-10 Min. Besonders wirksam für Anfänger:innen und komplexes Debugging.
-- **Think-Pair-Share für Code:** (1) Individuell über Code-Problem nachdenken (2 Min.), (2) mit Partner besprechen (3 Min.), (3) im Plenum vorstellen. Verdoppelt die Lösungsquote bei Trace-Aufgaben (Simon & Cutts, 2012).
+- **Think-Pair-Share für Code:** (1) Individuell über Code-Problem nachdenken (2 Min.), (2) mit Partner besprechen (3 Min.), (3) im Plenum vorstellen. In CS1-Studien mit Peer Instruction halbierten sich die Durchfallquoten gegenüber Vorlesungs-Kohorten (Porter et al., 2013, SIGCSE). Methoden-Beschreibung in Simon & Cutts (2012, CACM-Opinion).
 - **Jigsaw (Gruppenpuzzle):** Jede Expertengruppe erarbeitet ein Design Pattern, dann wird in Stammgruppen zusammengetragen.
 
 ### Exkurs: Social Annotation — PR-Review ist die Code-Variante
@@ -145,6 +145,7 @@ Ein Agent kann Code Reviews unterstützen:
 - Hundhausen, C. D. et al. (2013). Talking About Code: Integrating Pedagogical Code Reviews into Early Computing Courses. ACM Transactions on Computing Education, 13(3), 1-28.
 - Luxton-Reilly, A. et al. (2018). Introductory Programming: A Systematic Literature Review. ITiCSE Working Group Report.
 - Simon, B. & Cutts, Q. (2012). Peer Instruction: A Teaching Method to Foster Deep Understanding. Communications of the ACM, 55(2), 27-29.
+- Porter, L., Bailey-Lee, C., & Simon, B. (2013). Halving Fail Rates Using Peer Instruction: A Study of Four Computer Science Courses. *SIGCSE '13*, 177-182. https://doi.org/10.1145/2445196.2445250
 - Hattie, J. & Timperley, H. (2007). The Power of Feedback. *Review of Educational Research*, 77(1), 81-112.
 - Zhu, X., Chen, B., Avadhanam, R. M., Shui, H., & Zhang, R. Z. (2020). Reading and connecting: Using social annotation in online classes — A systematic review of research. *Information and Learning Sciences*, 121(5/6), 261-271. https://doi.org/10.1108/ILS-04-2020-0117
 - Gomes de Oliveira Neto, F., & Dobslaw, F. (2024). Building Collaborative Learning: Exploring Social Annotation in Introductory Programming. *ICSE-SEET 2024*. arXiv:2407.10322.
