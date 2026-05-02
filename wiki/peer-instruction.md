@@ -127,3 +127,4 @@ Ein Agent kann Peer Instruction unterstützen:
 - Porter, L. et al. (2013). Halving Fail Rates Using Peer Instruction: A Study of Four Computer Science Courses. Proceedings of ACM SIGCSE 2013, 177-182.
 - Zingaro, D. & Porter, L. (2014). Peer Instruction in Computing: The Value of Instructor Intervention. Computers & Education, 71, 87-96.
 - Simon, B. et al. (2010). Experience Report: Peer Instruction in Introductory Computing. Proceedings of ACM SIGCSE 2010.
+- Ruiz de Miras, J., Balsas-Almagro, J. R. & García-Fernández, Á. L. (2022). On the use of Flipped Classroom and Peer Instruction in a Computer Architecture and Engineering course. *Computer Applications in Engineering Education*, 30, 133-145. https://doi.org/10.1002/cae.22447

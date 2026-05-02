@@ -110,3 +110,4 @@ Ein Agent kann Flipped Classroom unterstützen:
 - Hew, K. F. & Lo, C. K. (2018). Flipped Classroom Improves Student Learning in Health Professions Education: A Meta-Analysis. BMC Medical Education, 18(1), Article 38.
 - Låg, T. & Sæle, R. G. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open, 5(3), 1-17.
 - Van Alten, D. C. D. et al. (2019). Effects of Flipping the Classroom on Learning Outcomes and Satisfaction: A Meta-Analysis. Educational Research Review, 28, Article 100281.
+- Ruiz de Miras, J., Balsas-Almagro, J. R. & García-Fernández, Á. L. (2022). On the use of Flipped Classroom and Peer Instruction in a Computer Architecture and Engineering course. *Computer Applications in Engineering Education*, 30, 133-145. https://doi.org/10.1002/cae.22447
