@@ -138,5 +138,5 @@ Ein Agent kann Retrieval Practice systematisch integrieren:
 - Roediger, H. L. & Karpicke, J. D. (2006). Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention. Psychological Science, 17(3), 249-255.
 - Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052.
 - Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the Use of Tests: A Meta-Analysis of Practice Testing. *Review of Educational Research, 87*(3), 659–701.
-- Bjork, R. A. & Bjork, E. L. (2011). Making Things Hard on Yourself, But in a Good Way. In M. A. Gernsbacher et al. (Hrsg.), Psychology and the Real World (S. 56-64). Worth.
+- Bjork, E. L. & Bjork, R. A. (2011). Making Things Hard on Yourself, But in a Good Way: Creating Desirable Difficulties to Enhance Learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough & J. R. Pomerantz (Hrsg.), Psychology and the Real World (S. 56-64). Worth.
 - Settles, B. & Meeder, B. (2016). A Trainable Spaced Repetition Model for Language Learning. Proceedings of ACL 2016.

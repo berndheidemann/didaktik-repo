@@ -121,6 +121,6 @@ Ein Agent kann Desirable Difficulties systematisch einbauen:
 - Kapur, M. & Bielaczyc, K. (2012). Designing for Productive Failure. Journal of the Learning Sciences, 21(1), 45-83.
 - Loibl, K., Roll, I. & Rummel, N. (2017). Towards a Theory of When and How Problem Solving Followed by Instruction Supports Learning. Educational Psychology Review, 29, 693-715.
 - Sinha, T. & Kapur, M. (2021). When Problem Solving Followed by Instruction Works: Evidence for Productive Failure. Review of Educational Research, 91(6), 823-861.
-- Bjork, R. A. & Bjork, E. L. (2011). Making Things Hard on Yourself, But in a Good Way. In M. A. Gernsbacher et al. (Hrsg.), Psychology and the Real World (S. 56-64). Worth.
+- Bjork, E. L. & Bjork, R. A. (2011). Making Things Hard on Yourself, But in a Good Way: Creating Desirable Difficulties to Enhance Learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough & J. R. Pomerantz (Hrsg.), Psychology and the Real World (S. 56-64). Worth.
 - Roediger, H. L. & Karpicke, J. D. (2006). Test-Enhanced Learning. Psychological Science, 17(3), 249-255.
 - Hiebert, J. & Grouws, D. A. (2007). The effects of classroom mathematics teaching on students' learning. In F. K. Lester (Hrsg.), Second Handbook of Research on Mathematics Teaching and Learning (S. 371-404). NCTM.
