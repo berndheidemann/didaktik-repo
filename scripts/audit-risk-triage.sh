@@ -81,6 +81,12 @@ ALREADY_AUDITED[differenzierung-inklusion.md]=1
 ALREADY_AUDITED[subgoal-labeling.md]=1
 ALREADY_AUDITED[explorable-explanations-im-unterricht.md]=1
 ALREADY_AUDITED[code-review-unterricht.md]=1
+# v3 Welle 9 (2026-05-02) — Pattern-Heuristik-Sweep: WE/Scaffolding/ICAP/Multimedia/PI
+ALREADY_AUDITED[worked-examples.md]=1
+ALREADY_AUDITED[scaffolding.md]=1
+ALREADY_AUDITED[icap-framework.md]=1
+ALREADY_AUDITED[multimedia-gestaltungsprinzipien.md]=1
+ALREADY_AUDITED[peer-instruction.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
