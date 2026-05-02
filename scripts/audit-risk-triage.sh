@@ -69,6 +69,12 @@ ALREADY_AUDITED[evaluation-lernumgebungen.md]=1
 ALREADY_AUDITED[interactive-fiction-twine.md]=1
 ALREADY_AUDITED[ki-gestuetztes-tutoring.md]=1
 ALREADY_AUDITED[belonging-interventionen.md]=1
+# v3 Welle 7 (2026-05-02) — Imposter/CTA/Aktivierung/Abschluss/FA
+ALREADY_AUDITED[imposter-phaenomen-it-azubis.md]=1
+ALREADY_AUDITED[cognitive-task-analysis.md]=1
+ALREADY_AUDITED[aktivierung-lehrervortrag.md]=1
+ALREADY_AUDITED[abschlussprojekt-begleitung.md]=1
+ALREADY_AUDITED[formatives-assessment.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
