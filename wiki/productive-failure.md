@@ -86,7 +86,7 @@ Robert und Elizabeth Bjork identifizieren vier Bedingungen, die Lernen kurzfrist
 | **Retrieval Practice** | Aktives Abrufen statt Wiederlesen | "Was gibt dieser Code aus?" bevor man ihn ausführt |
 | **Generation** | Selbst generieren statt vorgefertigt lesen | Pseudocode schreiben bevor die Lösung gezeigt wird |
 
-**Evidenz:** Leppink et al. (2023) zeigten 40% bessere Retention bei verteilter SQL-Übung. Tafliovich et al. (2023) fanden signifikant bessere CS1-Prüfungsleistungen mit interleaved Practice. Yang et al. (2024) berichten ~15% bessere Klausurergebnisse durch Low-Stakes-Code-Tracing-Quizzes. Parsons Problems funktionieren als Retrieval Practice mit niedrigerer kognitiver Last als freies Schreiben.
+**Evidenz:** Spacing, Interleaving und Retrieval Practice gehören zu den am besten belegten Lernstrategien überhaupt (Dunlosky et al. 2013 stufen Practice Testing und Distributed Practice als HIGH-utility ein). Übertragen auf CS-Kontexte fungieren Parsons Problems als Retrieval Practice mit niedrigerer kognitiver Last als freies Schreiben — siehe [[retrieval-practice]], [[interleaving]] und [[parsons-problems]] für die genauen Effektstärken aus den Primärstudien.
 
 ## Bezug zur IT-Ausbildung
 

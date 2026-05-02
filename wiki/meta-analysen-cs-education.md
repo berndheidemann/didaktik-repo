@@ -50,7 +50,7 @@ Primär Hochschul-CS1/CS2-Kurse in USA, Europa und Australien. Wenige Studien au
 | **Margulieux et al. (2020)** | Worked Examples + Subgoals | CS1-Semesterkurs | Geringere Durchfall-/Dropout-Quoten, reduzierte Varianz; differenzierte Effekte je Quiz/Exam | Mittel (Quasi-Experiment) |
 | **Låg & Sæle (2019)** | Flipped Classroom | 272 | d=0,35 (sinkt bei Qualitätsfilter) | Mittel — Publication Bias |
 | **Sailer & Homner (2020)** | Gamification | 38 | d=0,49 (kognitiv), d=0,36 (motivational) | Mittel |
-| **Becker et al. (2023)** | KI in CS Education | Survey | Keine Effektstärken (zu früh) | Niedrig (Positionspapier) |
+| **Denny et al. (2024)** | KI in CS Education | Übersichts-Artikel CACM | Keine Effektstärken (zu früh) | Niedrig (Praxisorientierte Übersicht) |
 
 ### Was *tatsächlich* stark wirkt
 
@@ -80,7 +80,7 @@ Primär Hochschul-CS1/CS2-Kurse in USA, Europa und Australien. Wenige Studien au
 - **Globale Durchfallquote ~33%:** Bemerkenswert stabil über Institutionen und Länder — das Problem ist real und persistent.
 - **Berufsbildungslücke:** Fast alle Studien stammen aus Hochschulen. Direkte Evidenz für Berufsschulklassen fehlt.
 - **Publication Bias:** Positive Ergebnisse werden häufiger publiziert. Tatsächliche Effekte sind wahrscheinlich kleiner.
-- **KI-Evidenz fehlt noch:** Becker et al. (2023) konnten nur dokumentieren, nicht evaluieren. Die Forschung hinkt der Praxis hinterher.
+- **KI-Evidenz fehlt noch:** Denny et al. (2024) konnten in ihrer CACM-Übersicht nur dokumentieren, nicht evaluieren. Die Forschung hinkt der Praxis hinterher.
 
 ## Bezug zur IT-Ausbildung
 
@@ -114,3 +114,6 @@ Ein Agent kann Meta-Analysen-Wissen nutzen:
 - Låg, T. & Sæle, R. G. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? AERA Open, 5(3), 1-17.
 - Sailer, M. & Homner, L. (2020). The Gamification of Learning: A Meta-Analysis. Educational Psychology Review, 32, 77-112.
 - Luxton-Reilly, A. et al. (2018). Introductory Programming: A Systematic Literature Review. ITiCSE Working Group Report.
+- Margulieux, L. E., Morrison, B. B. & Decker, A. (2020). Reducing Withdrawal and Failure Rates in Introductory Programming with Subgoal Labeled Worked Examples. *International Journal of STEM Education*, 7, Article 19.
+- Zingaro, D. & Porter, L. (2014). Peer Instruction in Computing: The Value of Instructor Intervention. *Computers & Education*, 71, 87-96.
+- Denny, P., Prather, J., Becker, B. A., Finnie-Ansley, J., Hellas, A., Leinonen, J., Luxton-Reilly, A., Reeves, B. N., Santos, E. A. & Sarsa, S. (2024). Computing Education in the Era of Generative AI. *Communications of the ACM*, 67(2), 56-67. https://doi.org/10.1145/3624720

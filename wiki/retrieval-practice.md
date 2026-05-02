@@ -54,7 +54,7 @@ Retrieval Practice nutzt den Testing Effect (Roediger & Karpicke, 2006): Aktives
 
 ### Der Testing Effect
 
-Roediger & Karpicke (2006) zeigten: Studierende, die getestet wurden, behielten nach einer Woche signifikant mehr als Studierende, die den Stoff erneut studierten. Das gilt auch für Programmierung — Yang et al. (2024) fanden ~15% bessere Klausurergebnisse durch Low-Stakes-Code-Tracing-Quizzes vor jeder Einheit.
+Roediger & Karpicke (2006) zeigten: Studierende, die getestet wurden, behielten nach einer Woche signifikant mehr als Studierende, die den Stoff erneut studierten. Übertragen auf Programmierung sind Code-Tracing-Quizzes und Parsons Problems naheliegende Retrieval-Formate — die spezifischen Effektgrößen für CS-Kontexte sind heterogen und kontextabhängig (siehe [[meta-analysen-cs-education]]).
 
 ### Spaced Repetition
 
