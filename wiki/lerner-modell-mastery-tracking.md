@@ -108,7 +108,7 @@ function updateBKT(pKnown: number, correct: boolean, kc: BKTParams): number {
 }
 ```
 
-Standard-Startwerte (Corbett & Anderson 1995): `P_init=0.3, P_transit=0.1, P_slip=0.1, P_guess=0.2`. Tunen erst, wenn ≥ 50 Lerner historische Daten geliefert haben — sonst sind Defaults so gut wie geschätzte. Pelánek (2017) zeigt: BKT ist meist nur marginal besser als logistische Baselines. **Nicht erste Wahl für Solo-Devs.**
+Übliche Default-Startwerte (z. B. nach pyBKT-Konvention): `P_init=0.3, P_transit=0.1, P_slip=0.1, P_guess=0.2`. Corbett & Anderson (1995) selbst fitten Parameter pro Production-Rule am LISP-Tutor und geben keine universellen Defaults — die Werte hier sind Implementierungs-Heuristik. Tunen erst, wenn ≥ 50 Lerner historische Daten geliefert haben — sonst sind Defaults so gut wie geschätzte. Pelánek (2017) findet: der Vorteil von BKT gegenüber logistischen Baselines ist domain-abhängig und insgesamt klein. **Nicht erste Wahl für Solo-Devs.**
 
 ### Spaced Repetition Integration
 

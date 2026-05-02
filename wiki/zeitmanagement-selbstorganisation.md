@@ -185,7 +185,7 @@ Setup initial: 1-2 h für Personal Kanban, Pomodoro-Timer, Kalender-Blöcke. Lau
 ## Quellen
 
 - Allen, D. (2015). *Getting Things Done: The Art of Stress-Free Productivity* (Rev. ed.). Penguin.
-- Benson, J., & Barry, T. (2011). *Personal Kanban: Mapping Work, Navigating Life*. Modus Cooperandi Press.
+- Benson, J., & DeMaria Barry, T. (2011). *Personal Kanban: Mapping Work, Navigating Life*. Modus Cooperandi Press.
 - Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the "planning fallacy": Why people underestimate their task completion times. *Journal of Personality and Social Psychology*, 67(3), 366-381.
 - Cirillo, F. (2018). *The Pomodoro Technique*. Virgin Books.
 - Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist*, 54(7), 493-503.
@@ -195,4 +195,4 @@ Setup initial: 1-2 h für Personal Kanban, Pomodoro-Timer, Kalender-Blöcke. Lau
 - Mark, G., Gudith, D., & Klocke, U. (2008). The cost of interrupted work: More speed and stress. *Proceedings of CHI 2008*, 107-110. https://doi.org/10.1145/1357054.1357072
 - Newport, C. (2016). *Deep Work: Rules for Focused Success in a Distracted World*. Grand Central.
 - Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. *Psychological Bulletin*, 133(1), 65-94.
-- Parkinson, C. N. (1955). Parkinson's Law. *The Economist* (19. November 1955); Buchfassung: *Parkinson's Law: The Pursuit of Progress* (1958, John Murray).
+- Parkinson, C. N. (1955). Parkinson's Law. *The Economist* (19. November 1955); Buchfassung: *Parkinson's Law and Other Studies in Administration* (1957, Houghton Mifflin, US) bzw. *Parkinson's Law: The Pursuit of Progress* (1958, John Murray, UK).

@@ -68,8 +68,8 @@ Jede Komponente verlangt eine eigene Vorbereitungsstrategie.
 
 | Strategie | Evidenz | Aufwand | Wann |
 |---|---|---|---|
-| **Retrieval Practice mit Alt-Prüfungen** | Roediger & Karpicke 2006, d ≈ 0,50–0,80 | 45-60 Min / 2x pro Woche | Ab 8 Wochen vor Prüfung |
-| **Spacing / verteiltes Lernen** | Cepeda et al. 2008: Cramming verliert 50% in 7 Tagen | 20 Min täglich > 2h wöchentlich | Ab Ausbildungsbeginn ideal; min. 6 Wochen vorher |
+| **Retrieval Practice mit Alt-Prüfungen** | Roediger & Karpicke 2006: 17-21 PP mehr Recall nach 1 Woche; Meta-Analyse Rowland 2014 d ≈ 0,50 | 45-60 Min / 2x pro Woche | Ab 8 Wochen vor Prüfung |
+| **Spacing / verteiltes Lernen** | Cepeda et al. 2008: massiertes Lernen führt zu deutlich schnellerem Vergessen | 20 Min täglich > 2h wöchentlich | Ab Ausbildungsbeginn ideal; min. 6 Wochen vorher |
 | **Interleaved Practice** (Lernfelder mischen) | Rohrer & Taylor 2007, Interleaving-Vorteile bei Transferaufgaben | 30-45 Min / Session | Letzte 4 Wochen |
 | **Elaborative Interrogation** ("Warum?") | Dunlosky et al. 2013 "moderat wirksam" | +2 Min pro Aufgabe | Parallel zu Retrieval |
 | **Parsons Problems / Code-Tracing** | Ericson et al. 2022, weniger CLT | 10-15 Min täglich | Für FIAE schriftlich |
@@ -164,7 +164,7 @@ Ein Agent oder eine Lehrkraft kann den Prozess unterstützen:
 
 ## Häufige Fehler
 
-- **Cramming in der letzten Woche** — verliert in 7 Tagen 50% (Cepeda et al. 2008).
+- **Cramming in der letzten Woche** — massiertes Lernen wird deutlich schneller vergessen als verteiltes (Spacing-Effekt, Cepeda et al. 2008).
 - **Nur Alt-Prüfungen lösen** — ohne Retrieval aus dem Gedächtnis, Lösung sofort nachschauen → kein Lerneffekt.
 - **Highlighter als Hauptstrategie** — belegt wirkungsarm, fühlt sich aber produktiv an.
 - **Prüfungsangst verdrängen** — verstärkt sie. Expressive Writing ist effektiver als "Nicht dran denken".
@@ -197,4 +197,8 @@ Ein Agent oder eine Lehrkraft kann den Prozess unterstützen:
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest*, 14(1), 4-58.
 - Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), *Psychology and the Real World: Essays Illustrating Fundamental Contributions to Society* (pp. 56-64). Worth Publishers.
 - Jamieson, J. P., Peters, B. J., Greenwood, E. J., & Altose, A. J. (2016). Reappraising stress arousal improves performance and reduces evaluation anxiety in classroom exam situations. *Social Psychological and Personality Science*, 7(6), 579-587. https://doi.org/10.1177/1948550616644656
+- Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science*, 19(11), 1095-1102. https://doi.org/10.1111/j.1467-9280.2008.02209.x
+- Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. *Psychological Bulletin*, 140(6), 1432-1463. https://doi.org/10.1037/a0037559
+- Ericson, B. J., Denny, P., Prather, J., Duran, R., Hellas, A., Leinonen, J., Miller, C. S., Morrison, B. B., Pearce, J. L., & Rodger, S. H. (2022). Parsons Problems and Beyond: Systematic Literature Review and Empirical Study Designs. *Proceedings of the 2022 Working Group Reports on Innovation and Technology in Computer Science Education* (ITiCSE-WGR 2022), 191-234. https://doi.org/10.1145/3571785.3574127
+- Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science*, 18(3), 439-477. https://doi.org/10.1207/s15516709cog1803_3
 - Verordnung über die Berufsausbildung zum Fachinformatiker/zur Fachinformatikerin (2020). Bundesgesetzblatt Teil I.
