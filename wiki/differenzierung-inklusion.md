@@ -177,7 +177,7 @@ In der deutschen Schulrealität ist "Inklusion" oft faktisch Integration. UDL un
 
 ## Quellen
 
-- CAST (2018). *Universal Design for Learning Guidelines version 2.2*. http://udlguidelines.cast.org
+- CAST (2018, aktualisiert 2024 auf v3.0). *Universal Design for Learning Guidelines* (im Wiki referenziert in Version 2.2; aktuelle Version 3.0 seit 2024). https://udlguidelines.cast.org
 - Meyer, A., Rose, D. H., & Gordon, D. (2014). *Universal Design for Learning: Theory and Practice*. CAST Professional Publishing.
 - Tomlinson, C. A. (2017). *How to Differentiate Instruction in Academically Diverse Classrooms* (3rd ed.). ASCD.
 - Baron-Cohen, S., Wheelwright, S., Skinner, R., Martin, J., & Clubley, E. (2001). The Autism-Spectrum Quotient (AQ). *Journal of Autism and Developmental Disorders*, 31(1), 5-17.

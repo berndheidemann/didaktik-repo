@@ -33,7 +33,7 @@ summary: >
 
 ## Kernidee
 
-Die Frage "Welches KI-Tool soll ich im Unterricht einsetzen?" hat keine einzige richtige Antwort — sie hat eine strukturierte, die von **wenigen Entscheidungskriterien** abhängt: DSGVO-Verantwortlichkeit, pädagogische Kontrolle, Alter der Lerner:innen, Betriebs-Sensibilität der Ausbildungspartner und Wartungsaufwand. Dieser Artikel liefert das Entscheidungsraster, nicht die Tool-Liste — Produkte kommen und gehen (Replit Teams for Education wurde 2024 eingestellt, telli ging Ende 2025 live, Landeslizenzen ändern sich halbjährlich), aber die Kriterien bleiben. Wer die Rubrics kennt, kann auch 2028 oder 2030 eine belastbare Tool-Entscheidung treffen.
+Die Frage "Welches KI-Tool soll ich im Unterricht einsetzen?" hat keine einzige richtige Antwort — sie hat eine strukturierte, die von **wenigen Entscheidungskriterien** abhängt: DSGVO-Verantwortlichkeit, pädagogische Kontrolle, Alter der Lerner:innen, Betriebs-Sensibilität der Ausbildungspartner und Wartungsaufwand. Dieser Artikel liefert das Entscheidungsraster, nicht die Tool-Liste — Produkte kommen und gehen (Replit Teams for Education wurde am 1. August 2024 eingestellt, telli ging Ende 2025 live, Landeslizenzen ändern sich halbjährlich), aber die Kriterien bleiben. Wer die Rubrics kennt, kann auch 2028 oder 2030 eine belastbare Tool-Entscheidung treffen.
 
 Dieser Artikel **ergänzt und doppelt nicht** [[datenschutz-lernumgebungen]] — dort liegt die rechtliche Grundlage, hier die Werkzeugauswahl auf Basis dieser Grundlage.
 
@@ -103,7 +103,7 @@ Wer betreut das Tool nach dem ersten Einsatz? Eigenbau braucht laufende Pflege �
 - **Landes-Chatbots**: In der Regel kostenfrei für die Schule, wenn Landeslizenz existiert.
 - **fobizz ohne Landeslizenz**: Schul- oder Lehrkraft-Abo, Preise pro Nutzer.
 - **Kommerzielle APIs**: Pay-per-Use; für eine einzelne Klasse über ein Semester oft unter 50 Euro, für Klassen-übergreifende Projekte schnell darüber.
-- **GitHub Codespaces**: 180 Core-Hours pro Student/Monat kostenfrei, aber nur mit verifiziertem Student Developer Pack. Für Lehrkraft-Nutzung separate Regelung (Education-Kontingent, Public Preview).
+- **GitHub Codespaces**: 180 Core-Hours pro Pro-Account/Monat (Studierende erhalten Pro-Zugang via Student Developer Pack). Für Lehrkraft-Nutzung sind GitHub-Education-Kontingente (Global Campus + Classroom-Org-Quoten) seit Jahren produktiv.
 
 **7. Pädagogische Passung zum Lernziel**
 
