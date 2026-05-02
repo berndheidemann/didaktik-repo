@@ -44,7 +44,7 @@ Use-Modify-Create (UMC) ist eine dreistufige Progression: Lernende *nutzen* fert
 
 Lee et al. (2011) prägten UMC im Rahmen der NSF-ITEST-Initiative. Die Progression beruht auf der Beobachtung, dass viele Lernende direkt vom Konsumieren zum Erschaffen springen sollen — und scheitern, weil die mittlere Stufe (Modify) fehlt. UMC ist verwandt mit [[primm-methode]] (gleiche Idee, andere Granularität) und mit [[scaffolding]] (Fading durch Stufen).
 
-Lytle et al. (2019) verglichen drei Lesson-Progressionen (UMC, Use→Create, direkte Create) und fanden: UMC führte zu signifikant höherem Verständnis und niedrigerer Frustration. Die mittlere Modify-Stufe ist der entscheidende Hebel.
+Lytle et al. (2019) verglichen UMC mit einer Kontrollbedingung in STEM-Klassen und fanden: UMC führte zu **niedrigerer wahrgenommener Aufgabenschwierigkeit** und **stärkerem Artefakt-Ownership** bei Schüler:innen wie Lehrkräften. Die mittlere Modify-Stufe ist der entscheidende Hebel.
 
 ## Durchführung
 
@@ -135,4 +135,4 @@ Ein Agent kann UMC als generische Aufgabenstruktur nutzen:
 
 - Lee, I., Martin, F., Denner, J., Coulter, B., Allan, W., Erickson, J., Malyn-Smith, J. & Werner, L. (2011). Computational thinking for youth in practice. ACM Inroads, 2(1), 32-37.
 - Lytle, N., Cateté, V., Boulden, D., Dong, Y., Houchins, J., Milliken, A., Isvik, A., Bounajim, D., Wiebe, E. & Barnes, T. (2019). Use, Modify, Create: Comparing computational thinking lesson progressions for STEM classes. Proceedings of ITiCSE 2019, 395-401.
-- Franklin, D., Skifstad, G., Rolock, R., Mehrotra, I., Ding, V., Hansen, A., Weintrop, D. & Harlow, D. (2020). Using Upper-Elementary Student Performance to Understand Conceptual Sequencing in a Blocks-based Curriculum. Proceedings of SIGCSE 2020.
+- Franklin, D., Skifstad, G., Rolock, R., Mehrotra, I., Ding, V., Hansen, A., Weintrop, D. & Harlow, D. (2017). Using Upper-Elementary Student Performance to Understand Conceptual Sequencing in a Blocks-based Curriculum. *Proceedings of SIGCSE 2017*, 231-236. https://doi.org/10.1145/3017680.3017760

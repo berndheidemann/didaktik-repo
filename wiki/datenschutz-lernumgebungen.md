@@ -178,6 +178,6 @@ Dieser Artikel schließt den ironischen Kreis: Wer eine DSGVO-Lernumgebung baut,
 - Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder (DSK) (2024). *Orientierungshilfe: Künstliche Intelligenz und Datenschutz*.
 - EuGH (2020). Urteil C-311/18 (Schrems II).
 - EU-Kommission (2023). Durchführungsbeschluss (EU) 2023/1795 zum EU-US Data Privacy Framework.
-- Bayerischer Landesbeauftragter für den Datenschutz (2024). *Orientierungshilfe: Datenschutz an Schulen in Bayern*.
-- Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) (2023). *Tätigkeitsbericht zum Bildungssektor*.
+- Bayerischer Landesbeauftragter für den Datenschutz (BayLfD). *Datenschutz an bayerischen öffentlichen Schulen — Fragen und Antworten* (FAQ, fortlaufend gepflegt). https://www.datenschutz-bayern.de/datenschutzreform2018/FAQ_Schulen.pdf
+- Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) (2024). *32. Tätigkeitsbericht 2023*. https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Taetigkeitsberichte/32TB_23.html
 - Hoofnagle, C. J., van der Sloot, B., & Borgesius, F. Z. (2019). The European Union General Data Protection Regulation: What it is and what it means. *Information & Communications Technology Law*, 28(1), 65-98.

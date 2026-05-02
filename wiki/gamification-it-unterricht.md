@@ -118,4 +118,4 @@ Ein Agent kann Gamification-Elemente in [[interaktive-lernumgebungen]] integrier
 
 - Sailer, M. & Homner, L. (2020). The Gamification of Learning: A Meta-Analysis. Educational Psychology Review, 32, 77-112.
 - Dichev, C. & Dicheva, D. (2017). Gamifying Education: What Is Known, What Is Believed and What Remains Uncertain. International Journal of Educational Technology in Higher Education, 14, Article 9.
-- López-Pernas, S. et al. (2019). Escaping from the Classroom: Educational Escape Rooms in CS. Proceedings of FIE 2019.
+- López-Pernas, S., Gordillo, A., Barra, E. & Quemada, J. (2019). Examining the Use of an Educational Escape Room for Teaching Programming in a Higher Education Setting. *IEEE Access*, 7, 31723-31737. https://doi.org/10.1109/ACCESS.2019.2902976
