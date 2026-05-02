@@ -75,6 +75,12 @@ ALREADY_AUDITED[cognitive-task-analysis.md]=1
 ALREADY_AUDITED[aktivierung-lehrervortrag.md]=1
 ALREADY_AUDITED[abschlussprojekt-begleitung.md]=1
 ALREADY_AUDITED[formatives-assessment.md]=1
+# v3 Welle 8 (2026-05-02) — GLA/Differenzierung/Subgoal/Explorables/Code-Review
+ALREADY_AUDITED[generative-learning-aktivitaeten.md]=1
+ALREADY_AUDITED[differenzierung-inklusion.md]=1
+ALREADY_AUDITED[subgoal-labeling.md]=1
+ALREADY_AUDITED[explorable-explanations-im-unterricht.md]=1
+ALREADY_AUDITED[code-review-unterricht.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
