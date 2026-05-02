@@ -60,7 +60,7 @@ related:
   - "[[explain-in-plain-english]]"
   - "[[ki-nutzungsregeln-unterricht]]"
   - "[[ki-integritaet-pruefungsleistung]]"
-evidenzgrad: meta-analyse
+evidenzgrad: praxisbericht
 audience: [FIAE, FIDP]
 taxonomiestufe: [anwenden, analysieren, bewerten]
 sozialform: [einzelarbeit, partner, gruppe, plenum]
@@ -68,15 +68,17 @@ created: 2026-04-07
 updated: 2026-04-07
 summary: >
   Assessment FOR Learning: Lernstandsinformationen während des Unterrichts
-  erheben und nutzen, um Lernen zu verbessern — mit Effektstärken von
-  d = 0,4-0,7 eine der wirksamsten Interventionen überhaupt (Black & Wiliam, 1998).
+  erheben und nutzen, um Lernen zu verbessern. Black & Wiliams narrative
+  Synthese (1998) bündelt Effektstärken d = 0,4-0,7; spätere Meta-Analysen
+  (Kingston & Nash 2011) finden mit d ≈ 0,2-0,3 kleinere, aber konsistent
+  positive mittlere Effekte — eine der wirksamsten Interventionsklassen.
 ---
 
 # Formatives Assessment
 
 ## Kernidee
 
-Formatives Assessment erhebt Informationen über den Lernstand während des Lernprozesses und nutzt sie, um Unterricht und Lernen anzupassen. Im Gegensatz zu summativem Assessment (Klausur, IHK-Prüfung) geht es nicht um Bewertung, sondern um Verbesserung. Black & Wiliam (1998) zeigten Effektstärken von d = 0,4-0,7 — besonders leistungsschwächere Lernende profitieren.
+Formatives Assessment erhebt Informationen über den Lernstand während des Lernprozesses und nutzt sie, um Unterricht und Lernen anzupassen. Im Gegensatz zu summativem Assessment (Klausur, IHK-Prüfung) geht es nicht um Bewertung, sondern um Verbesserung. Black & Wiliam (1998) bündelten in einer narrativen Synthese aus rund 250 Studien Effektstärken von d = 0,4–0,7 — besonders leistungsschwächere Lernende profitieren. Spätere Meta-Analysen (z. B. Kingston & Nash, 2011, d ≈ 0,20–0,30) finden deutlich kleinere mittlere Effekte; die Wirkrichtung bleibt aber positiv und FA gilt nach wie vor als eine der wirksamsten Interventionsklassen.
 
 ## Beschreibung
 
@@ -183,5 +185,6 @@ Ein Agent kann formatives Assessment in Echtzeit umsetzen:
 
 - Black, P. & Wiliam, D. (1998). Assessment and Classroom Learning. Assessment in Education, 5(1), 7-74.
 - Black, P. & Wiliam, D. (1998). Inside the Black Box: Raising Standards Through Classroom Assessment. Phi Delta Kappan, 80(2), 139-148.
+- Kingston, N. & Nash, B. (2011). Formative Assessment: A Meta-Analysis and a Call for Research. *Educational Measurement: Issues and Practice, 30*(4), 28-37. https://doi.org/10.1111/j.1745-3992.2011.00220.x
 - Hattie, J. & Timperley, H. (2007). The Power of Feedback. Review of Educational Research, 77(1), 81-112.
 - Wiliam, D. (2011). Embedded Formative Assessment. Solution Tree Press.

@@ -144,7 +144,7 @@ Die Cognitive Demands Table wird zum Ausgangspunkt für drei Produkte: [[worked-
 
 ## Quellen
 
-- Clark, R. E., Feldon, D., van Merriënboer, J. J. G., Yates, K. & Early, S. (2008). Cognitive task analysis. In J. M. Spector et al. (Hrsg.), *Handbook of Research on Educational Communications and Technology* (3. Aufl., S. 577–593). Macmillan/Gale.
+- Clark, R. E., Feldon, D., van Merriënboer, J. J. G., Yates, K. & Early, S. (2008). Cognitive task analysis. In J. M. Spector, M. D. Merrill, J. J. G. van Merriënboer & M. P. Driscoll (Hrsg.), *Handbook of Research on Educational Communications and Technology* (3. Aufl., S. 577–593). Routledge / AECT. https://doi.org/10.4324/9780203880869-48
 - Tofel-Grehl, C. & Feldon, D. F. (2013). Cognitive task analysis-based training: A meta-analysis of studies. *Journal of Cognitive Engineering and Decision Making, 7*(3), 293–304.
 - Militello, L. G. & Hutton, R. J. B. (1998). Applied cognitive task analysis (ACTA). *Ergonomics, 41*(11), 1618–1641.
 - Nathan, M. J. & Petrosino, A. (2003). Expert blind spot among preservice teachers. *American Educational Research Journal, 40*(4), 905–928.

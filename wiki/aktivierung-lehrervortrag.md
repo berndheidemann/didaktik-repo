@@ -92,7 +92,7 @@ Ein durchgehender Lehrervortrag ist kognitiv passiv: Lernende hören zu, kodiere
 ## Pause Procedure (Rahmenprinzip)
 
 - **Primärquelle:** Ruhl, K. L., Hughes, C. A., & Schloss, P. J. (1987). Using the Pause Procedure to Enhance Lecture Recall. *Teacher Education and Special Education*, 10(1), 14–18.
-- **Studiendesign:** 2×2-ANOVA, 72 Studierende, über zwei Semester. Experimentalgruppe: drei 2-minütige Pausen an logischen Bruchstellen eines 45-Min.-Vortrags; Studierende tauschen in Pausen Notizen aus. Kontrollgruppe: Standardvortrag.
+- **Studiendesign:** 2×2-ANOVA, 72 Studierende, über zwei Semester. Experimentalgruppe: drei 2-minütige Pausen an logischen Bruchstellen eines 45-Min.-Vortrags; Studierende diskutieren in Paaren und überarbeiten ihre Notizen. Kontrollgruppe: Standardvortrag.
 - **Ergebnis:** Experimentalgruppe signifikant höher bei freiem Abruf und Objektivtest. Replikation 1990 (Ruhl, Hughes & Gajar) bestätigt. **Das ist die empirische Kernrechtfertigung für eingestreute Aktivierungspausen überhaupt.**
 
 ## Evidenz-Block

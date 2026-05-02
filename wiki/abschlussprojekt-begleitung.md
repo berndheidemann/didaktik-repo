@@ -53,7 +53,7 @@ Die Berufsschule hat keinen Prüfungsauftrag — aber den größten didaktischen
 
 ### Wissenschaftlicher Kontext: Capstone-Forschung
 
-- **Dunlap (2005)** untersuchte ein 16-wöchiges Software-Engineering-Capstone mit 31 CS-Studierenden: authentische Probleme + Kollaboration + Reflexion produzierten signifikanten Anstieg von Selbstwirksamkeit und professioneller Identität. Direkte Parallele zur AP2-Projektphase.
+- **Dunlap (2005)** untersuchte ein 16-wöchiges Software-Engineering-Capstone mit 31 CS-Studierenden: authentische Probleme + Kollaboration + Reflexion produzierten einen signifikanten Anstieg der Selbstwirksamkeit (gemessen über Skala + Lerntagebuch). Direkte Parallele zur AP2-Projektphase.
 - **Brundiers, Wiek & Redman (2010)** beschreiben ein vierstufiges Progressionsmodell; Capstone steht auf der höchsten Stufe — student-driven, Stakeholder-authentisch, reflexionsbasiert. Didaktische Konsequenz: Im 3. Lehrjahr sollten Lernsituationen **zunehmend stakeholder-authentisch** sein, damit das Abschlussprojekt nicht der erste echte Kontakt ist.
 
 ### Prüfungsstruktur (ab Katalog 2025)
@@ -188,11 +188,11 @@ Diese Fragen sind fast deckungsgleich mit den typischen IHK-PA-Fragen im Fachges
 
 ## Quellen
 
-- Dunlap, J. C. (2005). Problem-based learning and self-efficacy: How a capstone course prepares students for a profession. *Educational Technology Research and Development, 53*(1), 65–85. https://doi.org/10.1007/BF02504858
+- Dunlap, J. C. (2005). Problem-based learning and self-efficacy: How a capstone course prepares students for a profession. *Educational Technology Research and Development, 53*(1), 65–83. https://doi.org/10.1007/BF02504858
 - Brundiers, K., Wiek, A. & Redman, C. L. (2010). Real-world learning opportunities in sustainability: From classroom into the real world. *International Journal of Sustainability in Higher Education, 11*(4), 308–324.
 - Bundesinstitut für Berufsbildung. (2020). *Umsetzungshilfen Fachinformatiker/-in: Ausbildung gestalten.* Verlag Barbara Budrich. ISBN 978-3-8474-2960-9.
-- IHK Rhein-Neckar. (2025). *Dokumentation der betrieblichen Projektarbeit — Merkblatt und Beispiel.* https://www.ihk.de/rhein-neckar/
+- IHK Rhein-Neckar. (o. J.). *Dokumentation der betrieblichen Projektarbeit — IT-Berufe (Merkblatt und Beispiel).* https://www.ihk.de/rhein-neckar/ausbildung-weiterbildung/ausbildung/pruefungen-ausbildung/antraege-formulare/dokumentation-betriebliche-projektarbeit-938224
 - IHK Bonn/Rhein-Sieg. (2024). *Handreichung Projektdokumentation und Präsentation/Fachgespräch IT-Berufe.*
 - Macke, S. (2024). IT-Berufe-Podcast Folge 191 — Neuer Prüfungskatalog AP2 FIAE. https://it-berufe-podcast.de/
 - ausbildung-in-der-it.de. (2025). *AP Teil 2 — FIAE und FIDP.*
-- oer-informatik.de. (2024). *Hinweise IHK-Projektantrag.*
+- Stein, H. (2024). *Hinweise IHK-Projektantrag.* oer-informatik.de. https://oer-informatik.de/ihk-projektantrag (CC BY 4.0).
