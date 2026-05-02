@@ -145,7 +145,7 @@ Relational-Antwort: "Findet das Minimum der Liste." Multistructural: "Iteriert d
 | Unistructural | 1 | Nur ein Aspekt korrekt |
 | Prestructural | 0 | Falsch oder leer |
 
-Dieses Rubric lässt sich für [[llm-as-grader|LLM-Grading]] verwenden. Denny et al. (2024): QWK > 0,7 gegen menschliche Rater, mit frage-spezifischem Rubric deutlich besser als mit generischem.
+Dieses Rubric lässt sich für [[llm-as-grader|LLM-Grading]] verwenden. Pathak et al. (2025): frage-spezifische Rubrics für LLM-EiPE-Grading deutlich besser als generische. Denny et al. (2024) berichten für ihren rubric-freien Code-Generation-Ansatz Cohen's κ = 0,79 zwischen Codern und 96–99 % Prompt-Erfolgsraten — also einen anderen, methodisch komplementären Validierungsweg.
 
 ### EiPE mit KI
 

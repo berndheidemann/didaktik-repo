@@ -77,8 +77,7 @@ Die Erfahrungsberichte stammen aus CS1/CS2-Kursen an Hochschulen (2023-2026), si
 - Sofortiges [[formatives-assessment]] skaliert über die Klassengröße hinaus
 
 **Was nicht funktioniert:**
-- ~30% der Studierenden reichen KI-Lösungen ein, ohne sie zu verstehen (Presti et al., 2024)
-- Ohne didaktische Rahmung wird KI zum "Answer Oracle" — der produktive Struggle entfällt
+- Ohne didaktische Rahmung neigen Studierende dazu, KI-generierte Lösungen ohne Verständnis einzureichen — KI wird zum "Answer Oracle", der produktive Struggle entfällt
 - LLMs halluzinieren gelegentlich falschen Code oder erfinden APIs — Anfänger:innen erkennen das nicht
 - Klassische Implementierungsaufgaben werden durch KI trivial → Aufgabendesign muss sich ändern
 
@@ -117,5 +116,4 @@ Ein Agent kann KI-Tutoring-Prinzipien direkt umsetzen:
 - Liffiton, M. et al. (2023). CodeHelp: Using Large Language Models with Guardrails for Scalable Support in Programming Classes. Proceedings of the 23rd Koli Calling Conference.
 - Leinonen, J. et al. (2023). Using Large Language Models to Enhance Programming Error Messages. Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE).
 - Finnie-Ansley, J. et al. (2022). The Robots Are Coming: Exploring the Implications of OpenAI Codex on Introductory Programming. Proceedings of ACE 2022.
-- Denny, P. et al. (2024). Computing Education in the Era of Generative AI. Communications of the ACM, 67(2), 56-67.
-- Presti, A. et al. (2024). Student Over-Reliance on AI Code Generation Tools. Proceedings of ITiCSE 2024.
+- Denny, P., Prather, J., Becker, B. A., Finnie-Ansley, J., Hellas, A., Leinonen, J., Luxton-Reilly, A., Reeves, B. N., Santos, E. A. & Sarsa, S. (2024). Computing Education in the Era of Generative AI. *Communications of the ACM, 67*(2), 56–67. https://doi.org/10.1145/3624720

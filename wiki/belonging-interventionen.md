@@ -174,6 +174,6 @@ Walton et al. 2023: Die Intervention wirkt nur, wenn das Umfeld tatsächlich Zug
 - Walton, G. M. & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. https://doi.org/10.1126/science.1198364
 - Yeager, D. S., Walton, G. M., Brady, S. T. et al. (2016). Teaching a lay theory before college narrows achievement gaps at scale. *PNAS, 113*(24), E3341–E3348.
 - Walton, G. M. & Brady, S. T. (2017). The many questions of belonging. In A. J. Elliot, C. S. Dweck & D. S. Yeager (Hrsg.), *Handbook of competence and motivation* (2. Aufl., S. 272–293). Guilford.
-- Brady, L. M., Reeves, S. L., Garcia, J. et al. (2020). A brief social-belonging intervention in college improves adult outcomes for black Americans. *Science Advances, 6*(18).
+- Brady, S. T., Cohen, G. L., Jarvis, S. N. & Walton, G. M. (2020). A brief social-belonging intervention in college improves adult outcomes for black Americans. *Science Advances, 6*(18), eaay3689. https://doi.org/10.1126/sciadv.aay3689
 - Walton, G. M., Murphy, M. C., Logel, C., Yeager, D. S., Goyer, J. P. et al. (2023). Where and with whom does a brief social-belonging intervention promote progress in college? *Science, 380*(6644), 499–505.
-- Hannover, B. & Zander, L. (2020). Schulisches Wohlbefinden, Zugehörigkeit und Unterstützung bei Schülerinnen und Schülern im gemeinsamen Unterricht der Sekundarstufe I. *Unterrichtswissenschaft, 48*(3), 353–377.
+- Kröske, B. (2020). Schulisches Wohlbefinden, Zugehörigkeit und Unterstützung bei Schülerinnen und Schülern im gemeinsamen Unterricht der Sekundarstufe I. *Unterrichtswissenschaft, 48*(2), 243–272. https://doi.org/10.1007/s42010-020-00067-7
