@@ -111,5 +111,5 @@ Ein Agent kann Lerntagebücher unterstützen:
 ## Quellen
 
 - Nückles, M., Hübner, S. & Renkl, A. (2009). Enhancing self-regulated learning by writing learning protocols. *Learning and Instruction*, 19(3), 259-271. https://doi.org/10.1016/j.learninstruc.2008.05.002
-- Glogger, I. et al. (2012). Learning Strategies Assessed by Journal Writing: Prediction of Learning Outcomes by Quantity, Quality, and Diversity. Learning and Instruction, 22(2), 148-156.
+- Glogger, I., Schwonke, R., Holzäpfel, L., Nückles, M. & Renkl, A. (2012). Learning strategies assessed by journal writing: Prediction of learning outcomes by quantity, quality, and combinations of learning strategies. *Journal of Educational Psychology*, 104(2), 452-468. https://doi.org/10.1037/a0026683
 - Zimmerman, B. J. (2002). Becoming a Self-Regulated Learner: An Overview. Theory into Practice, 41(2), 64-70.
