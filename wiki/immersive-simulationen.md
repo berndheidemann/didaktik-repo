@@ -43,7 +43,7 @@ Drei Eigenschaften machen eine Simulation wirklich immersiv: **(1)** Authentisch
 ### Kategorien
 
 **Cybersecurity CTF (Capture the Flag):**
-HackTheBox, TryHackMe, PicoCTF bieten das reifste Ökosystem. Progressive Schwierigkeit, echte Hacker-Tools (nmap, Burp Suite), Community-Writeups als Peer-Teaching. Svabensky et al. (2021) zeigten signifikant bessere praktische Skills und Transfer auf neue Probleme gegenüber traditioneller Instruktion.
+HackTheBox, TryHackMe, PicoCTF bieten das reifste Ökosystem. Progressive Schwierigkeit, echte Hacker-Tools (nmap, Burp Suite), Community-Writeups als Peer-Teaching. Svabensky et al. (2021) analysierten 15.963 CTF-Solutions und zeigen, dass die Aufgaben breite Bereiche der ACM/IEEE-Cybersecurity-Curriculum-Guidelines abdecken — gleichzeitig weisen sie darauf hin, dass menschliche Aspekte (Social Engineering, Awareness) systematisch unterrepräsentiert sind. Die Studie ist eine Inhalts-Analyse, keine vergleichende Wirkungsstudie — empirische Effektivität von CTFs gegenüber traditioneller Instruktion ist damit *nicht* belegt.
 
 **Cloud-Sandboxes:**
 AWS Academy, Azure for Education, Google Cloud Skills Boost: Zeitlich begrenzte Cloud-Umgebungen für Zero-Consequence-Experimentation. Lernende deployen, fehlkonfigurieren und zerstören Infrastruktur, die real Tausende kosten würde.
