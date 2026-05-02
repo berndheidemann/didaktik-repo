@@ -93,6 +93,13 @@ ALREADY_AUDITED[peer-instruction.md]=1
 ALREADY_AUDITED[productive-failure.md]=1
 ALREADY_AUDITED[retrieval-practice.md]=1
 ALREADY_AUDITED[testitem-konstruktion-digital.md]=1
+# v3 Welle 11 (2026-05-02) — Stichproben-Sanity-Check (5 zufällige aus Score-≤14-Pool); 0 CRIT + 7 MAJOR + 6 MINOR
+# Bestätigt: kanonische Theorie sauber (Bloom, Chi/Vosniadou-Cluster); Praxis-Artikel mit Verwaltungs-/Empirie-Bezug haben weiterhin Bibliografie-Drifts auch bei Score ≤14
+ALREADY_AUDITED[blooms-taxonomie.md]=1
+ALREADY_AUDITED[fehlerkultur-im-unterricht.md]=1
+ALREADY_AUDITED[kompetenzfeststellung-programmierung.md]=1
+ALREADY_AUDITED[misconception-analyse.md]=1
+ALREADY_AUDITED[notional-machines.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
