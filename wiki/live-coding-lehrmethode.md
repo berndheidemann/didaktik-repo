@@ -51,7 +51,7 @@ Die schrittweise Entwicklung reduziert die extrinsische kognitive Belastung (vgl
 
 - **Code-Skelett vorbereiten:** Für komplexe Themen fertigen Lösungsentwurf bereithalten; für einfache Themen reicht ein leeres Projekt.
 - **Deliberate Mistakes planen:** 2-3 typische Fehler gezielt einbauen (Syntaxfehler, Off-by-One, falsche Datentypen), die häufige Misconceptions widerspiegeln.
-- **Umgebung einrichten:** Grosse Schrift (min. 18pt), hoher Kontrast, Benachrichtigungen deaktivieren (Nederbragt et al., 2020).
+- **Umgebung einrichten:** Grosse Schrift (Nederbragt et al. 2020 nennen ohne konkreten Wert „big font"; Faustregel ≥ 18pt), hoher Kontrast, Benachrichtigungen deaktivieren.
 
 ### 2. Think-Aloud-Phase
 
@@ -61,13 +61,13 @@ Während des Programmierens auf drei Ebenen verbalisieren: Planung ("Ich brauche
 
 Fehler eintippen, Code laufen lassen, Fehlermeldung gemeinsam lesen. Lernende vorher das Ergebnis vorhersagen lassen (Predict-Strategie, vgl. [[primm-methode]]). Reparaturstrategie verbalisieren: "Die Fehlermeldung sagt Zeile 12 -- ich schaue mir die Variable an."
 
-Nederbragt et al. (2020) betonen, dass Fehler den Lernenden "permission to make their own" geben -- ein zentraler Aspekt der [[fehlerkultur-im-unterricht]]. Gezieltes Erzeugen und Korrigieren von Fehlern ist eine wirksame Lerntechnik (Metcalfe, 2017).
+Nederbragt et al. (2020) betonen, dass eigene Fehler der Lehrkraft den Lernenden „permission to make and share theirs" geben -- ein zentraler Aspekt der [[fehlerkultur-im-unterricht]]. Gezieltes Erzeugen und Korrigieren von Fehlern ist eine wirksame Lerntechnik (Metcalfe, 2017).
 
 ### 4. Partizipation einbinden
 
 - **Code-Along:** Lernende programmieren auf ihren Rechnern mit. Raj et al. (2018) fanden, dass Lernende diese Variante deutlich bevorzugen.
 - **Predict-Pause:** Vor jedem Ausführen fragen: "Was wird passiert?" (vgl. [[primm-methode|PRIMM]]).
-- **Ampel-Feedback:** Farbige Karten oder digitale Tools für Echtzeit-Rückmeldung zum Tempo (Nederbragt et al., 2020).
+- **Status-Feedback per Sticky-Notes:** Nederbragt et al. (2020) empfehlen zwei farbige Sticky-Notes — eine zeigt „fertig", die andere „brauche Hilfe". Sie warnen explizit vor rot-grün wegen Farbenblindheit; verwendet werden besser Blau/Gelb. Status-Signal, kein Tempo-Feedback im Original.
 
 ### 5. Abschluss
 
@@ -143,4 +143,4 @@ Lernende mit starken [[metakognition|metakognitiven]] Fähigkeiten profitieren v
 - Nederbragt, A. et al. (2020). Ten quick tips for teaching with participatory live coding. *PLOS Computational Biology*, 16(9), e1008090.
 - Raj, A. G. S. et al. (2018). Role of live-coding in learning introductory programming. *Koli Calling '18*. ACM.
 - Rubin, M. J. (2013). The effectiveness of live-coding to teach introductory programming. *SIGCSE '13* (S. 651-656). ACM.
-- Su, X. & Wang, A. Y. (2025). Live coding in programming classes: Instructors' perspectives. *arXiv*, 2506.03402.
+- Su, X. & Wang, A. Y. (2025). Live Coding in Programming Classes: Instructors' Perspectives. *Extended Abstracts of CHI '25* (CHI EA '25), Yokohama; erweiterte Fassung als „The Stress of Improvisation: Instructors' Perspectives on Live Coding in Programming Classes". *arXiv*, 2506.03402. https://arxiv.org/abs/2506.03402

@@ -50,7 +50,7 @@ Bei einem Parsons Problem bekommen Lernende die korrekten Codezeilen eines Progr
 Dale Parsons und Patricia Haden (Otago Polytechnic) stellten das Format 2006 auf der ACE-Konferenz vor. Die empirische Aufarbeitung liegt auf Meta-Analyse-Niveau:
 
 - **Denny, Luxton-Reilly & Simon (2008):** Parsons-Aufgaben erzeugen vergleichbare Lernergebnisse wie freies Schreiben, benötigen aber **signifikant weniger Zeit** und frustrieren weniger.
-- **Ericson, Denny, Prather et al. (2022):** Systematische Literaturrecherche über 47 Studien. Befund: Parsons Problems sind für Lernende *effizienter* — gleiche Lernwirkung bei ≈ halbem Zeitaufwand und niedrigerer cognitive load (gemessen per NASA-TLX und selbstberichteter Belastung).
+- **Ericson, Denny, Prather et al. (2022):** Systematische Literaturrecherche (677 nach Deduplication identifizierte Studien). Befund: Parsons Problems sind für Lernende *effizienter* — gleiche Lernwirkung bei deutlich reduziertem Zeitaufwand und niedrigerer cognitive load (über mehrere Studien hinweg per NASA-TLX und selbstberichteter Belastung).
 - **Morrison, Margulieux, Ericson & Guzdial (2016):** Subgoal-Labels (vorgegeben oder selbst generiert) verbessern das Lösen von Parsons-Aufgaben deutlich. Zusätzlich zeigt die Studie, dass Parsons-Probleme als *Assessment* sensitiver sind als reines Code-Schreiben — sie machen Teilwissen sichtbar, das beim Schreiben verborgen bleibt.
 
 ### Warum das funktioniert (Cognitive Load-Erklärung)

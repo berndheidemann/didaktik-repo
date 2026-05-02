@@ -82,7 +82,7 @@ Die folgende Tabelle ist **eine Momentaufnahme, kein Kaufkatalog**. Die Tools we
 | **GitHub Classroom + Codespaces** | Classroom-Assignments mit automatischem Codespace-Start pro Student | Bewertung via Autograding + menschliches Review; PR-Workflow übertragbar auf Berufsleben | Setup-Aufwand für Lehrkraft; US-Hosting (DSGVO-Prüfung nötig) |
 | **JetBrains Classroom / Academy / Hyperskill** | Projekt-basierter Lernpfad mit IDE-Integration (lokal oder Web) | Kostenlos für Schulen; breite Sprach-Abdeckung; Schritt-für-Schritt-Struktur mit automatischer Validierung | Lokale IDE-Installation häufig nötig; Premium-Features kostenpflichtig |
 | **LabEx Teams for Education** | Cloud-basierte Hands-on-Labs, verschiedene Sprachen und DevOps-Themen | Kostenlos bis 100 Nutzer; breite Themen | Jung, unklare Langzeit-Perspektive; nicht-deutschsprachig |
-| **Exercism** (exercism.org) | 82 Sprach-Tracks, 8.100+ Aufgaben, freiwilliges Human-Mentoring | Kostenlos, mentor-basiert, idiomatisches Feedback | Kein narrativer Tutorial-Pfad, sondern Aufgaben-Katalog; Englisch dominiert |
+| **Exercism** (exercism.org) | ~80 Sprach-Tracks mit jeweils mehreren tausend Aufgaben (Concepts + Practice), freiwilliges Human-Mentoring | Kostenlos, mentor-basiert, idiomatisches Feedback | Kein narrativer Tutorial-Pfad, sondern Aufgaben-Katalog; Englisch dominiert |
 | **Hyperskill** (JetBrains) | Projekt-basierte Lernpfade mit CS-Foundations + Python/Java/Kotlin/Go | IDE-Integration, strukturierter Progression | Freemium (Tageslimit für Free), keine Zertifikate im Free-Tier |
 
 **Entscheidungshilfe für FIAE/FIDP**:
@@ -161,7 +161,7 @@ KI-gestützte Generierung von Tutorial-Inhalten ist eine offene, vielversprechen
 - StackBlitz (ongoing). *TutorialKit Documentation*. https://tutorialkit.dev/
 - StackBlitz (ongoing). *WebContainers Documentation and Browser Support*. https://webcontainers.io/ und https://developer.stackblitz.com/platform/webcontainers/browser-support
 - GitHub (ongoing). *Using GitHub Codespaces with GitHub Classroom*. https://docs.github.com/en/education/manage-coursework-with-github-classroom/integrate-github-classroom-with-an-ide/using-github-codespaces-with-github-classroom
-- GitHub (ongoing). *Student Developer Pack (180 Core-Hours Codespaces)*. https://education.github.com/pack
+- GitHub (ongoing). *Student Developer Pack* — Pro-Zugang inkl. Codespaces (180 Core-Hours/Monat im Pro-Tier). https://education.github.com/pack
 - DataWars (2024). *Replit Teams for Education Deprecation*. https://www.datawars.io/articles/replit-teams-for-education-deprecation-all-you-need-to-know
 - Exercism (ongoing). *Language Tracks*. https://exercism.org/tracks
 - Hyperskill (ongoing). *JetBrains Academy Platform*. https://hyperskill.org/

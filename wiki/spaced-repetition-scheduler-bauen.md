@@ -43,13 +43,13 @@ summary: >
 
 **Bulk Reviews ("ich war im Urlaub").** Ohne Schutzmechanismus stürzen 200 fällige Karten auf einmal auf den Lernenden — Frust und Ablehnung. Lösungen: (a) tägliches Cap (Anki: max. neue Karten pro Tag), (b) „Vacation Mode" mit linearer Verteilung der überfälligen Karten über mehrere Tage, (c) Priorisierung nach Stability — die instabilsten zuerst.
 
-**Leech-Karten.** Karten, die immer wieder durchfallen. Erkennung: ≥ 8 Lapses in Folge oder Lapse-Rate > 50% nach > 10 Reviews. Reaktion: Karte automatisch ausblenden + Hinweis „Diese Karte solltest du anders lernen — vielleicht in kleinere Teile zerlegen oder visualisieren". Vgl. Misconception-Logik in [[lerner-modell-mastery-tracking]] und [[misconception-analyse]].
+**Leech-Karten.** Karten, die immer wieder durchfallen. Erkennung: ≥ 8 Lapses kumulativ (Anki-Standardregel) oder Lapse-Rate > 50% nach > 10 Reviews. Reaktion: Karte automatisch ausblenden + Hinweis „Diese Karte solltest du anders lernen — vielleicht in kleinere Teile zerlegen oder visualisieren". Vgl. Misconception-Logik in [[lerner-modell-mastery-tracking]] und [[misconception-analyse]].
 
 **Confidence Rating einholen.** Statt nur richtig/falsch eine 4-stufige Skala (Again/Hard/Good/Easy, wie in Anki) verbessert die Schedule-Qualität deutlich, kostet aber zusätzliche UI-Last. Faustregel: bei > 100 Karten lohnt es sich, bei < 50 nicht.
 
 **Item-Generation vs. Item-Pool.** Für IT-Lernumgebungen oft besser als statische Karten: Pro Konzept eine **Aufgaben-Klasse** definieren, aus der bei jeder Wiederholung eine neue konkrete Variante generiert wird (z.B. SQL-Query mit anderem Filter, Subnetting mit anderer Maske). Verhindert Auswendiglernen einzelner Lösungen, fördert Transfer.
 
-**Time-of-Day-Bias.** Reviews am Morgen sind robuster als spätabends — bei Plattform-Skala lernbar als HLR-Feature, bei Solo-Devs ignorierbar.
+**Time-of-Day-Bias.** Reviews am Morgen sind robuster als spätabends — bei Plattform-Skala prinzipiell als zusätzliches Feature im Lerner-Modell denkbar (Settles & Meeder 2016 nutzen Lexem-Tags + Recall-History als HLR-Features, nicht zirkadiane Variablen); bei Solo-Devs ignorierbar.
 
 ### Implementierungs-Sequenz
 

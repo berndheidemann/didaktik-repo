@@ -106,7 +106,7 @@ Ein Agent kann Flipped Classroom unterstützen:
 
 ## Quellen
 
-- Bergmann, J. & Sams, A. (2012). Flip Your Classroom: Reach Every Student in Every Class Every Day. ISTE/ASCD.
+- Bergmann, J. & Sams, A. (2012). *Flip Your Classroom: Reach Every Student in Every Class Every Day*. International Society for Technology in Education (ISTE) gemeinsam mit ASCD.
 - Hew, K. F. & Lo, C. K. (2018). Flipped Classroom Improves Student Learning in Health Professions Education: A Meta-Analysis. BMC Medical Education, 18(1), Article 38.
 - Låg, T. & Sæle, R. G. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open, 5(3), 1-17.
 - Van Alten, D. C. D. et al. (2019). Effects of Flipping the Classroom on Learning Outcomes and Satisfaction: A Meta-Analysis. Educational Research Review, 28, Article 100281.

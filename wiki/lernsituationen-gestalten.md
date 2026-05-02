@@ -144,8 +144,8 @@ Ein Agent kann Lernsituationen generieren und bewerten:
 ## Quellen
 
 - Kultusministerkonferenz. (2021). Handreichung für die Erarbeitung von Rahmenlehrplänen der KMK.
-- Kultusministerkonferenz. (2020). Rahmenlehrplan für die Ausbildungsberufe Fachinformatiker und Fachinformatikerin.
-- ISB Bayern. (2020). Handreichung technische IT-Ausbildungsberufe — Umsetzungshilfe mit Lernsituationen.
+- Kultusministerkonferenz. (2019/2020). Rahmenlehrplan für die Ausbildungsberufe Fachinformatiker und Fachinformatikerin (KMK-Beschluss vom 13.12.2019, Inkrafttreten 01.08.2020). https://www.kmk.org/fileadmin/Dateien/pdf/Bildung/BeruflicheBildung/rlp/Fachinformatiker_19-12-13_EL.pdf
+- Staatsinstitut für Schulqualität und Bildungsforschung (ISB) Bayern. (2020). *Umsetzungshilfe für Lehrkräfte technischer IT-Ausbildungsberufe*. https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/handreichung-technische-it-ausbildung/
 - Tramm, T. & Krille, F. (2013). Planung des Lernfeldunterrichts. bwp@ Berufs- und Wirtschaftspädagogik — online, 24, 1-24.
-- CAST (2018). Universal Design for Learning Guidelines version 2.2. http://udlguidelines.cast.org
+- CAST (2018, aktualisiert 2024 auf v3.0). *Universal Design for Learning Guidelines* (im Wiki referenziert in Version 2.2; aktuelle Version 3.0 seit 2024). https://udlguidelines.cast.org
 - Herrington, J. & Oliver, R. (2000). An instructional design framework for authentic learning environments. Educational Technology Research and Development, 48(3), 23-48.
