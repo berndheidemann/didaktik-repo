@@ -32,7 +32,7 @@ updated: 2026-04-12
 summary: >
   Funktional zusammengehörige Schritte in Lösungsbeispielen unter beschreibenden
   Labels gruppieren — reduziert kognitive Last, verbessert Transfer und senkt
-  Dropout-Raten in Programmiereinführungen signifikant (d ≈ 0,44; Margulieux et al. 2020).
+  Dropout-/Failure-Quoten in Programmiereinführungen signifikant (Margulieux et al. 2020).
 ---
 
 # Subgoal Labeling — Teilziel-Labels für Programmieraufgaben
@@ -60,8 +60,8 @@ Subgoal Labels sind keine Code-Kommentare. Kommentare erklären *was* eine Zeile
 | Margulieux et al. (2012, ICER) | App Inventor, Video-Tutorials | Labels verbessern Retention (1 Woche später) und Transfer |
 | Morrison et al. (2015, ICER) | Textbasiertes Programmieren | Labels wirken auch bei Text-Code, aber hohe kognitive Last von Text-Syntax dämpft den Effekt |
 | Morrison et al. (2016, SIGCSE) | Parsons Problems | Subgoal Labels verbessern Erfolgsquote bei Parsons Problems |
-| Margulieux et al. (2020, IJSE) | Semesterkurs CS1 | Geringere Durchfall-/Dropout-Quote; d ≈ 0,44 über den Kurs |
-| Li et al. (2025, SIGCSE) | LLM-generierte Labels | GPT-4 erzeugt Labels vergleichbarer Qualität wie Experten |
+| Margulieux et al. (2020, IJSE) | Semesterkurs CS1 | Geringere Durchfall-/Dropout-Quote; reduzierte Varianz; differenzierte Effekte je Quiz/Exam |
+| Marwan et al. (2025, SIGCSE) | LLM-generierte Labels | GPT-4 erzeugt Labels vergleichbarer Qualität wie Experten |
 
 ### Wann Labels besonders wirken
 
@@ -129,7 +129,7 @@ Labels dienen als Gruppen-Header. Lernende sortieren Code-Blöcke innerhalb der 
 
 ### LLM-generierte Labels
 
-Li et al. (2025, SIGCSE) zeigten, dass GPT-4 Subgoal Labels erzeugt, die von Experten als qualitativ vergleichbar bewertet werden. Für interaktive Lernumgebungen bedeutet das: Labels können on-the-fly für dynamisch generierte Aufgaben erzeugt werden ([[ki-native-lernumgebungen]]).
+Marwan et al. (2025, SIGCSE) zeigten, dass GPT-4 Subgoal Labels erzeugt, die von Experten als qualitativ vergleichbar bewertet werden. Für interaktive Lernumgebungen bedeutet das: Labels können on-the-fly für dynamisch generierte Aufgaben erzeugt werden ([[ki-native-lernumgebungen]]).
 
 ## Zeitbedarf
 
@@ -176,5 +176,5 @@ Ein Agent kann Subgoal Labeling systematisch einsetzen:
 - Morrison, B. B., Margulieux, L. E., Ericson, B. & Guzdial, M. (2016). Subgoals help students solve Parsons Problems. *SIGCSE '16*, 42-47.
 - Margulieux, L. E., Morrison, B. B. & Decker, A. (2020). Reducing withdrawal and failure rates in introductory programming with subgoal labeled worked examples. *International Journal of STEM Education*, 7, Article 19.
 - Margulieux, L. E. & Catrambone, R. (2019). Finding the best types of guidance for constructing self-explanations of subgoals in programming. *Journal of the Learning Sciences*, 28(1), 108-151.
-- Li, Z., Margulieux, L. E. & Decker, A. (2025). How good are large language models at generating subgoal labels? *SIGCSE '25*.
+- Marwan, S., Ibrahim, M. & Morrison, B. B. (2025). How good are large language models at generating subgoal labels? *Proceedings of SIGCSE TS 2025*. https://doi.org/10.1145/3641555.3705195
 - Catrambone, R. (1998). The subgoal learning model: Creating better examples so that students can solve novel problems. *Journal of Experimental Psychology: General*, 127(4), 355-376.

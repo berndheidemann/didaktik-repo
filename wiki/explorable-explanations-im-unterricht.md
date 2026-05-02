@@ -166,8 +166,8 @@ Wer ein eigenes Explorable-Format in eine selbst gebaute Lernumgebung integriere
 - Victor, B. (2011). *Explorable Explanations*. http://worrydream.com/ExplorableExplanations/
 - Case, N. (2017). *How I Make an Explorable Explanation*. Blog post. https://blog.ncase.me/how-i-make-an-explorable-explanation/
 - Distill (2021). *Distill Hiatus Statement*. https://distill.pub/2021/distill-hiatus/
-- Conlen, M., Conlen, J., & Heer, J. (2018). Idyll: A Markup Language for Authoring and Publishing Interactive Articles on the Web. *UIST 2018*.
+- Conlen, M., & Heer, J. (2018). Idyll: A Markup Language for Authoring and Publishing Interactive Articles on the Web. *UIST 2018*. https://doi.org/10.1145/3242587.3242600
 - Ciechanowski, B. Blog mit umfangreichen interaktiven Artikeln. https://ciechanow.ski/
 - Patel, A. *Red Blob Games*. Interaktive Algorithmus-Erklärungen. https://www.redblobgames.com/
-- Zhang, Y. et al. (2023). Impact of Scrollytelling on Reading Experience and User Engagement. *Proceedings of ECCE 2023*.
+- Tjärnhage, A., Söderström, U., Norberg, O., Andersson, M., & Mejtoft, T. (2023). The Impact of Scrollytelling on the Reading Experience of Long-Form Journalism. *ECCE 2023*. https://doi.org/10.1145/3605655.3605683
 - Méndez, G. G., & Such, J. (2026). Scrollytelling as an Alternative Format for Privacy Policies. *CHI 2026*. arXiv:2603.04367.
