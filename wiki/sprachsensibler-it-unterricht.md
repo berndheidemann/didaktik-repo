@@ -45,7 +45,7 @@ Das Kernproblem: DaZ-Lernende und sprachschwache Muttersprachler:innen verstehen
 
 **Operative Hebel:**
 - **Drei-Spalten-Tafel** pro neuem Begriff: *Alltagssprache* / *deutsche Fachsprache* / *englische Fachsprache*. Beispiel: "die Liste durchgehen" / "iterieren" / "iterate / loop through".
-- **Leisens Sprachstufenmodell** explizit durchlaufen: (1) nonverbal/Zeigen am Code → (2) Alltagssprache → (3) fachsprachliche Alltagssprache → (4) Bildungssprache → (5) Fachsprache. Die Lehrkraft moderiert den Aufstieg im Plenum.
+- **Leisens Sprachstufenmodell** explizit durchlaufen — kanonisch dreistufig (Alltagssprache → Unterrichtssprache → Bildungssprache/Fachsprache); hier didaktisch erweitert um eine nonverbale Vorstufe (Zeigen am Code) und eine fachsprachlich-alltagssprachliche Übergangsstufe. Die Lehrkraft moderiert den Aufstieg im Plenum.
 - **IHK-Operatoren als Mini-Einheit** (nennen, beschreiben, erläutern, begründen, bewerten) explizit lehren — sie sind die Sprach-Brücke zur Prüfung. Verbindet mit [[blooms-taxonomie]].
 
 ### Mode Continuum und Message Abundancy (Gibbons 2002)
@@ -73,7 +73,7 @@ Der IT-Unterricht *muss* zwischen Deutsch und Englisch wechseln — jedes Keywor
 
 ### Sprachgerüste für Formulierungsaufgaben
 
-Lernende wissen *was* sie sagen wollen, finden aber keine Satzstruktur — besonders in Prüfungen. Beese et al. (2014) beschreiben *Sprachgerüste* (sentence frames) als wirksamste Einzelhilfe für schriftliche Leistungen.
+Lernende wissen *was* sie sagen wollen, finden aber keine Satzstruktur — besonders in Prüfungen. Beese et al. (2014, DLL 16) heben *Sprachgerüste* (sentence frames) als zentrale Unterstützung für schriftliche Leistungen hervor.
 
 **Gerüste für typische IT-Genres:**
 - *Code erklären:* "Die Funktion `___` nimmt `___` entgegen und gibt `___` zurück. Zuerst wird `___`, anschließend `___`. Wenn `___`, dann `___`."
@@ -170,6 +170,6 @@ Ein Agent oder eine Lehrkraft kann diese Prinzipien umsetzen:
 - Gibbons, P. (2002). *Scaffolding Language, Scaffolding Learning: Teaching Second Language Learners in the Mainstream Classroom*. Heinemann.
 - Echevarria, J., Vogt, M. E., & Short, D. J. (2017). *Making Content Comprehensible for English Learners: The SIOP Model* (5th ed.). Pearson.
 - Coyle, D., Hood, P., & Marsh, D. (2010). *CLIL: Content and Language Integrated Learning*. Cambridge University Press.
-- Beese, M., Benholz, C., Chlosta, C., Gürsoy, E., Hinrichs, B., Niederhaus, C., & Oleschko, S. (2014). *Sprachbildung in allen Fächern*. Klett-Langenscheidt.
+- Beese, M., Benholz, C., Chlosta, C., Gürsoy, E., Hinrichs, B., Niederhaus, C., & Oleschko, S. (2014). *Sprachbildung in allen Fächern* (DLL 16, Goethe-Institut Fort- und Weiterbildungsreihe). Klett-Langenscheidt.
 - Thürmann, E., Vollmer, H., & Pieper, I. (2010). *Language(s) of Schooling: Focusing on vulnerable learners*. Council of Europe.
 - Vollmer, H. J., & Thürmann, E. (2013). Sprachbildung und Bildungssprache als Aufgabe aller Fächer. In M. Becker-Mrotzek et al. (Hrsg.), *Sprache im Fach* (S. 41-57). Waxmann.

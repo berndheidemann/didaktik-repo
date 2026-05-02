@@ -53,7 +53,7 @@ Beim traditionellen Handwerk ist die Arbeit des Meisters sichtbar — der Lehrli
 
 ### Expert Blind Spot
 
-Nathan & Petrosino (2003) zeigen: Expert:innen haben so viel automatisiert, dass sie Schritte überspringen, die Novizen dringend sehen müssten. Live Coding wirkt dem direkt entgegen — die Lehrkraft *muss* jeden Schritt ausführen und kann verbalisieren: "Ich wähle hier ein Dictionary, weil ich O(1)-Lookup brauche... moment, das könnte None sein, ich fange das ab..."
+Nathan & Petrosino (2003) zeigen am Beispiel von Math-Preservice-Teachers: Mit zunehmender Subject-Matter-Expertise neigen Lehrende dazu, die Schwierigkeitshierarchie für Novizen falsch einzuschätzen — sie unterschätzen, was Lernenden schwerfällt. Allgemeiner formuliert (Curse of Knowledge, vgl. Koedinger & Nathan 2004): Expert:innen haben so viel automatisiert, dass implizite Zwischenschritte für Novizen unsichtbar bleiben. Live Coding wirkt dem direkt entgegen — die Lehrkraft *muss* jeden Schritt ausführen und kann verbalisieren: "Ich wähle hier ein Dictionary, weil ich O(1)-Lookup brauche... moment, das könnte None sein, ich fange das ab..."
 
 ### Progression
 
