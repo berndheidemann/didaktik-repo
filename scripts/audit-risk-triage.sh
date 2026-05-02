@@ -108,6 +108,15 @@ ALREADY_AUDITED[lerntagebuch.md]=1
 ALREADY_AUDITED[cognitive-apprenticeship.md]=1
 ALREADY_AUDITED[engagement-theory.md]=1
 ALREADY_AUDITED[sprachsensibler-it-unterricht.md]=1
+# v3 Welle 13 (2026-05-02) — Erste Welle Praxis-/Methoden-Sweep (Option B); 0 CRIT + 5 MAJOR + 6 MINOR
+# Welle-12-Erkenntnis bestätigt: Hybrid-Risk (Pattern #2) weiterhin im Restpool präsent (3 Pattern-#2-Befunde Michaeli/Romeike, Jamieson, Bjork-Erstautor)
+# WiPSCE-2019-Cite-Magnet: 2 Hybrid-Cites in Folge (W12 Sentance + W13 Michaeli/Romeike)
+# Pop-Wissenschafts-Folklore-Subpattern erstmals dokumentiert: Mark CHI 2008 „23:15"-Zahl steht nicht im zitierten Paper
+ALREADY_AUDITED[poe-methode.md]=1
+ALREADY_AUDITED[lerner-modell-mastery-tracking.md]=1
+ALREADY_AUDITED[debugging-als-kompetenz.md]=1
+ALREADY_AUDITED[pruefungsvorbereitung-lernstrategie.md]=1
+ALREADY_AUDITED[zeitmanagement-selbstorganisation.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
