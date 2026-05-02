@@ -53,7 +53,7 @@ Interactive Fiction (IF) stellt genau solche Entscheidungssituationen als verzwe
 - **Serious Games Meta-Analyse.** Wouters et al. (2013) fanden über 77 Studien (N = 5.547) *d* = 0.29 für Lernen und *d* = 0.36 für Retention gegenüber konventionellem Unterricht — besonders stark, wenn das Spiel mit Instruktion kombiniert und in Gruppen gespielt wird.
 - **Simulation-based Learning.** Chernikova et al. (2020, *RER*) zeigen "large positive overall effects" von Simulationen auf komplexe Kompetenzen — Wirkung steigt durch Reflexionsphasen und Scaffolding.
 - **Consequential Feedback.** Bransford & Schwartz (1999) argumentieren: Lernumgebungen sollen "preparation for future learning" fördern — genau das leistet eine Entscheidung, deren Konsequenz man spürt und mit Alternativen vergleicht.
-- **Phishing-Training.** Ho et al. (2025, IEEE S&P) zeigen, dass reines Klick-Training ohne Reflexionsphase nur marginale Effekte hat — der didaktische Mehrwert entsteht im Debrief, nicht im Klick.
+- **Phishing-Training.** Ho et al. (2025, IEEE S&P) finden in einer 8-monatigen RCT-Studie mit ~19.500 Mitarbeitenden, dass anti-phishing training in der gängigen Form weitgehend wirkungslos ist — 75 % der Trainingsinhalte werden < 60 s aufgerufen. Die Schlussfolgerung der Autoren ist breit: *embedded training* in seiner aktuellen Praxis liefert keinen praktisch relevanten Schutz. Dass *Debrief und Reflexion* der entscheidende fehlende Wirkfaktor sind, ist eine plausible didaktische Eigeninterpretation, aber kein Paper-Befund.
 
 ## Durchführung
 
@@ -89,7 +89,7 @@ Schüler spielen einzeln oder zu zweit (10–15 Min). Danach *zwingend* ein Debr
 ## Varianten
 
 - **Mini-Szenario statt Branching.** Cathy Moore unterscheidet "branching scenario" (mehrere Entscheidungen aufeinander) und "mini scenario" (eine Entscheidung, eine Konsequenz, Ende). Für den Einstieg reicht oft das Mini-Format — in 30 Min gebaut.
-- **Schüler bauen selbst.** Nach [[computational-action]] ist das wertvoller als Konsum: Schüler schreiben eigene DSGVO- oder Security-Szenarien in Zweierteams. Artefakt-orientiert, hoher Behaltenseffekt (McCall-Methode, vgl. Programming Historian, 2022).
+- **Schüler bauen selbst.** Nach [[computational-action]] ist das wertvoller als Konsum: Schüler schreiben eigene DSGVO- oder Security-Szenarien in Zweierteams. Artefakt-orientiert, hoher Behaltenseffekt — die Programming-Historian-Lektion zu Twine im Unterricht (Kirilloff, 2021) zitiert u. a. Jeremiah McCalls Praxis als Referenz.
 - **Gruppen-Entscheidung.** Ein Szenario wird per Beamer gespielt, die Klasse entscheidet per Handzeichen — eignet sich für Einstiegsphase und [[kooperatives-lernen]].
 - **Kombination mit echten Tools.** Ein Twine-Szenario verweist an Schlüsselstellen auf ein echtes Tool (KeePass, EmailHeader-Analyzer, Linux-Shell) — [[intrinsic-integration]] von Spiel- und Lernziel.
 - **Variante mit LLM-Branching.** Zunehmend gibt es Ansätze, Branching dynamisch durch ein LLM zu erzeugen (vgl. WHAT-IF, Arxiv 2412.10582, 2024). Didaktisch riskanter: weniger Kontrolle über die Pfade, aber höhere Varianz.
@@ -150,7 +150,7 @@ Für den Einsatz als wiederkehrendes Format lohnt sich ein kleines Szenario-Arch
 - Ho, G., et al. (2025). Understanding the Efficacy of Phishing Training in Practice. *IEEE Symposium on Security and Privacy*. https://people.cs.uchicago.edu/~grantho/papers/oakland2025_phishing-training.pdf
 - Inkle Studios. (2023). *Ink — Inkle's narrative scripting language*. https://www.inklestudios.com/ink/
 - ISTE. (2023). Students choose their own learning adventures with interactive fiction. https://iste.org/blog/students-choose-their-own-learning-adventures-with-interactive-fiction
-- Kotchian, J., & McCall, J. (2022). Interactive Fiction in the Humanities Classroom. *Programming Historian*. https://programminghistorian.org/en/lessons/interactive-text-games-using-twine
+- Kirilloff, G. (2021). Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine. *Programming Historian*. https://programminghistorian.org/en/lessons/interactive-text-games-using-twine
 - Moore, C. (2017). *Map It: The hands-on guide to strategic training design*. Montesa Press. Begleitend: blog.cathy-moore.com
 - Twinery.org. (2024). *Twine Cookbook — Story Formats*. https://twinery.org/cookbook/
 - Wouters, P., van Nimwegen, C., van Oostendorp, H., & van der Spek, E. D. (2013). A meta-analysis of the cognitive and motivational effects of serious games. *Journal of Educational Psychology, 105*(2), 249–265.

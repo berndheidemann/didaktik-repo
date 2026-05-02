@@ -90,7 +90,7 @@ Wichtige Abgrenzung: [[self-explanation]] ist **generativ beim Lernen**, EiPE is
 - **Murphy et al. (2012):** EiPE-Fähigkeit korreliert robust mit Programmierkompetenz. Über zwei Dekaden konsistent repliziert.
 - **Chen, Azad, West & Zilles (2020):** Validiertes SOLO-basiertes EiPE-Rubric mit hoher Inter-Rater-Reliabilität — die erste industriell einsetzbare Bewertungsmatrix.
 - **Fowler, Chen, Azad, West & Zilles (2021, SIGCSE):** NLP-basierter EiPE-Autograder erreicht ~88 % Accuracy gegenüber menschlichen TAs.
-- **Fowler et al. (2022, ITiCSE):** EiPE korreliert stärker mit Code-Writing-Kompetenz als reine Syntax-Tests. EiPE ist Prädiktor, nicht nur Begleiterscheinung.
+- **Fowler et al. (2022, *Computer Science Education*):** Replikationsstudie zur Lopez/Lister-Skill-Hierarchie (Read → Trace → Explain → Write); EiPE bleibt ein robuster Prädiktor für Code-Writing-Kompetenz, mehrere Modelle passen vergleichbar gut.
 - **Denny et al. (2024, ITiCSE):** "Explaining Code with a Purpose" — integrierter Ansatz EiPE + Prompt Engineering für Code-Comprehension. Code-Generation-based Grading: Schüler-Erklärung → LLM generiert Code → Testsuite.
 - **Kerslake, Denny et al. (2025, SIGCSE):** LLM-Feedback auf EiPE gemischt — manche Studierende "rückübersetzen" Zeile-für-Zeile statt abstrakt zu bleiben.
 - **Pathak et al. (2025, ICER):** Question-specific Rubrics für LLM-EiPE-Grading deutlich besser als generische (siehe [[rubric-design]]).
@@ -184,7 +184,7 @@ Dieses Rubric lässt sich für [[llm-as-grader|LLM-Grading]] verwenden. Pathak e
 - Corney, M., Fitzgerald, S., Hanks, B., Lister, R., McCauley, R. & Murphy, L. (2014). "Explain in plain English" questions revisited: Data structures problems. *Proceedings of SIGCSE 2014,* 591–596.
 - Chen, B., Azad, S., West, M. & Zilles, C. (2020). A validated scoring rubric for Explain-in-Plain-English questions. *Proceedings of SIGCSE 2020.*
 - Fowler, M., Chen, B., Azad, S., West, M. & Zilles, C. (2021). Autograding "Explain in Plain English" questions using NLP. *Proceedings of SIGCSE 2021.*
-- Fowler, M., Smith, D. H., Hassan, C., Poulsen, S., West, M. & Zilles, C. (2022). Reevaluating the relationship between explaining, tracing, and writing skills in CS1. *Proceedings of ITiCSE 2022.*
+- Fowler, M., Smith, D. H., Hassan, M., Poulsen, S., West, M. & Zilles, C. (2022). Reevaluating the relationship between explaining, tracing, and writing skills in CS1. *Computer Science Education, 32*(3), 355–383. https://doi.org/10.1080/08993408.2022.2079866
 - Denny, P., Smith, D. H., Fowler, M., Prather, J., Becker, B. A., & Leinonen, J. (2024). Explaining Code with a Purpose: An Integrated Approach for Developing Code Comprehension and Prompting Skills. *Proceedings of ITiCSE 2024.* arXiv:2403.06050.
 - Kerslake, E., Denny, P. et al. (2025). Exploring student reactions to LLM-generated feedback on Explain in Plain English problems. *Proceedings of SIGCSE TS 2025.*
 - Pathak, A., Gandhi, R., Uttam, V., et al. (2025). Rubric Is All You Need: Improving LLM-based Code Evaluation With Question-Specific Rubrics. *Proceedings of ICER 2025.* arXiv:2503.23989.
