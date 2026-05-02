@@ -87,6 +87,12 @@ ALREADY_AUDITED[scaffolding.md]=1
 ALREADY_AUDITED[icap-framework.md]=1
 ALREADY_AUDITED[multimedia-gestaltungsprinzipien.md]=1
 ALREADY_AUDITED[peer-instruction.md]=1
+# v3 Welle 10 (2026-05-02) — Strukturelle Bulk-Sweeps (Phase A: alle DOIs aus 51 Restartikeln; Phase B: Body-Inline-vs-Quellenliste repo-weit)
+# 4 CRITs gefunden (Becker→Denny, Leppink fabr., Tafliovich fabr., Yang fabr. ×2) + ~20 MINORs Pattern #4 Variante A
+# Restartikel ohne DOI/arXiv-IDs gelten nach Phase B als „strukturell durchgesehen" (Pattern-#4-A-Treffer dokumentiert, Hybrid-Risk strukturell niedrig)
+ALREADY_AUDITED[productive-failure.md]=1
+ALREADY_AUDITED[retrieval-practice.md]=1
+ALREADY_AUDITED[testitem-konstruktion-digital.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
