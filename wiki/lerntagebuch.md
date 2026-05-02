@@ -40,7 +40,7 @@ Ein Lerntagebuch ist ein Instrument zur regelmäßigen schriftlichen Reflexion d
 
 ## Beschreibung
 
-Lerntagebücher sind ein erprobtes Instrument der pädagogischen Psychologie. Die Forschung (Uni Freiburg, PRO-SRL-EVA) zeigt: Lerntagebücher mit inhaltsspezifischen Prompts fördern Selbstmonitoring und haben positive Effekte auf Lernergebnisse. Sie machen den sonst unsichtbaren Lernprozess sichtbar — für Lernende selbst (Selbstregulation) und für Lehrkräfte ([[formatives-assessment]]).
+Lerntagebücher sind ein erprobtes Instrument der pädagogischen Psychologie. Die Forschung der Freiburger SRL-Gruppe (Nückles, Hübner, Renkl) zeigt: Lerntagebücher mit inhaltsspezifischen Prompts fördern Selbstmonitoring und haben positive Effekte auf Lernergebnisse. Sie machen den sonst unsichtbaren Lernprozess sichtbar — für Lernende selbst (Selbstregulation) und für Lehrkräfte ([[formatives-assessment]]).
 
 Zu starre Leitfragen können als einschränkend empfunden werden — die Prompts sollten an den Erfahrungsstand der Lernenden angepasst werden (vgl. [[scaffolding]]: Fading).
 
@@ -110,6 +110,6 @@ Ein Agent kann Lerntagebücher unterstützen:
 
 ## Quellen
 
-- Nückles, M. et al. (2009). The Journal as a Tool of Self-Regulated Learning for First-Year Students' Learning in Basic Statistics. Educational Research and Evaluation, 15(2), 163-186.
+- Nückles, M., Hübner, S. & Renkl, A. (2009). Enhancing self-regulated learning by writing learning protocols. *Learning and Instruction*, 19(3), 259-271. https://doi.org/10.1016/j.learninstruc.2008.05.002
 - Glogger, I. et al. (2012). Learning Strategies Assessed by Journal Writing: Prediction of Learning Outcomes by Quantity, Quality, and Diversity. Learning and Instruction, 22(2), 148-156.
 - Zimmerman, B. J. (2002). Becoming a Self-Regulated Learner: An Overview. Theory into Practice, 41(2), 64-70.
