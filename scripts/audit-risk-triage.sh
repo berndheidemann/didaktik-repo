@@ -126,6 +126,18 @@ ALREADY_AUDITED[spaced-repetition-algorithmen.md]=1
 ALREADY_AUDITED[gamification-it-unterricht.md]=1
 ALREADY_AUDITED[use-modify-create.md]=1
 ALREADY_AUDITED[aufgabentypen-interaktive-lernumgebungen.md]=1
+# v3 Welle 15 (2026-05-02) — Dritte/letzte Welle Praxis-/Methoden-Sweep (Option B); 1 CRIT + 6 MAJOR + 10 MINOR
+# 8 Subagents parallel (statt 5) — alle verbleibenden type:methode/praxis-Artikel im Restpool.
+# Pop-Wissenschafts-Folklore-CRIT (Svabensky 2021 als CTF-Wirkungsbeleg) reproduziert Welle-13/14-Subpattern.
+# Lebende Web-Resources Datierungs-Drifts (Replit, Codespaces, CAST UDL) bestätigen Welle-14-Erkenntnis.
+ALREADY_AUDITED[browser-ide-gestuetzte-tutorials.md]=1
+ALREADY_AUDITED[flipped-classroom.md]=1
+ALREADY_AUDITED[immersive-simulationen.md]=1
+ALREADY_AUDITED[lernsituationen-gestalten.md]=1
+ALREADY_AUDITED[live-coding-lehrmethode.md]=1
+ALREADY_AUDITED[pair-programming-unterricht.md]=1
+ALREADY_AUDITED[parsons-problems.md]=1
+ALREADY_AUDITED[spaced-repetition-scheduler-bauen.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
