@@ -66,16 +66,16 @@ ICAP wählt **sichtbares Verhalten** als Proxy — bewusst methodisch, damit Leh
 ### Evidenz und Kritik
 
 **Stützende Befunde:**
-- **Chi, Adams et al. (2018)** — 5-Jahres-Feldstudie, K–12-Lehrkräfte in ICAP geschult: je präziser Lehrkräfte Aktivitäten in höhere ICAP-Modi übersetzten, desto größer der Schülerlerngewinn.
-- **Wiggins et al. (2017)** — großer Biologie-Kurs, quasi-experimentell: Interactive-Tage > Constructive-Tage im Lerngewinn (d ≈ 0,2–0,4).
-- **Wu & Schunn (2023)** — erweitertes ICAP-Coding für Unterrichtsbeobachtung; zeigt, dass Lehrkräfte mit Training reliabel kodieren.
+- **Chi, Adams et al. (2018)** — 5-Jahres-Feldstudie, K–12-Lehrkräfte in ICAP geschult: Lehrkräfte hatten beim Designen von C/I-Aktivitäten Schwierigkeiten, dennoch lernten Schüler:innen in C-Bedingungen signifikant mehr als in A.
+- **Wiggins et al. (2017)** — großer Biologie-Kurs, quasi-experimentell: Interactive-Tage > Constructive-Tage im Lerngewinn (Effekt nominell klein, signifikant).
+- **Wu & Schunn (2023)** — Peer-Feedback-Studie an 5 US-High-Schools (n=367 AP-Schüler:innen): konstruktiv-engagiertes Peer-Feedback erzeugt höheren Lerngewinn als passives Lesen — als Anwendungsfall des ICAP-Modells außerhalb des Klassenzimmers.
 
 **Zentrale Kritik — Thurn, Edelsbrunner, Berkowitz et al. (2023, npj Science of Learning):**
 
-1. **Overt-Verhalten ist ambig**: kognitive Tiefe lässt sich aus Oberflächenverhalten nicht zuverlässig ablesen.
-2. **I > C > A > P gilt nicht universell**: Bei Novizen ohne Vorwissen schlägt Direct Instruction (oft als P/A kodiert) konstruktive Selbstlernformate — Expertise-Reversal-Effekt (siehe [[cognitive-load-theory]]).
+1. **Overt-Verhalten ist ambig** (overt unreliability): kognitive Tiefe lässt sich aus Oberflächenverhalten nicht zuverlässig ablesen.
+2. **I > C > A > P gilt nicht universell** (hierarchy lacks empirical support): Bei Novizen ohne Vorwissen und in teacher-guided instruction schlägt Direct Instruction (oft als P/A kodiert) konstruktive Selbstlernformate — Expertise-Reversal-Effekt (siehe [[cognitive-load-theory]]).
 3. **Menekse-Studien als Evidenzbasis schwach**: Passive-Bedingung war lautes Vorlesen, nicht natürliches Zuhören; I-vs-C-Effekte klein und inkonsistent.
-4. **Hilfenutzung**: "Passive" Lernende holen sich u. U. gerade die Info, die sie brauchen — höherer Modus ist nicht immer besser für diese Person in diesem Moment.
+4. **Verdeckte Prozesse vernachlässigt** (covert processes): Das Framework klassifiziert nur sichtbares Verhalten — innere konstruktive Prozesse beim scheinbar passiven Zuhören bleiben unerkannt.
 
 Thurn et al. empfehlen: **formatives Assessment** ([[formatives-assessment]]) als Diagnose, ICAP als **Design-Heuristik**, nicht als Lern-Messinstrument.
 
@@ -163,8 +163,8 @@ Beim Planen einer Stunde oder Lernsituation:
 
 - Chi, M. T. H. (2009). Active-constructive-interactive: A conceptual framework for differentiating learning activities. *Topics in Cognitive Science, 1*(1), 73–105. https://doi.org/10.1111/j.1756-8765.2008.01005.x
 - Chi, M. T. H. & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. https://doi.org/10.1080/00461520.2014.965823
-- Chi, M. T. H., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Levy, R., McEldoon, K., Stump, G. S., Wylie, R., Xu, D. & Yaghmourian, D. L. (2018). Translating the ICAP theory of cognitive engagement into practice. *Cognitive Science, 42*(6), 1777–1832. https://doi.org/10.1111/cogs.12626
+- Chi, M. T. H., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Levy, R., Li, N., McEldoon, K. L., Stump, G. S., Wylie, R., Xu, D. & Yaghmourian, D. L. (2018). Translating the ICAP theory of cognitive engagement into practice. *Cognitive Science, 42*(6), 1777–1832. https://doi.org/10.1111/cogs.12626
 - Wiggins, B. L., Eddy, S. L., Grunspan, D. Z. & Crowe, A. J. (2017). The ICAP active learning framework predicts the learning gains observed in intensely active classroom experiences. *AERA Open, 3*(2). https://doi.org/10.1177/2332858417708567
-- Thurn, C. M., Edelsbrunner, P. A., Berkowitz, M., Deiglmayr, A. & Schumacher, R. (2023). Questioning central assumptions of the ICAP framework. *npj Science of Learning, 8*, 55. https://doi.org/10.1038/s41539-023-00197-4
-- Wu, L. & Schunn, C. D. (2023). Passive, active, constructive, and interactive: An extended ICAP-based coding guide as a framework for the analysis of classroom observations. *Contemporary Educational Psychology, 73*, 102160.
+- Thurn, C. M., Edelsbrunner, P. A., Berkowitz, M., Deiglmayr, A. & Schalk, L. (2023). Questioning central assumptions of the ICAP framework. *npj Science of Learning, 8*, 49. https://doi.org/10.1038/s41539-023-00197-4
+- Wu, Y. & Schunn, C. D. (2023). Passive, active, and constructive engagement with peer feedback: A revised model of learning from peer feedback. *Contemporary Educational Psychology, 73*, 102160. https://doi.org/10.1016/j.cedpsych.2023.102160
 - Clearing House Unterricht. (o. D.). *ICAP-Hypothese.* TU München. https://www.clearinghouse.edu.tum.de/glossar/icap-hypothese/
