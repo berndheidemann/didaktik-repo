@@ -46,7 +46,7 @@ Interactive Fiction (IF) stellt genau solche Entscheidungssituationen als verzwe
 - **SugarCube** — mächtiger, vieles möglich (Variablen, Speicherstände, komplexe Logik), aber mehr Einarbeitung nötig. Empfohlen ab mittlerer Komplexität.
 - **Chapbook** — neueres Format mit eingebauten Inserts/Modifiers für häufige Autorenaufgaben.
 
-**Alternativen zu Twine.** Für eher programmierorientierte Klassen ist **Ink** von Inkle Studios (Macher von *80 Days*) interessant — eine Markup-Sprache für Branching-Narrative, die sich gut in JavaScript/Unity einbinden lässt (Inkle Studios, 2023). **Inklewriter** ist ein einfaches Webtool zum Skizzieren von Baumstrukturen.
+**Alternativen zu Twine.** Für eher programmierorientierte Klassen ist **Ink** von Inkle Studios (Macher von *80 Days*) interessant — eine Markup-Sprache für Branching-Narrative, die sich gut in JavaScript/Unity einbinden lässt (Inkle Studios, 2016). **Inklewriter** ist ein einfaches Webtool zum Skizzieren von Baumstrukturen.
 
 **Warum das Format wirkt.**
 
@@ -112,7 +112,7 @@ Rolle: FIAE im 2. Lehrjahr, Support-Team. Start: Um 16:47 Uhr kommt eine Mail "v
 Rolle: FIAE, Admin. Ein Kunde ruft an, braucht "sofort" die Mailarchive eines gestern gekündigten Mitarbeiters. Optionen: *(a) Export liefern*, *(b) Schriftliche Anweisung verlangen*, *(c) Datenschutzbeauftragten einbinden*, *(d) Verweis auf Art. 6 DSGVO, Rechtsgrundlage prüfen*. Jeder Pfad bringt rechtliche und betriebliche Konsequenzen — inkl. möglicher Anhörung durch die Landesdatenschutzbehörde. Kopplung zu [[datenschutz-lernumgebungen]]: Nach dem Spiel die korrekte Vorgehensweise im echten Recht nachlesen.
 
 **LF8 — Incident Response ("Die Ransomware am Freitagabend").**
-Rolle: IT-Dienstleister, Rufbereitschaft. 19:30 Uhr, Kunde meldet verschlüsselte Dateien. Entscheidungen: Netzwerk sofort trennen? Backup prüfen? Polizei/BSI melden? Lösegeld-Dialog öffnen? Geschäftsführer anrufen? Jeder Pfad führt durch IR-Phasen (Contain → Eradicate → Recover) und zeigt Folgekosten. Entspricht einem CISA Tabletop Exercise in Miniatur (CISA, 2024). Debrief: BSI-IT-Grundschutz-Bausteine DER.2.1 / DER.2.3 zuordnen.
+Rolle: IT-Dienstleister, Rufbereitschaft. 19:30 Uhr, Kunde meldet verschlüsselte Dateien. Entscheidungen: Netzwerk sofort trennen? Backup prüfen? Polizei/BSI melden? Lösegeld-Dialog öffnen? Geschäftsführer anrufen? Jeder Pfad führt durch IR-Phasen (Contain → Eradicate → Recover) und zeigt Folgekosten. Entspricht einem CISA Tabletop Exercise Package (CTEP) in Miniatur. Debrief: BSI-IT-Grundschutz-Bausteine DER.2.1 / DER.2.3 zuordnen.
 
 **Zusatz LF3 — Ticket-Eskalation & Social Engineering.**
 "Kollege Meier ruft am Helpdesk an und braucht 'nur kurz' das lokale Admin-Passwort, sonst geht die Präsentation für den Vorstand um 14 Uhr baden." Lernziel: Eskalationswege, Schutz vor Pretexting, ITIL-Major-Incident-Prozess. Passt zu [[fehlerkultur-im-unterricht]] — falsch reagieren ist Teil des Lernweges.
@@ -144,11 +144,11 @@ Für den Einsatz als wiederkehrendes Format lohnt sich ein kleines Szenario-Arch
 
 - Bransford, J. D., & Schwartz, D. L. (1999). Rethinking transfer: A simple proposal with multiple implications. *Review of Research in Education, 24*, 61–100.
 - Chernikova, O., Heitzmann, N., Stadler, M., Holzberger, D., Seidel, T., & Fischer, F. (2020). Simulation-based learning in higher education: A meta-analysis. *Review of Educational Research, 90*(4), 499–541.
-- CISA — Cybersecurity and Infrastructure Security Agency. (2024). *Cybersecurity Tabletop Exercise Tips*. https://www.cisa.gov/resources-tools/services/cisa-tabletop-exercise-packages
+- CISA — Cybersecurity and Infrastructure Security Agency. (o. J.). *CISA Tabletop Exercise Packages (CTEP)*. https://www.cisa.gov/resources-tools/services/cisa-tabletop-exercise-packages
 - Desilets, B. (o. J.). *Interactive Fiction and Critical Thinking*. https://bdesilets.com/if/
 - Farber, M. (2014). Interactive Fiction in the Classroom. *Edutopia*. https://www.edutopia.org/blog/interactive-fiction-in-the-classroom-matthew-farber
 - Ho, G., et al. (2025). Understanding the Efficacy of Phishing Training in Practice. *IEEE Symposium on Security and Privacy*. https://people.cs.uchicago.edu/~grantho/papers/oakland2025_phishing-training.pdf
-- Inkle Studios. (2023). *Ink — Inkle's narrative scripting language*. https://www.inklestudios.com/ink/
+- Inkle Studios. (2016). *Ink — Inkle's narrative scripting language* (Open Source seit 03/2016). https://www.inklestudios.com/ink/
 - ISTE. (2023). Students choose their own learning adventures with interactive fiction. https://iste.org/blog/students-choose-their-own-learning-adventures-with-interactive-fiction
 - Kirilloff, G. (2021). Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine. *Programming Historian*. https://programminghistorian.org/en/lessons/interactive-text-games-using-twine
 - Moore, C. (2017). *Map It: The hands-on guide to strategic training design*. Montesa Press. Begleitend: blog.cathy-moore.com

@@ -182,10 +182,10 @@ Dieses Rubric lässt sich für [[llm-as-grader|LLM-Grading]] verwenden. Pathak e
 - Whalley, J., Lister, R., Thompson, E., Clear, T., Robbins, P., Kumar, P. K. A. & Prasad, C. (2006). An Australasian study of reading and comprehension skills in novice programmers, using the Bloom and SOLO taxonomies. *Proceedings of ACE 2006.*
 - Murphy, L., Fitzgerald, S., Lister, R. & McCauley, R. (2012). Ability to "explain in plain English" linked to proficiency in computer-based programming. *Proceedings of ICER 2012,* 111–118.
 - Corney, M., Fitzgerald, S., Hanks, B., Lister, R., McCauley, R. & Murphy, L. (2014). "Explain in plain English" questions revisited: Data structures problems. *Proceedings of SIGCSE 2014,* 591–596.
-- Chen, B., Azad, S., West, M. & Zilles, C. (2020). A validated scoring rubric for Explain-in-Plain-English questions. *Proceedings of SIGCSE 2020.*
+- Chen, B., Azad, S., Haldar, R., West, M. & Zilles, C. (2020). A validated scoring rubric for Explain-in-Plain-English questions. *Proceedings of SIGCSE 2020.*
 - Fowler, M., Chen, B., Azad, S., West, M. & Zilles, C. (2021). Autograding "Explain in Plain English" questions using NLP. *Proceedings of SIGCSE 2021.*
 - Fowler, M., Smith, D. H., Hassan, M., Poulsen, S., West, M. & Zilles, C. (2022). Reevaluating the relationship between explaining, tracing, and writing skills in CS1. *Computer Science Education, 32*(3), 355–383. https://doi.org/10.1080/08993408.2022.2079866
 - Denny, P., Smith, D. H., Fowler, M., Prather, J., Becker, B. A., & Leinonen, J. (2024). Explaining Code with a Purpose: An Integrated Approach for Developing Code Comprehension and Prompting Skills. *Proceedings of ITiCSE 2024.* arXiv:2403.06050.
-- Kerslake, E., Denny, P. et al. (2025). Exploring student reactions to LLM-generated feedback on Explain in Plain English problems. *Proceedings of SIGCSE TS 2025.*
+- Kerslake, C., Denny, P. et al. (2025). Exploring student reactions to LLM-generated feedback on Explain in Plain English problems. *Proceedings of SIGCSE TS 2025.*
 - Pathak, A., Gandhi, R., Uttam, V., et al. (2025). Rubric Is All You Need: Improving LLM-based Code Evaluation With Question-Specific Rubrics. *Proceedings of ICER 2025.* arXiv:2503.23989.
 - Sentance, S., Waite, J. & Kallia, M. (2019). Teachers' experiences of using PRIMM to teach programming in school. *Proceedings of SIGCSE 2019.*

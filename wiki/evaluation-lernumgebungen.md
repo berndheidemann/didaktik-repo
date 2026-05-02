@@ -156,7 +156,7 @@ Evaluation ist selbst ein Lerninhalt: In LF10a-12a können Azubis ihre eigenen S
 
 - Barab, S., & Squire, K. (2004). Design-Based Research: Putting a stake in the ground. *Journal of the Learning Sciences*, 13(1), 1-14.
 - Wang, F., & Hannafin, M. J. (2005). Design-based research and technology-enhanced learning environments. *Educational Technology Research and Development*, 53(4), 5-23.
-- Reeves, T. C. (2006). Design research from a technology perspective. In J. van den Akker et al. (Eds.), *Educational Design Research* (pp. 52-66). Routledge.
+- Reeves, T. C. (2006). Design research from a technology perspective. In J. van den Akker, K. Gravemeijer, S. McKenney & N. Nieveen (Eds.), *Educational Design Research* (pp. 86–109). Routledge.
 - Nielsen, J. (2000). *Why you only need to test with 5 users.* Nielsen Norman Group.
 - Ericsson, K. A., & Simon, H. A. (1993). *Protocol Analysis: Verbal Reports as Data* (rev. ed.). MIT Press.
 - Siemens, G., & Long, P. (2011). Penetrating the fog: Analytics in learning and education. *EDUCAUSE Review*, 46(5), 30-40.
