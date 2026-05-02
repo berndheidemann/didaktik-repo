@@ -176,7 +176,6 @@ Dieser Artikel schließt den ironischen Kreis: Wer eine DSGVO-Lernumgebung baut,
 
 - Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung). Insbesondere Art. 4, 5, 6, 8, 9, 13, 15, 17, 25, 28, 30, 32, 35.
 - Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder (DSK) (2024). *Orientierungshilfe: Künstliche Intelligenz und Datenschutz*.
-- European Data Protection Board (2023). *Guidelines on the Application of the GDPR in the Digital Education Context*.
 - EuGH (2020). Urteil C-311/18 (Schrems II).
 - EU-Kommission (2023). Durchführungsbeschluss (EU) 2023/1795 zum EU-US Data Privacy Framework.
 - Bayerischer Landesbeauftragter für den Datenschutz (2024). *Orientierungshilfe: Datenschutz an Schulen in Bayern*.
