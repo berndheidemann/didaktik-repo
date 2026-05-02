@@ -56,7 +56,7 @@ Gruppiert nach den drei Design-Zielen: **(A) Extraneous Processing reduzieren**,
 |---|---|---|---|---|
 | **A — Extraneous reduzieren** |
 | 1 | **Coherence** | Irrelevante Medien verbrauchen Kapazität | Jedes Bild/Wort/Sound weg, das nicht dem Lernziel dient | ~0,86 |
-| 2 | **Signaling** | Lernende erkennen Kernideen nicht | Kernbegriffe fett, Pfeile, Farb-Highlights, Gliederungs-Hinweise | ~0,69 |
+| 2 | **Signaling** | Lernende erkennen Kernideen nicht | Kernbegriffe fett, Pfeile, Farb-Highlights, Gliederungs-Hinweise | ~0,41 (24/28 Tests; Mayer & Fiorella 2014) |
 | 3 | **Redundancy** | Text + identische Narration überlastet visuellen Kanal | Bei gesprochener Erklärung **keinen** wortgleichen Bildschirmtext | ~0,86 |
 | 4 | **Spatial Contiguity** | Trennung von Text & Bild erzwingt visuelles Suchen | Label direkt am Bildelement, nicht in Legende unten | ~1,10 |
 | 5 | **Temporal Contiguity** | Zeitversatz zwischen Animation & Erklärung verhindert Verknüpfung | Narration und Animation **synchron**, nicht nacheinander | ~1,22 |

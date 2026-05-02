@@ -125,7 +125,7 @@ Parsons Problems sind eine spezifische Scaffolding-Form zwischen [[worked-exampl
 
 ### Concreteness Fading — Scaffolding auf der Repräsentations-Ebene
 
-Klassisches Fading baut *Hilfe* schrittweise ab. **Concreteness Fading** (Goldstone & Son 2005; Fyfe et al. 2014) verschiebt eine orthogonale Dimension: die **Abstraktheit der Repräsentation selbst**. Die klassische Sequenz ist dreistufig — **konkret-verkörpert → ikonisch-visuell → abstrakt-symbolisch** — mit Effektstärken d ≈ 0,4–0,7 auf Transfer in Mathematik und MINT.
+Klassisches Fading baut *Hilfe* schrittweise ab. **Concreteness Fading** (Goldstone & Son 2005; Fyfe et al. 2014) verschiebt eine orthogonale Dimension: die **Abstraktheit der Repräsentation selbst**. Die klassische Sequenz ist dreistufig — **konkret-verkörpert → ikonisch-visuell → abstrakt-symbolisch**. Einzelstudien (Goldstone & Son 2005; Fyfe et al. 2012 *Concreteness fading promotes transfer of mathematical knowledge*) berichten positive Transfer-Effekte in Mathematik und MINT; eine meta-analytische Aggregation der Effektstärken liegt nicht vor (Fyfe et al. 2014 ist ein qualitativer systematic review ohne pooled effects).
 
 **Kern:** Konkrete Repräsentationen senken die Einstiegshürde, abstrakte erhöhen Transferfähigkeit. Wer nur konkret bleibt, lernt oberflächengebunden; wer direkt abstrakt startet, scheitert am Verstehen. Der Wirkstoff ist die *Sequenz*, nicht eine Einzelstufe. Worked-Example-Fading reduziert Unterstützungsmenge, Concreteness Fading reduziert Darstellungs-Nähe zum Anschaulichen — beide Achsen sind kombinierbar.
 
