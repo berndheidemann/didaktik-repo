@@ -100,6 +100,14 @@ ALREADY_AUDITED[fehlerkultur-im-unterricht.md]=1
 ALREADY_AUDITED[kompetenzfeststellung-programmierung.md]=1
 ALREADY_AUDITED[misconception-analyse.md]=1
 ALREADY_AUDITED[notional-machines.md]=1
+# v3 Welle 12 (2026-05-02) — Zweite Stichprobe (5 zufällige aus Score-≤14-Pool, anderer Seed); 1 CRIT + 2 MAJOR + 4 MINOR
+# Welle-11-Hypothese widerlegt: Hybrid-Citations (Pattern #2) sind im Restpool weiterhin präsent (Sentance/Waite/Kallia 2019 WiPSCE; Nückles 2009 Phantom-Citation)
+# Theorie-Artikel mit kanonischen Cites (Collins/Brown/Newman, Kearsley/Shneiderman) bleiben sauber; Praxis-/Methoden-Artikel tragen weiterhin Hybrid-Risk
+ALREADY_AUDITED[primm-methode.md]=1
+ALREADY_AUDITED[lerntagebuch.md]=1
+ALREADY_AUDITED[cognitive-apprenticeship.md]=1
+ALREADY_AUDITED[engagement-theory.md]=1
+ALREADY_AUDITED[sprachsensibler-it-unterricht.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
