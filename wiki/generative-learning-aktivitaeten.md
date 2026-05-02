@@ -48,13 +48,13 @@ Fiorella und Mayer (2016) systematisieren im *Educational Psychology Review*:
 | Strategie | Aktivität | Kernevidenz |
 |---|---|---|
 | **Summarizing** | Kernaussagen in eigenen Worten | Geringe Utility, nur mit Training wirksam (Dunlosky et al., 2013, LOW-utility-Klasse) |
-| **Mapping** | Concept/Knowledge Maps bauen | Besonders bei Eigenkonstruktion (Nesbit & Adesope, 2006) |
+| **Mapping** | Concept/Knowledge Maps bauen | Wirksam in vielen Bedingungen (Nesbit & Adesope, 2006); Eigenkonstruktion vs. Studieren dezidiert in Schroeder et al. (2018) |
 | **Drawing** | Skizzen zu Text/Prozess | g = 0,69, 53 Studien, 8.111 Pers. (Fiorella & Zhang, 2018) |
-| **Imagining** | Mentales Bild erzeugen | Transfer-/Retentionsgewinne, stärker in First-Person (Leopold & Mayer, 2015) |
+| **Imagining** | Mentales Bild erzeugen | Transfer-/Retentionsgewinne (Leopold & Mayer, 2015); First-Person stärker als Third-Person (Leopold & Mayer, 2019) |
 | **Self-Testing** | Abrufen üben | Siehe [[retrieval-practice]] — top-wirksam |
 | **Self-Explaining** | Warum-Fragen beantworten | g = 0,55, 64 Studien, 6.000 Pers. (Bisra et al., 2018) |
 | **Teaching** | Anderen erklären | Tatsächliches Lehren > bloße Teaching-Expectancy für Retention; Expectancy verbessert nur Comprehension (Fiorella & Mayer, 2013) — *Protégé-Effekt* |
-| **Enacting** | Inhalt gestisch/körperlich | Vergleichbar zu Beobachtung (Oppici et al., 2023), wirksam bei prozeduralen Inhalten |
+| **Enacting** | Inhalt gestisch/körperlich | Beobachtung ≈ Enactment für L2-Vokabeln (Oppici et al., 2023); übertragbar auf prozedurale Inhalte mit Caveat |
 
 Die Strategien sind nicht additiv — zu viele auf einmal überlasten. Sie sind **Werkzeuge zur Aktivierung spezifischer SOI-Prozesse**.
 
@@ -118,6 +118,8 @@ Für [[interaktive-lernumgebungen]] lassen sich die acht Strategien als **Widget
 - Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717–741.
 - Fiorella, L., & Zhang, Q. (2018). Drawing boundary conditions for learning by drawing. *Educational Psychology Review, 30*(3), 1115–1137.
 - Leopold, C., & Mayer, R. E. (2015). An imagination effect in learning from scientific text. *Journal of Educational Psychology, 107*(1), 47–63.
+- Leopold, C., & Mayer, R. E. (2019). The Power of Imagination and Perspective in Learning From Science Text. *Journal of Educational Psychology, 111*(7), 1218-1236.
+- Schroeder, N. L., Nesbit, J. C., Anguiano, C. J., & Adesope, O. O. (2018). Studying and Constructing Concept Maps: a Meta-Analysis. *Educational Psychology Review, 30*(2), 431-455.
 - Mayer, R. E. (2010). Merlin C. Wittrock's enduring contributions to the science of learning. *Educational Psychologist, 45*(1), 46–50.
 - Mayer, R. E. (2014). Cognitive theory of multimedia learning. In R. E. Mayer (Ed.), *The Cambridge handbook of multimedia learning* (2nd ed.). Cambridge University Press.
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448.

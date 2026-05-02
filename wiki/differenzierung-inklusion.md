@@ -68,7 +68,7 @@ Carol Ann Tomlinson (2017) hat das am breitesten rezipierte Modell der Binnendif
 
 ### Neurodiversität in IT-Klassen
 
-Baron-Cohen et al. (2001) und die Empathizing-Systemizing-Hypothese zeigen: Neurodivergente sind in IT-Berufen **strukturell überrepräsentiert**, weil Systemizing (Erkennen regelbasierter Systeme) im autistischen Spektrum eine Stärke ist. Schätzungen: 3-6% im Autismus-Spektrum (vs. ~1% Allgemeinbevölkerung), 8-12% ADHS in Tech vs. ~5%. In einer FIAE-Klasse von 24 sitzen statistisch fast sicher mindestens ein:e Azubi auf dem Spektrum und 2-3 mit ADHS — meist undiagnostiziert.
+Baron-Cohen et al. (2001) zeigen mit dem Autism-Spectrum-Quotient erhöhte AQ-Werte bei Mathematik-/Naturwissenschafts-Studierenden gegenüber Geisteswissenschaftlern; die Empathizing-Systemizing-Hypothese (Baron-Cohen, 2009) liefert dafür den Erklärungsrahmen. Daraus wird in der Praxisliteratur eine erhöhte Präsenz Neurodivergenter in IT-Berufen plausibilisiert. Verbreitete Branchen-Schätzungen liegen bei 3-6 % Autismus-Spektrum (vs. ~1 % Allgemeinbevölkerung) und 8-12 % ADHS in Tech (vs. ~5 %); diese Zahlen sind nicht direkt aus Baron-Cohen 2001 abgeleitet, sondern aus Branchen-Surveys. In einer FIAE-Klasse von 24 sitzen statistisch fast sicher mindestens ein:e Azubi auf dem Spektrum und 2-3 mit ADHS — meist undiagnostiziert.
 
 | Profil | Typisches Problem | Konkrete Hilfen | Stärke nutzen |
 |---|---|---|---|
@@ -81,7 +81,7 @@ Baron-Cohen et al. (2001) und die Empathizing-Systemizing-Hypothese zeigen: Neur
 
 ### Nachteilsausgleich rechtlich und praktisch
 
-**Rechtsgrundlagen:** Art. 3 Abs. 3 GG (Benachteiligungsverbot), UN-Behindertenrechtskonvention (2009 DE, "angemessene Vorkehrungen"), SGB IX §§ 1, 2, 164, BBiG § 65 (IHK berücksichtigt "besondere Verhältnisse"), Schulgesetze der Länder, KMK-Empfehlung 2011.
+**Rechtsgrundlagen:** Art. 3 Abs. 3 GG (Benachteiligungsverbot), UN-Behindertenrechtskonvention (in DE seit 26.03.2009 in Kraft, "angemessene Vorkehrungen"), SGB IX §§ 1, 2, 164, BBiG § 65 (IHK berücksichtigt "besondere Verhältnisse"), Schulgesetze der Länder, KMK-Empfehlung 2011.
 
 **Wichtige Unterscheidung:** NTA ist *kein* Abweichen vom Leistungsniveau — die zu erreichenden Kompetenzen bleiben identisch, nur Rahmenbedingungen werden angepasst. Abgegrenzt vom "Notenschutz".
 

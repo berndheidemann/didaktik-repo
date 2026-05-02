@@ -71,7 +71,7 @@ Für KI-unterstütztes Review (Rubric-Evaluator aus [[llm-integrationsmuster-ler
 ## Durchführung
 
 1. **Rubric einführen** — 4-6 Kriterien mit je dreistufiger Skala (unzureichend/akzeptabel/vorbildlich): Funktionale Korrektheit, Lesbarkeit/Naming, Modularität, Fehlerbehandlung, Einhaltung von Konventionen.
-2. **Kalibrierungssession** — Alle bewerten denselben Code und vergleichen Ergebnisse. Reduziert Abweichungen von Expertenbewertungen von 30% auf unter 10%.
+2. **Kalibrierungssession** — Alle bewerten denselben Code und vergleichen Ergebnisse. Reduziert Abweichungen von Expertenbewertungen deutlich (Inter-Rater-Agreement-Verbesserung in Hundhausen et al. 2013).
 3. **Code einreichen** — Lernende pushen ihren Code (z.B. via GitHub Classroom als Pull Request).
 4. **Review durchführen** — Jede:r erhält den Code eines Peers. Feedback schriftlich anhand des Rubrics + Freitextkommentare.
 5. **Review-of-Review** — Lernende bewerten das erhaltene Review: War es hilfreich? Spezifisch? Konstruktiv?

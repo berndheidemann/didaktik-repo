@@ -54,8 +54,8 @@ Die Bewegung ist klein und nicht skaliert. Der zentrale Hub explorabl.es sammelt
 Die Evidenzlage ist **schwächer, als das Format optisch verspricht**:
 
 - **Engagement-Vorteil belegt.** ECCE 2023 "Impact of Scrollytelling on Reading Experience": signifikant höhere Werte für "entertaining", "stimulating", "engaging" gegenüber statischem Text. Das ist reproduzierbar.
-- **Lern-Outcome unklar.** Eine Studie zu Scrollytelling-basierten Datenschutzerklärungen (Méndez & Such, CHI 2026) fand bessere UX und niedrigere cognitive load — aber **identische Comprehension-Accuracy** gegenüber klassischer Textform. Das ist der nüchterne Befund.
-- **Keine sauberen RCTs** auf Wissenstransfer, die Explorables direkt gegen statischen Text oder Video vergleichen. Meta-Analysen zu "experiential learning" (Burch 2019, +0,5 SD) sind zu weit weg vom spezifischen Format, um belastbar übertragen zu werden.
+- **Lern-Outcome unklar.** Eine Studie zu Scrollytelling-basierten Datenschutzerklärungen (Méndez & Such, CHI 2026, n=454, 4 Bedingungen: Text, zwei Nutrition-Label-Varianten, Scrollytelling) fand bessere UX und niedrigere cognitive load — aber **vergleichbare Comprehension-Accuracy** über alle Formate. Das ist der nüchterne Befund.
+- **Keine sauberen RCTs** auf Wissenstransfer, die Explorables direkt gegen statischen Text oder Video vergleichen. Meta-Analysen zu "experiential learning" (Burch et al., 2019, d ≈ 0,43) sind zu weit weg vom spezifischen Format, um belastbar übertragen zu werden.
 
 **Was das heißt:** Explorables wirken motivational und reduzieren die Eintrittshürde zu komplexen Themen — aber sie sind **kein nachgewiesener Ersatz für Üben und Retrieval Practice**. Sie gehören in die Eröffnungsphase einer Lernsituation, nicht in die Vertiefungsphase. Das ist eine wichtige Einordnung für ein evidenzbasiertes Repo — das Format zu überverkaufen, wäre unseriös.
 
@@ -111,7 +111,7 @@ Praxisberichte (aus eigener Erprobung und anekdotisch aus der CS-Education-Commu
 
 ## Lessons Learned
 
-- **Eigenproduktion ist unrealistisch.** Nicky Case beschreibt selbst, dass "The Evolution of Trust" mehrere Wochen Entwicklung gekostet hat. Für eine Lehrkraft ohne starke JS/D3-Kenntnisse ist das selbst bei einfachen Stücken nicht in Wochen zu leisten. Kuratieren ist der realistische Pfad.
+- **Eigenproduktion ist unrealistisch.** Nicky Case beschreibt seinen Workflow ausführlich in "How I Make Explorable Explanations" — die Eigenproduktion solcher Stücke ist mehrwöchige Arbeit für jemanden mit Vollzeit-Fokus darauf. Für eine Lehrkraft ohne starke JS/D3-Kenntnisse ist das selbst bei einfachen Stücken nicht in Wochen zu leisten. Kuratieren ist der realistische Pfad.
 - **Der Kuratier-Check muss regelmäßig stattfinden.** Explorables sind häufig auf persönlichen Websites gehostet — Broken Links sind ein reales Risiko. Der obige Katalog sollte einmal pro Semester geprüft werden.
 - **Englisch-Barriere ernst nehmen.** Für viele der besten Stücke ist Englisch das Interface. Das ist für LF/Klassen mit hohem DaZ-Anteil ein Hindernis. Begriffs-Vorentlastung oder Alternativen prüfen.
 - **Nicht als "KI-Alternative" verkaufen.** Explorables sind **kein** Ersatz für adaptive KI-Lernumgebungen. Sie sind statisch — die Adaption kommt durch die Lehrkraft, die den richtigen Moment im Unterricht kennt. Das ist ein Feature, nicht ein Bug.
@@ -164,10 +164,11 @@ Wer ein eigenes Explorable-Format in eine selbst gebaute Lernumgebung integriere
 ## Quellen
 
 - Victor, B. (2011). *Explorable Explanations*. http://worrydream.com/ExplorableExplanations/
-- Case, N. (2017). *How I Make an Explorable Explanation*. Blog post. https://blog.ncase.me/how-i-make-an-explorable-explanation/
+- Case, N. (2017). *How I Make Explorable Explanations*. Blog post. https://blog.ncase.me/how-i-make-an-explorable-explanation/
 - Distill (2021). *Distill Hiatus Statement*. https://distill.pub/2021/distill-hiatus/
 - Conlen, M., & Heer, J. (2018). Idyll: A Markup Language for Authoring and Publishing Interactive Articles on the Web. *UIST 2018*. https://doi.org/10.1145/3242587.3242600
 - Ciechanowski, B. Blog mit umfangreichen interaktiven Artikeln. https://ciechanow.ski/
 - Patel, A. *Red Blob Games*. Interaktive Algorithmus-Erklärungen. https://www.redblobgames.com/
 - Tjärnhage, A., Söderström, U., Norberg, O., Andersson, M., & Mejtoft, T. (2023). The Impact of Scrollytelling on the Reading Experience of Long-Form Journalism. *ECCE 2023*. https://doi.org/10.1145/3605655.3605683
 - Méndez, G. G., & Such, J. (2026). Scrollytelling as an Alternative Format for Privacy Policies. *CHI 2026*. arXiv:2603.04367.
+- Burch, G. F., Heller, N. A., Burch, J. J., Heller, R., & Bostwick, S. (2019). Using Simulation-Based Learning to Increase Experiential Learning in Decision Sciences Courses. *Decision Sciences Journal of Innovative Education*, 17(2), 130-143. https://doi.org/10.1111/dsji.12188
