@@ -134,3 +134,5 @@ Ein Agent kann Effektstärken als Entscheidungsfilter nutzen:
 - Freeman, S. et al. (2014). Active Learning Increases Student Performance in Science, Engineering, and Mathematics. PNAS, 111(23), 8410-8415.
 - VanLehn, K. (2011). The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems. Educational Psychologist, 46(4), 197-221.
 - Simpson, A. (2017). The Misdirection of Public Policy: Comparing and Combining Standardised Effect Sizes. Journal of Education Policy, 32(4), 450-466.
+- Hannay, J. E., Dybå, T., Arisholm, E. & Sjøberg, D. I. K. (2009). The Effectiveness of Pair Programming: A Meta-Analysis. *Information and Software Technology*, 51(7), 1110–1122.
+- Slavin, R. E. (2018). Evidence-Based Reform in Education. *Best Evidence Encyclopedia* / Center for Research and Reform in Education, Johns Hopkins University.

@@ -151,3 +151,4 @@ Ein Agent kann PRIMM-Aufgaben automatisch generieren und orchestrieren:
 - Sentance, S., Waite, J. & Kallia, M. (2019). Teaching computer programming with PRIMM: a sociocultural perspective. Computer Science Education, 29(2-3), 136-176.
 - Sentance, S., Waite, J. & Kallia, M. (2019). Implementation of the PRIMM approach in K-12 schools. Proceedings of WiPSCE 2019.
 - Raspberry Pi Foundation (2021). PRIMM: A pedagogical approach to teaching programming. https://primmportal.com/
+- White, R. & Gunstone, R. (1992). *Probing Understanding*. Falmer Press.

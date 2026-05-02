@@ -228,3 +228,6 @@ Eine operative Kurzfassung dieser Regeln (z.B. als Skill im Testtool-Projekt) ka
 - Haladyna, T. M., & Downing, S. M. (1993). How many options is enough for a multiple-choice test item? *Educational and Psychological Measurement*, 53(4), 999–1010.
 - Jozefowicz, R. F., Koeppen, B. M., Case, S., Galbraith, R., Swanson, D., & Glew, R. H. (2002). The quality of in-house medical school examinations. *Academic Medicine*, 77(2), 156–161.
 - AERA, APA, & NCME. (2014). *Standards for educational and psychological testing*.
+- Bridgeman, B. (1992). A Comparison of Quantitative Questions in Open-Ended and Multiple-Choice Formats. *Journal of Educational Measurement*, 29(3), 253–271.
+- Lukhele, R., Thissen, D., & Wainer, H. (1994). On the Relative Value of Multiple-Choice, Constructed Response, and Examinee-Selected Items on Two Achievement Tests. *Journal of Educational Measurement*, 31(3), 234–250.
+- Rogers, W. T., & Bateson, D. J. (1991). The Influence of Test-Wiseness on Performance of High School Seniors on School Leaving Examinations. *Applied Measurement in Education*, 4(2), 159–183.

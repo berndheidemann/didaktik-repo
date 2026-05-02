@@ -133,3 +133,4 @@ Ein Agent kann die affektive Dimension aktiv gestalten:
 - Elliot, A. J. & McGregor, H. A. (2001). A 2 × 2 achievement goal framework. Journal of Personality and Social Psychology, 80(3), 501-519.
 - Csíkszentmihályi, M. (1990). Flow: The Psychology of Optimal Experience. Harper & Row.
 - Fong, C. J., Zaleski, D. J. & Leach, J. K. (2015). The challenge-skill balance and antecedents of flow: A meta-analytic investigation. Journal of Positive Psychology, 10(5), 425-446.
+- Becker, B. A., Denny, P., Pettit, R., Bouchard, D., Bouvier, D. J., Harrington, B., ... & Prather, J. (2019). Compiler Error Messages Considered Unhelpful: The Landscape of Text-Based Programming Error Message Research. *ITiCSE-WGR 2019: Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education*, 177–210.

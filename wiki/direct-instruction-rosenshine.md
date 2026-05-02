@@ -136,3 +136,7 @@ Ein Skill, der Lehrerpräsentationen strukturiert, sollte Rosenshine als inneres
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and Achievement in Problem-Based and Inquiry Learning. *Educational Psychologist*, 42(2), 99–107.
 - Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge. — sowie *Visible Learning: The Sequel* (2023, Routledge) als Nachfolge-Band. Aktuelle Werte: visiblelearningmetax.com.
 - Lortie-Forgues, H., & Inglis, M. (2019). Rigorous Large-Scale Educational RCTs Are Often Uninformative. *Educational Researcher*, 48(3), 158–166.
+- Brophy, J. E., & Good, T. L. (1986). Teacher behavior and student achievement. In M. C. Wittrock (Hrsg.), *Handbook of Research on Teaching* (3. Aufl., S. 328–375). Macmillan.
+- Wecker, C., Vogel, F., & Hetmanek, A. (2017). Visionär und imposant — aber auch belastbar? Eine kritische Diskussion der Methode der Synthese von Metaanalysen in Hatties *Visible Learning*. *Zeitschrift für Erziehungswissenschaft*, 20(1), 21–40.
+- Bergeron, P.-J. (2017). How to Engage in Pseudoscience With Real Data: A Criticism of John Hattie's Arguments in *Visible Learning* from the Perspective of a Statistician. *McGill Journal of Education*, 52(1), 237–246.
+- O'Neill, R. (2012). The pitfalls of "Visible Learning". (Methodenkritik an Hatties ungewichteter Mittelung; verwandte Diskussion bei Snook et al. 2009 *Invisible Learnings* in *NZ Journal of Educational Studies* 44(1).)

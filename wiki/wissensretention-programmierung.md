@@ -127,3 +127,7 @@ Ein Agent kann für dauerhafte Kompetenz optimieren:
 - Roediger, H. L. & Karpicke, J. D. (2006). Test-Enhanced Learning. Psychological Science, 17(3), 249-255.
 - Gick, M. L. & Holyoak, K. J. (1983). Schema Induction and Analogical Transfer. Cognitive Psychology, 15(1), 1-38.
 - Sorva, J. (2013). Notional Machines and Introductory Programming Education. ACM Transactions on Computing Education, 13(2), Article 8.
+- Ahadi, A. & Lister, R. (2013). Geek Genes, Prior Knowledge, Stumbling Points and Learning Edge Momentum: Parts of the One Elephant? *Proceedings of ICER 2013*, 123–128.
+- Ericsson, K. A., Krampe, R. T. & Tesch-Römer, C. (1993). The Role of Deliberate Practice in the Acquisition of Expert Performance. *Psychological Review*, 100(3), 363–406.
+- Kapur, M. (2016). Examining Productive Failure, Productive Success, Unproductive Failure, and Unproductive Success in Learning. *Educational Psychologist*, 51(2), 289–299.
+- Lewis, C. M., Yasuhara, K. & Anderson, R. E. (2017). Deciding to major in Computer Science: A Grounded Theory of Students' Self-Assessed Decision-Making Process. *Proceedings of ICER 2017*, 199–207.

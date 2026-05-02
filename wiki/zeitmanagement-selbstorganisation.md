@@ -194,3 +194,4 @@ Setup initial: 1-2 h für Personal Kanban, Pomodoro-Timer, Kalender-Blöcke. Lau
 - Mark, G., Gudith, D., & Klocke, U. (2008). The cost of interrupted work: More speed and stress. *Proceedings of CHI 2008*, 107-110.
 - Newport, C. (2016). *Deep Work: Rules for Focused Success in a Distracted World*. Grand Central.
 - Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. *Psychological Bulletin*, 133(1), 65-94.
+- Parkinson, C. N. (1955). Parkinson's Law. *The Economist* (19. November 1955); Buchfassung: *Parkinson's Law: The Pursuit of Progress* (1958, John Murray).

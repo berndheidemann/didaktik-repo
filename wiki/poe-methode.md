@@ -126,3 +126,5 @@ FIDP (Daten- und Prozessanalyse) ist kein Greenfield-Programmierberuf — die Ke
 - Kearney, M. (2004). Classroom Use of Multimedia-Supported Predict-Observe-Explain Tasks in a Social Constructivist Learning Environment. *Research in Science Education*, 34(4), 427-453.
 - Liew, C. W. & Treagust, D. F. (1998). The Effectiveness of Predict-Observe-Explain Tasks in Diagnosing Students' Understanding of Science. *Research in Science Education Conference (AARE)*.
 - Sentance, S., Waite, J. & Kallia, M. (2019). Teaching computer programming with PRIMM: a sociocultural perspective. *Computer Science Education*, 29(2-3), 136-176.
+- Vosniadou, S. (Ed.). (2013). *International Handbook of Research on Conceptual Change* (2nd ed.). Routledge.
+- Chi, M. T. H. (2008). Three Types of Conceptual Change: Belief Revision, Mental Model Transformation, and Categorical Shift. In S. Vosniadou (Ed.), *Handbook of Research on Conceptual Change* (pp. 61–82). Routledge.
