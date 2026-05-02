@@ -74,4 +74,4 @@ Wenn eine Lehrkraft bereits mit CLT, Scaffolding und Subskill-Progression arbeit
 - Ikutani, Y., Kubo, T., Nishida, S., Hata, H., Matsumoto, K., Ikeda, K. & Nishimoto, S. (2021). Expert Programmers Have Fine-Tuned Cortical Representations of Source Code. *eNeuro*, 8(1), ENEURO.0405-20.2020. https://doi.org/10.1523/ENEURO.0405-20.2020
 - Peitek, N. et al. (2021). Program Comprehension and Code Complexity Metrics: An fMRI Study. *ICSE '21*, 524–536.
 - Siegmund, J. et al. (2014). Understanding Understanding Source Code with Functional Magnetic Resonance Imaging. *ICSE '14*, 378–389.
-- Dehaene, S. & Cohen, L. (2007). Cultural Recycling of Cortical Maps. *Neuron*, 56(2), 209–217.
+- Dehaene, S. & Cohen, L. (2007). Cultural Recycling of Cortical Maps. *Neuron*, 56(2), 384–398. https://doi.org/10.1016/j.neuron.2007.10.004

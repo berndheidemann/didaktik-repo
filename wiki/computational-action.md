@@ -54,14 +54,16 @@ Hal Abelson (App Inventor, Logo) und Mike Tissenbaum kritisieren, dass viele CT-
 
 Computational Identity ist verwandt mit [[affektive-dimensionen]] (Selbstwirksamkeit), aber spezifischer: Es geht nicht nur um "ich kann das technisch", sondern um die Identifikation mit der Rolle. Digital Empowerment ist die Brücke vom Lernen zum Handeln in der Welt.
 
-### Vier Designprinzipien (Tissenbaum et al., 2021)
+### Designkriterien — didaktische Lesart
 
-In einem späteren Paper (BJET 2021) formulieren die Autoren vier Prinzipien für computational-action-orientierte Lernumgebungen:
+Das Tissenbaum-Framework strukturiert sich originär als zwei Dimensionen × je zwei Kriterien (insgesamt vier Kriterien): Lernende sollen für die Artikulation und das Design eigener Lösungen verantwortlich sein, gegenüber der Computing-/Engineering-Community authentisch arbeiten, in persönlich relevanten Kontexten lernen und Wirkungspotential im eigenen Leben oder ihrer Community erfahren (Tissenbaum 2019, ausgebaut in Tissenbaum/Weintrop/Holbert/Clegg 2021).
+
+Als didaktische Merkhilfe lassen sich diese Kriterien zu vier As verdichten — **nicht als zitierte Tissenbaum-Liste, sondern als Lesart für den Unterrichtsalltag**:
 
 1. **Authenticity** — echte Probleme echter Menschen, nicht didaktische Spielwiese
 2. **Audience** — echte Adressaten, die das Produkt nutzen
 3. **Agency** — Lernende treffen substanzielle Entscheidungen über Inhalt und Form
-4. **Iteration** — kontinuierliche Verbesserung statt einmaliger Abgabe
+4. **Iteration** — kontinuierliche Verbesserung statt einmaliger Abgabe (im 2021-Paper als DBR-Forschungsmethode, hier didaktisch als Prozessprinzip übernommen)
 
 ### App Inventor als Beleg
 
