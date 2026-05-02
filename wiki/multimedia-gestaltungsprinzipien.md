@@ -171,9 +171,11 @@ Einarbeitungszeit in Mayers Prinzipien: 2-4 h (Kernkonzepte + Referenz durchgehe
 ## Quellen
 
 - Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press.
-- Mayer, R. E. (Ed.). (2021). *The Cambridge Handbook of Multimedia Learning* (3rd ed.). Cambridge University Press.
+- Mayer, R. E., & Fiorella, L. (Eds.). (2021). *The Cambridge Handbook of Multimedia Learning* (3rd ed.). Cambridge University Press.
 - Mayer, R. E., & Moreno, R. (2003). Nine ways to reduce cognitive load in multimedia learning. *Educational Psychologist*, 38(1), 43-52.
 - Um, E. R., Plass, J. L., Hayward, E. O., & Homer, B. D. (2012). Emotional design in multimedia learning. *Journal of Educational Psychology*, 104(2), 485-498.
 - Fiorella, L., & Mayer, R. E. (2015). *Learning as a Generative Activity: Eight Learning Strategies that Promote Understanding*. Cambridge University Press.
 - Mayer, R. E., & DaPra, C. S. (2012). An embodiment effect in computer-based learning with animated pedagogical agents. *Journal of Experimental Psychology: Applied*, 18(3), 239-252.
 - Ginns, P. (2006). Integrating information: A meta-analysis of the spatial contiguity and temporal contiguity effects. *Learning and Instruction*, 16(6), 511-525.
+- Mayer, R. E., & Jackson, J. (2005). The case for coherence in scientific explanations: Quantitative details can hurt qualitative understanding. *Journal of Experimental Psychology: Applied*, 11(1), 13-18.
+- Rey, G. D. (2012). A review and a meta-analysis of the seductive detail effect. *Educational Research Review*, 7(3), 216-237. https://doi.org/10.1016/j.edurev.2012.05.003

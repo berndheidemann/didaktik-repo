@@ -175,8 +175,9 @@ Ein Agent kann Worked Examples adaptiv einsetzen:
 ## Quellen
 
 - Sweller, J. & Cooper, G. A. (1985). The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra. Cognition and Instruction, 2(1), 59-89.
-- Atkinson, R. K., Derry, S. J., Renkl, A. & Wortham, D. (2000). Learning from Examples: Instructional Principles. Review of Educational Research, 70(2), 181-214.
-- Renkl, A. (2014). Toward an Instructionally Oriented Theory of Example-Based Learning. Cognitive Science, 38(1), 1-37.
+- Atkinson, R. K., Derry, S. J., Renkl, A. & Wortham, D. (2000). Learning from Examples: Instructional Principles from the Worked Examples Research. *Review of Educational Research*, 70(2), 181-214.
+- Renkl, A., Atkinson, R. K., Maier, U. H. & Staley, R. (2002). From Example Study to Problem Solving: Smooth Transitions Help Learning. *The Journal of Experimental Education*, 70(4), 293-315.
+- Renkl, A. (2014). Toward an Instructionally Oriented Theory of Example-Based Learning. *Cognitive Science*, 38(1), 1-37.
 - Barbieri, C. A. et al. (2023). A Meta-Analysis of the Worked Examples Effect on Mathematics Performance. Educational Psychology Review, 35(1), Article 11.
 - Margulieux, L. E., Morrison, B. B. & Decker, A. (2020). Reducing Withdrawal and Failure Rates in Introductory Programming with Subgoal Labeled Worked Examples. Int. Journal of STEM Education, 7, Article 19.
 - Denny, P., Luxton-Reilly, A. & Simon, B. (2008). Evaluating a new exam question: Parsons problems. ICER 2008.

@@ -101,7 +101,7 @@ Peer Instruction eignet sich besonders für [[threshold-concepts]] der Informati
 | **LF8 (APIs)** | "Welcher HTTP-Statuscode für 'Ressource erstellt'? A) 200 B) 201 C) 204 D) 301" |
 | **LF11a (OOP)** | "Was passiert, wenn Methode der Subklasse aufgerufen wird?" (Polymorphie) |
 
-Porter et al. (2013) zeigen: **61% weniger Durchfaller** in CS-Kursen mit Peer Instruction gegenüber traditioneller Vorlesung. Zingaro & Porter (2014) fanden, dass PI besonders bei Higher-Order-Fragen wirkt — nicht nur Faktenabfrage.
+Porter et al. (2013) zeigen: **61% weniger Durchfaller** in CS-Kursen mit Peer Instruction gegenüber traditioneller Vorlesung. Zingaro & Porter (2014) fanden, dass PI bei anspruchsvolleren ConcepTests die größten Lerngewinne bringt — und dass Instruktor-Intervention nach der Peer-Diskussion (raw gain 22 % vs. 14 % ohne) eine zusätzliche Wirkung beisteuert.
 
 ## Praktische Anwendung
 
