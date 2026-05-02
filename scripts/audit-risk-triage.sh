@@ -138,6 +138,15 @@ ALREADY_AUDITED[live-coding-lehrmethode.md]=1
 ALREADY_AUDITED[pair-programming-unterricht.md]=1
 ALREADY_AUDITED[parsons-problems.md]=1
 ALREADY_AUDITED[spaced-repetition-scheduler-bauen.md]=1
+# v3 Welle 16 (2026-05-02) — Gezielter Mini-Sweep auf 4 Praxis-nahe Theorie-Artikel; 2 CRIT + 3 MAJOR + 1 MINOR
+# Heißeste Welle der gesamten Audit-Reihe (29% CRIT+MAJOR-Dichte). neurodidaktik-programmieren ist
+# der dirtieste Single-Artikel im Repo gewesen (4 schwere Befunde: Peitek/Ikutani-Hybrid, Ivanova/Liu-
+# Misattribution, Dehaene/Cohen-Pages-Drift). Plus computational-action „Vier-A-Synthese" (Pattern #17).
+# Heuristik „verdächtige Praxis-nahe Theorie-Artikel" funktioniert: 3/4 Artikel substanzielle Befunde.
+ALREADY_AUDITED[learning-engineering.md]=1
+ALREADY_AUDITED[neurodidaktik-programmieren.md]=1
+ALREADY_AUDITED[threshold-concepts.md]=1
+ALREADY_AUDITED[computational-action.md]=1
 
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
