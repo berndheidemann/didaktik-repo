@@ -34,7 +34,7 @@ summary: >
 
 ## Kernidee
 
-Erfahrene Programmierer:innen haben so viel automatisiert, dass sie beim Erklären entscheidende Denkschritte überspringen — der **Expert Blind Spot** (Nathan & Petrosino, 2003). Cognitive Task Analysis ist eine Familie von Interview- und Beobachtungsmethoden, die dieses implizite Wissen systematisch freilegt. Das Ergebnis wird zum Rohmaterial für [[worked-examples]], [[scaffolding]]-Stufen und [[lernsituationen-gestalten]].
+Erfahrene Programmierer:innen haben so viel automatisiert, dass sie beim Erklären entscheidende Denkschritte überspringen — das **Expert-Blind-Spot**-Phänomen (Begriff geprägt von Nathan & Petrosino 2003 für Math-Preservice-Teachers; in der Instruktionsdesign-Literatur breiter als Curse of Knowledge generalisiert, vgl. Hinds 1999, Clark et al. 2008). Cognitive Task Analysis ist eine Familie von Interview- und Beobachtungsmethoden, die dieses implizite Wissen systematisch freilegt. Das Ergebnis wird zum Rohmaterial für [[worked-examples]], [[scaffolding]]-Stufen und [[lernsituationen-gestalten]].
 
 ## Beschreibung
 
