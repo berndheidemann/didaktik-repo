@@ -139,4 +139,5 @@ Ein Agent kann Debugging-Kompetenz systematisch aufbauen:
 
 - Vessey, I. (1985). Expertise in Debugging Computer Programs: A Process Analysis. International Journal of Man-Machine Studies, 23(5), 459-494.
 - Ko, A. J. & Myers, B. A. (2004). Designing the Whyline: A Debugging Interface for Asking Questions About Program Behavior. Proceedings of CHI 2004, 151-158.
-- Michaeli, T. & Romeike, R. (2019). Current Status and Perspectives of Debugging in the K-12 Classroom. Proceedings of WiPSCE 2019.
+- Michaeli, T. & Romeike, R. (2019). Improving Debugging Skills in the Classroom — The Effects of Teaching a Systematic Debugging Process. *Proceedings of WiPSCE 2019* (14th Workshop in Primary and Secondary Computing Education), 1-7. https://doi.org/10.1145/3361721.3361724
+- Michaeli, T. & Romeike, R. (2019). Current Status and Perspectives of Debugging in the K-12 Classroom: A Qualitative Study. *Proceedings of EDUCON 2019* (IEEE Global Engineering Education Conference), 1030-1038. https://doi.org/10.1109/EDUCON.2019.8725282

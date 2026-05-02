@@ -92,7 +92,7 @@ Die Situation muss **konkret, beobachtbar, wiederkehrend** sein — kein "wenn i
 
 ### Deep Work Blocks (Newport)
 
-**Problem:** Programmieren und Lernen brauchen ungestörte Konzentration, aber jede Push-Notification zerlegt den mentalen Stack. Mark et al. (2008): Nach einer Unterbrechung dauert es im Schnitt **23 Minuten und 15 Sekunden**, bis man zum unterbrochenen Task zurückkehrt.
+**Problem:** Programmieren und Lernen brauchen ungestörte Konzentration, aber jede Push-Notification zerlegt den mentalen Stack. Mark, Gonzalez & Harris (2005) maßen, dass nach Unterbrechungen im Durchschnitt **etwa 23 Minuten** vergehen, bis Beschäftigte zur ursprünglichen Aufgabe zurückkehren — Mark et al. (2008) zeigten zusätzlich, dass unterbrochene Arbeit zwar oft schneller, aber unter höherem Stress erledigt wird.
 
 **Umsetzung:** 90-120-Minuten-Blöcke im Kalender reservieren, 2x pro Woche ein solcher Block für AP2-Projektarbeit. Handy aus, Browser ohne Tabs, Discord zu. Ritual zum Einstieg (Tee, Kopfhörer, bestimmter Ort) senkt Startkosten. Deep Work ist die **Infrastruktur**, die [[affektive-dimensionen|Flow]] erst möglich macht.
 
@@ -191,7 +191,8 @@ Setup initial: 1-2 h für Personal Kanban, Pomodoro-Timer, Kalender-Blöcke. Lau
 - Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist*, 54(7), 493-503.
 - Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis. *Advances in Experimental Social Psychology*, 38, 69-119.
 - Kahneman, D., & Tversky, A. (1979). Intuitive prediction: Biases and corrective procedures. *TIMS Studies in Management Science*, 12, 313-327.
-- Mark, G., Gudith, D., & Klocke, U. (2008). The cost of interrupted work: More speed and stress. *Proceedings of CHI 2008*, 107-110.
+- Mark, G., Gonzalez, V. M., & Harris, J. (2005). No task left behind? Examining the nature of fragmented work. *Proceedings of CHI 2005*, 321-330. https://doi.org/10.1145/1054972.1055017
+- Mark, G., Gudith, D., & Klocke, U. (2008). The cost of interrupted work: More speed and stress. *Proceedings of CHI 2008*, 107-110. https://doi.org/10.1145/1357054.1357072
 - Newport, C. (2016). *Deep Work: Rules for Focused Success in a Distracted World*. Grand Central.
 - Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. *Psychological Bulletin*, 133(1), 65-94.
 - Parkinson, C. N. (1955). Parkinson's Law. *The Economist* (19. November 1955); Buchfassung: *Parkinson's Law: The Pursuit of Progress* (1958, John Murray).

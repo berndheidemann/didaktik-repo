@@ -195,6 +195,6 @@ Ein Agent oder eine Lehrkraft kann den Prozess unterstützen:
 - Zeidner, M. (2007). Test anxiety in educational contexts. In P. A. Schutz & R. Pekrun (Eds.), *Emotion in Education* (pp. 165-184). Academic Press.
 - Rohrer, D., & Taylor, K. (2007). The shuffling of mathematics problems improves learning. *Instructional Science*, 35(6), 481-498.
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest*, 14(1), 4-58.
-- Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties. In M. A. Gernsbacher et al. (Eds.), *Psychology and the Real World* (pp. 56-64). Worth.
-- Jamieson, J. P., Crum, A. J., Goyer, J. P., Marotta, M. E., & Akinola, M. (2016). Optimizing stress responses with reappraisal and mindset interventions. *Anxiety, Stress, & Coping*, 29(4), 331-346.
+- Bjork, E. L., & Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), *Psychology and the Real World: Essays Illustrating Fundamental Contributions to Society* (pp. 56-64). Worth Publishers.
+- Jamieson, J. P., Peters, B. J., Greenwood, E. J., & Altose, A. J. (2016). Reappraising stress arousal improves performance and reduces evaluation anxiety in classroom exam situations. *Social Psychological and Personality Science*, 7(6), 579-587. https://doi.org/10.1177/1948550616644656
 - Verordnung über die Berufsausbildung zum Fachinformatiker/zur Fachinformatikerin (2020). Bundesgesetzblatt Teil I.
