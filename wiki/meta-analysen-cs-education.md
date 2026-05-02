@@ -47,7 +47,7 @@ Primär Hochschul-CS1/CS2-Kurse in USA, Europa und Australien. Wenige Studien au
 | **Porter et al. (2013)** | Peer Instruction in CS | Multi-inst. | ~61% weniger Durchfaller | Hoch (repliziert) |
 | **VanLehn (2011)** | Intelligent Tutoring Systems | 20+ | d=0,76 (step-level) | Hoch |
 | **Hannay et al. (2009)** | Pair Programming | 15 | d=0,31 (Qualität) | Mittel — kleiner als erwartet |
-| **Margulieux et al. (2020)** | Worked Examples + Subgoals | Mehrere | d=0,44 | Mittel (meist Lab-Studien) |
+| **Margulieux et al. (2020)** | Worked Examples + Subgoals | CS1-Semesterkurs | Geringere Durchfall-/Dropout-Quoten, reduzierte Varianz; differenzierte Effekte je Quiz/Exam | Mittel (Quasi-Experiment) |
 | **Låg & Sæle (2019)** | Flipped Classroom | 272 | d=0,35 (sinkt bei Qualitätsfilter) | Mittel — Publication Bias |
 | **Sailer & Homner (2020)** | Gamification | 38 | d=0,49 (kognitiv), d=0,36 (motivational) | Mittel |
 | **Becker et al. (2023)** | KI in CS Education | Survey | Keine Effektstärken (zu früh) | Niedrig (Positionspapier) |
