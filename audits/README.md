@@ -17,6 +17,42 @@ Etablierte Methodik zur systematischen Verifikation von Quellen-Citations in Wik
 - Reine Theorie-Artikel mit kanonischen Quellen (Vygotsky, Piaget, Bloom 1956) — niedriges Risiko
 - Praxis-Artikel ohne konkrete Zahlen/Studientypen
 
+## Strukturelle Bulk-Sweeps (Welle 10, ergänzend)
+
+Seit Welle 10 (2026-05-02) wird die Per-Citation-Welle durch zwei strukturelle Bulk-Sweeps ergänzt, die mit ~10 % des Token-Aufwands pro Welle ähnlich viele CRITs fangen — speziell Pattern #2 (Hybrid-Citations), Pattern #3+#5 (fabrizierte Cites) und Pattern #4 Variante A (Body-Inline ohne Quellenliste).
+
+### Bulk-Sweep Phase A — DOI/arXiv-Erstautoren-Verifikation
+
+```bash
+# Auf alle Wiki-Artikel:
+scripts/doi-bulk-verify.sh
+
+# Auf Subset (z.B. nur nicht-auditierte):
+scripts/doi-bulk-verify.sh --targets-file /tmp/welle10-targets.txt
+```
+
+Output: TSV mit `file:line | DOI | CrossRef-Erstautor | Jahr | Titel-Snippet`. Manuell mit Wiki-Citation Zeile-für-Zeile abgleichen — Erstautor-/Jahr-/Titel-Drift = Pattern #2 (Hybrid-Citation).
+
+**Welle-10-Validation:** 6 DOIs in 51 nicht-auditierten Artikeln, 0 Hybrid-Citations gefunden. In Wellen 6-9 fanden Per-Citation-Subagents 5 Hybrid-Citations (Brady, Levant, Marwan/Li, Tjärnhage, Schalk/Schumacher, Wu/Schunn) — die DOI-Bulk-Verifikation hätte alle gefangen außer Sub-Pattern 2c (Wu/Schunn: DOI stimmt, Titel falsch — daher Titel-Match Pflicht).
+
+### Bulk-Sweep Phase B — Body-Inline-vs-Quellenliste
+
+```bash
+scripts/body-inline-sweep.sh > /tmp/inline-hits.txt
+sort -u /tmp/inline-hits.txt
+# Manuell False-Positives durch Token-Fragmente filtern (Stop-Word-Liste im Skript erweitern)
+# Verbleibende Treffer: Pattern #4 Variante A (real, fehlt nur in Bibliographie)
+```
+
+**Welle-10-Validation:** ~52 Roh-Treffer → ~25 echte Pattern-#4-A-Befunde + 4 Pattern-#5-CRITs (fabrizierte Cites: Leppink/Tafliovich/Yang in productive-failure + retrieval-practice; Becker→Denny CACM 2024 in meta-analysen-cs-education).
+
+**Wann ausführen:**
+- Nach jeder Per-Citation-Welle als Hygiene-Pass
+- Bei Verdacht auf fabrizierte Studien-Boxen (Pattern #3) — generische Erstautor-Namen mit konkreten Effekt-Werten ohne DOI sind Hot-Spots
+- Bei größeren Repo-Refaktorierungen (Bibliographie-Disziplin-Check)
+
+**Komplementarität zu Per-Citation-Wellen:** Bulk-Sweeps fangen Pattern #2/#3/#4-A/#5 strukturell und ressourcen-effizient. Per-Citation-Audits bleiben überlegen für Pattern #6 (Effektstärken-Drift), #7 (Hot-Spot-Inversion), #8 (Hattie-Edition), #10 (erfundene Klassifikations-Stufen). Beides als Standard nutzen.
+
 ## Verfahren in vier Stufen
 
 ### Stufe 1 — Risiko-Triage
@@ -141,10 +177,13 @@ Aus 21 auditierten Artikeln (16 in v1+v2 + 5 im v3-Test) und 200+ Citations:
 
 ## Wiederverwendbare Bausteine
 
-- [`v3-audit-methodik.md`](v3-audit-methodik.md) — Aktuelle Audit-Methodik (Layers, Schema, Tool-Use-Regel)
-- [`scripts/audit-risk-triage.sh`](../scripts/audit-risk-triage.sh) — Risk-Score pro Artikel
+- [`v3-audit-methodik.md`](v3-audit-methodik.md) — Aktuelle Audit-Methodik (Layers, Schema, Tool-Use-Regel, Welle-10-Bulk-Sweep-Sektion)
+- [`../scripts/audit-risk-triage.sh`](../scripts/audit-risk-triage.sh) — Risk-Score pro Artikel (Welle 1-9)
+- [`../scripts/doi-bulk-verify.sh`](../scripts/doi-bulk-verify.sh) — Phase-A Bulk-DOI-Verifikation (Welle 10+)
+- [`../scripts/body-inline-sweep.sh`](../scripts/body-inline-sweep.sh) — Phase-B Body-Inline-vs-Quellenliste-Sweep (Welle 10+)
 - [`2026-04-30-stichprobe-evidenz-block.md`](2026-04-30-stichprobe-evidenz-block.md) — Pass-1+Pass-2-Referenz-Output
 - [`2026-05-01-replikation-pass.md`](2026-05-01-replikation-pass.md) — Pass-2-Replikations-Konsolidierung
+- [`2026-05-02-welle-10-bulk-sweep.md`](2026-05-02-welle-10-bulk-sweep.md) — Welle-10-Strategie-Wechsel-Bericht (Bulk-Sweep-Validation)
 - Diese README — Verfahrensbeschreibung
 
 **Pflicht beim Erstellen neuer Audits:**
