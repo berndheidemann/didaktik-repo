@@ -190,7 +190,7 @@ Diese Fragen sind fast deckungsgleich mit den typischen IHK-PA-Fragen im Fachges
 
 - Dunlap, J. C. (2005). Problem-based learning and self-efficacy: How a capstone course prepares students for a profession. *Educational Technology Research and Development, 53*(1), 65–85. https://doi.org/10.1007/BF02504858
 - Brundiers, K., Wiek, A. & Redman, C. L. (2010). Real-world learning opportunities in sustainability: From classroom into the real world. *International Journal of Sustainability in Higher Education, 11*(4), 308–324.
-- Bundesinstitut für Berufsbildung. (2020, Update 2025). *Umsetzungshilfen Fachinformatiker/-in.*
+- Bundesinstitut für Berufsbildung. (2020). *Umsetzungshilfen Fachinformatiker/-in: Ausbildung gestalten.* Verlag Barbara Budrich. ISBN 978-3-8474-2960-9.
 - IHK Rhein-Neckar. (2025). *Dokumentation der betrieblichen Projektarbeit — Merkblatt und Beispiel.* https://www.ihk.de/rhein-neckar/
 - IHK Bonn/Rhein-Sieg. (2024). *Handreichung Projektdokumentation und Präsentation/Fachgespräch IT-Berufe.*
 - Macke, S. (2024). IT-Berufe-Podcast Folge 191 — Neuer Prüfungskatalog AP2 FIAE. https://it-berufe-podcast.de/

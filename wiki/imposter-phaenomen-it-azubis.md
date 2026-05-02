@@ -35,7 +35,7 @@ summary: >
 
 ## Kernidee
 
-Das **Imposter-Phänomen** (Clance & Imes 1978) ist das anhaltende Gefühl, die eigene Kompetenz nicht zu verdienen — trotz objektiver Leistungsnachweise. Es ist **keine psychiatrische Diagnose**, sondern ein Erlebensmuster, das in Tech-Domänen besonders verbreitet ist (Software Engineers: 52 % frequent-to-intense; Bravata et al. 2020). Für IT-Azubis wirkt es als Dropout-Risikofaktor und beeinflusst Leistung im Fachgespräch, Projektphase und im Betrieb. Berufsschullehrkräfte können mit einfachen Unterrichtspraktiken substantielle Gegeneffekte erzielen — ohne Therapieanspruch, aber mit strukturellen Hebeln.
+Das **Imposter-Phänomen** (Clance & Imes 1978) ist das anhaltende Gefühl, die eigene Kompetenz nicht zu verdienen — trotz objektiver Leistungsnachweise. Es ist **keine psychiatrische Diagnose**, sondern ein Erlebensmuster, das in Tech-Domänen besonders verbreitet ist (Software Engineers: 52,7 % frequent-to-intense; Guenes et al. 2023). Für IT-Azubis wirkt es als Dropout-Risikofaktor und beeinflusst Leistung im Fachgespräch, Projektphase und im Betrieb. Berufsschullehrkräfte können mit einfachen Unterrichtspraktiken substantielle Gegeneffekte erzielen — ohne Therapieanspruch, aber mit strukturellen Hebeln.
 
 ## Beschreibung
 
@@ -59,7 +59,7 @@ Clance & Imes prägten 1978 den Begriff an einer Stichprobe erfolgreicher Frauen
 
 ### Warum Tech besonders betroffen ist
 
-Eine Studie an 2.665 Software Engineers (Guenes et al., arXiv 2023): **52,7 % frequent-to-intense Imposter-Erleben**. Die Treiber sind strukturell:
+Eine Studie an 624 Software Engineers aus 26 Ländern (Guenes et al., arXiv 2023, ICSE-SEIS 2024): **52,7 % frequent-to-intense Imposter-Erleben**. Die Treiber sind strukturell:
 
 | Treiber | Wirkung |
 |---|---|
@@ -83,7 +83,7 @@ IT-Azubis sind *doppelt* der Imposter-Dynamik ausgesetzt:
 
 ### Evidenz — was wirkt, was nicht
 
-**Scoping Review Frontiers 2024** (Levant et al., 31 Interventions-Studien):
+**Scoping Review Frontiers 2024** (Para et al., 31 Interventions-Studien):
 
 **Wirksam:**
 - **Gruppen-Interventionen** mit Normalisierungs-Sharing — stärkster dokumentierter Effekt
@@ -139,7 +139,7 @@ Ohne explizite Thematisierung im Unterricht landet Imposter-Stress als diffuse P
 
 7. **Jargon-Demystifikation.** Jede neue Fachvokabel explizit übersetzen, nicht voraussetzen. Gatekeeping durch Sprache aktiv abbauen.
 
-8. **Belonging-Framing.** Walton & Cohens Minority-Stress-Forschung: kurze narrative Affirmationen ("Viele in deinem Jahrgang hatten am Anfang Zweifel — das ist normal, es legt sich mit der Zeit") wirken signifikant über Jahre.
+8. **Belonging-Framing.** Walton & Cohens [[belonging-interventionen|Belonging-Intervention-Forschung]]: kurze narrative Affirmationen ("Viele in deinem Jahrgang hatten am Anfang Zweifel — das ist normal, es legt sich mit der Zeit") wirken signifikant über Jahre.
 
 ### Für Azubis mit hohem Risiko (Gender, DaZ, First-Generation)
 
@@ -173,10 +173,10 @@ Lehrkräfte sind keine Therapeuten. Wenn Imposter-Erleben mit Depressivität, Pa
 - Clance, P. R. (1985). *The impostor phenomenon: When success makes you feel like a fake.* Peachtree.
 - Bravata, D. M., Watts, S. A., Keefer, A. L., Madhusudhan, D. K., Taylor, K. T., Clark, D. M., Nelson, R. S., Cokley, K. O. & Hagg, H. K. (2020). Prevalence, predictors, and treatment of impostor syndrome: A systematic review. *Journal of General Internal Medicine, 35*(4), 1252–1275.
 - Feenstra, S., Begeny, C. T., Ryan, M. K., Rink, F. A., Stoker, J. I. & Jordan, J. (2020). Contextualizing the impostor "syndrome". *Frontiers in Psychology, 11*, 575024.
-- Levant, B., Villwock, J. A. & Manzardo, A. M. (2024). Interventions addressing the impostor phenomenon: A scoping review. *Frontiers in Psychology, 15*, 1360540.
+- Para, E., Dubreuil, P., Miquelon, P. & Martin-Krumm, C. (2024). Interventions addressing the impostor phenomenon: A scoping review. *Frontiers in Psychology, 15*, 1360540. https://doi.org/10.3389/fpsyg.2024.1360540
 - Huecker, M. R., Shreffler, J., McKeny, P. T. & Davis, D. (2022). Imposter phenomenon. *StatPearls.*
 - Steele, C. M. (1997). A threat in the air: How stereotypes shape intellectual identity and performance. *American Psychologist, 52*(6), 613–629.
-- Margolis, J. (2008). *Stuck in the shallow end: Education, race, and computing.* MIT Press.
-- Guenes, P. et al. (2023). Impostor phenomenon in software engineers. *arXiv:2312.03966.*
-- Rohrmann, S. (2019). Hochstapler-Phänomen. *Psychotherapeut, 64*(3), 313–323.
+- Margolis, J., Estrella, R., Goode, J., Holme, J. J. & Nao, K. (2008). *Stuck in the shallow end: Education, race, and computing.* MIT Press.
+- Guenes, P., Tomaz, R., Kalinowski, M., Baldassarre, M. T. & Storey, M.-A. (2023). Impostor phenomenon in software engineers. *arXiv:2312.03966* (auch ICSE-SEIS 2024). https://doi.org/10.1145/3639475.3640114
+- Rohrmann, S. (2019). *Wenn große Leistungen zu großen Selbstzweifeln führen: Hochstapler-Selbstkonzept und Imposter-Phänomen.* Hogrefe.
 - Walton, G. M. & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451.
