@@ -148,6 +148,16 @@ ALREADY_AUDITED[neurodidaktik-programmieren.md]=1
 ALREADY_AUDITED[threshold-concepts.md]=1
 ALREADY_AUDITED[computational-action.md]=1
 
+# v3 Welle 17 (2026-05-03) — Klasse-C-Mini-Sweep aus Pauschal-Disposition; 0 CRIT + 3 MAJOR + 6 MINOR
+# Hot-Spot: lernortkooperation-transfer (3 MAJOR auf 6 Cites = 42,9% CRIT+MAJOR-Dichte) — Walden/Brandes
+# 2017 IJRVET-Hybrid-Citation (real Single-Author Gessler), Euler 2004 Buchtitel/Verlag/Editor falsch,
+# Gössling 2023 → real 2025 (bwp@ Spezial AT-7). Plattform-Folklore-Erwartung in interaktive- und
+# kursarchitektur-lernumgebungen NICHT bestätigt — beide ziehen kanonische Theorie-Cites.
+ALREADY_AUDITED[handlungsorientierter-unterricht.md]=1
+ALREADY_AUDITED[interaktive-lernumgebungen.md]=1
+ALREADY_AUDITED[kursarchitektur-lernumgebungen.md]=1
+ALREADY_AUDITED[lernortkooperation-transfer.md]=1
+
 # Header
 printf "%-50s %5s  %s\n" "Artikel" "Score" "Top-Indikatoren"
 printf "%-50s %5s  %s\n" "$(printf '%.0s-' {1..50})" "-----" "$(printf '%.0s-' {1..50})"
