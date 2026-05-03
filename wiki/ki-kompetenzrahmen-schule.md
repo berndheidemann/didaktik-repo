@@ -153,5 +153,5 @@ Diese Fragen bleiben offen und werden voraussichtlich erst mit dem nächsten Rah
 - KMK (2024). *Handlungsempfehlung für die Bildungsverwaltung zum Umgang mit KI in schulischen Bildungsprozessen*. Beschluss vom 10.10.2024.
 - KMK (2016, Ergänzung 2021). *Bildung in der digitalen Welt — Strategie der Kultusministerkonferenz*.
 - KMK (2025). *Jahresbericht Bildung in der digitalen Welt 2024-2025*. Dezember 2025.
-- KMK (2020). *Rahmenlehrplan für die Ausbildungsberufe Fachinformatiker und Fachinformatikerin*. Beschluss vom 13.12.2019 / 13.01.2020.
+- KMK (2019, 13.12.2019). *Rahmenlehrplan für die Ausbildungsberufe Fachinformatiker und Fachinformatikerin* (Inkrafttreten 01.08.2020).
 - BIBB (2020). *Fachinformatiker/Fachinformatikerin — Ausbildung gestalten*. Bonn: BIBB-Publikation.
