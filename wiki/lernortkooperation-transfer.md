@@ -32,7 +32,7 @@ summary: >
 
 ## Kernidee
 
-Das duale System lebt davon, dass Berufsschule und Betrieb zusammenwirken. In der Praxis funktioniert dieser Transfer selten reibungslos: 74 % der Betriebe koordinieren ihre Ausbildungsarbeit nicht oder selten mit der Berufsschule (Walden & Brandes, 2017). Der Wissenstransfer wird faktisch den Auszubildenden selbst überlassen. Transferdidaktik bietet einen Rahmen, um dieses Defizit systematisch zu bearbeiten — besonders in der IT-Ausbildung, wo Technologie-Zyklen kurz und Theorie-Praxis-Verzahnung überlebensnotwendig ist.
+Das duale System lebt davon, dass Berufsschule und Betrieb zusammenwirken. In der Praxis funktioniert dieser Transfer selten reibungslos: 74 % der Betriebe koordinieren ihre Ausbildungsarbeit nicht oder selten mit der Berufsschule (Gessler, 2017). Der Wissenstransfer wird faktisch den Auszubildenden selbst überlassen. Transferdidaktik bietet einen Rahmen, um dieses Defizit systematisch zu bearbeiten — besonders in der IT-Ausbildung, wo Technologie-Zyklen kurz und Theorie-Praxis-Verzahnung überlebensnotwendig ist.
 
 ## Beschreibung
 
@@ -44,7 +44,7 @@ Dieter Euler unterscheidet drei Stufen der Lernortkooperation, die in der Berufs
 2. **Koordinieren (Abstimmen)** — Punktuelle Abstimmung, etwa zur Behebung akuter Lerndefizite. Die Maßnahmen folgen aber der organisatorischen und didaktischen Logik des jeweiligen Lernorts. Das Ergebnis ist ein zeitlich begrenztes, abgestimmtes Nebeneinander.
 3. **Kooperieren (Zusammenwirken)** — Die Verantwortlichen beider Lernorte definieren gemeinsam Ziele und setzen lernortübergreifende Vorhaben um, z. B. gemeinsame Projektarbeit. Alle Beteiligten sind wechselseitig aufeinander angewiesen.
 
-Empirisch dominieren Stufe 1 und 2; echte Kooperation (Stufe 3) ist selten (Euler, 2004; Walden & Brandes, 2017). Das EU-Forschungsprojekt FEWL (2023-2025, Universität Paderborn) bestätigte diesen Befund: Hauptursachen sind unzureichend abgestimmte Inhalte und fehlende verbindliche Strukturen.
+Empirisch dominieren Stufe 1 und 2; echte Kooperation (Stufe 3) ist selten (Euler, 2004; Gessler, 2017). Das EU-Forschungsprojekt FEWL (2023-2025, Universität Paderborn) bestätigte diesen Befund: Hauptursachen sind unzureichend abgestimmte Inhalte und fehlende verbindliche Strukturen.
 
 ### Transferproblem und Transferdidaktik
 
@@ -54,7 +54,7 @@ Schweizer Forschung zeigt, dass leistungsstarke Auszubildende den Transfer eigen
 
 ### Digitale Ökosysteme als Transfermedium
 
-Das Projekt „Zukunft LOK" hat gezeigt, dass neue Modelle für Lernortkooperation innerhalb digitaler Ökosysteme nötig sind (Gössling, 2023). Ein daraus entstandener MOOC adressiert u. a. KI-basierte Ansätze zur Überbrückung von Diskontinuitäten zwischen schulischem und betrieblichem Lernen. Das Berliner Modell BER-LOK 4.0 (bis 2025) verfolgt das Ziel, über digitale Vernetzung die Ausbildungsqualität zu steigern und Abbruchquoten zu senken.
+Das Projekt „Zukunft LOK" hat gezeigt, dass neue Modelle für Lernortkooperation innerhalb digitaler Ökosysteme nötig sind (Gössling, 2025). Ein daraus entstandener MOOC adressiert u. a. KI-basierte Ansätze zur Überbrückung von Diskontinuitäten zwischen schulischem und betrieblichem Lernen. Das Berliner Modell BER-LOK 4.0 (HU Berlin / Senatsverwaltung BJF, 2022-2025) verfolgt das Ziel, über digitale Vernetzung die Ausbildungsqualität zu steigern und Abbruchquoten zu senken (Berliner Senatsverwaltung BJF, 2025).
 
 ## Bezug zur IT-Ausbildung
 
@@ -109,7 +109,7 @@ Gemeinsame Kanban-Boards (z. B. GitHub Projects) für lernortübergreifende Proj
 
 ### Einsatz von KI zur Transferunterstützung
 
-KI-gestützte Systeme können als Vermittlungsinstanz zwischen den Lernorten fungieren (Gössling, 2023): Sie schlagen zu betrieblichen Aufgaben passende schulische Inhalte vor, generieren transferorientierte Übungsaufgaben oder identifizieren Transferlücken im Ausbildungsverlauf. Dies schließt an [[ki-erfahrungsberichte-berufliche-bildung]] an, wonach KI-Tools besonders dann wirksam sind, wenn sie bestehende didaktische Prozesse unterstützen statt ersetzen.
+KI-gestützte Systeme können als Vermittlungsinstanz zwischen den Lernorten fungieren (Gössling, 2025): Sie schlagen zu betrieblichen Aufgaben passende schulische Inhalte vor, generieren transferorientierte Übungsaufgaben oder identifizieren Transferlücken im Ausbildungsverlauf. Dies schließt an [[ki-erfahrungsberichte-berufliche-bildung]] an, wonach KI-Tools besonders dann wirksam sind, wenn sie bestehende didaktische Prozesse unterstützen statt ersetzen.
 
 ## Verwandte Konzepte
 
@@ -127,9 +127,10 @@ KI-gestützte Systeme können als Vermittlungsinstanz zwischen den Lernorten fun
 
 ## Quellen
 
-- Euler, D. (2004). *Lernortkooperation in der beruflichen Bildung — Stand und Perspektiven*. In R. Euler (Hrsg.), Handbuch der Berufsbildung. VS Verlag für Sozialwissenschaften.
-- Dehnbostel, P. (2007). *Lernen im Prozess der Arbeit*. Waxmann.
-- Walden, G. & Brandes, H. (2017). The Lack of Collaboration between Companies and Schools in the German Dual Apprenticeship System. *International Journal for Research in Vocational Education and Training, 4*(2), 164-182.
-- Scharnhorst, U. & Kaiser, H. (2018). Wissenstransfer in der Berufsbildung: Wie Lernende Brücken zwischen den Lernorten bauen. *Transfer. Berufsbildung in Forschung und Praxis*.
-- Gössling, B. (2023). Miteinander statt Nebeneinander — Lernortkooperation zwischen Schule und Betrieb durch künstliche Intelligenz verbessern? *bwp@ Berufs- und Wirtschaftspädagogik — online*.
-- Universität Paderborn (2025). Studie zeigt Herausforderungen der dualen Ausbildung auf und liefert neue Lösungsansätze. Ergebnisse des EU-Projekts FEWL.
+- Euler, D. (Hrsg.) (2004). *Handbuch der Lernortkooperation. Bd. 1: Theoretische Fundierungen*. Bielefeld: W. Bertelsmann Verlag.
+- Dehnbostel, P. (2007). *Lernen im Prozess der Arbeit*. Münster: Waxmann.
+- Gessler, M. (2017). The Lack of Collaboration between Companies and Schools in the German Dual Apprenticeship System: Empirical Evidence and Theoretical Foundation. *International Journal for Research in Vocational Education and Training, 4*(2), 164-195.
+- Gössling, B. (2025). Miteinander statt Nebeneinander — Lernortkooperation zwischen Schule und Betrieb durch künstliche Intelligenz verbessern? *bwp@ Berufs- und Wirtschaftspädagogik — online, Spezial AT-7* (Beiträge zum 18. Österreichischen Wirtschaftspädagogik-Kongress).
+- Scharnhorst, U. & Kaiser, H. (2018). *Trendbericht 3 — Transversale Kompetenzen* (im Rahmen von Berufsbildung 2030, hrsg. SBFI/SFUVET). Bern/Zollikofen.
+- Universität Paderborn (2025). *Studie zeigt Herausforderungen der dualen Ausbildung auf und liefert neue Lösungsansätze. Ergebnisse des EU-Projekts FEWL* [Pressemitteilung, 19.03.2025]. Universität Paderborn.
+- Berliner Senatsverwaltung für Bildung, Jugend und Familie (2025). *BER-LOK 4.0 — Berliner Lernortkooperation 4.0* [Projektbeschreibung]. berlin.de / Humboldt-Universität zu Berlin (Wirtschaftspädagogik), Projektlaufzeit 2022-2025.

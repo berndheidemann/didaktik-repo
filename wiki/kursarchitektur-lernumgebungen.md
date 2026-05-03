@@ -73,7 +73,7 @@ Die **Architektur** einer Lernumgebung — also wie Aktivitäten, Pfade und Frei
 
 ### Die 3-Phasen-Struktur (Onboarding / Main Loop / Mastery)
 
-Game Designer (Schell; Koster) trennen jedes lange Erlebnis in drei Phasen mit unterschiedlichen Architekturanforderungen:
+In Anlehnung an Pacing- und Lens-Konzepte aus dem Game Design (Schell, 2019; Koster, 2013) lässt sich jedes lange Lernerlebnis in drei Phasen mit unterschiedlichen Architekturanforderungen trennen — die Trias selbst ist eine Live-Service-/Game-UX-Konvention (Onboarding/Mid-/Endgame), nicht wörtlich von Schell oder Koster so etikettiert:
 
 | Phase | Anteil | Ziel | Architektur | Pacing |
 |---|---|---|---|---|
@@ -171,6 +171,7 @@ Ein Entwickler, der eine Lernumgebung aufbaut oder umbaut, sollte:
 ## Quellen
 
 - Bloom, B. S. (1968). Learning for mastery. *Evaluation Comment*, 1(2), 1-12.
+- Bloom, B. S. (1984). The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring. *Educational Researcher*, 13(6), 4-16. https://doi.org/10.3102/0013189X013006004
 - Bruner, J. S. (1960). *The Process of Education*. Harvard University Press.
 - Dichev, C., & Dicheva, D. (2017). Gamifying education: What is known, what is believed and what remains uncertain: A critical review. *International Journal of Educational Technology in Higher Education*, 14(1), 9.
 - Gee, J. P. (2003). *What Video Games Have to Teach Us About Learning and Literacy*. Palgrave Macmillan.

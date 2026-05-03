@@ -49,13 +49,13 @@ Handlungsorientierter Unterricht stellt die eigenständige Handlung der Lernende
 
 ### Theoretische Wurzeln
 
-- **Aebli (1980/81):** "Denken ist verinnerlichtes Handeln" — Wissen entsteht durch Tun, nicht durch passives Aufnehmen.
-- **Dewey:** "Learning by Doing" — pragmatisch-experimentelles Lernen durch Erfahrung.
+- **Aebli (1980/81):** Denken als verinnerlichtes Handeln (Piaget-Linie) — Wissen entsteht durch Tun, nicht durch passives Aufnehmen. Die Formel ist eine in der dt. Berufspädagogik etablierte Paraphrase, die das Grundkonzept aus „Denken: das Ordnen des Tuns" verkürzt.
+- **Dewey:** „Learning by Doing" — pragmatisch-experimentelles Lernen durch Erfahrung (eingebürgerte Verkürzung von Deweys Pragmatismus, nicht wörtlich aus einem Hauptwerk).
 - **Gudjons (2014):** Systematisierung der Merkmale — Ganzheitlichkeit, Schüleraktivität, Produktorientierung, Subjektorientierung, Offenheit.
 
 ### Die vollständige Handlung
 
-Das Modell stammt aus der Handlungsregulationstheorie (Hacker, Volpert) und ist im AEVO-Rahmen verbindlich:
+Das Modell stammt aus der Handlungsregulationstheorie (Hacker, Volpert) und ist Standard-Inhalt des AEVO-Rahmenstoffplans:
 
 | Phase | Beschreibung | IT-Beispiel (LF11a: Funktionalität realisieren) |
 |-------|-------------|--------------------------------------------------|
@@ -90,7 +90,7 @@ Querschnittskompetenzen (Methoden-, Kommunikations-, Lernkompetenz) sind in alle
 
 ## Bezug zur IT-Ausbildung
 
-Der Rahmenlehrplan Fachinformatiker (KMK, 2020) ist vollständig handlungsorientiert aufgebaut. Die Lernfelder bauen spiralcurricular auf:
+Der Rahmenlehrplan Fachinformatiker (KMK-Beschluss vom 13.12.2019, Inkrafttreten 01.08.2020) ist vollständig handlungsorientiert aufgebaut. Die Lernfelder bauen spiralcurricular auf:
 
 - **LF1-4 (Grundlagen):** Häufig auf [[blooms-taxonomie]]-Stufen 1-3 (erinnern, verstehen, anwenden)
 - **LF5-9 (gemeinsam):** Zunehmend Stufen 3-5 (anwenden, analysieren, bewerten)
@@ -122,8 +122,8 @@ Ein Agent kann Handlungsorientierung unterstützen, indem er Lernsituationen nac
 
 ## Quellen
 
-- Gudjons, H. (2014). Handlungsorientiert lehren und lernen: Schüleraktivierung — Selbsttätigkeit — Projektarbeit (8. Aufl.). Klinkhardt.
-- Kultusministerkonferenz. (2021). Handreichung für die Erarbeitung von Rahmenlehrplänen der KMK für den berufsbezogenen Unterricht in der Berufsschule.
-- Kultusministerkonferenz. (2020). Rahmenlehrplan für die Ausbildungsberufe Fachinformatiker und Fachinformatikerin.
-- Aebli, H. (1980/1981). Denken: das Ordnen des Tuns. Band 1 & 2. Klett-Cotta.
-- Tramm, T. & Krille, F. (2013). Planung des Lernfeldunterrichts im Spannungsfeld von Geschäftsprozessorientierung und lernerseitiger Kompetenzentwicklung. bwp@ Berufs- und Wirtschaftspädagogik — online, 24, 1-24.
+- Gudjons, H. (2014). *Handlungsorientiert lehren und lernen: Schüleraktivierung — Selbsttätigkeit — Projektarbeit* (8. Aufl.). Bad Heilbrunn: Klinkhardt.
+- Kultusministerkonferenz. (2021, 17.06.2021). *Handreichung für die Erarbeitung von Rahmenlehrplänen der Kultusministerkonferenz für den berufsbezogenen Unterricht in der Berufsschule und ihre Abstimmung mit Ausbildungsordnungen des Bundes für anerkannte Ausbildungsberufe* (Stand 17.06.2021, Vorgänger 14.12.2018). Berlin: KMK-Sekretariat.
+- Kultusministerkonferenz. (2019, 13.12.2019). *Rahmenlehrplan für die Ausbildungsberufe Fachinformatiker und Fachinformatikerin* (Inkrafttreten 01.08.2020). Berlin: KMK.
+- Aebli, H. (1980/1981). *Denken: das Ordnen des Tuns. Band 1: Kognitive Aspekte der Handlungstheorie / Band 2: Denkprozesse*. Stuttgart: Klett-Cotta.
+- Tramm, T. & Krille, F. (2013). Planung des Lernfeldunterrichts im Spannungsfeld von Geschäftsprozessorientierung und lernfeldübergreifender Kompetenzentwicklung — Das Hamburger Konzept kooperativer curricularer Entwicklungsarbeit. *bwp@ Berufs- und Wirtschaftspädagogik — online, 24*, 1-24.
