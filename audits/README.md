@@ -1,30 +1,33 @@
 # Quellen-Audit-Verfahren
 
-Etablierte Methodik zur systematischen Verifikation von Quellen-Citations in Wiki-Artikeln des Didaktik-Repos. Empirisch validiert über drei Methodik-Generationen (v1 / v2 / v3) und **16 Audit-Wellen + 12 Cross-Repo-Sweeps** (2026-04-30 bis 2026-05-02).
+Etablierte Methodik zur systematischen Verifikation von Quellen-Citations in Wiki-Artikeln des Didaktik-Repos. Empirisch validiert über drei Methodik-Generationen (v1 / v2 / v3) und **17 Audit-Wellen + 13 Cross-Repo-Sweeps** (2026-04-30 bis 2026-05-03).
 
 **Aktueller Standard: v3-Single-Pass** (2026-05-01) — siehe [`v3-audit-methodik.md`](v3-audit-methodik.md). Diese README beschreibt Risiko-Triage, Ablauf, Konsolidierung und bekannte Halluzinations-Muster, die in den v3-Prompt einfließen.
 
-## Aktueller Stand (2026-05-02): Audit-Reihe formal abgeschlossen
+## Aktueller Stand (2026-05-03): Audit-Reihe endgültig abgeschlossen
 
-- **86 / 102 Artikel explizit auditiert (84 %)** über 16 Wellen
-- **Verbleibende 16 type:theorie-Artikel** via Pauschal-Disposition geltend dokumentiert ([`2026-05-02-theorie-pauschal-disposition.md`](2026-05-02-theorie-pauschal-disposition.md)):
+- **90 / 102 Artikel explizit auditiert (88 %)** über 17 Wellen
+- **Verbleibende 12 type:theorie-Artikel** via Pauschal-Disposition geltend dokumentiert ([`2026-05-02-theorie-pauschal-disposition.md`](2026-05-02-theorie-pauschal-disposition.md)):
   - **Klasse A** (8): kanonische Klassiker, indirekt validiert via Schwester-Audits — *clean ohne expliziten Audit*
   - **Klasse B** (4): gemischte Cite-Profile, Theorie-Kerne kanonisch — *on-demand Quick-Scan bei Material-Generierung*
-  - **Klasse C** (4): Verwaltungs-/Plattform-Folklore-Risiko mittel — **optionale Welle 17 als „weitergehen"-Punkt** (handlungsorientierter-unterricht, interaktive-lernumgebungen, kursarchitektur-lernumgebungen, lernortkooperation-transfer)
-- **~600+ Citations geprüft.** Befund-Bilanz Wellen 1-16: ~25 CRITs, ~50 MAJORs, ~80 MINORs.
+  - **Klasse C** (✓ erledigt in Welle 17, 2026-05-03): handlungsorientierter-unterricht, interaktive-lernumgebungen, kursarchitektur-lernumgebungen, lernortkooperation-transfer — siehe [`2026-05-03-welle-17-klasse-c-mini-sweep.md`](2026-05-03-welle-17-klasse-c-mini-sweep.md)
+- **~640+ Citations geprüft.** Befund-Bilanz Wellen 1-17: ~25 CRITs, ~53 MAJORs, ~86 MINORs.
 
-**Wenn Audit-Reihe wiederaufgenommen wird:**
-1. Triage-Skript läuft lassen (`scripts/audit-risk-triage.sh`) — Restpool sind die 16 Theorie-Artikel
-2. Welle-17-Mini-Sweep (4 Subagents parallel) auf die 4 Klasse-C-Artikel als nächster logischer Schritt
-3. Methodik unverändert — v3-Single-Pass + Cross-Repo-Sweep nach jeder Welle, gleiches Setup wie Welle 16
+**Welle-17-Hot-Spot:** `lernortkooperation-transfer` mit 3 MAJORs (Walden/Brandes 2017 → Single-Author Gessler, Euler 2004 Buchtitel/Verlag/Editor falsch, Gössling 2023 → real 2025) + 2 MINORs auf 7 Cites = 71 % Befund-Dichte. Die anderen 3 Klasse-C-Artikel sauber (0 / 1 / 3 MINORs, 0 MAJORs). Cross-Repo-Sweep 13 fand 3 Spillovers in `lernsituationen-gestalten` (×2) und `ki-kompetenzrahmen-schule` (×1) — alle MINOR-Bibliografie-Drifts, gefixt.
 
-## Wichtigste systematische Erkenntnisse (Wellen 1-16)
+**Wenn Audit-Reihe nochmal wiederaufgenommen wird** (sehr unwahrscheinlich, abnehmender Grenzertrag):
+1. Triage-Skript läuft lassen (`scripts/audit-risk-triage.sh`) — Restpool sind die 12 Klasse-A/B-Theorie-Artikel
+2. Welle-18 wäre Klasse B (4 Artikel: affektive-dimensionen, contrasting-cases, direct-manipulation-lernumgebungen, expertise-entwicklung) — kanonische Cite-Profile, Risiko-Erwartung niedrig
+3. Methodik unverändert — v3-Single-Pass + Cross-Repo-Sweep nach jeder Welle
+
+## Wichtigste systematische Erkenntnisse (Wellen 1-17)
 
 1. **Pop-Wissenschafts-Folklore-Subpattern** (4× repo-systematisch in W13-16): peer-reviewter Cite + erfundene Wirkungs-/Inhalts-Behauptung. Beispiele: Mark CHI 2008 „23:15"-Folklore-Zahl, Lytle 2019 „drei Bedingungen", Svabensky 2021 als CTF-Wirkungsbeleg, Tissenbaum 2021 „4-A-Schema". **Material-generierungs-kritisch**, weil Agents die Behauptung 1:1 übernehmen würden.
-2. **Hybrid-Citations (Pattern #2)** sind die häufigste CRIT-Klasse — strukturell, weil plausibel klingende fabrizierte Bibliografien typischerweise erst beim Layer-1-CrossRef-Match auffallen. 17×+ repo-systematisch dokumentiert.
-3. **fMRI-/Neurowissenschafts-Empirie** ist heißester Domänen-Hot-Spot (neurodidaktik-programmieren: 66 % CRIT+MAJOR-Dichte auf 6 Cites — dirtigster Single-Artikel).
+2. **Hybrid-Citations (Pattern #2)** sind die häufigste CRIT/MAJOR-Klasse — strukturell, weil plausibel klingende fabrizierte Bibliografien typischerweise erst beim Layer-1-CrossRef-Match auffallen. 18×+ repo-systematisch dokumentiert (zuletzt W17 Walden/Brandes → Single-Author Gessler).
+3. **fMRI-/Neurowissenschafts-Empirie** ist heißester Domänen-Hot-Spot (neurodidaktik-programmieren: 66 % CRIT+MAJOR-Dichte auf 6 Cites — dirtigster Single-Artikel). Zweitheißester: lernortkooperation-transfer (W17, 42,9 % CRIT+MAJOR auf 7 Cites — dt. Berufspädagogik-Hybrid-Cluster).
 4. **Lebende Web-Resources** (Tools, Plattformen) brauchen Versions-/Datums-Disclosure als Standard. Welle-15-Sweep fand 5 Spillovers für Replit/Codespaces/CAST UDL/FSRS — höchste Sweep-Trefferquote der gesamten Reihe.
-5. **Verwaltungs-Cluster** (KMK/BfDI/EDPB/BayLfD-Cites) sind heterogen: nicht durchweg dirty, aber gezielter Audit pro Artikel nötig (W14 datenschutz-lernumgebungen 3 fabrizierte/misattribuierte Cites; W15 lernsituationen-gestalten clean).
+5. **Verwaltungs-Cluster** (KMK/BfDI/EDPB/BayLfD-Cites) sind heterogen: nicht durchweg dirty, aber gezielter Audit pro Artikel nötig (W14 datenschutz-lernumgebungen 3 fabrizierte/misattribuierte Cites; W15 lernsituationen-gestalten clean; W17 KMK-Datierungs-Drift bei RLP-Beschluss-vs.-Inkrafttreten und Handreichung-Stand-Datum als wiederkehrendes MINOR-Pattern).
+6. **Conference-Proceedings-Datierungs-Drift (neu in W17, Pattern #16-Sub)**: bwp@-Spezial-Ausgaben und ähnliche Konferenz-Cites zirkulieren mit Vorab-Jahr und werden zitiert, bevor die finale Spezial-Ausgabe erscheint (Beispiel: Gössling „2023" → real „2025"). Bei zukünftigen bwp@-/IJRVET-Cites zwingend Heft-Erscheinungsjahr prüfen.
 
 ## Wann anwenden
 
@@ -200,15 +203,17 @@ Aus 21 auditierten Artikeln (16 in v1+v2 + 5 im v3-Test) und 200+ Citations:
 ## Wiederverwendbare Bausteine
 
 - [`v3-audit-methodik.md`](v3-audit-methodik.md) — Aktuelle Audit-Methodik (Layers, Schema, Tool-Use-Regel, Welle-10-Bulk-Sweep-Sektion)
-- [`../scripts/audit-risk-triage.sh`](../scripts/audit-risk-triage.sh) — Risk-Score pro Artikel + ALREADY_AUDITED-Liste (alle 86 auditierten Artikel über Wellen 1-16)
+- [`../scripts/audit-risk-triage.sh`](../scripts/audit-risk-triage.sh) — Risk-Score pro Artikel + ALREADY_AUDITED-Liste (alle 90 auditierten Artikel über Wellen 1-17)
 - [`../scripts/doi-bulk-verify.sh`](../scripts/doi-bulk-verify.sh) — Phase-A Bulk-DOI-Verifikation (Welle 10+)
 - [`../scripts/body-inline-sweep.sh`](../scripts/body-inline-sweep.sh) — Phase-B Body-Inline-vs-Quellenliste-Sweep (Welle 10+)
 - [`2026-04-30-stichprobe-evidenz-block.md`](2026-04-30-stichprobe-evidenz-block.md) — v1-Pilot
 - [`2026-05-01-replikation-pass.md`](2026-05-01-replikation-pass.md) — v2-Replikations-Konsolidierung
 - [`2026-05-02-welle-10-bulk-sweep.md`](2026-05-02-welle-10-bulk-sweep.md) — Welle-10-Strategie-Wechsel-Bericht
 - [`2026-05-02-welle-11-stichprobe.md`](2026-05-02-welle-11-stichprobe.md) ... [`2026-05-02-welle-16-theorie-praxisnah.md`](2026-05-02-welle-16-theorie-praxisnah.md) — Wellen-Konsolidierungen 11-16
+- [`2026-05-03-welle-17-klasse-c-mini-sweep.md`](2026-05-03-welle-17-klasse-c-mini-sweep.md) — **Welle 17: Klasse-C-Mini-Sweep (4 Artikel, 32 Cites, 3 MAJOR + 6 MINOR)**
 - [`2026-05-01-cross-repo-sweep.md`](2026-05-01-cross-repo-sweep.md) ... [`2026-05-02-cross-repo-sweep-12.md`](2026-05-02-cross-repo-sweep-12.md) — 12 Cross-Repo-Sweeps
-- [`2026-05-02-theorie-pauschal-disposition.md`](2026-05-02-theorie-pauschal-disposition.md) — **Audit-Reihe-Abschluss + Klasse-A/B/C-Klassifikation der verbleibenden 16 Theorie-Artikel + „weitergehen"-Empfehlung**
+- [`2026-05-03-cross-repo-sweep-13.md`](2026-05-03-cross-repo-sweep-13.md) — Cross-Repo-Sweep 13 (post W17, 3 Spillover-Fixes)
+- [`2026-05-02-theorie-pauschal-disposition.md`](2026-05-02-theorie-pauschal-disposition.md) — Pauschal-Disposition + Klasse-A/B/C-Klassifikation; nach W17 nur noch Klasse A (8) + Klasse B (4) ungeprüft
 - Diese README — Verfahrensbeschreibung
 
 **Pflicht beim Erstellen neuer Audits:**
